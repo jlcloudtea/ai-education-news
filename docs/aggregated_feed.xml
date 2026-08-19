@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 08:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:49:35 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Chungnam National University's nursing college, hospital to expand AI-based healthcare cooperation - The Korea Times</title>
@@ -40,6 +40,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Which AI Chatbot Did This School Use to Make Such a Ridiculous Map? - Gizmodo</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQbXR6bDFxTmpLRER6RkpUcDBoVndZSWJxUGpuV3dQZDBPdHk5TU1mQzdXa25XN2R3eEpXVk9DOWlhLUZwejV2eHVBZ1pOZEdySHU0dVRMM1hqZzN0QmQzRTJrQ3VQU2ZpdlJjZElFM2hHekc5VUxtRzlCdENPdkpha1BuZm43M2h0TlFQdHg5QXFOdzFSeE1sVGpLWWw4QQ?oc=5</link>
+      <description>Source: Google News - AI Education — Which AI Chatbot Did This School Use to Make Such a Ridiculous Map? Gizmodo</description>
+      <pubDate>Tue, 18 Aug 2026 23:46:31 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ed1a3c555ede13c2b2d4cbdd6c2ffd64e3e7ca45501ea0fc0951730c60121e99</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Reshaping universities to suit the untested AI economy is wrong - Times Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxON2RBN0pROWlYMXUtVzJhZ3gzRGN6NG9fVUF0Rm9GaTZ6SG8zTGVKNjVuQ1NsR2hyMzZzaG9QVHJ0ZWFWRHcxaC14RGJPYkZMd1VrMGdrR3dWVGhJQVZUeGpneG1nNVlWV1I0ckkxWXRla2FBM244VGk0Nkx5MXdKdUhYUGZDbUNYNjllUXVVMmktdzNVZHo5eFJyRGtmQ1k?oc=5</link>
       <description>Source: Google News - AI Education — Reshaping universities to suit the untested AI economy is wrong Times Higher Education</description>
@@ -50,10 +58,10 @@
     <item>
       <title>Southampton dumps Turnitin over use of students’ work to train AI - Times Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmI2cVZZVEdNenowMnFKOVlTeC11NEczMlNLcC1GUkhFeWR0TkRLYzB1N0JvNjc1UTBsNU0tNlhJQkdUWEpKTndoVm1qTHBNWlZhb0xldUVnMlN4U2xHRkpEbFJSZHZWOVFwcW5mUkpMQXpfTUJ4UXlrNFFEZG12X2lNUkZEdnd4dmFCRFdvR0JublFHYTRtZDZvbGVRRU5sZVE?oc=5</link>
-      <description>Source: Google News - AI Education — Southampton dumps Turnitin over use of students’ work to train AI Times Higher Education</description>
+      <description>Source: Google News - AI Higher Education — Southampton dumps Turnitin over use of students’ work to train AI Times Higher Education</description>
       <pubDate>Tue, 18 Aug 2026 23:01:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3d865c5c425e2a9b03623b122b4f5e0e527fd2a7811840c193663bf06c003ee0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Saint Xavier University Debuts Bold AI-Learning Platform Campus Wide For 2026-2027 Academic Year - patch.com</title>
@@ -104,9 +112,9 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
     </item>
     <item>
-      <title>How Taylor School District is teaching students how to use AI as a tool, not a shortcut - WXYZ 7 News Detroit</title>
+      <title>How Taylor School District is teaching students how to use AI as a tool, not a shortcut - wxyz.com</title>
       <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcTVZcGVQWlJOTHNyVWwzc2taVVQtUUhGMUhzNkpRRHVkNU94Z1VZYXZyb3VJbk82cEJtaXFudk9tSnJOMF84ZkNJWnNycVdoLVVMUjdVbVZsWUQ5ckVlZXVtc0RILURIZF8xYlowV19IR3pnMW5MRWloMzV5eHJXSjQwNmlyXzJ1RjljRlJhd05VRFlCZ3FrQWNUeFJwRThibWpFckdURmQyYkdsX1VoTkJLSk82NG5NS1g5MVFEaFBCQk5nbFFUbWxnRnU4ZWh6SVNv?oc=5</link>
-      <description>Source: Google News - AI Education — How Taylor School District is teaching students how to use AI as a tool, not a shortcut WXYZ 7 News Detroit</description>
+      <description>Source: Google News - AI Education — How Taylor School District is teaching students how to use AI as a tool, not a shortcut wxyz.com</description>
       <pubDate>Tue, 18 Aug 2026 10:23:33 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c469166befcd581c8fdf591b5980cdfdf2db3cc28693fa47091e8303eff3acd4</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -168,14 +176,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>OU Engineering Introduces High School Students to Artificial Intelligence Through New Summer Camp - The University of Oklahoma</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzFYTnNuZHhaWVBjdU1aM3pzdWNMSk0zSE9BbUhXU0hINVktTDdIV0dSMS1lbTZucmF4Z1JrbFN2U0txWTQyRndhOTdRNjZ6bUphRHF5UTVjMDRMU1d2bU1MSVZ0eENpaXoyOFowY0NKUUc2U0pRM1ZQRnpVOFlQN0ljUHN3a1k4djJZNTNUZw?oc=5</link>
-      <description>Source: Google News - AI Schools — OU Engineering Introduces High School Students to Artificial Intelligence Through New Summer Camp The University of Oklahoma</description>
-      <pubDate>Mon, 17 Aug 2026 21:58:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:cab85fbff4215602396a93e5897387dfc8988d27378529a6dd7c17909c13809d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
       <title>Students, teachers discuss the pros and cons of AI in the university classroom - CityNews Winnipeg</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEhHeFd2ZW42ZUViLVVqU21Fa1ZUc2c0R1g1eGJNSW1wS2dVNTJHZm1QUzBFYTVyUWRzVlpsYVhoMGlBamtMQkVWMFFYYjYwalFUTm1uaWk1ZW5fcERNWkpRRzh2U0ZtZXZuNUR1R21HdF9rS2lQS3ZJUG9heHJFa0c0Q3BKNmpRdkgtQmNSMnl1Rjg3SWMzQTNKejZzak5GN0xkV2NzSE1ZZTFrMlRVN3NMSm53MTdpYkE?oc=5</link>
       <description>Source: Google News - AI Higher Education — Students, teachers discuss the pros and cons of AI in the university classroom CityNews Winnipeg</description>
@@ -192,9 +192,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With "North Dahota" and "Olkchoma" - futurism.com</title>
+      <title>Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With "North Dahota" and "Olkchoma" - Futurism</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaGxnWGUwbG1oeU44cjlOYkpRanJWZ1Roc2k5WGdZVWl5VFZxWTBpNUU1VkZ3T1ZQZW9nMER5ODc5WlRUakVFSkw2d2hLNXRjMzhQcnRFWUlMUTRmRXBhV3ZhZ0I4TjVxSUtVLXlQV3p0TjVMcUQxWDRn?oc=5</link>
-      <description>Source: Google News - AI Education — Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With "North Dahota" and "Olkchoma" futurism.com</description>
+      <description>Source: Google News - AI Education — Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With "North Dahota" and "Olkchoma" Futurism</description>
       <pubDate>Mon, 17 Aug 2026 18:04:18 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4e524afd5b270d3574199c3a46668e7cda83725716e3dab1040152cc5fadf096</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
