@@ -1,0 +1,79 @@
+{
+  "feeds": [
+    {
+      "name": "OpenAI News",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 10,
+      "enabled": true
+    },
+    {
+      "name": "Google AI",
+      "url": "https://blog.google/technology/ai/rss/",
+      "priority": 10,
+      "enabled": true
+    },
+    {
+      "name": "Google for Education",
+      "url": "https://blog.google/outreach-initiatives/education/rss/",
+      "priority": 10,
+      "enabled": true
+    },
+    {
+      "name": "Microsoft Education Blog",
+      "url": "https://www.microsoft.com/en-us/education/blog/feed/",
+      "priority": 10,
+      "enabled": true
+    },
+    {
+      "name": "MIT News - Artificial Intelligence",
+      "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+      "priority": 9,
+      "enabled": true
+    },
+    {
+      "name": "EdSurge",
+      "url": "https://www.edsurge.com/articles_rss",
+      "priority": 9,
+      "enabled": true
+    },
+    {
+      "name": "The Hechinger Report",
+      "url": "https://hechingerreport.org/feed/",
+      "priority": 8,
+      "enabled": true
+    },
+    {
+      "name": "The 74",
+      "url": "https://www.the74million.org/feed/",
+      "priority": 8,
+      "enabled": true
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "priority": 7,
+      "enabled": true
+    },
+    {
+      "name": "Google News - AI Education",
+      "group": "Google News",
+      "url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&hl=en-US&gl=US&ceid=US%3Aen",
+      "priority": 6,
+      "enabled": true
+    },
+    {
+      "name": "Google News - AI Higher Education",
+      "group": "Google News",
+      "url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&hl=en-US&gl=US&ceid=US%3Aen",
+      "priority": 6,
+      "enabled": true
+    },
+    {
+      "name": "Google News - AI Schools",
+      "group": "Google News",
+      "url": "https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&hl=en-US&gl=US&ceid=US%3Aen",
+      "priority": 6,
+      "enabled": true
+    }
+  ]
+}
