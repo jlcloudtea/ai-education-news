@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:54:07 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Tranquility AI Partners with University of South Carolina Upstate to Launch Nation's First AI-Powered Criminal Justice Education and Cold Case Investigation Initiative - Business Wire</title>
@@ -48,12 +48,36 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
+      <title>Kazakhstan founds new AI research university, implements AI in schools - Telecompaper</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQcm43ZVNwRS1LTFlJWGlOSk9hTzJsXzVSdXU5ak93bEJ2aTllN1JRN3Zic2tOUUhjM3dVRmszZGx4SFFHVXNRQlBiendudFFjSGc5aWJicFY3NjlDa2s3Ti13LVI1LXBTeXpwcjQ1aUVXUDZBMDlnTEpRX3JrNjlKaFJyMTFmWEl4eG1nTlhzMms0d0NidlhPZGxWNFpuNFZhX0VEUExTQXVPNVlleHpFd05n?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Kazakhstan founds new AI research university, implements AI in schools Telecompaper</description>
+      <pubDate>Wed, 19 Aug 2026 12:48:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0ffacbf942c421a56bbece5bf3ed9fda3e0e5758fee90231349481ab864e6ce3</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
       <link>https://www.the74million.org/article/when-ai-makes-young-people-think-for-themselves-real-learning-happens</link>
       <description>Source: The 74 — This summer, I ran a one-week artificial intelligence pilot at the Chicago headquarters of Forging Opportunities for Refugees in America, a nonprofit dedicated to helping refugees succeed in school. Most of the students were still building their literacy skills, and several of the 22 newcomers, ranging in age from 11 to 17, had arrived from […]</description>
       <pubDate>Wed, 19 Aug 2026 12:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:82b4a659a5fc0f09d6947eab52d2314a09593da5700d78b284bd95cbb7c6b475</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
+    </item>
+    <item>
+      <title>AI erodes trust between students and teachers. That’s no small concern. - Inquirer.com</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaV9yMFdCREM2TVFQdXRTZElsRkpKaUZPZV94UDBSVTYxTC1OSGc5aUZpYVBCbFVlcHVpWTllNi1ySVVobUo2VWw4emhOZHloNmVKRjVVZ3JxY0JZMFpPeEZqRC12X1JjdnFjdjhuLVZyZ2lUeVg5ZWJfLTI3TEUyNHdmZmNIVWtuUks4c2x4TzlpT1pXQ2FFOG5taVdrRGoybjhZamdvTnU2RjdBRXhtWEFPczh5N3df?oc=5</link>
+      <description>Source: Google News - AI Education — AI erodes trust between students and teachers. That’s no small concern. Inquirer.com</description>
+      <pubDate>Wed, 19 Aug 2026 12:01:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9c76e1644973081be5abab597ce4da9222b0023b56a1d42909e3eb0c52d70cc1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>ChatGPT refusing to do teenagers’ homework is exactly how AI should behave - TechRadar</title>
+      <link>https://news.google.com/rss/articles/CBMisAJBVV95cUxOUThuSVpETlVES2hxM05JUlJEVTFqNmVTNVA1bUZvOHNCM2tTZWJkd2hXZEM3bENwdWFBZzNPeFdXY2pXeXpaSW5DRUwzeUFvZlhycE94MnRGWjJTcG5VRmVsQ2U4bEt6TW91LTdPY19DcGFaY0k2R3V2T2FKRWRmdVdLd1ZwMVpMM250Z1FwUkRGeEtfcENOWE85SHJ5X1NXYTdmeVRWeDl3dXluZEowQ1U1eVNyakgwVHd1UV9EdVVyck9lTlEtVmp3SWNvZXkwUC1RNVJMbmhIY083T09CWjdQRVM4a3RlanlSbkoxZTZkbkJMOHRSVnVVb05RVWFpUDUyQ0RvVzhMMFBpQmRRZkkyeU5kUkhIMXZzTnRCbHFqSG9zeG8zWXB1WmJ1Q041?oc=5</link>
+      <description>Source: Google News - AI Education — ChatGPT refusing to do teenagers’ homework is exactly how AI should behave TechRadar</description>
+      <pubDate>Wed, 19 Aug 2026 11:20:14 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:accf24fed3d5b84e358be3cadabcc25281d6ec87decff445f63a4f902ef711e3</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Reshaping universities to suit the untested AI economy is wrong - Times Higher Education</title>
@@ -166,30 +190,6 @@
       <pubDate>Tue, 18 Aug 2026 08:35:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:764ae6d036e5e6a0f395e821c74a403d4bdfe35d9e5cd5499b617f61029ca60c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>High school students build AI solutions at College of Public Health summer camp - George Mason University</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTlUU05uM19STmdCcGtfYXJIZHIxc0VSbGNKMFJ0UXBkTE5MdGc4bHE5U0xBalpqb1RkVWFLWWxkQ3BvRlVXeDJaYTJRNDBNTURFY0pqeV9aTm56ZWJJMkQ3NmZVdmJQaU5rNWpXS0h1R2QxQ0xFVV8taG9TVXZ0dnJqMzA3emlvZ20yRXp5Umd0MGItdXhDRnR2RDRPcU5rSExRc0J2eXZQSDhUeW5XdFl2NnBQdw?oc=5</link>
-      <description>Source: Google News - AI Education — High school students build AI solutions at College of Public Health summer camp George Mason University</description>
-      <pubDate>Tue, 18 Aug 2026 02:06:44 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:7ecb954ff8930e2bf279afca84cf04f16bd61e9ea5711170c3f4116086669801</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Banning student AI use will let original thinking flourish again - Times Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmNZOFJNMUZKakVfY0NkdmhiZjNjVkVVMWNHZm9lRXFlanFnQVoxU3p1RmFJWXFtb0FwY1RzWjJJazgwV21qbXhpb2xENlc1X1FwejVtOFROSGtXeXFxQmdfOHNPOVQ5a05SSkktVDE0Y3AyODVwQm1hMzBoMUszMGFMaGY2NndHWVFZcDVsN3lONkx1SlpfbUxuTDVyeUxTcUlLdnpwX0FXR2JZV1E?oc=5</link>
-      <description>Source: Google News - AI Education — Banning student AI use will let original thinking flourish again Times Higher Education</description>
-      <pubDate>Mon, 17 Aug 2026 23:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1cf47449eaba7b2a860d27af69b4c716c628601da0bbb20d9f784888eb0971f7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>OU Engineering Introduces High School Students to Artificial Intelligence Through New Summer Camp - The University of Oklahoma</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzFYTnNuZHhaWVBjdU1aM3pzdWNMSk0zSE9BbUhXU0hINVktTDdIV0dSMS1lbTZucmF4Z1JrbFN2U0txWTQyRndhOTdRNjZ6bUphRHF5UTVjMDRMU1d2bU1MSVZ0eENpaXoyOFowY0NKUUc2U0pRM1ZQRnpVOFlQN0ljUHN3a1k4djJZNTNUZw?oc=5</link>
-      <description>Source: Google News - AI Schools — OU Engineering Introduces High School Students to Artificial Intelligence Through New Summer Camp The University of Oklahoma</description>
-      <pubDate>Mon, 17 Aug 2026 21:58:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:cab85fbff4215602396a93e5897387dfc8988d27378529a6dd7c17909c13809d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Students, teachers discuss the pros and cons of AI in the university classroom - CityNews Winnipeg</title>
