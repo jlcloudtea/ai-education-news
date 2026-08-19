@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 00:55:58 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>AI-driven school plans another campus in Houston - KHOU</title>
@@ -64,20 +64,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>University of Phoenix student survey points to responsible use, judgment and real-world practice as foundations of AI readiness - The AI Journal</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN0hLakRwUzBaMHNiaTNjT2xzanR4cFpDa3RROXFYMmk4cW1sVkFYT3J6OGVFeGVqTnhGX1ZZWVFQbjhxbFIzeE0td2xpczFpYUJ2SVFNTUh3amI3cDNHZTN6S21oeXM0SExyR0o5U2NBbkZSSkJZbC1ZdGVMcG8xRGsxeUZYb3JKY1JBN19BVWRrSXRvN3VQbGM0Vk43N1l3VDgyQ2NnWm41Zi1GZUFDaXhWUXdObUoyTXRqWDJqRUFhNWNFUnkwNWxhTFcyMndNRGhpZEdsRERXLWVrbmJ1SQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — University of Phoenix student survey points to responsible use, judgment and real-world practice as foundations of AI readiness The AI Journal</description>
-      <pubDate>Tue, 18 Aug 2026 19:08:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:580c6b63a5a097a6f5468c8b794cbbcdb8b45cf61c05380b7293b4d5d51ed9e0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>AI isn't breaking higher education – it's exposing the cracks - TechTarget</title>
       <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1pNWjJlaUUtR21nUU1iV3VldVl4bjk5OWJ1TDhyLUNLVTJlMmpHVEhpWU14R3FQZUx2QXdRZjNIRE1tQXY1djZuZnh6WmVBdlZuNFBtWFZoZG42ZXF4WUxYdmg0YzZiVXBVZ0wxaHQ1TFozN2U0c3FjVzhmWkZqVmwwTjFwSlh6TEpHYUkwSFIzS3RFSUZN?oc=5</link>
       <description>Source: Google News - AI Education — AI isn't breaking higher education – it's exposing the cracks TechTarget</description>
       <pubDate>Tue, 18 Aug 2026 19:07:31 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4f3291f06b6b4d2e02343e07eca71da06022432a38fa049185f16eeaf478df47</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>University of Phoenix student survey points to responsible use, judgment and real-world practice as foundations of AI readiness - StreetInsider</title>
+      <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPMlJsY09VN0lpaENiUFJWTFdhcy1fRndKY3lWSVpNSlhObEoySDM2akRONFhLMms4OUlJMHJOam5QbXVnQkF0MTJZeHFsOTlqend0dC0yT2Y4Z3VLQjItTHFydlJDdkNKeEtSU2FPaEg0eDVSeUFtRUh1UEpoYlNualh2emxCamhDMzlZcnZnXzVQXzRIOThfOTJILW83NFV0LVdCa2lxSkZRcEdwWmt3cDVUWmdtRWpNbWNSR2lxSW1jaEVXY0JrWFRwUEUwd0JvMDVMZTNKZVZzaDNKQTN2ZnFHdXZkY2RuN2NTb1IzMklZYVhqdnJnZHJqbVBuZHFlSUFMRzdHWlExTjhFUGxFSkN3?oc=5</link>
+      <description>Source: Google News - AI Higher Education — University of Phoenix student survey points to responsible use, judgment and real-world practice as foundations of AI readiness StreetInsider</description>
+      <pubDate>Tue, 18 Aug 2026 18:47:22 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1720df92eb91017849d211513c5560f1b37282596559a965bcf2721a74ab3a35</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Codio Launches AI Literacy Offering as Higher Education Prepares Students for a Workforce Being Reshaped by AI - HRTech Series</title>
