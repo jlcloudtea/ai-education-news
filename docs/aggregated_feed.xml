@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:55:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:32:22 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>AI-driven school plans another campus in Houston - KHOU</title>
@@ -72,14 +72,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>University of Phoenix student survey points to responsible use, judgment and real-world practice as foundations of AI readiness - StreetInsider</title>
-      <link>https://news.google.com/rss/articles/CBMikgJBVV95cUxPMlJsY09VN0lpaENiUFJWTFdhcy1fRndKY3lWSVpNSlhObEoySDM2akRONFhLMms4OUlJMHJOam5QbXVnQkF0MTJZeHFsOTlqend0dC0yT2Y4Z3VLQjItTHFydlJDdkNKeEtSU2FPaEg0eDVSeUFtRUh1UEpoYlNualh2emxCamhDMzlZcnZnXzVQXzRIOThfOTJILW83NFV0LVdCa2lxSkZRcEdwWmt3cDVUWmdtRWpNbWNSR2lxSW1jaEVXY0JrWFRwUEUwd0JvMDVMZTNKZVZzaDNKQTN2ZnFHdXZkY2RuN2NTb1IzMklZYVhqdnJnZHJqbVBuZHFlSUFMRzdHWlExTjhFUGxFSkN3?oc=5</link>
-      <description>Source: Google News - AI Higher Education — University of Phoenix student survey points to responsible use, judgment and real-world practice as foundations of AI readiness StreetInsider</description>
-      <pubDate>Tue, 18 Aug 2026 18:47:22 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1720df92eb91017849d211513c5560f1b37282596559a965bcf2721a74ab3a35</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Codio Launches AI Literacy Offering as Higher Education Prepares Students for a Workforce Being Reshaped by AI - HRTech Series</title>
       <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUkhwWTdlTElCNGIzZlFkRlBWYXl0LUsxQV94RXJBVUtLWWpKZ24xcVdfT05uTks5QWpFUjVOa2JDcjh5dm56dHVnTE5uNFU0OWJKQklQemdNTnVZaXRscG1CVnNkOFUtVEtRVzA1N2dJRGN1eUZtMkZlSFU1OGJBV2ZfVWwyTjNDNkpjN0dUUGtfelVYQXRPLWtIWXRuNm1jX3dsZHdabjFmcEVoLXNhVmJkTHA1eDJLMDRSTmRuT3dFbmROeEktQmFGYWIzeXJFX0t0cFh2OTFXU0wzLVpsRXpOaWNOUjN3VlFHczREOVVHUQ?oc=5</link>
       <description>Source: Google News - AI Education — Codio Launches AI Literacy Offering as Higher Education Prepares Students for a Workforce Being Reshaped by AI HRTech Series</description>
@@ -88,9 +80,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Kazakhstan Rolls Out AI Education From School to University - The Times Of Central Asia</title>
+      <title>Kazakhstan Rolls Out AI Education From School to University - timesca.com</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE94dW1VdVBuWVozNGhRejM1YXdmWG5MLWJSZElyeHViMXRXdEhnaWlGQWdXLWM3bDV2ZmxqUVVjS3p2Nm40ajRRUXpaX0tIb1J0SlVWejBOZElsVk1ValB3YkdOY2kzcWN0eEw1ODAyWGo?oc=5</link>
-      <description>Source: Google News - AI Education — Kazakhstan Rolls Out AI Education From School to University The Times Of Central Asia</description>
+      <description>Source: Google News - AI Education — Kazakhstan Rolls Out AI Education From School to University timesca.com</description>
       <pubDate>Tue, 18 Aug 2026 14:10:19 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:573636562749325b4ce4031699ec16bd5110200253a9b8f4bd1c18e8732e2c25</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -154,10 +146,10 @@
     <item>
       <title>High school students build AI solutions at College of Public Health summer camp - George Mason University</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTlUU05uM19STmdCcGtfYXJIZHIxc0VSbGNKMFJ0UXBkTE5MdGc4bHE5U0xBalpqb1RkVWFLWWxkQ3BvRlVXeDJaYTJRNDBNTURFY0pqeV9aTm56ZWJJMkQ3NmZVdmJQaU5rNWpXS0h1R2QxQ0xFVV8taG9TVXZ0dnJqMzA3emlvZ20yRXp5Umd0MGItdXhDRnR2RDRPcU5rSExRc0J2eXZQSDhUeW5XdFl2NnBQdw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — High school students build AI solutions at College of Public Health summer camp George Mason University</description>
+      <description>Source: Google News - AI Education — High school students build AI solutions at College of Public Health summer camp George Mason University</description>
       <pubDate>Tue, 18 Aug 2026 02:06:44 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7ecb954ff8930e2bf279afca84cf04f16bd61e9ea5711170c3f4116086669801</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Banning student AI use will let original thinking flourish again - Times Higher Education</title>
@@ -165,6 +157,14 @@
       <description>Source: Google News - AI Education — Banning student AI use will let original thinking flourish again Times Higher Education</description>
       <pubDate>Mon, 17 Aug 2026 23:01:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1cf47449eaba7b2a860d27af69b4c716c628601da0bbb20d9f784888eb0971f7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Mercer County Schools trains teachers on AI at back-to-school assembly - wvva.com</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPXzFCbWpiMUlIU25kYlpNdHBoVTQwcDJQOWZTV1E5cmlsRlBybExSMHl0LTRUaTd1Mkc0QVppQktQLXpRbjZsU0VHS1N3cTBaT2pFN1BweXJ1SmNSM0l0UGh1VTdTTlBxQlU2RkdOTFpUQVpUVTljTDZPNW1DaHhORERsbEl5T1RZeVVWSTdXMy0yNVhQOV8tZjZQVDVPd9IBsgFBVV95cUxNOEh1ek1yTldVaWd5bFNZMmIxRWR5c0Zzb1BuSkZJVnF4bU5OeThqVDluSjZ0aWhlbDg5bnJfbm1USXFJMENhRzFvY1dxa25TYTZtSTdHaEZ6eGhKS0xQRGU2MWtILUVkaF81SlIxRnZObXhkM1VHZExtekxwanlFbDV2YjB1X1d1QUR4VzRKVDhGemZRZ2I1LWJhZlVuc1VtdkJ6YzZrVTdtVF9FZ1lobzZB?oc=5</link>
+      <description>Source: Google News - AI Education — Mercer County Schools trains teachers on AI at back-to-school assembly wvva.com</description>
+      <pubDate>Mon, 17 Aug 2026 22:20:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5c33995d4844bf78f6b7d1fe8cabb810a6ca70cb454112061cc3d98992338c56</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -176,9 +176,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Students, teachers discuss the pros and cons of AI in the university classroom - CityNews Winnipeg</title>
+      <title>Students, teachers discuss the pros and cons of AI in the university classroom - winnipeg.citynews.ca</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPeEhHeFd2ZW42ZUViLVVqU21Fa1ZUc2c0R1g1eGJNSW1wS2dVNTJHZm1QUzBFYTVyUWRzVlpsYVhoMGlBamtMQkVWMFFYYjYwalFUTm1uaWk1ZW5fcERNWkpRRzh2U0ZtZXZuNUR1R21HdF9rS2lQS3ZJUG9heHJFa0c0Q3BKNmpRdkgtQmNSMnl1Rjg3SWMzQTNKejZzak5GN0xkV2NzSE1ZZTFrMlRVN3NMSm53MTdpYkE?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Students, teachers discuss the pros and cons of AI in the university classroom CityNews Winnipeg</description>
+      <description>Source: Google News - AI Higher Education — Students, teachers discuss the pros and cons of AI in the university classroom winnipeg.citynews.ca</description>
       <pubDate>Mon, 17 Aug 2026 21:41:29 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e79d0b074f009b24daa71280d61e7de2e3f1aedccbf3881515b8e83ff83a9bdd</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
@@ -218,10 +218,10 @@
     <item>
       <title>Is universities’ AI embrace undermining their net-zero targets? - Times Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWt1aUR0VnptTEFnY0pPZUdZWWE5Y3RDNEVkdTJUWDEtZUZkRVVIZ1hMTVNkT0RTRUFfNzhhWnpDSHY1ZVFrV3RDbDVxWjRUM0xSeGxVQVVtY19QUXg1X3lyOVVpaTRUTkxLY0ZSamZUN0M5Q3Q3QlFNQ01rZEdfZzVVTTNRQ3I5RzVEUEVRWDJNVkZTS0RXczQ2b1VDQ29jS2Fj?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Is universities’ AI embrace undermining their net-zero targets? Times Higher Education</description>
+      <description>Source: Google News - AI Education — Is universities’ AI embrace undermining their net-zero targets? Times Higher Education</description>
       <pubDate>Sun, 16 Aug 2026 23:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1c023163936d9607d9e6964ef575f07ca26e58eee3b1c16a03cdcb8da0688180</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Opinion: Amid the Emerging AI Economy, We Need a Skilled Trades Pipeline in High School</title>
