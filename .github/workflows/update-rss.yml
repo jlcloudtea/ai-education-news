@@ -29,6 +29,9 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v6
 
+      - name: Sync latest main branch
+        run: git pull --ff-only origin "$GITHUB_REF_NAME"
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
@@ -57,7 +60,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/aggregated_feed.xml
           git commit -m "Update aggregated RSS feed"
-          git pull --rebase origin "$GITHUB_REF_NAME"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
