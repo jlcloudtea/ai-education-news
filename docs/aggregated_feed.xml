@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:40:59 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Help us understand how AI has changed the way you teach</title>
@@ -29,14 +29,6 @@
       <description>Source: Google News - AI Education — Springfield is piloting an AI-driven classroom. The teachers' union is trying to stop it WBUR</description>
       <pubDate>Thu, 20 Aug 2026 20:46:25 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:005a09d98fbb7d0b53cd66a6a760c0581bd8bff40268b13d23a381c5b4e4aad8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Howard University Launches Its First AI Certificate Program for Undergraduate Students - The Dig at Howard University</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxONkhKRlZ4S0ROQXhzWXVscDlCdWRCcjlyYWM5WE9XNTNxRGZUZTFEMXMzNWlWRzRDWWt0NFp6OFZZWE1lbTFwYnk3bk1mRl9WNkh2Z1p6OHFpeldFYmdNZHJ6WGVSYUl0dS1KZDUwaG9JT1Nla1RDNzUzN1dnVV9xMEZ0cl9SWHZEWXNScDRWcmJqRHoybUVwRXBSZUpDZVlLaFB0YUxRWEFHdWQzTG9haWY0RXlFdjB2ZkVKNw?oc=5</link>
-      <description>Source: Google News - AI Education — Howard University Launches Its First AI Certificate Program for Undergraduate Students The Dig at Howard University</description>
-      <pubDate>Thu, 20 Aug 2026 20:30:11 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:6639916f76ca3f9708d1fffeccd04a549a045d89e80ad72fc2365591b95d76fc</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -150,6 +142,14 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
+    </item>
+    <item>
+      <title>Built for the complexity of education: AI that understands your institution</title>
+      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
+      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
+      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
+      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
