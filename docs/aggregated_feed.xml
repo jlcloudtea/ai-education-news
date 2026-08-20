@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:45:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:59:51 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Sand Springs Public Schools welcomes students with new middle school, AI focus - KTUL</title>
@@ -14,6 +14,30 @@
       <pubDate>Thu, 20 Aug 2026 17:08:40 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ba455c9e5a371bf5a5915f6ab174f0693be7fc2a731f182aadb516a7c6452690</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>27J Schools incorporate AI system to detect guns, as Colorado students begin school year - CBS News</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQUkdpamVjMUkwRElSSDJqeVpHRDcwN2FrT005MGozVEpIYVN3dlkyZGdPYUxQVThjVElEQk9NRzgtT1pMNDc5cHlXcmU1RTFzVjhyRzZKTmpPNGRYbVhqcndvOVN5amc4QmNSQW5xZzgyYktLS3JTdFpYVjlTc3FXREs1TldtRmU5M3ZERk40cUpZU1k?oc=5</link>
+      <description>Source: Google News - AI Education — 27J Schools incorporate AI system to detect guns, as Colorado students begin school year CBS News</description>
+      <pubDate>Thu, 20 Aug 2026 17:00:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f9ff76c34d713d75d355d5f4b66eb783059f2c08f2d10ada5886285e2f8ab91e</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>College of the Desert professor on how students should use AI this school year - KESQ</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQWHk3RHBNNlE2Mmg2YVltRExRMnRfWVVzdmNKMkZFMWhHcDMxUEVqb1p0dG9xam1LaklXZkRjbnBCVnM3VGVsdGhJMDFodmM0aFJLeURaRFpNN09Qa1I1dDFmck1Zem80TzhfT0VLQ0k4ZVNiQ0N1T19iclowNWdwNHBWTjNMY0h6LTduVkJaeU1WczlfWTFoa1B4Vm5IdUhETnJ1dnZZMjVUNkJwSFF1T0NNQzIwcDVFc3lBU1V4ZjA1RlM5bDNwSkxNWmQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — College of the Desert professor on how students should use AI this school year KESQ</description>
+      <pubDate>Thu, 20 Aug 2026 16:01:18 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1bfbe740a378d4af358d8bb3dd27dd5c2cc34b08d27a660999cabe0b3c9b2ae1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Google is giving college students a free year of Gemini AI Pro - Yahoo Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjJsamc0bzI4eDFNcGVjUzI0LXlHWW04N0ZwUGZ3UmFHYjhpN0JqSWNaejB3aGpVS1ZhME9kYS1vckpoZENwWnNzZ1lJalZzT2Ywc2pIUGZnZnpCYlltX1lxVThjTTRabHFjS01PUjZLcExMNkhFREUtMWo4Ri1FMEVqLUt2WmhtdGxTU3h3YnpZY1dvMWJGbnJIMXlhVVRnNllLLTkxM1RvRmxianlrMXRJb040aWNTWUE?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Google is giving college students a free year of Gemini AI Pro Yahoo Tech</description>
+      <pubDate>Thu, 20 Aug 2026 15:34:45 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ba2ec0e751ad8b77f675a3b9a1e71426a97185f5ccb503d1a19c99de3ce639e2</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Auburn College of Education graduate examines how AI can support military learners in distance education programs - Auburn University</title>
@@ -80,28 +104,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Google rolls out AI study tools &amp; offers 1-year free Gemini to college students - Adgully.com</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOUy1LYktYZEw1MDRPSmJLNm1GSkFrb04zYnZSQ01kWVBFeHppdUhPNTNqQThzcUg4V19iZ2VNWlZRbEpPNWFEbVBPQWZITUpudXFRUjIxUHMwc2hza1V1WW9ZTERDV1ViSHByYlU3R3J0MGdiVkxHc0IzaHBuSTl2S1Y5ZU5DbndsQzQxc0pUT3VoemI2UXlJT1JYQVdoMVFkZW5wckRBbHRpNUtWZGwzLUpR?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Google rolls out AI study tools &amp; offers 1-year free Gemini to college students Adgully.com</description>
-      <pubDate>Thu, 20 Aug 2026 04:21:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1c52a16b21bbe01638fb948ee09e0da58120445f1989e7aecde72de674f3e2a8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Taxpayer-funded research uses AI ‘student avatars’ to prepare STEM teachers - The College Fix</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPelZ0cEhrU0k1M2NiQkgwTE9RWHdEbGc0NzVHZ2hXVjU0QzVFTmlGQ19hdnMyd0Qxc05ycTJJUnRxSUtKWFc1ZElGNnpXM0F6RlkxR2xXNjI4MHNQMThMYTJlc2VBRGFRbVFwWldZNUpzMlBOaFRCQlMzbzA0Zks2SFFPY3JZMHQ5aGwtcmtPS2s2QTBhaGNGME4wNDJldmZSNFJFcFFsNA?oc=5</link>
       <description>Source: Google News - AI Education — Taxpayer-funded research uses AI ‘student avatars’ to prepare STEM teachers The College Fix</description>
       <pubDate>Thu, 20 Aug 2026 04:07:41 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:136b238d3cadb9723e9429e38ac6bc9888439f0d32254173d8d3da504700df67</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>NSW moves to protect AI academic integrity in HSC assessments - The Educator K/12</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDV3WTdSMnJJOUdYa2diMFBXU1lGT0tRVE5iQTFuZ0EzRERGMGtuQ2tUNHFwOXAyakhDR3BEQU9iTjhjNExvZGY5aXNRc2NiV3I1NE9xcm5Lcjc3cGJBemN2QnBlRVZkQng2WnZOQlFVdUVSWjBkMkFlazVVdVY4QmgtdVNSV1N1YVE4Snc4SFNqY0t5WGxuV0dUbEhFSm1SY0tEQl96QUFOUEFpbGRuVA?oc=5</link>
-      <description>Source: Google News - AI Schools — NSW moves to protect AI academic integrity in HSC assessments The Educator K/12</description>
-      <pubDate>Thu, 20 Aug 2026 01:58:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b22e0b69b3a3418a2d96d8e7b1f74645bd64eaea33bf02b9ca7dc22db35362c0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Google is giving students a free year of AI Pro and a new Gemini Student Hub - Digital Trends</title>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 18 Aug 2026 23:01:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3d865c5c425e2a9b03623b122b4f5e0e527fd2a7811840c193663bf06c003ee0</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Kazakhstan Rolls Out AI Education From School to University - The Times Of Central Asia</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE94dW1VdVBuWVozNGhRejM1YXdmWG5MLWJSZElyeHViMXRXdEhnaWlGQWdXLWM3bDV2ZmxqUVVjS3p2Nm40ajRRUXpaX0tIb1J0SlVWejBOZElsVk1ValB3YkdOY2kzcWN0eEw1ODAyWGo?oc=5</link>
-      <description>Source: Google News - AI Schools — Kazakhstan Rolls Out AI Education From School to University The Times Of Central Asia</description>
-      <pubDate>Tue, 18 Aug 2026 14:10:19 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:573636562749325b4ce4031699ec16bd5110200253a9b8f4bd1c18e8732e2c25</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
