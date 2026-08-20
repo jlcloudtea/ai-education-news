@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:57:04 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Kazakhstan to enrol first students at AI university as schools expand AI education - IntelliNews</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSmE3c3Y3TGduMmtxWXJZTFhlZWdrZEM1bHhsV1FVZDdNZDN2TWFrd0hjYkthdk5Gc0NkdmxLMkxLUno5ZFNzbGhpTHVBbFJpakFMWDExcWhtVG04dlhwOU5uTGxiLWhlUUZkTjNYTW9EYkp6QS1NazBSbEJkQk80ZUJ6aHBXTXdVVTE1VDRoZjFUUGNRbEcwVHNtT1p3eDFjenZBWFgyZWI0dDdQdG13N2g0a3VnaFIzWE5IZnNFZUtfczhxWDZrOWdMS1BtZF9WZXc?oc=5</link>
+      <description>Source: Google News - AI Education — Kazakhstan to enrol first students at AI university as schools expand AI education IntelliNews</description>
+      <pubDate>Thu, 20 Aug 2026 08:50:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:357fc6ec62dfd3311150415f18334b846ec4034d87a48719ad06de7a1771e4f1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Higher education curricula must integrate AI to future-proof graduates, says Zambry - NST Online</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNT01yYU83ZXJCTjZfa2c3enJZdTJFd1BCLUpzdFBqUjBWZGxwdFp3RzhVSXNiQnJZSDc5Smh6dWJQbE42TVl2UkNVRmVTcjkwRXRqUnR3Ykd5YklraFlienBLZFlTRFI5MHFZSkZNZlJrQ2Nyd3FCTUxJOFBsbENCRlNGc0pXclVzSjBjSWc3MjdZUklDUDNILW9TTmJ0cVVETU8ybHp6eExLdFdzSWFGWGJIUFpDak55Y2NzNNIBwgFBVV95cUxNc1lsNF84SmFmRE91a3oxOUJEYW9kRW11NFFfaUF5MzFzTVl4S2d5algwdFV1U1RrRkxLeTVCUjdUREpBRUxpOUxhaUhZcVd1VWEwUTNjQXZFYXJPSXY4Z2JxUzk1Q2xTdEo2ZkJRd1ZmaURMWnRldUZrZjh6RmlMdF9ORWlfbGF2SThtYU5GNE1sY3JQaEs5clJ0VG1EMkdkQzg4a0pBYkJ1XzRzVkdqT2lUQ2lnbjdDbm5JNTdOMmsxUQ?oc=5</link>
@@ -22,14 +30,6 @@
       <pubDate>Thu, 20 Aug 2026 04:07:41 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:136b238d3cadb9723e9429e38ac6bc9888439f0d32254173d8d3da504700df67</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>NSW moves to protect AI academic integrity in HSC assessments - The Educator K/12</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDV3WTdSMnJJOUdYa2diMFBXU1lGT0tRVE5iQTFuZ0EzRERGMGtuQ2tUNHFwOXAyakhDR3BEQU9iTjhjNExvZGY5aXNRc2NiV3I1NE9xcm5Lcjc3cGJBemN2QnBlRVZkQng2WnZOQlFVdUVSWjBkMkFlazVVdVY4QmgtdVNSV1N1YVE4Snc4SFNqY0t5WGxuV0dUbEhFSm1SY0tEQl96QUFOUEFpbGRuVA?oc=5</link>
-      <description>Source: Google News - AI Schools — NSW moves to protect AI academic integrity in HSC assessments The Educator K/12</description>
-      <pubDate>Thu, 20 Aug 2026 01:58:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b22e0b69b3a3418a2d96d8e7b1f74645bd64eaea33bf02b9ca7dc22db35362c0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Google is giving students a free year of AI Pro and a new Gemini Student Hub - Digital Trends</title>
@@ -62,14 +62,6 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
@@ -152,9 +144,9 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
     </item>
     <item>
-      <title>How Taylor School District is teaching students how to use AI as a tool, not a shortcut - wxyz.com</title>
+      <title>How Taylor School District is teaching students how to use AI as a tool, not a shortcut - WXYZ Channel 7</title>
       <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcTVZcGVQWlJOTHNyVWwzc2taVVQtUUhGMUhzNkpRRHVkNU94Z1VZYXZyb3VJbk82cEJtaXFudk9tSnJOMF84ZkNJWnNycVdoLVVMUjdVbVZsWUQ5ckVlZXVtc0RILURIZF8xYlowV19IR3pnMW5MRWloMzV5eHJXSjQwNmlyXzJ1RjljRlJhd05VRFlCZ3FrQWNUeFJwRThibWpFckdURmQyYkdsX1VoTkJLSk82NG5NS1g5MVFEaFBCQk5nbFFUbWxnRnU4ZWh6SVNv?oc=5</link>
-      <description>Source: Google News - AI Schools — How Taylor School District is teaching students how to use AI as a tool, not a shortcut wxyz.com</description>
+      <description>Source: Google News - AI Schools — How Taylor School District is teaching students how to use AI as a tool, not a shortcut WXYZ Channel 7</description>
       <pubDate>Tue, 18 Aug 2026 10:23:33 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c469166befcd581c8fdf591b5980cdfdf2db3cc28693fa47091e8303eff3acd4</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
@@ -222,6 +214,14 @@
       <pubDate>Mon, 17 Aug 2026 20:43:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:59bc970d7f8bcedbe68b6a3196955bce90752c1e1ff4e8a39240c52a1fb7cac5</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With "North Dahota" and "Olkchoma" - Futurism</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZaGxnWGUwbG1oeU44cjlOYkpRanJWZ1Roc2k5WGdZVWl5VFZxWTBpNUU1VkZ3T1ZQZW9nMER5ODc5WlRUakVFSkw2d2hLNXRjMzhQcnRFWUlMUTRmRXBhV3ZhZ0I4TjVxSUtVLXlQV3p0TjVMcUQxWDRn?oc=5</link>
+      <description>Source: Google News - AI Education — Kentucky Middle School Sends Students Home on First Day of Class With AI-Generated Educational Materials Full of Inexcusable Hallucinations, Including a Map Labeled With "North Dahota" and "Olkchoma" Futurism</description>
+      <pubDate>Mon, 17 Aug 2026 18:04:18 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:4e524afd5b270d3574199c3a46668e7cda83725716e3dab1040152cc5fadf096</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Slow math: Kids may learn more when AI makes them review mistakes</title>
