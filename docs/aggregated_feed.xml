@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:51:14 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Sand Springs Public Schools welcomes students with new middle school, AI focus - fox23.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0lMcG1IV0ZMRjhXNzRnYm12eGJtR3Y4VWJiNnhtYXVWdUYxSHR3ZXprR2R4LVJVY0ZCeGhwV0JSZ2xvWWZuLUhIajhWOUJIYTVDVk1yQmtCdjVQUm9wVldmVGZyMm5mamdzTEs3TXM2WlRXVWp6R0dOWVdzS0NpUm1MdC1SNWIxM25vMU9VQWhCMkhMUlhGcVA5cXlpdjg3b29XdjhYMHVOUQ?oc=5</link>
+      <description>Source: Google News - AI Education — Sand Springs Public Schools welcomes students with new middle school, AI focus fox23.com</description>
+      <pubDate>Thu, 20 Aug 2026 16:28:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:214d915799317527b2ee907a361833975fc6ac4f2ee975bebcb9cb96501ccaf9</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Auburn College of Education graduate examines how AI can support military learners in distance education programs - Auburn University</title>
       <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmNydy10NkhvbjdBSE5GcEVRRjlDajliYkotN3dzUVJwR3RNM0dPd0xuT3Q2RWZXaWxheHVUVEFmNFNFZ1dFeS04ZXJycGlSZFRKZ1pfUkJWcXpNZ3hMOVpNSWJ4UWJGOV83eEQ2Ul8xcVBRUzJKYkF5Q0NHeFl0LWFXVmZRVmJySG01SzhMQ3hBZ21WZnRBLXVIdTI2MkNFVnRCVVNxbnlHTjI1UWdQMFZvaXc0Z2VGMWhuZDJoSnBiRzlNY1pOd0NORnMyTUVqdWtoeExyVHIzQQ?oc=5</link>
@@ -152,28 +160,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Codio Launches AI Literacy Offering as Higher Education Prepares Students for a Workforce Being Reshaped by AI - HRTech Series</title>
-      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUkhwWTdlTElCNGIzZlFkRlBWYXl0LUsxQV94RXJBVUtLWWpKZ24xcVdfT05uTks5QWpFUjVOa2JDcjh5dm56dHVnTE5uNFU0OWJKQklQemdNTnVZaXRscG1CVnNkOFUtVEtRVzA1N2dJRGN1eUZtMkZlSFU1OGJBV2ZfVWwyTjNDNkpjN0dUUGtfelVYQXRPLWtIWXRuNm1jX3dsZHdabjFmcEVoLXNhVmJkTHA1eDJLMDRSTmRuT3dFbmROeEktQmFGYWIzeXJFX0t0cFh2OTFXU0wzLVpsRXpOaWNOUjN3VlFHczREOVVHUQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Codio Launches AI Literacy Offering as Higher Education Prepares Students for a Workforce Being Reshaped by AI HRTech Series</description>
-      <pubDate>Tue, 18 Aug 2026 14:40:36 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b3cdf8cb8e3ee8010e971f51df87c623b5eed2be8ed5f37ae83dbebeb69b4cf8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Kazakhstan Rolls Out AI Education From School to University - The Times Of Central Asia</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE94dW1VdVBuWVozNGhRejM1YXdmWG5MLWJSZElyeHViMXRXdEhnaWlGQWdXLWM3bDV2ZmxqUVVjS3p2Nm40ajRRUXpaX0tIb1J0SlVWejBOZElsVk1ValB3YkdOY2kzcWN0eEw1ODAyWGo?oc=5</link>
       <description>Source: Google News - AI Higher Education — Kazakhstan Rolls Out AI Education From School to University The Times Of Central Asia</description>
       <pubDate>Tue, 18 Aug 2026 14:10:19 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:573636562749325b4ce4031699ec16bd5110200253a9b8f4bd1c18e8732e2c25</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>OpenAI launches a safer ChatGPT for teens — years after teens started using it</title>
-      <link>https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it</link>
-      <description>Source: TechCrunch AI — ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.</description>
-      <pubDate>Tue, 18 Aug 2026 13:50:30 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:7aa778327f7a42031ccaf2a54f181402f2c25b6cd757e409b0f7ba86ed3fc423</guid>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
     </item>
     <item>
       <title>StrikePlagiarism.com at WCRI 2026: strengthening global academic integrity and AI governance - Times Higher Education</title>
@@ -222,6 +214,14 @@
       <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1cc7692c546206d3869fa92560fc45782fafabbc4c5debb382304259077cc25c</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
+    </item>
+    <item>
+      <title>Drew University first U.S. college with AI-driven school for grades 1-8 - Morris County NJ News | Daily Record</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa0JtV1U4aWtLN3M3QlpqMF96WkQyb055eG9sc00tYTdmSlJlWU9FX3FfZnBYcUFNM04wTkk3TEVZVWRBOWZRVThvbkFuQndJNEhkcWJPWU5yYWNUZV9XamJYakZkUXBRYUJjZ2dBUk0xYXM1WjB2M1ZWTU9lZXMydDdMWkNYNU45aEljNjdDWVJlemdmWDNEd1Iyc2psdUI1cFFEOHFOOFFyYzNkcUtNM2Z4eXBJX3NUUU1fRWJ6ZGZvZVplakdubWlaVW81bjQ1Qnd5V2RsYUs?oc=5</link>
+      <description>Source: Google News - AI Education — Drew University first U.S. college with AI-driven school for grades 1-8 Morris County NJ News | Daily Record</description>
+      <pubDate>Tue, 18 Aug 2026 08:35:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:764ae6d036e5e6a0f395e821c74a403d4bdfe35d9e5cd5499b617f61029ca60c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Slow math: Kids may learn more when AI makes them review mistakes</title>
