@@ -5,12 +5,28 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:10:31 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>I’m an academic. AI will help my kids with learning difficulties at uni - afr.com</title>
+      <title>Google offers one-year Gemini AI student plan for free in India - deccanherald.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQSGYwenY4OGZQNUVBdjhySFp2V2ZjZUlKN0pRQnZSSzRXUEhBVUZ2Q3Z3LTVIb1g1a1ZrUkhNQ214LTZLZ2Z1TUh1dC1BTVUxOEUwdlg3b1JKcHFDcGNrTEVodG1xMWdCb2paZTAyUmN1TDQtdGN4OTM3Y2JCSlUxSVBYMktpaHQ1UjFKaHNJU0lOb25aS2hOWlY4Z3JNdHo4c0EyOTM1ZkdPUnNYdzROVQ?oc=5</link>
+      <description>Source: Google News - AI Education — Google offers one-year Gemini AI student plan for free in India deccanherald.com</description>
+      <pubDate>Thu, 20 Aug 2026 02:45:40 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:fe963a198b3ae20b65fda46f7aa2453c08c691571f8d8daf00b186a0364cb72d</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>NSW moves to protect AI academic integrity in HSC assessments - The Educator K/12</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDV3WTdSMnJJOUdYa2diMFBXU1lGT0tRVE5iQTFuZ0EzRERGMGtuQ2tUNHFwOXAyakhDR3BEQU9iTjhjNExvZGY5aXNRc2NiV3I1NE9xcm5Lcjc3cGJBemN2QnBlRVZkQng2WnZOQlFVdUVSWjBkMkFlazVVdVY4QmgtdVNSV1N1YVE4Snc4SFNqY0t5WGxuV0dUbEhFSm1SY0tEQl96QUFOUEFpbGRuVA?oc=5</link>
+      <description>Source: Google News - AI Schools — NSW moves to protect AI academic integrity in HSC assessments The Educator K/12</description>
+      <pubDate>Thu, 20 Aug 2026 01:58:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b22e0b69b3a3418a2d96d8e7b1f74645bd64eaea33bf02b9ca7dc22db35362c0</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>I’m an academic. AI will help my kids with learning difficulties at uni - AFR</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbzBJM21kSTVUVmx0TkhXWDcxUzlycVQ0REZLc3NkVkZzX1ViSHpKMDF4SFJOR0F1UjB0RE04QzBHbUJtWk5oRERMSGxvV19tM0N2M191Tl83X0t2NTZYVlpzZVR6eGVWMkRCa01KT1dqTWFFamNHenFUc0Q3cTVORk9HajhGWWJRYlhBaF8xQ3JCTTV4cU9vdXFieU9RNURlOVFZMk1MY05oRFp1Q1VTWGdVU2w1MjdJ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — I’m an academic. AI will help my kids with learning difficulties at uni afr.com</description>
+      <description>Source: Google News - AI Higher Education — I’m an academic. AI will help my kids with learning difficulties at uni AFR</description>
       <pubDate>Thu, 20 Aug 2026 01:43:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:278acda578e436cb297f9ea724ab3ce1663ccf1de0df83eab1206cd2c1b2c823</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
@@ -29,22 +45,6 @@
       <description>Source: Google News - AI Education — Google opens Warsaw student AI hackathon applications | ETIH EdTech News EdTech Innovation Hub</description>
       <pubDate>Wed, 19 Aug 2026 23:07:05 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4643bd6bb0c2de308a1910f0a15b1f1c236f4f9ea60982871414a56b5a7e7ec0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>The AI classroom has arrived. Minnesota schools are writing the rules.* - kstp.com</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGRYeHhINXRVakg5LTdoNXRadllyMTNSQzZxM3dQUC1DX1B4Wk9LMFg0d1BCc284VWtUZXpNUDdTaHBDeTczOHR3SGp5QmFIWEE0QWhUV1NZQzl0MUY5VHhGYlAyQ2gzeEQxRC1TV2J6ZVJ0TjJZRi1lb1k0VXJrREhFWDY4RlU5cTZYUnB4VkFsOFdxZVhxSXhJR3pQMmZwOFoyZzIyN2sxQQ?oc=5</link>
-      <description>Source: Google News - AI Schools — The AI classroom has arrived. Minnesota schools are writing the rules.* kstp.com</description>
-      <pubDate>Wed, 19 Aug 2026 22:04:32 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:acb3c550958ad1f01e9d47711826964bfe2bf10254de8485c821ca7d8440d744</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>Beyond the Ban: Why Embracing AI Is Essential for Higher Education - RealClearEducation</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPcVQ3WHNzWFdoODh6ZWg4YnpWdDd3QnRqWjkwTWtnQlpsZVZjcVJBajdyWkFJYUV6VnFDVUpzUDZoMDZodkRGTG9tU2didWluWjB5akY5SVVsd2UyXzNXTzF5VDBvN0hKdklwSkhCUmtmTGx5V0xmRzRlVmkwUGlzU2lvdnZzLUJ2ZV9nQUtCQkxfZU44R0dXY09Gcl9Vbm9vc19MdUgwbmNUNnpRN3I2QkxjNU5SMFhYNjR6NWI4NEV4RVZ1cWwtSEtqbjY3UQ?oc=5</link>
-      <description>Source: Google News - AI Education — Beyond the Ban: Why Embracing AI Is Essential for Higher Education RealClearEducation</description>
-      <pubDate>Wed, 19 Aug 2026 21:51:56 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:57bbcdb6be8f06a078ff257474a3e63c5802efacfd25c11b7887e7182d37230e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -72,14 +72,6 @@
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
-    </item>
-    <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
       <link>https://www.the74million.org/article/when-ai-makes-young-people-think-for-themselves-real-learning-happens</link>
       <description>Source: The 74 — This summer, I ran a one-week artificial intelligence pilot at the Chicago headquarters of Forging Opportunities for Refugees in America, a nonprofit dedicated to helping refugees succeed in school. Most of the students were still building their literacy skills, and several of the 22 newcomers, ranging in age from 11 to 17, had arrived from […]</description>
@@ -96,6 +88,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
+      <title>Southampton dumps Turnitin over use of students’ work to train AI - Times Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmI2cVZZVEdNenowMnFKOVlTeC11NEczMlNLcC1GUkhFeWR0TkRLYzB1N0JvNjc1UTBsNU0tNlhJQkdUWEpKTndoVm1qTHBNWlZhb0xldUVnMlN4U2xHRkpEbFJSZHZWOVFwcW5mUkpMQXpfTUJ4UXlrNFFEZG12X2lNUkZEdnd4dmFCRFdvR0JublFHYTRtZDZvbGVRRU5sZVE?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Southampton dumps Turnitin over use of students’ work to train AI Times Higher Education</description>
+      <pubDate>Tue, 18 Aug 2026 23:01:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3d865c5c425e2a9b03623b122b4f5e0e527fd2a7811840c193663bf06c003ee0</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>Saint Xavier University Debuts Bold AI-Learning Platform Campus Wide For 2026-2027 Academic Year - Patch</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPdHFNUjBaaVcwRmVDYVNEWkgzSmxNcHlOamI0d0dJSEpCbDlYb3VaaWUtMjczU0RJWUdCOERJUmcyU1J5QU1WTE1EVGxLVEtuMF80TjJzTjdib19DUE12RmdZSkttaUliSlVuallUTHJlYUlzMGRNSlNMaGpvcnEza3MzYlBIWFRYeS1nN0JwWUljQUx3S0t4T1FYVUpvanNxOGpNVEkxR29UdTN0M1MtYU1XeFhGZ9IB7AFBVV95cUxONFpVZVNGT0NzaEpWMXYyUGxjdzRMVWFTSTBrNDFvNG9lTGgwTXllWm9PRlZCc0lmZ3hlQzFfdm44UjlVVFZkVmtYVTlnYTJ1dUU0YnU5NDdtajVPNHJuSGZDWHRpY19RaTN3Si11Y1lRQ3c1SVhmWlNHSTNXNHRXQ3pmQWkwcE83MVRESllnQUo2cVpJdGttaTlFMzhRV0JTMW5Db3RIcF93UkhKUFNXaEpKNTh3MHV6c01DeDYyVTNFWXNsbEdZUHVEaF9oOGtsZk5Kdjc3Vzk5cjlzSi1qanFIRnFfRkppX3hjeg?oc=5</link>
       <description>Source: Google News - AI Higher Education — Saint Xavier University Debuts Bold AI-Learning Platform Campus Wide For 2026-2027 Academic Year Patch</description>
@@ -104,12 +104,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Kazakhstan Rolls Out AI Education From School to University - timesca.com</title>
+      <title>Kazakhstan Rolls Out AI Education From School to University - The Times Of Central Asia</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE94dW1VdVBuWVozNGhRejM1YXdmWG5MLWJSZElyeHViMXRXdEhnaWlGQWdXLWM3bDV2ZmxqUVVjS3p2Nm40ajRRUXpaX0tIb1J0SlVWejBOZElsVk1ValB3YkdOY2kzcWN0eEw1ODAyWGo?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Kazakhstan Rolls Out AI Education From School to University timesca.com</description>
+      <description>Source: Google News - AI Education — Kazakhstan Rolls Out AI Education From School to University The Times Of Central Asia</description>
       <pubDate>Tue, 18 Aug 2026 14:10:19 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:573636562749325b4ce4031699ec16bd5110200253a9b8f4bd1c18e8732e2c25</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>OpenAI launches a safer ChatGPT for teens — years after teens started using it</title>
