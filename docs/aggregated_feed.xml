@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 09:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:47:35 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Student Journalists: AI Is Changing Our Work — And Not For the Better</title>
+      <link>https://www.the74million.org/article/student-journalists-ai-is-changing-our-work-and-not-for-the-better</link>
+      <description>Source: The 74 — In the nearly four years since generative artificial intelligence began colonizing the academic lives of teens, it has changed the experience of school for millions of young people. Perhaps no group has watched their reality shift more than student journalists. Just as the technology has rewired the relationship between young writers-in-training and their teachers, it […]</description>
+      <pubDate>Thu, 20 Aug 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:60d3df591bf121da2f537d33e4c6ea1ed6ba722c71f8782789c095cfb35d8842</guid>
+      <source url="https://www.the74million.org/feed/">The 74</source>
+    </item>
     <item>
       <title>Kazakhstan to enrol first students at AI university as schools expand AI education - IntelliNews</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTh5eDZlamdDREVEOW03dkoyelN3S2hPVUZLYi0zYVVQenVVTmFmSDJGYWcwWUw2bzV3YlFjV1VhT1h3SGV4bHBxWlRpblZ4VWs0TXZLZzlfblVKRHBnbGlPUHNrLXY5blBsc1QxYkh2UUphaFJJc0h5bEJ2M2NWeHBvTHFVaFhwTVMwWXhXZEhtRzdPZlhsVXEyc3NfT2JHRmxmLU44MjR6YTBMX083S1AxX0JtVEJnZXc?oc=5</link>
@@ -16,11 +24,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Higher education curricula must integrate AI to future-proof graduates, says Zambry - NST Online</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNT01yYU83ZXJCTjZfa2c3enJZdTJFd1BCLUpzdFBqUjBWZGxwdFp3RzhVSXNiQnJZSDc5Smh6dWJQbE42TVl2UkNVRmVTcjkwRXRqUnR3Ykd5YklraFlienBLZFlTRFI5MHFZSkZNZlJrQ2Nyd3FCTUxJOFBsbENCRlNGc0pXclVzSjBjSWc3MjdZUklDUDNILW9TTmJ0cVVETU8ybHp6eExLdFdzSWFGWGJIUFpDak55Y2NzNNIBwgFBVV95cUxNc1lsNF84SmFmRE91a3oxOUJEYW9kRW11NFFfaUF5MzFzTVl4S2d5algwdFV1U1RrRkxLeTVCUjdUREpBRUxpOUxhaUhZcVd1VWEwUTNjQXZFYXJPSXY4Z2JxUzk1Q2xTdEo2ZkJRd1ZmaURMWnRldUZrZjh6RmlMdF9ORWlfbGF2SThtYU5GNE1sY3JQaEs5clJ0VG1EMkdkQzg4a0pBYkJ1XzRzVkdqT2lUQ2lnbjdDbm5JNTdOMmsxUQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Higher education curricula must integrate AI to future-proof graduates, says Zambry NST Online</description>
-      <pubDate>Thu, 20 Aug 2026 05:20:28 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4730059a3274e3ed061f68efd0fb29d8f8a35e99b7484a0ab97d6ad135bc5df2</guid>
+      <title>Google rolls out AI study tools &amp; offers 1-year free Gemini to college students - Adgully.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOUy1LYktYZEw1MDRPSmJLNm1GSkFrb04zYnZSQ01kWVBFeHppdUhPNTNqQThzcUg4V19iZ2VNWlZRbEpPNWFEbVBPQWZITUpudXFRUjIxUHMwc2hza1V1WW9ZTERDV1ViSHByYlU3R3J0MGdiVkxHc0IzaHBuSTl2S1Y5ZU5DbndsQzQxc0pUT3VoemI2UXlJT1JYQVdoMVFkZW5wckRBbHRpNUtWZGwzLUpR?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Google rolls out AI study tools &amp; offers 1-year free Gemini to college students Adgully.com</description>
+      <pubDate>Thu, 20 Aug 2026 04:21:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1c52a16b21bbe01638fb948ee09e0da58120445f1989e7aecde72de674f3e2a8</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -174,14 +182,6 @@
       <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1cc7692c546206d3869fa92560fc45782fafabbc4c5debb382304259077cc25c</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
-      <title>50 AI Units Added to Saudi School Curriculum for New Academic Year - CairoScene</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzRKWDBPZlNqcXpPQTBVQloxNzF4QmZ4RThpNUJnQjRUME9NbnppcnhNdGV3TkR6RDhsTjVWdDVPcHRhajBuR25mbmtQUlFiVU9wb04yRm1WdG92TmkwWUpyQ1lKeXlBeHVjRnp5OWFtU3FjZG5mOUU1YUVXbTU2OHJOb3hQU1lPYUdnUERzSUROZ3NkTlZoVGNR?oc=5</link>
-      <description>Source: Google News - AI Schools — 50 AI Units Added to Saudi School Curriculum for New Academic Year CairoScene</description>
-      <pubDate>Tue, 18 Aug 2026 08:56:57 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:04e29cdc22c486b00969e6b64c8a8eb8a3e609b72f582f3f98e8a03cbc5e3e8d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Drew University first U.S. college with AI-driven school for grades 1-8 - Morris County NJ News | Daily Record</title>
