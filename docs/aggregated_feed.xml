@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:05:17 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Vietnam to include artificial intelligence in school curriculum - VnExpress International</title>
@@ -72,14 +72,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>College of the Desert professor on how students should use AI this school year - KESQ</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQWHk3RHBNNlE2Mmg2YVltRExRMnRfWVVzdmNKMkZFMWhHcDMxUEVqb1p0dG9xam1LaklXZkRjbnBCVnM3VGVsdGhJMDFodmM0aFJLeURaRFpNN09Qa1I1dDFmck1Zem80TzhfT0VLQ0k4ZVNiQ0N1T19iclowNWdwNHBWTjNMY0h6LTduVkJaeU1WczlfWTFoa1B4Vm5IdUhETnJ1dnZZMjVUNkJwSFF1T0NNQzIwcDVFc3lBU1V4ZjA1RlM5bDNwSkxNWmQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — College of the Desert professor on how students should use AI this school year KESQ</description>
-      <pubDate>Thu, 20 Aug 2026 16:01:18 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1bfbe740a378d4af358d8bb3dd27dd5c2cc34b08d27a660999cabe0b3c9b2ae1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Google is giving college students a free year of Gemini AI Pro - Yahoo Tech</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQRjJsamc0bzI4eDFNcGVjUzI0LXlHWW04N0ZwUGZ3UmFHYjhpN0JqSWNaejB3aGpVS1ZhME9kYS1vckpoZENwWnNzZ1lJalZzT2Ywc2pIUGZnZnpCYlltX1lxVThjTTRabHFjS01PUjZLcExMNkhFREUtMWo4Ri1FMEVqLUt2WmhtdGxTU3h3YnpZY1dvMWJGbnJIMXlhVVRnNllLLTkxM1RvRmxianlrMXRJb040aWNTWUE?oc=5</link>
       <description>Source: Google News - AI Higher Education — Google is giving college students a free year of Gemini AI Pro Yahoo Tech</description>
@@ -130,10 +122,10 @@
     <item>
       <title>Kazakhstan to enrol first students at AI university as schools expand AI education - IntelliNews</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTh5eDZlamdDREVEOW03dkoyelN3S2hPVUZLYi0zYVVQenVVTmFmSDJGYWcwWUw2bzV3YlFjV1VhT1h3SGV4bHBxWlRpblZ4VWs0TXZLZzlfblVKRHBnbGlPUHNrLXY5blBsc1QxYkh2UUphaFJJc0h5bEJ2M2NWeHBvTHFVaFhwTVMwWXhXZEhtRzdPZlhsVXEyc3NfT2JHRmxmLU44MjR6YTBMX083S1AxX0JtVEJnZXc?oc=5</link>
-      <description>Source: Google News - AI Education — Kazakhstan to enrol first students at AI university as schools expand AI education IntelliNews</description>
+      <description>Source: Google News - AI Higher Education — Kazakhstan to enrol first students at AI university as schools expand AI education IntelliNews</description>
       <pubDate>Thu, 20 Aug 2026 08:51:49 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:328aed1c098761df192fb474b23c7e504a61f6f5b5de3a69e69687f854558472</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Taxpayer-funded research uses AI ‘student avatars’ to prepare STEM teachers - The College Fix</title>
@@ -158,6 +150,14 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
+    </item>
+    <item>
+      <title>Built for the complexity of education: AI that understands your institution</title>
+      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
+      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
+      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
+      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
