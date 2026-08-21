@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:41:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:39:32 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUdXZ3VMZkRXeUVTbE1QMFg2N09ydkJRcnFxQWpFa3U5TGpidEc4OXlGYVNRWHUtR2d1TVNydjdxQXZRTmFyQnV2THVtUUh2UG80ZExFOEtWUmdpSmU5U05VaG95SERoUTRJVTBzUTctYXdmUzVoYU1PdkdGYlRwTlpodm96bkJoUjlncmFNLTlOUQ?oc=5</link>
+      <description>Source: Google News - AI Schools — In an apocalyptic classroom, students question AI Illinois State University News</description>
+      <pubDate>Fri, 21 Aug 2026 19:51:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:4018f8e9c55c26360e79bf97d200bbb650f690e6bd72e490c2876c7b10b648c5</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
     <item>
       <title>Japan proposes university support programme combining AI education and student exchanges - Digital Watch Observatory</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkdmU1FMbE4wcjhjZUpGMV9xZzlxUm54bTFVN3RfY2I3NnhGQVRmdEd2UW5ldjlaa2Vod2EzNzRfR2xtOEVhTHNhcFFzSnhaTjVJczdPTkNmdlJpbVROM3ZueDhNQVpvWUl5WVNfLXhzM1U4bVR2WllCWkk2THJGOVVoOGxjRGpHd1l1NHJ2OA?oc=5</link>
@@ -40,11 +48,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUdXZ3VMZkRXeUVTbE1QMFg2N09ydkJRcnFxQWpFa3U5TGpidEc4OXlGYVNRWHUtR2d1TVNydjdxQXZRTmFyQnV2THVtUUh2UG80ZExFOEtWUmdpSmU5U05VaG95SERoUTRJVTBzUTctYXdmUzVoYU1PdkdGYlRwTlpodm96bkJoUjlncmFNLTlOUQ?oc=5</link>
-      <description>Source: Google News - AI Schools — In an apocalyptic classroom, students question AI Illinois State University News</description>
-      <pubDate>Fri, 21 Aug 2026 15:16:48 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4018f8e9c55c26360e79bf97d200bbb650f690e6bd72e490c2876c7b10b648c5</guid>
+      <title>How AI is changing the classroom for Atlanta students - FOX 5 Atlanta</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE42bHJtS2NnNFIxVjJOd3hkVWUtTURNRmhPSmQySGt2YkM0bWNfcjdSYm9qSFRCWDFidWd6TEhwV3MxZnNLYVRmdy1sdUs3WDJmeE5mQmpIbHh5ZDZrREh1YWloRl_SAWpBVV95cUxOb09hcVdiOTcwUmdBTjdDRW9YR0psemZMSjlsTDFPNnp2dzRoa2UwZ1V1SEsyNUd4RXNoZDNfQ00tVWxGX3I3aUpkRjc5ZVNkbUlLTjQ1T3hqQW9TemJBNDFGZ181Z09oQ3Rn?oc=5</link>
+      <description>Source: Google News - AI Schools — How AI is changing the classroom for Atlanta students FOX 5 Atlanta</description>
+      <pubDate>Fri, 21 Aug 2026 15:40:21 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:106a97301c387b13506f9a1e6f8154bbdcc27e7a014f907a711a36a67d16053a</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
@@ -142,14 +150,6 @@
       <pubDate>Thu, 20 Aug 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:60d3df591bf121da2f537d33e4c6ea1ed6ba722c71f8782789c095cfb35d8842</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
-      <title>CodeAI and OpenAI partner on AI literacy, student building and responsible use - EdTech Innovation Hub</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUY1WW5feEhWRkpPSlV0eVNJV2tROXdLaHM1LWpmZVZhZEVRaUlzLXdxM2F4ZXVMTnUxNURxY1ZVU1FPY21NYVJja291Z05xZTMyaFhYaVVJd1lEdjh2RWRWSzVwRk9icGFhZkNWcmw3ckotb1V1a0lBYjBib3EwZUpaWEwyMHQ5ZlEwc0t4eFVhR0NaVloyUXZJYXpsa3FfZS1CX3dyX2VpeF9qQTRRenhJMzI4WTI5ekE?oc=5</link>
-      <description>Source: Google News - AI Education — CodeAI and OpenAI partner on AI literacy, student building and responsible use EdTech Innovation Hub</description>
-      <pubDate>Thu, 20 Aug 2026 09:46:26 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:11ea974d45c639c6ccb05b97ba3e587877b48e519464f1857647a01d3b6a1e13</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Kazakhstan to enrol first students at AI university as schools expand AI education - IntelliNews</title>
