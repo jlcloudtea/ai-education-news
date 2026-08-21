@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:59:02 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>School dropout, 21, earns £50k in ‘AI-proof’ job after ditching university - Discover SWNS</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkdzdlNTdXFLSFdsV0xla1BPeUx5cy1GNVBPcEQycVc4RXVod2VHT3JtUkJvUEFfblhfaXF2U090SGh3X1lwX3FncjM3SG9OMWFXNDd1bWRxZl95V1gxRVlmT2xIRldzZ2lFdUhtSjRXQnYxYW1QYUNRQms2dEN4LURaSXpRVUpvbVNSOENBSjJxY1N5elo4VjgyQVROY0pCOW1qTlFicw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — School dropout, 21, earns £50k in ‘AI-proof’ job after ditching university Discover SWNS</description>
+      <pubDate>Fri, 21 Aug 2026 13:49:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:155765f4e4c0d7509a19bc1803fd682ee4361793db7cf5c16489ad51054d499d</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
     <item>
       <title>Help us understand how AI has changed the way you teach</title>
       <link>https://hechingerreport.org/help-us-understand-how-ai-has-changed-the-way-you-teach</link>
@@ -14,14 +22,6 @@
       <pubDate>Fri, 21 Aug 2026 11:45:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:261aee8a919df31b1391595d066f6f436350ab398634cfe7a3e231edef64d4d5</guid>
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
-    </item>
-    <item>
-      <title>Gaston County teachers speak on use of AI by students - WBTV</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPY21OcW5GZzFsbHg0VzFzdHZLdnEzdUlSWDRTcXB2akM2Ul8wTWxLUmVlNzhHTFBYZldJc1R6U2hhQjV6MWIzLTZJMWFWajRZT1Q4LW0zbWlpdWZFSEtIMDhmcURfMU1tSGhsaUtKY3lPRmF1aGNnLTBPbm1qX3FEN2hneDZndkJLWVRJT0Fabw?oc=5</link>
-      <description>Source: Google News - AI Education — Gaston County teachers speak on use of AI by students WBTV</description>
-      <pubDate>Fri, 21 Aug 2026 10:49:44 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4c2904e17bf9923940e0910514222c5ee0b12bee35a659f550806fc1c39e099e</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Teaching and learning in the age of AI: Why literacy matters for inclusive and ethical education - Open Access Government</title>
@@ -58,10 +58,10 @@
     <item>
       <title>Auburn College of Education graduate examines how AI can support military learners in distance education programs - Auburn University</title>
       <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmNydy10NkhvbjdBSE5GcEVRRjlDajliYkotN3dzUVJwR3RNM0dPd0xuT3Q2RWZXaWxheHVUVEFmNFNFZ1dFeS04ZXJycGlSZFRKZ1pfUkJWcXpNZ3hMOVpNSWJ4UWJGOV83eEQ2Ul8xcVBRUzJKYkF5Q0NHeFl0LWFXVmZRVmJySG01SzhMQ3hBZ21WZnRBLXVIdTI2MkNFVnRCVVNxbnlHTjI1UWdQMFZvaXc0Z2VGMWhuZDJoSnBiRzlNY1pOd0NORnMyTUVqdWtoeExyVHIzQQ?oc=5</link>
-      <description>Source: Google News - AI Education — Auburn College of Education graduate examines how AI can support military learners in distance education programs Auburn University</description>
+      <description>Source: Google News - AI Higher Education — Auburn College of Education graduate examines how AI can support military learners in distance education programs Auburn University</description>
       <pubDate>Thu, 20 Aug 2026 21:03:12 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:a0524121a217d26cdd6431d61f84e7cc863e571daa3e9457ebec85bb671dafe3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Episcopal School of Jacksonville Establishes Faculty-Led Framework for Artificial Intelligence in the Classroom - EIN Presswire</title>
@@ -74,10 +74,10 @@
     <item>
       <title>Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom - Brown University</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9jclpjY0N0U29xcjVHVnQ0NndON2t0czBxM0Rhd25BbHAxMk1rWUtnYlVrRTVVWXlFR2lWa3FzakN3SjhJUHhEQ0RSYlFGUUdRRkNFU2Rvd1dPQXpwZnZ0b0gtTlV2Wk96UXdjYXhiR3dKUQ?oc=5</link>
-      <description>Source: Google News - AI Education — Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom Brown University</description>
+      <description>Source: Google News - AI Schools — Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom Brown University</description>
       <pubDate>Thu, 20 Aug 2026 19:26:41 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1d35cb2bfbc4fdc8f8ed67b3a40bd15b70df87a6e48583b76943128c8d9c5fc7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Google is giving college students a free year of Gemini AI Pro - Yahoo Tech</title>
