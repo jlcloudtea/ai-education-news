@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:42:56 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Gaston County teachers speak on use of AI by students - WBTV</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPY21OcW5GZzFsbHg0VzFzdHZLdnEzdUlSWDRTcXB2akM2Ul8wTWxLUmVlNzhHTFBYZldJc1R6U2hhQjV6MWIzLTZJMWFWajRZT1Q4LW0zbWlpdWZFSEtIMDhmcURfMU1tSGhsaUtKY3lPRmF1aGNnLTBPbm1qX3FEN2hneDZndkJLWVRJT0Fabw?oc=5</link>
+      <description>Source: Google News - AI Education — Gaston County teachers speak on use of AI by students WBTV</description>
+      <pubDate>Fri, 21 Aug 2026 10:49:44 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:4c2904e17bf9923940e0910514222c5ee0b12bee35a659f550806fc1c39e099e</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Vietnam introduces annual AI lessons for school students - TV BRICS</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0lnekpvVTd4QTlTNVA4RXNKM3NrOTFuOU1VbV9FcDJyWnIxZkcybXlBTy02RmZHWkJYY1JYUHJnZUNtX1dFRVNQYnZFQnlqMW5QbTZRemEteENtRTFabnB1UTNjeFdqSGN2ekVRN2tneDdza21MWlp4eEJDc2JvOHU5dmh1WFlLVk56VnlR?oc=5</link>
@@ -189,14 +197,6 @@
       <description>Source: Google News - AI Higher Education — Reshaping universities to suit the untested AI economy is wrong Times Higher Education</description>
       <pubDate>Tue, 18 Aug 2026 23:01:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:42a548790d6fb9981af2014f75c1b57f4e99e08408ca5e470d3ccb98ba608013</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Southampton dumps Turnitin over use of students’ work to train AI - Times Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmI2cVZZVEdNenowMnFKOVlTeC11NEczMlNLcC1GUkhFeWR0TkRLYzB1N0JvNjc1UTBsNU0tNlhJQkdUWEpKTndoVm1qTHBNWlZhb0xldUVnMlN4U2xHRkpEbFJSZHZWOVFwcW5mUkpMQXpfTUJ4UXlrNFFEZG12X2lNUkZEdnd4dmFCRFdvR0JublFHYTRtZDZvbGVRRU5sZVE?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Southampton dumps Turnitin over use of students’ work to train AI Times Higher Education</description>
-      <pubDate>Tue, 18 Aug 2026 23:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3d865c5c425e2a9b03623b122b4f5e0e527fd2a7811840c193663bf06c003ee0</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
