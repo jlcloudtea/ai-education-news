@@ -5,15 +5,23 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:52:02 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>UH Maui College receives $660K to enhance AI, cybersecurity education - - Maui News</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemFPTEMyNkNuWElyQVE4MTdXVkZxRzYxbjFmUm43cDhxUTVwM09INk5zVHJMVVdfMUw1TDRjck9lMnUtYUZIa20tOHg2Z0hVc3NMWFRKVUhtMzMtTF9RbkhCNmJtekJaYllweFBuaHh4dUxJWFJ3WF9Lck14anI3SHF2bUJkLTQ5bkdrYmM1ZU1SUWhnd1l0T2EyUGlXYzZpcUJWZjlGVHRsNG1KOGo5RWlZVGpEM0RzTEhZ?oc=5</link>
       <description>Source: Google News - AI Education — UH Maui College receives $660K to enhance AI, cybersecurity education - Maui News</description>
-      <pubDate>Fri, 21 Aug 2026 15:48:06 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 15:48:07 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:fab4d2dd808cdb3b868bb34f7ce60e6ce6288e6c3cefbd155d88f076e37bc2e6</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>How AI is changing the classroom for Atlanta students - FOX 5 Atlanta</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE42bHJtS2NnNFIxVjJOd3hkVWUtTURNRmhPSmQySGt2YkM0bWNfcjdSYm9qSFRCWDFidWd6TEhwV3MxZnNLYVRmdy1sdUs3WDJmeE5mQmpIbHh5ZDZrREh1YWloRl_SAWpBVV95cUxOb09hcVdiOTcwUmdBTjdDRW9YR0psemZMSjlsTDFPNnp2dzRoa2UwZ1V1SEsyNUd4RXNoZDNfQ00tVWxGX3I3aUpkRjc5ZVNkbUlLTjQ1T3hqQW9TemJBNDFGZ181Z09oQ3Rn?oc=5</link>
+      <description>Source: Google News - AI Schools — How AI is changing the classroom for Atlanta students FOX 5 Atlanta</description>
+      <pubDate>Fri, 21 Aug 2026 15:40:21 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:106a97301c387b13506f9a1e6f8154bbdcc27e7a014f907a711a36a67d16053a</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Using AI in College the Right Way: What Every Student Should Know - collegenews.com</title>
@@ -30,6 +38,14 @@
       <pubDate>Fri, 21 Aug 2026 15:16:48 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4018f8e9c55c26360e79bf97d200bbb650f690e6bd72e490c2876c7b10b648c5</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>Emory student with ADHD creates AI app to help overwhelmed students tackle assignments - TheGrio</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE0teDFEc1lVcjVrUEpzTzRaRVJoQ3lkWkNod2tJU1lQdHJic2xyTjZnWjRSRGFoeXpmcDJCdzhaZEhERmhZTjRxS2JKTVRoWU0tQlctZG5MRk5NR3R1Z2NEWmpIN0gxQjlTcGhHdHVNRWtXR1ln?oc=5</link>
+      <description>Source: Google News - AI Education — Emory student with ADHD creates AI app to help overwhelmed students tackle assignments TheGrio</description>
+      <pubDate>Fri, 21 Aug 2026 14:07:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d9f3913cc24bf1c4ce132459abb3920e4adf58f8fcbd2d3601fb929adee35523</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom - Phys.org</title>
@@ -54,14 +70,6 @@
       <pubDate>Fri, 21 Aug 2026 08:56:08 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:621e87327420a8d6ede5b57be554b62d013be1fb0a3ee1721cca496ef42d4c82</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Google rolls out AI learning tools, free AI Plus access for eligible Indian college students - The Economic Times</title>
-      <link>https://news.google.com/rss/articles/CBMirAJBVV95cUxNSGk2QURfbkk3ckxYVU0wQmlVRG9iTndFNzFyMnhFdG8tSWkyTFp3SF95ZDhoQWlfOGYza0poUzFwYnhUQVBWaHhJR2ZQRkxmWVVMZXlqaUV5LUkxVU90S3dLWGdkZDM3clJjRUwzLWl4d3VOLXRvZ3RfdXhSUUxSbGhUclMzRkllNVN2bVNNMkFYa3dIY1JiMU9ZMHBjdWV1T2xmLU5EeUJlMUNKSFlHNmlHcHlYOHpWemxjU2JyRlNoa2dqdmFkVkgyVTdETDY0OEFydjlGZ0ZvS0NXMFBQcGJoV2k3eko3RVY4SHZTTF9oTnFUaXVFSkpPTzQzY1gxak1wTFdOdW5BcElmVTJMSGJuMkJPeE5tQ0Y1YlNrWHBBS1M1b1ZqX2g5R3jSAbICQVVfeXFMTWZKNmpVT1hFTU5qdHZ1UVhTTTkxSWpyYlF2ZngwOVFFTnZOMEZwWF9OVTdQVkRHUzNqT1Y0T0dfeWVZWlpabXBOdVZ6aGNRTlVIczhKZzRYOGFPRS1sTVJKeTVOZGxEVEZwWVlCSGx5LXpDUldLS0ZkM3BvRUowWllDMVdQbVltYXhMaVpkbDU3ZUE1bnlxMEY0SC05V3RLMVVHdkZ1d2FHenFFOFpuN3ZsU2NIS3dRX2NJQjlsZDFjTlp5WHZLVTRXSmRQVkhlRXN1U05veE9tNi1TTHhuZlVUdk1BTmZFUmlPbFBqSnFpdFFxbW9QUXVsSGh6b3FDMlltMjVlVm1KRUJYSlVxOS1BVUxlUjNtTXo3RVNIUVQ0bmx4SG81NjV6M0diZ21wU2ln?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Google rolls out AI learning tools, free AI Plus access for eligible Indian college students The Economic Times</description>
-      <pubDate>Fri, 21 Aug 2026 05:03:49 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:774b42d8d0df8dcc8fb96241abdc7b1158c2ce8b6eb0fe81c5f0f865a65b2712</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>College of the Desert professor on how students should use AI this school year - KESQ</title>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 20 Aug 2026 04:07:41 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:136b238d3cadb9723e9429e38ac6bc9888439f0d32254173d8d3da504700df67</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Google packs Search and Gemini with new AI study tools</title>
-      <link>https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini</link>
-      <description>Source: TechCrunch AI — The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.</description>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:950c9a646a19aa781177c1e08faca9887f6c8183e25c1f163815d72efd1b4cec</guid>
-      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
     </item>
     <item>
       <title>Start the semester with one year of Gemini, on us</title>
