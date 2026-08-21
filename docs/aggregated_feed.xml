@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 11:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:11:21 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Help us understand how AI has changed the way you teach</title>
+      <link>https://hechingerreport.org/help-us-understand-how-ai-has-changed-the-way-you-teach</link>
+      <description>Source: The Hechinger Report — We want to know how artificial intelligence use is changing your class time and assignments. Students and teachers at all levels of education are using it, even as researchers work in real time to analyze its effects on learning, good and bad. A majority of students and instructors report using AI regularly, with equal numbers […] The post Help us understand how AI has changed the way you teach appeared first on The Hechinger Report .</description>
+      <pubDate>Fri, 21 Aug 2026 11:45:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:261aee8a919df31b1391595d066f6f436350ab398634cfe7a3e231edef64d4d5</guid>
+      <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
+    </item>
     <item>
       <title>Gaston County teachers speak on use of AI by students - WBTV</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPY21OcW5GZzFsbHg0VzFzdHZLdnEzdUlSWDRTcXB2akM2Ul8wTWxLUmVlNzhHTFBYZldJc1R6U2hhQjV6MWIzLTZJMWFWajRZT1Q4LW0zbWlpdWZFSEtIMDhmcURfMU1tSGhsaUtKY3lPRmF1aGNnLTBPbm1qX3FEN2hneDZndkJLWVRJT0Fabw?oc=5</link>
@@ -14,22 +22,6 @@
       <pubDate>Fri, 21 Aug 2026 10:49:44 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4c2904e17bf9923940e0910514222c5ee0b12bee35a659f550806fc1c39e099e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Vietnam introduces annual AI lessons for school students - TV BRICS</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0lnekpvVTd4QTlTNVA4RXNKM3NrOTFuOU1VbV9FcDJyWnIxZkcybXlBTy02RmZHWkJYY1JYUHJnZUNtX1dFRVNQYnZFQnlqMW5QbTZRemEteENtRTFabnB1UTNjeFdqSGN2ekVRN2tneDdza21MWlp4eEJDc2JvOHU5dmh1WFlLVk56VnlR?oc=5</link>
-      <description>Source: Google News - AI Education — Vietnam introduces annual AI lessons for school students TV BRICS</description>
-      <pubDate>Fri, 21 Aug 2026 10:01:47 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:71529bdcf5e4f9efc7ef59411c4d510799054cd55d51ac6bfea5f2a806389a7f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Dalhousie University - Dalhousie launches Atlantic AI Institute to help shape responsible AI in the region - Education News Canada</title>
-      <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaGVtbDV2SWxyUHAwTUdvRzlUUno5MXY1cTBZb2dqZE9xNktNN0pwaWtaeWlwaVNOMDN4b1ZjQkVoRHZ2R2R5MGtDUHhpcVlCYlZEZTRtSGNNRUFheUFEaEJTcDEwTV8wM19QTnZHdjZXUHd2eFBlaktON1FZQlVFRzJvdmVFU29LVGljYnZ1d245YWVXclFCb25pZHpKRVY2Y3pIdnktb0NZV1BYZnpycjhrcXdNSmFLMzVkNG1UOElqNlMxbXM2bFBRU3BXSDhPZUNzVGc2cnZuR0xqVi1NSVh6MkhuRXpyZ0JqSGxpQUFCS0FLWGZYeA?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Dalhousie University - Dalhousie launches Atlantic AI Institute to help shape responsible AI in the region Education News Canada</description>
-      <pubDate>Fri, 21 Aug 2026 09:39:16 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b0e8879be3a59dcce1fe7b86c8160a738b34394fcb6e0c6710aa0f0dafdf4a05</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Teaching and learning in the age of AI: Why literacy matters for inclusive and ethical education - Open Access Government</title>
@@ -64,14 +56,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Help us understand how AI has changed the way you teach</title>
-      <link>https://hechingerreport.org/help-us-understand-how-ai-has-changed-the-way-you-teach</link>
-      <description>Source: The Hechinger Report — We want to know how artificial intelligence use is changing your class time and assignments. Students and teachers at all levels of education are using it, even as researchers work in real time to analyze its effects on learning, good and bad. A majority of students and instructors report using AI regularly, with equal numbers […] The post Help us understand how AI has changed the way you teach appeared first on The Hechinger Report .</description>
-      <pubDate>Thu, 20 Aug 2026 22:41:25 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:261aee8a919df31b1391595d066f6f436350ab398634cfe7a3e231edef64d4d5</guid>
-      <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
-    </item>
-    <item>
       <title>Auburn College of Education graduate examines how AI can support military learners in distance education programs - Auburn University</title>
       <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmNydy10NkhvbjdBSE5GcEVRRjlDajliYkotN3dzUVJwR3RNM0dPd0xuT3Q2RWZXaWxheHVUVEFmNFNFZ1dFeS04ZXJycGlSZFRKZ1pfUkJWcXpNZ3hMOVpNSWJ4UWJGOV83eEQ2Ul8xcVBRUzJKYkF5Q0NHeFl0LWFXVmZRVmJySG01SzhMQ3hBZ21WZnRBLXVIdTI2MkNFVnRCVVNxbnlHTjI1UWdQMFZvaXc0Z2VGMWhuZDJoSnBiRzlNY1pOd0NORnMyTUVqdWtoeExyVHIzQQ?oc=5</link>
       <description>Source: Google News - AI Education — Auburn College of Education graduate examines how AI can support military learners in distance education programs Auburn University</description>
@@ -102,6 +86,14 @@
       <pubDate>Thu, 20 Aug 2026 15:34:45 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ba2ec0e751ad8b77f675a3b9a1e71426a97185f5ccb503d1a19c99de3ce639e2</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI Literacy in the Language Classroom: Navigating Opportunity and Risk - Cambridge University Press &amp; Assessment</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNMjN1aWxQUkMtQmFMTm5FWUNjTWtabFk2RXJyM250a0xxenoyeVpoU0txRVNUdHM1ZEEwakhDcFJ0bDdLY0gtdU1tNDItU0ozWXNzS2dGVDBfcENuY3VhTWxFRGk5eDVYaWZyRUlLSjZEb0hoM0RJMFI4THM4TmpaZFlNVlgtVlVzVjR5NVZraWo4MUVweVBVX1R6Z0lMQ1pDNmxSTXB5WFh1b2hKcXpMN0tYLWxmaWM?oc=5</link>
+      <description>Source: Google News - AI Schools — AI Literacy in the Language Classroom: Navigating Opportunity and Risk Cambridge University Press &amp; Assessment</description>
+      <pubDate>Thu, 20 Aug 2026 14:12:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a1a8beea59646f51228c51103934a3e5a907b82846d086cc8b32a502a2b97a48</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Renaissance Brings AI-Powered Intelligence to Every Classroom, Saving Teachers Time With Curriculum-Connected Insights and Resources All in One Place - PR Newswire</title>
@@ -182,6 +174,14 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
+    </item>
+    <item>
+      <title>Built for the complexity of education: AI that understands your institution</title>
+      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
+      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
+      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
+      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
