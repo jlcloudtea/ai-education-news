@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 10:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:35:25 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Codeyoung Integrates AI Across Its entire K-12 Curriculum - The Malone Telegram</title>
@@ -30,6 +30,14 @@
       <pubDate>Sat, 22 Aug 2026 05:09:48 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:80d0fdf3e1531220485e6789b6cfb9f785c4f94b88fe8e27b985acecba224988</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Teaching AI literacy in the classroom - WKRN News 2</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9jT2xtVEZ6OE1ZaUtzT0pGbk5Rcks0RUFCdnF1eTZVYkhVZkZVNUhfc2N2ZEZrQmxYbm96YjB0TVVHRHNOODdQMWYxQ19ZZDVKM0tETF9VN1h2UThvVGZHNFZwWnh6NTQ3a0c4UzRwVHdiemlFWlJUQmo5UTg0RGs?oc=5</link>
+      <description>Source: Google News - AI Schools — Teaching AI literacy in the classroom WKRN News 2</description>
+      <pubDate>Sat, 22 Aug 2026 03:14:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d73812f871d75c1bac9bc0b236dfe2c936ac1207f2bec5dbaa9c7b1176321aa9</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
@@ -78,14 +86,6 @@
       <pubDate>Fri, 21 Aug 2026 11:45:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:261aee8a919df31b1391595d066f6f436350ab398634cfe7a3e231edef64d4d5</guid>
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
-    </item>
-    <item>
-      <title>Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI - The Economic Times</title>
-      <link>https://news.google.com/rss/articles/CBMi0wJBVV95cUxOYkVyNjdvUzIxVDRqMHpIb21FS0tlaU8xVGsxUjMxeUVYRWFHQ1hYa01YcWJsdXNfMUZkdUJ3YjdrT1cwMjdCNEFQRjhoZWRiLTVFWGlpb1hIaTlvYlFNbzJRdURkdlFja2hKdWRHVTU5VFpCdkNTeW8xUk12ekNqWjh1ekhMTmVkS1QyZkpfdE5wbW53aDRRY09aemVrQXd0UnZGWTduUkNJa1ZPSlh2c04tdDJJX3pTUlBSUWt3UGNJOVJCdEdCNWZYSC11Ri1oVG5fT3ltR3J0eHZJdWZGRkZlMlh1eXlJMEd6VWFhdmVVSUlMVFNvS1poeWRKbWppZjdxWlhydFhvU09tSVpsUDY1ZTl6NWt5VXRGX3BKeEhSN2hDVFdKWnFBX1VVTGRuaVVYYVUzNnBzMW1WbjI4TzV2c3hmdnpmOW1SWVJfbVk5ODjSAdgCQVVfeXFMTm9CaGh1WExOaXZfVjJ2TkdsTnd6TWtuLUNGeWthMWR5NXhlZ2t4TWFvS2ttVXFQcDlCdkZ2QW44OXdxeUc1enBjby0wV21LMXNQcm9uR1MyZHVxRVNaVzRiQ2pyQ0ZObXJwaC0tVENoU1RlNXJZc2R0NVFBUng3QzdjaGtfQTNwYzdHWDNpSVdIZ1BnbHhpbkxXdWplQkJzbGhOcW1VMnNYdGg0djR4akxscmh4dHFqMk1CVlFEdkdNUW5RdUY4eDVaS3gwRkZ6ck5aNF9ncVZ3clBxVWpGNEZjc2w4YmNialFsYXBBYV9sMmZ5Q0VRb19CazJkbUFlUmcyNlRZc01GRHBmQ0xReDNaTFBKbkpDdkhJOGdBZzhUeG9pN1RSQmdic0sxTVBOSXJhcHJBR0c2OVQtY2JwblFnUnlKeEllNjhkQTJ1LW8yTC10cjktT28?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI The Economic Times</description>
-      <pubDate>Fri, 21 Aug 2026 11:16:57 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:25d3ce060170f130678c00f8d6fde7890cf06bff976027f3d656e5e0b103e5c1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Teaching and learning in the age of AI: Why literacy matters for inclusive and ethical education - Open Access Government</title>
