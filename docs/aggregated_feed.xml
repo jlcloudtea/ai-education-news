@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:49:18 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>10 Back-to-School AI Updates For Educators - Forbes</title>
@@ -46,6 +46,14 @@
       <pubDate>Sat, 22 Aug 2026 06:30:17 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:f2a0a7774e825d2b0406c2b201b2fd0aa20c2709a32eeb35631bbb2088f60bee</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Teaching AI literacy in the classroom - WKRN News 2</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9jT2xtVEZ6OE1ZaUtzT0pGbk5Rcks0RUFCdnF1eTZVYkhVZkZVNUhfc2N2ZEZrQmxYbm96YjB0TVVHRHNOODdQMWYxQ19ZZDVKM0tETF9VN1h2UThvVGZHNFZwWnh6NTQ3a0c4UzRwVHdiemlFWlJUQmo5UTg0RGs?oc=5</link>
+      <description>Source: Google News - AI Schools — Teaching AI literacy in the classroom WKRN News 2</description>
+      <pubDate>Sat, 22 Aug 2026 03:14:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d73812f871d75c1bac9bc0b236dfe2c936ac1207f2bec5dbaa9c7b1176321aa9</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
@@ -96,14 +104,6 @@
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
     </item>
     <item>
-      <title>Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI - The Economic Times</title>
-      <link>https://news.google.com/rss/articles/CBMi0wJBVV95cUxOYkVyNjdvUzIxVDRqMHpIb21FS0tlaU8xVGsxUjMxeUVYRWFHQ1hYa01YcWJsdXNfMUZkdUJ3YjdrT1cwMjdCNEFQRjhoZWRiLTVFWGlpb1hIaTlvYlFNbzJRdURkdlFja2hKdWRHVTU5VFpCdkNTeW8xUk12ekNqWjh1ekhMTmVkS1QyZkpfdE5wbW53aDRRY09aemVrQXd0UnZGWTduUkNJa1ZPSlh2c04tdDJJX3pTUlBSUWt3UGNJOVJCdEdCNWZYSC11Ri1oVG5fT3ltR3J0eHZJdWZGRkZlMlh1eXlJMEd6VWFhdmVVSUlMVFNvS1poeWRKbWppZjdxWlhydFhvU09tSVpsUDY1ZTl6NWt5VXRGX3BKeEhSN2hDVFdKWnFBX1VVTGRuaVVYYVUzNnBzMW1WbjI4TzV2c3hmdnpmOW1SWVJfbVk5ODjSAdgCQVVfeXFMTm9CaGh1WExOaXZfVjJ2TkdsTnd6TWtuLUNGeWthMWR5NXhlZ2t4TWFvS2ttVXFQcDlCdkZ2QW44OXdxeUc1enBjby0wV21LMXNQcm9uR1MyZHVxRVNaVzRiQ2pyQ0ZObXJwaC0tVENoU1RlNXJZc2R0NVFBUng3QzdjaGtfQTNwYzdHWDNpSVdIZ1BnbHhpbkxXdWplQkJzbGhOcW1VMnNYdGg0djR4akxscmh4dHFqMk1CVlFEdkdNUW5RdUY4eDVaS3gwRkZ6ck5aNF9ncVZ3clBxVWpGNEZjc2w4YmNialFsYXBBYV9sMmZ5Q0VRb19CazJkbUFlUmcyNlRZc01GRHBmQ0xReDNaTFBKbkpDdkhJOGdBZzhUeG9pN1RSQmdic0sxTVBOSXJhcHJBR0c2OVQtY2JwblFnUnlKeEllNjhkQTJ1LW8yTC10cjktT28?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI The Economic Times</description>
-      <pubDate>Fri, 21 Aug 2026 11:16:57 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:25d3ce060170f130678c00f8d6fde7890cf06bff976027f3d656e5e0b103e5c1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Teaching and learning in the age of AI: Why literacy matters for inclusive and ethical education - Open Access Government</title>
       <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGp3dG90TnoyNGYwZnhETnBTcHBNQTVxLUJoaHN2dE1FZDRCeGxKY2hBZnhrTVZtRGVwN3hETXZHRjYwMFY1amU1MEZmb191TEdiOXRpMDJ5V0NMRkpJUnpCYjNOOHRpTE9Ka3drRVdWd015R1BmSlhLc0VGWTU5YzRjN0x0VjVQbTdoUXRKSk5Tc1dDelNucHdtMmlwM3Q0X1dWeTV6M1Fsamp6SG9RQ0ZvVlF3TGhTODV5bmN2bE9QUmN3SWxnTDNja2FoVUdETEFoQ01WYw?oc=5</link>
       <description>Source: Google News - AI Education — Teaching and learning in the age of AI: Why literacy matters for inclusive and ethical education Open Access Government</description>
@@ -120,12 +120,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Sand Springs Public Schools welcomes students with new middle school, AI focus - fox23.com</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0lMcG1IV0ZMRjhXNzRnYm12eGJtR3Y4VWJiNnhtYXVWdUYxSHR3ZXprR2R4LVJVY0ZCeGhwV0JSZ2xvWWZuLUhIajhWOUJIYTVDVk1yQmtCdjVQUm9wVldmVGZyMm5mamdzTEs3TXM2WlRXVWp6R0dOWVdzS0NpUm1MdC1SNWIxM25vMU9VQWhCMkhMUlhGcVA5cXlpdjg3b29XdjhYMHVOUQ?oc=5</link>
-      <description>Source: Google News - AI Schools — Sand Springs Public Schools welcomes students with new middle school, AI focus fox23.com</description>
-      <pubDate>Thu, 20 Aug 2026 17:01:06 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:214d915799317527b2ee907a361833975fc6ac4f2ee975bebcb9cb96501ccaf9</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <title>Sand Springs Public Schools welcomes students with new middle school, AI focus - KTUL</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0h1UDFpSzRGdzIyWnRkbWc1dHFrRW1OekUzaFozekMyQlVQLXNZdDI3Uy1BemFidTFDcUF6U1lsSFpDV2NfOU51RW5MZ0FOX1pjemdCWHZfdkVvaVp5VlVIWGk0MUpSMmNtaHZ4X2tDNG9CaF9TLXltaGRRUE9ZV01sTWJyRXBKcDB0SUY0bTdOLTA1TzVfNzhjYWtYYzBKaEo0cG9rU2d5TWczWE5QZ1RoY1FOSVk?oc=5</link>
+      <description>Source: Google News - AI Education — Sand Springs Public Schools welcomes students with new middle school, AI focus KTUL</description>
+      <pubDate>Thu, 20 Aug 2026 17:08:40 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ba455c9e5a371bf5a5915f6ab174f0693be7fc2a731f182aadb516a7c6452690</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>27J Schools incorporate AI system to detect guns, as Colorado students begin school year - CBS News</title>
