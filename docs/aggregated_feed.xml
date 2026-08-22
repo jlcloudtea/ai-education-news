@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:56:55 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Teaching AI literacy in the classroom - WKRN News 2</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9jT2xtVEZ6OE1ZaUtzT0pGbk5Rcks0RUFCdnF1eTZVYkhVZkZVNUhfc2N2ZEZrQmxYbm96YjB0TVVHRHNOODdQMWYxQ19ZZDVKM0tETF9VN1h2UThvVGZHNFZwWnh6NTQ3a0c4UzRwVHdiemlFWlJUQmo5UTg0RGs?oc=5</link>
+      <description>Source: Google News - AI Schools — Teaching AI literacy in the classroom WKRN News 2</description>
+      <pubDate>Sat, 22 Aug 2026 03:14:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d73812f871d75c1bac9bc0b236dfe2c936ac1207f2bec5dbaa9c7b1176321aa9</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
     <item>
       <title>How do Questrom students feel about the school’s expansion of AI-focused programs? - The Daily Free Press</title>
       <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcnlvYXktMDJ3SXQ3a2p3cmhLWTI4SkVlM2xIVkpSanhRSVRRWEtLbEpCVGotVGNxUEZfRTVhT2V5Nm9tQkJ1R1RHOS11Wks0ek9ZQUtwVFdVSkg4aVhydnlXLWJ6R1ZZRXlZUW5xZThjdVZ6NWM1aUh4dk5Qc0s5OVhnS1B1c1F6elpfWXJja0oxdUh1a3pvT09ZTThjaTNTSmszVUc0MHUtWkpFZDNTTWtZdlJubGxQQjhHckN1TDJxdw?oc=5</link>
@@ -29,14 +37,6 @@
       <description>Source: Google News - AI Education — Japan proposes university support programme combining AI education and student exchanges Digital Watch Observatory</description>
       <pubDate>Fri, 21 Aug 2026 18:40:56 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d202e5c5ee36fd02a8b2e7868d05a722ffc2b0756e90056ab4f5f07357668b1c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>OpenAI introduces ChatGPT for Teens. What do teachers think? - Northeastern Global News</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dVNxTmN0bzJsc2RlXzFkN2pNSk9ib1ZhX19vZ09HM0tHMzZmY3VSa3JYRC1kZThrWnFlWVFIeDB4bllhQWUzNHZzZ3c5d1FwazI5WnM2WXRmVGR3V2xWdUs4aVJZdTVkNzhXT0ZnazItMUE3bVRuXzBoMHk?oc=5</link>
-      <description>Source: Google News - AI Education — OpenAI introduces ChatGPT for Teens. What do teachers think? Northeastern Global News</description>
-      <pubDate>Fri, 21 Aug 2026 17:24:59 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a6792af917904115e4093395f6db726edff61336462c1da8ad905daf78044ec6</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
