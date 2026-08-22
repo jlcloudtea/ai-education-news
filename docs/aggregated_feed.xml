@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:44:47 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>The Results of Middle and High School Students Using AI Are Extremely Ominous - Futurism</title>
@@ -30,6 +30,14 @@
       <pubDate>Sat, 22 Aug 2026 06:30:17 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:f2a0a7774e825d2b0406c2b201b2fd0aa20c2709a32eeb35631bbb2088f60bee</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI Must Enhance, Not Replace, Learning - BW Education</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWhJSDc4YkYxUTJ4el9mX1VsRGg2M2dXa2ZINjcyeDdsUTJGY3N0Z0Mwd0JkTDMxRnFkdXFxVE1rMWRLWlJJLW1DN1kzbFRrY2Rydk5yTWtlUmV6MUNuZV8tWDFWYURwaGNSbTR6NlFLYkt3WUlxNnJpOHJpUWcxdjMtc3FXZw?oc=5</link>
+      <description>Source: Google News - AI Education — AI Must Enhance, Not Replace, Learning BW Education</description>
+      <pubDate>Sat, 22 Aug 2026 05:09:48 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:80d0fdf3e1531220485e6789b6cfb9f785c4f94b88fe8e27b985acecba224988</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
@@ -182,14 +190,6 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
