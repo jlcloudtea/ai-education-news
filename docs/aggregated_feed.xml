@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 09:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:40:55 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Codeyoung Integrates AI Across Its entire K-12 Curriculum - The Malone Telegram</title>
@@ -16,27 +16,19 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
+      <title>Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. - ET Education</title>
+      <link>https://news.google.com/rss/articles/CBMitgJBVV95cUxQMHFBUF8yd2hWcnBPb19IejJfQ29jNlMyRzVTTmVNZk1yRzIwN2o3ZDNHR20xaHFWSUxSaGk1aUE2aEJ0MGM2OUd2ODduaTVuU1VvUjZfSnpEeVhoMVhVZlRMTVU3MmFabUFhamx5VzJVa3VRM1JqdTJwTUtVRjdOOGp2LWJhSlFrSnNMdFJNMzNRUDFQbzZtN3FCTHlSVHRiREFnQjAzRDFscERBVllULXU5QlNoWllJSGV2aDBPODdKRmlzZE9QSF94UWtFTWtlMTMxck5LZTlTNFJrVFhNYjkzZzR2TEJNdjJfQzViY2pBNGhNZWxvWkpCeFFZbS01SHFuOGRjZmxqMHcxTlhhTlFLd21TMDI4TFZUVGplLUl6dkZsc0otN25VdTVOU2Q1bnUxaWdn0gG7AkFVX3lxTFB5TlcwSnE3a2ZuVGk1Y2lBTjZUSVdTT2taRkZ1blRkMmZjTm9OX0d1LUotQXMwYUtQSzVkb3NrOUJHNnVtUHNpN01EYzdZQ1paazVMN0Vwc3ZHMG9SZmt2amZzUWluc1lPWGRCbWFZdWt6SGZJbkIybjN3LUFraFN4ak40dTI4elowcVo5RUliNkkyajlwLUk5bTcyS1J6ZUkzVHJ1N2h3VTNhTmNHZlo1WVU3VV9ZV2lSQ1hBaWR6cEhjdGk3Q2VXQ3RDVGthemtvMWYxLVc5T1hIeHJCdTlBaWwwTFRyWF9CbG5QaDVMMFdndFpjVGNqbFpjSWVFdG5RMXRpaW5YZlpFSmxWZE91ek1UNkRQSFZqRTFSbXlGYTdEcjFmcElHaV9raGpJNUlQZWpsTTdzR1A1bw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. ET Education</description>
+      <pubDate>Sat, 22 Aug 2026 06:30:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f2a0a7774e825d2b0406c2b201b2fd0aa20c2709a32eeb35631bbb2088f60bee</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>AI Must Enhance, Not Replace, Learning - BW Education</title>
       <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQYWhJSDc4YkYxUTJ4el9mX1VsRGg2M2dXa2ZINjcyeDdsUTJGY3N0Z0Mwd0JkTDMxRnFkdXFxVE1rMWRLWlJJLW1DN1kzbFRrY2Rydk5yTWtlUmV6MUNuZV8tWDFWYURwaGNSbTR6NlFLYkt3WUlxNnJpOHJpUWcxdjMtc3FXZw?oc=5</link>
       <description>Source: Google News - AI Education — AI Must Enhance, Not Replace, Learning BW Education</description>
       <pubDate>Sat, 22 Aug 2026 05:09:48 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:80d0fdf3e1531220485e6789b6cfb9f785c4f94b88fe8e27b985acecba224988</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Teaching AI literacy in the classroom - WKRN News 2</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9jT2xtVEZ6OE1ZaUtzT0pGbk5Rcks0RUFCdnF1eTZVYkhVZkZVNUhfc2N2ZEZrQmxYbm96YjB0TVVHRHNOODdQMWYxQ19ZZDVKM0tETF9VN1h2UThvVGZHNFZwWnh6NTQ3a0c4UzRwVHdiemlFWlJUQmo5UTg0RGs?oc=5</link>
-      <description>Source: Google News - AI Schools — Teaching AI literacy in the classroom WKRN News 2</description>
-      <pubDate>Sat, 22 Aug 2026 03:14:23 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d73812f871d75c1bac9bc0b236dfe2c936ac1207f2bec5dbaa9c7b1176321aa9</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>How do Questrom students feel about the school’s expansion of AI-focused programs? - The Daily Free Press</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcnlvYXktMDJ3SXQ3a2p3cmhLWTI4SkVlM2xIVkpSanhRSVRRWEtLbEpCVGotVGNxUEZfRTVhT2V5Nm9tQkJ1R1RHOS11Wks0ek9ZQUtwVFdVSkg4aVhydnlXLWJ6R1ZZRXlZUW5xZThjdVZ6NWM1aUh4dk5Qc0s5OVhnS1B1c1F6elpfWXJja0oxdUh1a3pvT09ZTThjaTNTSmszVUc0MHUtWkpFZDNTTWtZdlJubGxQQjhHckN1TDJxdw?oc=5</link>
-      <description>Source: Google News - AI Education — How do Questrom students feel about the school’s expansion of AI-focused programs? The Daily Free Press</description>
-      <pubDate>Fri, 21 Aug 2026 20:59:02 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:f8a1ed9a5dea33982de84da639da3f2ba89caa19a4ac8c6739e53939bc5fd8c8</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -53,14 +45,6 @@
       <description>Source: Google News - AI Education — Japan proposes university support programme combining AI education and student exchanges Digital Watch Observatory</description>
       <pubDate>Fri, 21 Aug 2026 18:40:56 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d202e5c5ee36fd02a8b2e7868d05a722ffc2b0756e90056ab4f5f07357668b1c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>OpenAI introduces ChatGPT for Teens. What do teachers think? - Northeastern Global News</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dVNxTmN0bzJsc2RlXzFkN2pNSk9ib1ZhX19vZ09HM0tHMzZmY3VSa3JYRC1kZThrWnFlWVFIeDB4bllhQWUzNHZzZ3c5d1FwazI5WnM2WXRmVGR3V2xWdUs4aVJZdTVkNzhXT0ZnazItMUE3bVRuXzBoMHk?oc=5</link>
-      <description>Source: Google News - AI Education — OpenAI introduces ChatGPT for Teens. What do teachers think? Northeastern Global News</description>
-      <pubDate>Fri, 21 Aug 2026 17:24:59 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a6792af917904115e4093395f6db726edff61336462c1da8ad905daf78044ec6</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -94,6 +78,14 @@
       <pubDate>Fri, 21 Aug 2026 11:45:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:261aee8a919df31b1391595d066f6f436350ab398634cfe7a3e231edef64d4d5</guid>
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
+    </item>
+    <item>
+      <title>Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI - The Economic Times</title>
+      <link>https://news.google.com/rss/articles/CBMi0wJBVV95cUxOYkVyNjdvUzIxVDRqMHpIb21FS0tlaU8xVGsxUjMxeUVYRWFHQ1hYa01YcWJsdXNfMUZkdUJ3YjdrT1cwMjdCNEFQRjhoZWRiLTVFWGlpb1hIaTlvYlFNbzJRdURkdlFja2hKdWRHVTU5VFpCdkNTeW8xUk12ekNqWjh1ekhMTmVkS1QyZkpfdE5wbW53aDRRY09aemVrQXd0UnZGWTduUkNJa1ZPSlh2c04tdDJJX3pTUlBSUWt3UGNJOVJCdEdCNWZYSC11Ri1oVG5fT3ltR3J0eHZJdWZGRkZlMlh1eXlJMEd6VWFhdmVVSUlMVFNvS1poeWRKbWppZjdxWlhydFhvU09tSVpsUDY1ZTl6NWt5VXRGX3BKeEhSN2hDVFdKWnFBX1VVTGRuaVVYYVUzNnBzMW1WbjI4TzV2c3hmdnpmOW1SWVJfbVk5ODjSAdgCQVVfeXFMTm9CaGh1WExOaXZfVjJ2TkdsTnd6TWtuLUNGeWthMWR5NXhlZ2t4TWFvS2ttVXFQcDlCdkZ2QW44OXdxeUc1enBjby0wV21LMXNQcm9uR1MyZHVxRVNaVzRiQ2pyQ0ZObXJwaC0tVENoU1RlNXJZc2R0NVFBUng3QzdjaGtfQTNwYzdHWDNpSVdIZ1BnbHhpbkxXdWplQkJzbGhOcW1VMnNYdGg0djR4akxscmh4dHFqMk1CVlFEdkdNUW5RdUY4eDVaS3gwRkZ6ck5aNF9ncVZ3clBxVWpGNEZjc2w4YmNialFsYXBBYV9sMmZ5Q0VRb19CazJkbUFlUmcyNlRZc01GRHBmQ0xReDNaTFBKbkpDdkhJOGdBZzhUeG9pN1RSQmdic0sxTVBOSXJhcHJBR0c2OVQtY2JwblFnUnlKeEllNjhkQTJ1LW8yTC10cjktT28?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI The Economic Times</description>
+      <pubDate>Fri, 21 Aug 2026 11:16:57 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:25d3ce060170f130678c00f8d6fde7890cf06bff976027f3d656e5e0b103e5c1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Teaching and learning in the age of AI: Why literacy matters for inclusive and ethical education - Open Access Government</title>
@@ -174,6 +166,14 @@
       <pubDate>Thu, 20 Aug 2026 08:51:49 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:328aed1c098761df192fb474b23c7e504a61f6f5b5de3a69e69687f854558472</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Google AI tools for students and educators: Back to School 2026 - blog.google</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUVDMkVXREx4ZWxlQjhWanBOZ2kyT19OT3o0ZzlDR0t6VHQ3TUVjeHZXTlBUMHh6TERncmxwa1pWQnRzajB6T3JXdGxqYUdrSVQxaVhGR2pSX25va1IteEEzVEZ6MnFPZ0cwRXRNRnhpZ1l2Q3JjVXRhTk1XRXhjY1djc1hWeGtsNEE?oc=5</link>
+      <description>Source: Google News - AI Education — Google AI tools for students and educators: Back to School 2026 blog.google</description>
+      <pubDate>Wed, 19 Aug 2026 19:07:53 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:36374496c61e3fad88453468e1dd77c14c9c5f1c820f7cbc71ecb62278c87cf7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Start the semester with one year of Gemini, on us</title>
