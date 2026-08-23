@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 11:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:02:25 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>University of Sharjah launches AI-driven overhaul of academic programmes - وكالة وام</title>
@@ -22,14 +22,6 @@
       <pubDate>Sun, 23 Aug 2026 09:36:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:42577e40b2e20460a40ccf7ae40058ed0753158e5b4daf5c7420c0168d536a52</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI, Decolonisation and Future of African Education: Why Uganda Must Rethink What School Is For - SoftPower News</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOWDRxQWJqSDUtM0c5SFNoZFY1aWgweWQ5SFhjM1Z5bjVzUVVYVTROMnlnRG0wcHM2VHZPS3dCamJnWk1WWm1xa0x0dU1EN0E0Y2wwYlNweEw2dVdWMGFiRDNyeUJqZGV6TU85YjRqS0t0cmRFV3hjdjd2NGUxU1dOTXpRUUk4VDMxQXJ0RWI0Y2Rpb0NUYUJTRzNQOEtIRzBGZW9xMnZuWlBfZ2h4dm1wV3pLdk4?oc=5</link>
-      <description>Source: Google News - AI Schools — AI, Decolonisation and Future of African Education: Why Uganda Must Rethink What School Is For SoftPower News</description>
-      <pubDate>Sun, 23 Aug 2026 06:31:43 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3c5a29a6af3d640b648829667752d885c32df9cbf5e7131f816408d450f6e8f9</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence - markets.businessinsider.com</title>
@@ -50,9 +42,25 @@
     <item>
       <title>10 Back-to-School AI Updates For Educators - Yahoo News UK</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1OUDh5N2N0ZVYxNGplZlZhZmEyMkdjZEtSVG8xMURYM3R5QzZVQVJyS2V1VHNIeWxlckFEcnBuQXZFVmVqMTliS2FJNmlnTFRQVnlqbTVPSDlsQm45WnI4SGZRTW00cmtndFpYWE11cTUzNlZO?oc=5</link>
-      <description>Source: Google News - AI Education — 10 Back-to-School AI Updates For Educators Yahoo News UK</description>
+      <description>Source: Google News - AI Schools — 10 Back-to-School AI Updates For Educators Yahoo News UK</description>
       <pubDate>Sat, 22 Aug 2026 16:36:49 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:abf060c302238a30c1e4904a829a51e870e7220afd3a4c16ee48363d0de404f6</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>AI agents are quietly rewriting school procurement, starting with the shopping cart - MarketScale</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHNwUkw1djBDdnBNZzRveHp2ZV9ZMjJtZXZRQnVlckJqYmFnZDQ1OUVTZTFGUlIxVkRzTEhQMWZEMVhKTlJGTklraXNSZmpQc01yd3pIQzhYM3FJbWRubVQxSENYZWY2Y2FLaWx2ZVAwcVF2c1MxV2VwYVlvU1RFQnpDUmNGSVdwQVBwRHFwQW8zM1NweXdmMkZKMC1ja2d2UGVRUWxoTy1QYkpsNE9zRVo0dm43UDVSM1FrVVhGR3JRbzRUMzZUNVQwLTJtRnZTanNUQmJBb3QzUQ?oc=5</link>
+      <description>Source: Google News - AI Education — AI agents are quietly rewriting school procurement, starting with the shopping cart MarketScale</description>
+      <pubDate>Sat, 22 Aug 2026 16:35:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:61d5ba7718d8c93203c307df90ecebd45778b0a0d3c6a59020cee3c4293270cc</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>The Results of Middle and High School Students Using AI Are Extremely Ominous - Futurism</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPWk8yem05OFUwbkR3TnM3S2Vyc3lXdzJLOFViYUhzdGt4NklqdkJwXzZia21ZaFRHVkhwYUhWYU5iVkswUDRxWG8tUmpibW5EREVWdGU4SDJ4cnI5ajlOTGl3dnBLV2xTNVEwdXR5Nm9idzRGTVVuUkpDMGtlUnl6NjJn?oc=5</link>
+      <description>Source: Google News - AI Education — The Results of Middle and High School Students Using AI Are Extremely Ominous Futurism</description>
+      <pubDate>Sat, 22 Aug 2026 12:03:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c1f95c7a856e7772b9f4fc66c1adedfa554fa37e3907e5d4e5e00e8eca7b88e7</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -72,14 +80,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Japan proposes university support programme combining AI education and student exchanges - Digital Watch Observatory</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPbkdmU1FMbE4wcjhjZUpGMV9xZzlxUm54bTFVN3RfY2I3NnhGQVRmdEd2UW5ldjlaa2Vod2EzNzRfR2xtOEVhTHNhcFFzSnhaTjVJczdPTkNmdlJpbVROM3ZueDhNQVpvWUl5WVNfLXhzM1U4bVR2WllCWkk2THJGOVVoOGxjRGpHd1l1NHJ2OA?oc=5</link>
-      <description>Source: Google News - AI Education — Japan proposes university support programme combining AI education and student exchanges Digital Watch Observatory</description>
-      <pubDate>Fri, 21 Aug 2026 18:40:56 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d202e5c5ee36fd02a8b2e7868d05a722ffc2b0756e90056ab4f5f07357668b1c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>Bowie State University Launches Bachelor’s Degree Program in Artificial Intelligence - The Journal of Blacks in Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXdXZjNERzVxcE1peVFfQ0tRLUs3ckExYnJ2TFpxVGpmYktSTGRNWDc5NEFmNFVqcW8xUV93MGxtOUl6M3hYeEJQUGxtSW54OUQtVEdad0NLSVdPR2tSMExEcG85SHBzOHcxZDhiOHVPTnRhUWtpLTkxMFdYTVJGSFN2ZUlGSEs1Y3drV05LUmtOUFRhTVVuZ1hESGlYb2Vka0R2TEhyS1NmZzM5LUE?oc=5</link>
       <description>Source: Google News - AI Education — Bowie State University Launches Bachelor’s Degree Program in Artificial Intelligence The Journal of Blacks in Higher Education</description>
@@ -94,6 +94,14 @@
       <pubDate>Fri, 21 Aug 2026 15:55:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3d3b7a77fa52737d882a96a23facf411c78353e6fa12a12df1e9227c04b95f61</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>FSU hosts 2026 AI Bootcamp series to aid students, faculty, staff learning and research - Florida State University News</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMEdQUGpzbHhzRmhvaUZrN3p4RmMwb3JIeTNKblM0aTNTVmRXSVJoSm5HdkZkdzJqdVdzcVpLVl93ajJqR2xvek56b3NuOHhUSUxtdFlsNHY1VDB2dHl2LXgycGh2S2hqYnZRLUx4ek5uM0tpa2tPMEJxM2JDbVJCQmhxaGE3NFJ6eWdPUHZic2tZbzZmb2lqQ3ZvbTdiT2dEbDhkMUNSeWUxMTVXY21xZkwwWUxoMXZZVUNFeXBJU3BNTVUtS0d6LVpHUFozYTluckpGdE12VjlOQQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — FSU hosts 2026 AI Bootcamp series to aid students, faculty, staff learning and research Florida State University News</description>
+      <pubDate>Fri, 21 Aug 2026 15:38:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:720ec56945c8f7773f3101b34b9c15c29e37a2f32b4874177282084b9197f72a</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom - Phys.org</title>
@@ -157,14 +165,6 @@
       <description>Source: Google News - AI Schools — 27J Schools incorporate AI system to detect guns, as Colorado students begin school year CBS News</description>
       <pubDate>Thu, 20 Aug 2026 17:00:08 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:f9ff76c34d713d75d355d5f4b66eb783059f2c08f2d10ada5886285e2f8ab91e</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>How AI is helping students and teachers at one Philadelphia school - CBS News</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVFPVDlCZDhQWmlqYTV2T1gtRHc1dmhsTkVXM3dDNzZSOGJ5STg1MmZmV0FLWGc0SHRHNU1VU2VFczhsNGVJMjh5S3hvTmNKZThYOUZ5ZjlOM25sVEJZRm04Y0NCV3haNnVJRmQtbHRHNmI3VlJKeHBGdXlkak9XZFZ2OFN5WGloNVF4U2V4dHEyMjdCRVNBc0prb3VzUndEQnFqU1BySTdBOU1IRWdr?oc=5</link>
-      <description>Source: Google News - AI Schools — How AI is helping students and teachers at one Philadelphia school CBS News</description>
-      <pubDate>Thu, 20 Aug 2026 11:40:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:dafc65d1eab707efd142512835ea134ae58b1a9d27a19af84faec8fabb5496ab</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
