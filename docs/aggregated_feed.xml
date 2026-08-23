@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 22:38:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:35:23 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Preparing teachers for AI and a new era of learning: Susan Finelli-Genovese - Cleveland.com</title>
@@ -40,19 +40,19 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Colleges are betting big on AI. Some students aren’t convinced - MassLive</title>
+      <title>Colleges are betting big on AI. Some students aren’t convinced - MassLive.com</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnRRTURpMTBCWWUtTVJSMXFTMjctenM3QWFDaVE2UTBFNmhTN0t6X2h4bzJySGZLRWVVeEx0VDgza0ZSN3hDQTFCYldIeVY4QW9DUklVMHh4R3MzbkhZQzZ1cHVFbzFQcG9PRUl0VUtfZEJoRV96WWxHQUZSQ1hWbXhuNDJ2OVFwZ0MxOFptbVBDcUVfZDBMU1pvaVVITU5ncjVMR1YxN2I4NldhcE9XWnNtZU0wQms0VXBpRnJ1d2JjYm9W?oc=5</link>
-      <description>Source: Google News - AI Education — Colleges are betting big on AI. Some students aren’t convinced MassLive</description>
+      <description>Source: Google News - AI Education — Colleges are betting big on AI. Some students aren’t convinced MassLive.com</description>
       <pubDate>Sun, 23 Aug 2026 09:36:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:42577e40b2e20460a40ccf7ae40058ed0753158e5b4daf5c7420c0168d536a52</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence - markets.businessinsider.com</title>
-      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcEVtYVJVRE5qM0RwMTRWSThsNkpXM0NyeFdFOGVlcjhoSFlrVG5MMjRoZTFaU1AxWXhqSTlPdE5RTU11YTRnd0FsM2VrcnJpbVBQS1FHdExGQjZnWDRPWmxTcnl1WGczUjNyR0M5VUNNN1RpdXFXNk55ajc5T1NWcFUzbTZQUk1NZkFmOTJfeXlzSnhFOWZDTGdfa3BvSmtUYmpMSGE5eEFGOHZkOU9xemtydzRPclZ4RlNEOC1FZUVIRVA3WVQ1cnVXZVVoYXBOOXVTRTIwX0NHWkJ5REpzampuTEFxUQ?oc=5</link>
-      <description>Source: Google News - AI Education — iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence markets.businessinsider.com</description>
-      <pubDate>Sun, 23 Aug 2026 05:33:09 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:f4a99fa1a3201279b5cce49613a4a5ddd94f8e6584bc8e533282a25bc6b7ce23</guid>
+      <title>iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence - FinancialContent</title>
+      <link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVUZVbHEyVmpDejZHNTg4NE1FekNRS3Qwa28xMTg1bnFkSDk3VWR5aDdZYm51eGpaaWpCU3VPeGZrYXUtTmVqbnhQRktMQlNkQVAyVnIwSkd3RGFjVDZTcHVoaHNiWS1iTHdWMk5wMUd1eFRQOC1iZW92Q0x6bmItTWxxelJzV2Z5dG1FV3lqTnJPS3pyLW1aQjNGUU44bnAtNVNuMm1PcEpvMk15bUFWc1Jmd0s2TFdILUtNTzh2OVR0ZTlVRnN6empJekl6MXpkSVdJN2YtZWdtOGh0UnZuekJkWjFNLWxQMlBVemZwNA?oc=5</link>
+      <description>Source: Google News - AI Education — iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence FinancialContent</description>
+      <pubDate>Sun, 23 Aug 2026 04:14:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f87ca50ed8fa557d9310c3143129baa8b7952a040783633524b98a34171a5688</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -102,6 +102,14 @@
       <pubDate>Sat, 22 Aug 2026 03:14:23 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d73812f871d75c1bac9bc0b236dfe2c936ac1207f2bec5dbaa9c7b1176321aa9</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>How do Questrom students feel about the school’s expansion of AI-focused programs? - The Daily Free Press</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcnlvYXktMDJ3SXQ3a2p3cmhLWTI4SkVlM2xIVkpSanhRSVRRWEtLbEpCVGotVGNxUEZfRTVhT2V5Nm9tQkJ1R1RHOS11Wks0ek9ZQUtwVFdVSkg4aVhydnlXLWJ6R1ZZRXlZUW5xZThjdVZ6NWM1aUh4dk5Qc0s5OVhnS1B1c1F6elpfWXJja0oxdUh1a3pvT09ZTThjaTNTSmszVUc0MHUtWkpFZDNTTWtZdlJubGxQQjhHckN1TDJxdw?oc=5</link>
+      <description>Source: Google News - AI Education — How do Questrom students feel about the school’s expansion of AI-focused programs? The Daily Free Press</description>
+      <pubDate>Fri, 21 Aug 2026 20:59:02 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f8a1ed9a5dea33982de84da639da3f2ba89caa19a4ac8c6739e53939bc5fd8c8</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
@@ -158,14 +166,6 @@
       <pubDate>Fri, 21 Aug 2026 08:56:08 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:621e87327420a8d6ede5b57be554b62d013be1fb0a3ee1721cca496ef42d4c82</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Google gives college students a free year of AI plans as Gemini and Search add study tools - EdTech Innovation Hub</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNRU1RYXpiTkVSak0zOHNSLTlzV2QzY25wN0U1SGV0cFlIS2lhQ0s5aG90ZmcxSXRQWE1MaXVLT3JrTFc1Q0FMQVRzZzVuTlpBczZDN09oZ0JVaGVfVDhnOF9GenhvMFNRMlRNcmg3RC1BVVdzTFVpVTJqa09kYS1SOWxuelhud1JsczJmQ1VNalVEZ0wzSEJvUlVEN1NTeDJtb3AtRldDaDNHOWpVQVlSamlTSlVQWDBYR2hfNU1KRHdIbm1Ca2tQTDhCbw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Google gives college students a free year of AI plans as Gemini and Search add study tools EdTech Innovation Hub</description>
-      <pubDate>Thu, 20 Aug 2026 23:15:11 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:448373051d104d80e9bcd2f7955da90570c8c190b502c61a7ac1ad5422808ed1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Student Journalists: AI Is Changing Our Work — And Not For the Better</title>
