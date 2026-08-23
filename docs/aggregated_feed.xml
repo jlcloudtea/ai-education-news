@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:47:55 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence - markets.businessinsider.com</title>
@@ -13,6 +13,14 @@
       <description>Source: Google News - AI Education — iAsk AI Launches New Education-Based Hub to Help Students Learn with Artificial Intelligence markets.businessinsider.com</description>
       <pubDate>Sun, 23 Aug 2026 05:33:09 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:f4a99fa1a3201279b5cce49613a4a5ddd94f8e6584bc8e533282a25bc6b7ce23</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>As students embrace AI, universities scramble to keep up - Deseret News</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNYkVrVWprbkhfRlAtT2h0dVBiX3UxaDhNQTJNQklobm1RckFjcjBhUUYzTVdvVkNNOUZnT3JsTzBlc2JYMjBhLWZMOVVFSmZKVlBvOEtPN2E2LXM3OEQwWXRXbFhDSkMxMGFoRFY3RnFXaG1YTGRVTFk4dkNhWU1vdUZLTGU1Rms?oc=5</link>
+      <description>Source: Google News - AI Education — As students embrace AI, universities scramble to keep up Deseret News</description>
+      <pubDate>Sun, 23 Aug 2026 02:46:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e317ee4d931cc699aba89253662304a6a89200da37b3309334b7fae96bb1c885</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -61,14 +69,6 @@
       <description>Source: Google News - AI Schools — In an apocalyptic classroom, students question AI Illinois State University News</description>
       <pubDate>Fri, 21 Aug 2026 19:51:27 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4018f8e9c55c26360e79bf97d200bbb650f690e6bd72e490c2876c7b10b648c5</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>Texas Tech says it’s up to faculty to decide AI usage in classroom - EverythingLubbock.com</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3dOWHJ0TVk2VGM3QS1GWW5YUVhYQTJfWkJWLUlIbHQ0bVY3TE92d21rRGdDQjRwaHF3UnpOWkVTZDBlVk9fdFdlLXNORng2dGFqMlBMVVlqSXc5YkxDWXB5dDhVVC03R3pER1NiX1UzYTAzaFFCOXE4b1l6d0ZtNWRHZTFNQXVodVg3Mm54dFNGenZxbFl4NXRDeVdMWWdyVHdUNFB6cl9WLVpOUlNWOWJieS1rOGvSAbwBQVVfeXFMT3A4cGNGN0luTXhJWDAtTkpuUUxiV0FjaGEyS3M4RDR2bnhRMmpiYVc0VlVPVFBUakNaZl8zcXNFa0NCa0kwX0x6akFvd1JRc2c4TUlfZXZpdGc1N0RvLUpuQndyN3hyX2owQTNzNG1ZbmxpZkpSbVZZMDdtcll6Q0xtTEloNXE2c2xBai1Oa2dSdktnTFZINWJwOU1HTDZiMFdBWmhYOTZkSGx0NTNGZlM5N3MyQzFZVDVUeko?oc=5</link>
-      <description>Source: Google News - AI Schools — Texas Tech says it’s up to faculty to decide AI usage in classroom EverythingLubbock.com</description>
-      <pubDate>Fri, 21 Aug 2026 19:39:17 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:731748bedd751a882a58d8fca9f366a8a6de3f69171ca39ccd4bb2c7bfc8ccfe</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
