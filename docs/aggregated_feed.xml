@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 13:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:46:35 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>University of Sharjah launches AI-driven overhaul of academic programmes - وكالة وام</title>
@@ -64,6 +64,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Ethical decision making is critical while learning technical skills in AI era - Education Times</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSE02Y2x0U0w0OXA4eVRIdF9kWVVCcHdDbjF3aUROb0t1OVRPZlRkaE0tY2twSjlQUEtPTmNUVlpaUjJYRzFrdmNnX2tFRk5EbFpNVDZvWmtFR19kQWFkZHJWYkR5aTJ5QzAwRHRqQlhMZUVFUGJLdVlyQ1FJaG90bjB3d2xaSHdQaGc0REs2WFhhSWNEOEpTWW1YY1A5QlIzYTZ4NlA1VzFaZlJKWlZyU2ExZEI3VVhUbDZNMlN5ZDhrZnV2R09OMGE1Y0JXSU12WTdvcWNjcUFSMFRBbjYwcDNYUWU?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Ethical decision making is critical while learning technical skills in AI era Education Times</description>
+      <pubDate>Sat, 22 Aug 2026 07:32:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:018cb9bfbccdeb66f777c40cd6796296a04ff107b71002ee9b5e687805a1ffce</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. - ET Education</title>
       <link>https://news.google.com/rss/articles/CBMitgJBVV95cUxQMHFBUF8yd2hWcnBPb19IejJfQ29jNlMyRzVTTmVNZk1yRzIwN2o3ZDNHR20xaHFWSUxSaGk1aUE2aEJ0MGM2OUd2ODduaTVuU1VvUjZfSnpEeVhoMVhVZlRMTVU3MmFabUFhamx5VzJVa3VRM1JqdTJwTUtVRjdOOGp2LWJhSlFrSnNMdFJNMzNRUDFQbzZtN3FCTHlSVHRiREFnQjAzRDFscERBVllULXU5QlNoWllJSGV2aDBPODdKRmlzZE9QSF94UWtFTWtlMTMxck5LZTlTNFJrVFhNYjkzZzR2TEJNdjJfQzViY2pBNGhNZWxvWkpCeFFZbS01SHFuOGRjZmxqMHcxTlhhTlFLd21TMDI4TFZUVGplLUl6dkZsc0otN25VdTVOU2Q1bnUxaWdn0gG7AkFVX3lxTFB5TlcwSnE3a2ZuVGk1Y2lBTjZUSVdTT2taRkZ1blRkMmZjTm9OX0d1LUotQXMwYUtQSzVkb3NrOUJHNnVtUHNpN01EYzdZQ1paazVMN0Vwc3ZHMG9SZmt2amZzUWluc1lPWGRCbWFZdWt6SGZJbkIybjN3LUFraFN4ak40dTI4elowcVo5RUliNkkyajlwLUk5bTcyS1J6ZUkzVHJ1N2h3VTNhTmNHZlo1WVU3VV9ZV2lSQ1hBaWR6cEhjdGk3Q2VXQ3RDVGthemtvMWYxLVc5T1hIeHJCdTlBaWwwTFRyWF9CbG5QaDVMMFdndFpjVGNqbFpjSWVFdG5RMXRpaW5YZlpFSmxWZE91ek1UNkRQSFZqRTFSbXlGYTdEcjFmcElHaV9raGpJNUlQZWpsTTdzR1A1bw?oc=5</link>
       <description>Source: Google News - AI Higher Education — Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. ET Education</description>
@@ -102,14 +110,6 @@
       <pubDate>Fri, 21 Aug 2026 15:38:49 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:720ec56945c8f7773f3101b34b9c15c29e37a2f32b4874177282084b9197f72a</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom - Phys.org</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE91QUxBX2ppMnFxVkJDQllONUZSV0xhSkY4SDdYR2ZWbjBqcXlfNzJhWDlJeTd6TzBnMHVjWFZXT1JJZnBUZWozdUdRdjduT183X2NfY041TFNEdmVTMS0xendyNWg5Qk5qcnZON1Z6aGxRN2JnV2JF?oc=5</link>
-      <description>Source: Google News - AI Education — Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom Phys.org</description>
-      <pubDate>Fri, 21 Aug 2026 13:20:01 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e5e6768b03130b696df49af5e85a00fe8fde32b68c4185e153714865dca9f83d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Help us understand how AI has changed the way you teach</title>
@@ -152,6 +152,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom - Brown University</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9jclpjY0N0U29xcjVHVnQ0NndON2t0czBxM0Rhd25BbHAxMk1rWUtnYlVrRTVVWXlFR2lWa3FzakN3SjhJUHhEQ0RSYlFGUUdRRkNFU2Rvd1dPQXpwZnZ0b0gtTlV2Wk96UXdjYXhiR3dKUQ?oc=5</link>
+      <description>Source: Google News - AI Education — Q&amp;A: How Brown University is navigating the rise of generative AI use in the classroom Brown University</description>
+      <pubDate>Thu, 20 Aug 2026 19:26:41 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1d35cb2bfbc4fdc8f8ed67b3a40bd15b70df87a6e48583b76943128c8d9c5fc7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Sand Springs Public Schools welcomes students with new middle school, AI focus - fox23.com</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0lMcG1IV0ZMRjhXNzRnYm12eGJtR3Y4VWJiNnhtYXVWdUYxSHR3ZXprR2R4LVJVY0ZCeGhwV0JSZ2xvWWZuLUhIajhWOUJIYTVDVk1yQmtCdjVQUm9wVldmVGZyMm5mamdzTEs3TXM2WlRXVWp6R0dOWVdzS0NpUm1MdC1SNWIxM25vMU9VQWhCMkhMUlhGcVA5cXlpdjg3b29XdjhYMHVOUQ?oc=5</link>
       <description>Source: Google News - AI Schools — Sand Springs Public Schools welcomes students with new middle school, AI focus fox23.com</description>
@@ -182,14 +190,6 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
