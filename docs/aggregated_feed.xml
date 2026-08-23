@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 02:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 03:15:40 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>We asked 13 universities how AI is being used for teaching. Their responses varied. - SMH.com.au</title>
@@ -56,11 +56,27 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
+      <title>How do Questrom students feel about the school’s expansion of AI-focused programs? - The Daily Free Press</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcnlvYXktMDJ3SXQ3a2p3cmhLWTI4SkVlM2xIVkpSanhRSVRRWEtLbEpCVGotVGNxUEZfRTVhT2V5Nm9tQkJ1R1RHOS11Wks0ek9ZQUtwVFdVSkg4aVhydnlXLWJ6R1ZZRXlZUW5xZThjdVZ6NWM1aUh4dk5Qc0s5OVhnS1B1c1F6elpfWXJja0oxdUh1a3pvT09ZTThjaTNTSmszVUc0MHUtWkpFZDNTTWtZdlJubGxQQjhHckN1TDJxdw?oc=5</link>
+      <description>Source: Google News - AI Education — How do Questrom students feel about the school’s expansion of AI-focused programs? The Daily Free Press</description>
+      <pubDate>Fri, 21 Aug 2026 20:59:02 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f8a1ed9a5dea33982de84da639da3f2ba89caa19a4ac8c6739e53939bc5fd8c8</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUdXZ3VMZkRXeUVTbE1QMFg2N09ydkJRcnFxQWpFa3U5TGpidEc4OXlGYVNRWHUtR2d1TVNydjdxQXZRTmFyQnV2THVtUUh2UG80ZExFOEtWUmdpSmU5U05VaG95SERoUTRJVTBzUTctYXdmUzVoYU1PdkdGYlRwTlpodm96bkJoUjlncmFNLTlOUQ?oc=5</link>
       <description>Source: Google News - AI Schools — In an apocalyptic classroom, students question AI Illinois State University News</description>
       <pubDate>Fri, 21 Aug 2026 19:51:27 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4018f8e9c55c26360e79bf97d200bbb650f690e6bd72e490c2876c7b10b648c5</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>Texas Tech says it’s up to faculty to decide AI usage in classroom - EverythingLubbock.com</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3dOWHJ0TVk2VGM3QS1GWW5YUVhYQTJfWkJWLUlIbHQ0bVY3TE92d21rRGdDQjRwaHF3UnpOWkVTZDBlVk9fdFdlLXNORng2dGFqMlBMVVlqSXc5YkxDWXB5dDhVVC03R3pER1NiX1UzYTAzaFFCOXE4b1l6d0ZtNWRHZTFNQXVodVg3Mm54dFNGenZxbFl4NXRDeVdMWWdyVHdUNFB6cl9WLVpOUlNWOWJieS1rOGvSAbwBQVVfeXFMT3A4cGNGN0luTXhJWDAtTkpuUUxiV0FjaGEyS3M4RDR2bnhRMmpiYVc0VlVPVFBUakNaZl8zcXNFa0NCa0kwX0x6akFvd1JRc2c4TUlfZXZpdGc1N0RvLUpuQndyN3hyX2owQTNzNG1ZbmxpZkpSbVZZMDdtcll6Q0xtTEloNXE2c2xBai1Oa2dSdktnTFZINWJwOU1HTDZiMFdBWmhYOTZkSGx0NTNGZlM5N3MyQzFZVDVUeko?oc=5</link>
+      <description>Source: Google News - AI Schools — Texas Tech says it’s up to faculty to decide AI usage in classroom EverythingLubbock.com</description>
+      <pubDate>Fri, 21 Aug 2026 19:39:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:731748bedd751a882a58d8fca9f366a8a6de3f69171ca39ccd4bb2c7bfc8ccfe</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
@@ -102,14 +118,6 @@
       <pubDate>Fri, 21 Aug 2026 11:45:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:261aee8a919df31b1391595d066f6f436350ab398634cfe7a3e231edef64d4d5</guid>
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
-    </item>
-    <item>
-      <title>Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI - The Economic Times</title>
-      <link>https://news.google.com/rss/articles/CBMi0wJBVV95cUxOYkVyNjdvUzIxVDRqMHpIb21FS0tlaU8xVGsxUjMxeUVYRWFHQ1hYa01YcWJsdXNfMUZkdUJ3YjdrT1cwMjdCNEFQRjhoZWRiLTVFWGlpb1hIaTlvYlFNbzJRdURkdlFja2hKdWRHVTU5VFpCdkNTeW8xUk12ekNqWjh1ekhMTmVkS1QyZkpfdE5wbW53aDRRY09aemVrQXd0UnZGWTduUkNJa1ZPSlh2c04tdDJJX3pTUlBSUWt3UGNJOVJCdEdCNWZYSC11Ri1oVG5fT3ltR3J0eHZJdWZGRkZlMlh1eXlJMEd6VWFhdmVVSUlMVFNvS1poeWRKbWppZjdxWlhydFhvU09tSVpsUDY1ZTl6NWt5VXRGX3BKeEhSN2hDVFdKWnFBX1VVTGRuaVVYYVUzNnBzMW1WbjI4TzV2c3hmdnpmOW1SWVJfbVk5ODjSAdgCQVVfeXFMTm9CaGh1WExOaXZfVjJ2TkdsTnd6TWtuLUNGeWthMWR5NXhlZ2t4TWFvS2ttVXFQcDlCdkZ2QW44OXdxeUc1enBjby0wV21LMXNQcm9uR1MyZHVxRVNaVzRiQ2pyQ0ZObXJwaC0tVENoU1RlNXJZc2R0NVFBUng3QzdjaGtfQTNwYzdHWDNpSVdIZ1BnbHhpbkxXdWplQkJzbGhOcW1VMnNYdGg0djR4akxscmh4dHFqMk1CVlFEdkdNUW5RdUY4eDVaS3gwRkZ6ck5aNF9ncVZ3clBxVWpGNEZjc2w4YmNialFsYXBBYV9sMmZ5Q0VRb19CazJkbUFlUmcyNlRZc01GRHBmQ0xReDNaTFBKbkpDdkhJOGdBZzhUeG9pN1RSQmdic0sxTVBOSXJhcHJBR0c2OVQtY2JwblFnUnlKeEllNjhkQTJ1LW8yTC10cjktT28?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Google is giving US college students $240 worth of Gemini AI Pro for free for a year, with powerful new AI The Economic Times</description>
-      <pubDate>Fri, 21 Aug 2026 11:16:57 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:25d3ce060170f130678c00f8d6fde7890cf06bff976027f3d656e5e0b103e5c1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Teaching and learning in the age of AI: Why literacy matters for inclusive and ethical education - Open Access Government</title>
@@ -182,14 +190,6 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens</title>
