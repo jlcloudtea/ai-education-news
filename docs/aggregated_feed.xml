@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 21:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:38:22 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Preparing teachers for AI and a new era of learning: Susan Finelli-Genovese - Cleveland.com</title>
@@ -56,9 +56,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>As students embrace AI, universities scramble to keep up - Deseret News</title>
+      <title>Students have embraced AI. Universities are scrambling to catch up - Deseret News</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNYkVrVWprbkhfRlAtT2h0dVBiX3UxaDhNQTJNQklobm1RckFjcjBhUUYzTVdvVkNNOUZnT3JsTzBlc2JYMjBhLWZMOVVFSmZKVlBvOEtPN2E2LXM3OEQwWXRXbFhDSkMxMGFoRFY3RnFXaG1YTGRVTFk4dkNhWU1vdUZLTGU1Rms?oc=5</link>
-      <description>Source: Google News - AI Education — As students embrace AI, universities scramble to keep up Deseret News</description>
+      <description>Source: Google News - AI Education — Students have embraced AI. Universities are scrambling to catch up Deseret News</description>
       <pubDate>Sun, 23 Aug 2026 02:46:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e317ee4d931cc699aba89253662304a6a89200da37b3309334b7fae96bb1c885</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -88,20 +88,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Ethical decision making is critical while learning technical skills in AI era - Education Times</title>
-      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSE02Y2x0U0w0OXA4eVRIdF9kWVVCcHdDbjF3aUROb0t1OVRPZlRkaE0tY2twSjlQUEtPTmNUVlpaUjJYRzFrdmNnX2tFRk5EbFpNVDZvWmtFR19kQWFkZHJWYkR5aTJ5QzAwRHRqQlhMZUVFUGJLdVlyQ1FJaG90bjB3d2xaSHdQaGc0REs2WFhhSWNEOEpTWW1YY1A5QlIzYTZ4NlA1VzFaZlJKWlZyU2ExZEI3VVhUbDZNMlN5ZDhrZnV2R09OMGE1Y0JXSU12WTdvcWNjcUFSMFRBbjYwcDNYUWU?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Ethical decision making is critical while learning technical skills in AI era Education Times</description>
-      <pubDate>Sat, 22 Aug 2026 07:32:42 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:018cb9bfbccdeb66f777c40cd6796296a04ff107b71002ee9b5e687805a1ffce</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. - ET Education</title>
       <link>https://news.google.com/rss/articles/CBMitgJBVV95cUxQMHFBUF8yd2hWcnBPb19IejJfQ29jNlMyRzVTTmVNZk1yRzIwN2o3ZDNHR20xaHFWSUxSaGk1aUE2aEJ0MGM2OUd2ODduaTVuU1VvUjZfSnpEeVhoMVhVZlRMTVU3MmFabUFhamx5VzJVa3VRM1JqdTJwTUtVRjdOOGp2LWJhSlFrSnNMdFJNMzNRUDFQbzZtN3FCTHlSVHRiREFnQjAzRDFscERBVllULXU5QlNoWllJSGV2aDBPODdKRmlzZE9QSF94UWtFTWtlMTMxck5LZTlTNFJrVFhNYjkzZzR2TEJNdjJfQzViY2pBNGhNZWxvWkpCeFFZbS01SHFuOGRjZmxqMHcxTlhhTlFLd21TMDI4TFZUVGplLUl6dkZsc0otN25VdTVOU2Q1bnUxaWdn0gG7AkFVX3lxTFB5TlcwSnE3a2ZuVGk1Y2lBTjZUSVdTT2taRkZ1blRkMmZjTm9OX0d1LUotQXMwYUtQSzVkb3NrOUJHNnVtUHNpN01EYzdZQ1paazVMN0Vwc3ZHMG9SZmt2amZzUWluc1lPWGRCbWFZdWt6SGZJbkIybjN3LUFraFN4ak40dTI4elowcVo5RUliNkkyajlwLUk5bTcyS1J6ZUkzVHJ1N2h3VTNhTmNHZlo1WVU3VV9ZV2lSQ1hBaWR6cEhjdGk3Q2VXQ3RDVGthemtvMWYxLVc5T1hIeHJCdTlBaWwwTFRyWF9CbG5QaDVMMFdndFpjVGNqbFpjSWVFdG5RMXRpaW5YZlpFSmxWZE91ek1UNkRQSFZqRTFSbXlGYTdEcjFmcElHaV9raGpJNUlQZWpsTTdzR1A1bw?oc=5</link>
       <description>Source: Google News - AI Higher Education — Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. ET Education</description>
       <pubDate>Sat, 22 Aug 2026 06:30:17 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:f2a0a7774e825d2b0406c2b201b2fd0aa20c2709a32eeb35631bbb2088f60bee</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Teaching AI literacy in the classroom - WKRN News 2</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9jT2xtVEZ6OE1ZaUtzT0pGbk5Rcks0RUFCdnF1eTZVYkhVZkZVNUhfc2N2ZEZrQmxYbm96YjB0TVVHRHNOODdQMWYxQ19ZZDVKM0tETF9VN1h2UThvVGZHNFZwWnh6NTQ3a0c4UzRwVHdiemlFWlJUQmo5UTg0RGs?oc=5</link>
+      <description>Source: Google News - AI Schools — Teaching AI literacy in the classroom WKRN News 2</description>
+      <pubDate>Sat, 22 Aug 2026 03:14:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d73812f871d75c1bac9bc0b236dfe2c936ac1207f2bec5dbaa9c7b1176321aa9</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
