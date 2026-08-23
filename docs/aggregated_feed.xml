@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 20:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:36:08 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Preparing teachers for AI and a new era of learning: Susan Finelli-Genovese - Cleveland.com</title>
@@ -40,9 +40,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Colleges are betting big on AI. Some students aren’t convinced - MassLive.com</title>
+      <title>Colleges are betting big on AI. Some students aren’t convinced - MassLive</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnRRTURpMTBCWWUtTVJSMXFTMjctenM3QWFDaVE2UTBFNmhTN0t6X2h4bzJySGZLRWVVeEx0VDgza0ZSN3hDQTFCYldIeVY4QW9DUklVMHh4R3MzbkhZQzZ1cHVFbzFQcG9PRUl0VUtfZEJoRV96WWxHQUZSQ1hWbXhuNDJ2OVFwZ0MxOFptbVBDcUVfZDBMU1pvaVVITU5ncjVMR1YxN2I4NldhcE9XWnNtZU0wQms0VXBpRnJ1d2JjYm9W?oc=5</link>
-      <description>Source: Google News - AI Education — Colleges are betting big on AI. Some students aren’t convinced MassLive.com</description>
+      <description>Source: Google News - AI Education — Colleges are betting big on AI. Some students aren’t convinced MassLive</description>
       <pubDate>Sun, 23 Aug 2026 09:36:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:42577e40b2e20460a40ccf7ae40058ed0753158e5b4daf5c7420c0168d536a52</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -64,12 +64,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>10 Back-to-School AI Updates For Educators - Yahoo News UK</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1OUDh5N2N0ZVYxNGplZlZhZmEyMkdjZEtSVG8xMURYM3R5QzZVQVJyS2V1VHNIeWxlckFEcnBuQXZFVmVqMTliS2FJNmlnTFRQVnlqbTVPSDlsQm45WnI4SGZRTW00cmtndFpYWE11cTUzNlZO?oc=5</link>
-      <description>Source: Google News - AI Schools — 10 Back-to-School AI Updates For Educators Yahoo News UK</description>
+      <title>10 Back-to-School AI Updates For Educators - Forbes</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQNVRDdF80cGRZRDc5cndNT011VjRCeHMzRjFIdmZldHlMVVd4Qy02VU1LT0xjdkxiMEkzWE1DTWhFSDFGOTJpaUxjd3pmQnFzQjZBQnpCX0lyTWRRTG9mdnU4amVmV1NuS3I5ZmVna3VTeXF3clpHbUNGa2luRzIxbllPSTRhMlFEbjRrV05pWV8zV3NVcTVrOENMWmdTY1U?oc=5</link>
+      <description>Source: Google News - AI Education — 10 Back-to-School AI Updates For Educators Forbes</description>
       <pubDate>Sat, 22 Aug 2026 16:36:49 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:abf060c302238a30c1e4904a829a51e870e7220afd3a4c16ee48363d0de404f6</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <guid isPermaLink="false">urn:sha256:482ea06302ac406d0f9749b958ae16209506be0cfdbec00ffdb3afc85a570e6c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>AI agents are quietly rewriting school procurement, starting with the shopping cart - MarketScale</title>
@@ -86,6 +86,14 @@
       <pubDate>Sat, 22 Aug 2026 12:03:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c1f95c7a856e7772b9f4fc66c1adedfa554fa37e3907e5d4e5e00e8eca7b88e7</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Ethical decision making is critical while learning technical skills in AI era - Education Times</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSE02Y2x0U0w0OXA4eVRIdF9kWVVCcHdDbjF3aUROb0t1OVRPZlRkaE0tY2twSjlQUEtPTmNUVlpaUjJYRzFrdmNnX2tFRk5EbFpNVDZvWmtFR19kQWFkZHJWYkR5aTJ5QzAwRHRqQlhMZUVFUGJLdVlyQ1FJaG90bjB3d2xaSHdQaGc0REs2WFhhSWNEOEpTWW1YY1A5QlIzYTZ4NlA1VzFaZlJKWlZyU2ExZEI3VVhUbDZNMlN5ZDhrZnV2R09OMGE1Y0JXSU12WTdvcWNjcUFSMFRBbjYwcDNYUWU?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Ethical decision making is critical while learning technical skills in AI era Education Times</description>
+      <pubDate>Sat, 22 Aug 2026 07:32:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:018cb9bfbccdeb66f777c40cd6796296a04ff107b71002ee9b5e687805a1ffce</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. - ET Education</title>
@@ -158,14 +166,6 @@
       <pubDate>Thu, 20 Aug 2026 23:15:11 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:448373051d104d80e9bcd2f7955da90570c8c190b502c61a7ac1ad5422808ed1</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Auburn College of Education graduate examines how AI can support military learners in distance education programs - Auburn University</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmNydy10NkhvbjdBSE5GcEVRRjlDajliYkotN3dzUVJwR3RNM0dPd0xuT3Q2RWZXaWxheHVUVEFmNFNFZ1dFeS04ZXJycGlSZFRKZ1pfUkJWcXpNZ3hMOVpNSWJ4UWJGOV83eEQ2Ul8xcVBRUzJKYkF5Q0NHeFl0LWFXVmZRVmJySG01SzhMQ3hBZ21WZnRBLXVIdTI2MkNFVnRCVVNxbnlHTjI1UWdQMFZvaXc0Z2VGMWhuZDJoSnBiRzlNY1pOd0NORnMyTUVqdWtoeExyVHIzQQ?oc=5</link>
-      <description>Source: Google News - AI Education — Auburn College of Education graduate examines how AI can support military learners in distance education programs Auburn University</description>
-      <pubDate>Thu, 20 Aug 2026 21:03:12 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a0524121a217d26cdd6431d61f84e7cc863e571daa3e9457ebec85bb671dafe3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Student Journalists: AI Is Changing Our Work — And Not For the Better</title>
