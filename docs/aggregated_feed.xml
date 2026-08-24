@@ -5,8 +5,24 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 10:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:54:06 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Teachers face AI's next big classroom challenge - Milwaukee Journal Sentinel</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWV6MTFJMlMteFlrNS1BX25ZUjlUNUV6SzlPbXRER3VjcXBTLVhCOG8tbnBycWluaHN6WmRjTHI2YzlyNzRPOXhBaGRQNXRiamJkM1lvdHZ2MnBaZ1ZZNjBiOFRqRV9EcmJVUnk4akNaeXBESTZ6eTdIUGpwRXRnc0hEdXFFaVVkaDlZMUswczU0a1YwYjNNazhsVm1kSG83SDUtSmEyN2hDZlY1dVJySWxnNHM1SW5a?oc=5</link>
+      <description>Source: Google News - AI Schools — Teachers face AI's next big classroom challenge Milwaukee Journal Sentinel</description>
+      <pubDate>Mon, 24 Aug 2026 10:04:15 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7afb5f791693cf35de86409ecb12f8f88b522a8787a7bbbbdf1da6c174e5b43f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>'Next huge obstacle in education' is AI. How are teachers approaching it? - Milwaukee Journal Sentinel</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQODVOb20taklWRFd0by16YjlxejI1aHVUTVNuYzkxeTJ4R3lFdzhfamlPMkhnNDlVUEFWbjlseXpFamJLUjIzQ2pVR2VPNVE0QUVEUVJTdUZXMkM4UjlCVXFGSEQ3elFYMllVSVVsdEdtTDF2LUNIN2ZSMnA5TDdjSWw1ekFJdmxFa2dTdUFWTEkyMk9RUzdnQkRCaDltZEpQNW91b0VPNzlYakRSQTlNR2h6V01CNnZKQTlZTjFfa1l6M0dod2trY3NDUQ?oc=5</link>
+      <description>Source: Google News - AI Education — 'Next huge obstacle in education' is AI. How are teachers approaching it? Milwaukee Journal Sentinel</description>
+      <pubDate>Mon, 24 Aug 2026 10:03:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:992181e5ee75ccbbd5847551d2ab7b2aaa7f30021c10e1702d328848a54c64b8</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>At 13, this UAE student built an AI education platform that won gold and an open-source tool for AI devel - The Times of India</title>
       <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxPVlFrWmtFZHhjZ3RyQWZMcDlZUS1PTzFGMWFtM25rQnprMHFGdnRoUU5MQlN5SzhyWnBoazJ3bGQ1M0c2bWVFTkUzY3ZTSXZUNnJoVEdmM1Z0elJZUkgtWS03dzdoa0dVX1hwbVFGY3Uxdk1wUkhPY1JXYWNQMUtNMnJiQ3B3LTN0OUYybHFISHVyYzRMdlFJTTE1RmUyd2kzTVh5UVdBc0JHVktfMzdXdWlGU1d4a1FnZERudWhXZ19rYWxFVlhuanktUE5veERkOENNMFpxWGQ5WF9PamtqNnZQMWtDUGNRX18zYTNEVXVHSnBLZUgtbmNfX3dzYU94VTlZQi1pMC1pV185UXJOYnBrVG_SAZoCQVVfeXFMUFhjay1XaUlxdGU5Y1lSdUNJb3c2d0FpZHBTdHppSm9jb3VtQUQ4RG41UkZUdjNsN0Vub2d6UHFwSzdrd3dfUXdkVWFqNTItZ2EwM2VpVFV0M2xwZDl4eGt4b2ZycWdZanYxZnk5aHIxVUJvODVUSEtNVXV2Ti0wRzA0UjFZTzNRR1NoQ0lmNTk4TmNnV0p0b3BaQlBQYjFqSUpod0ZpcC1RR3VBd29CdV9qSUlMQmpKMlB0Nk80eF9qZ2NQbzN6enE5MkpCbmtiT2tDOUQ3RFRhZ0FGeldmMm5jTV9zRUE3ZllqX0JySnlZN3JuRVJFN3ZKa0ZfTktBVU0wOEVsQmpZSXhiU1lVaC1haTlnYWxXT0Nn?oc=5</link>
@@ -72,6 +88,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
+      <title>IIT Kharagpur outreach network launches Texas AI Learning Centre in Houston, US - ET Education</title>
+      <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTjVXNk1hcXRqMjJha3laSUxwVzRpODNzWDd1YnBtdk9kUTQ4bTRFUU96WXh0eHdld3B0RlVIRmZ6OHUtSVc3VXlNR19jYThKUHFiZDB2NVlQMXFoUi1pVVpMNTBidE9sMmNqejlfZ2RjQ0VNMFdRZ0FJbzc0OGhuVDZPYnJNNDBWOHpSWFlzbE15NjFhVTVTR2F1b0IzYVUzWmxBeC1YRjl5VzZpTERxN3pWUV95UVR1ZjZEZXRKUHZpRmljSVc4Y3pGXzFod1R3dm1VSkQzNmYycVhlT0ZlOGtRckhNYV84bkE?oc=5</link>
+      <description>Source: Google News - AI Education — IIT Kharagpur outreach network launches Texas AI Learning Centre in Houston, US ET Education</description>
+      <pubDate>Sun, 23 Aug 2026 13:14:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9449002c11912696cc5a5d79424c89761313ac6b679190451b3047ad9b9b6848</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Colleges are betting big on AI. Some students aren’t convinced - MassLive.com</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnRRTURpMTBCWWUtTVJSMXFTMjctenM3QWFDaVE2UTBFNmhTN0t6X2h4bzJySGZLRWVVeEx0VDgza0ZSN3hDQTFCYldIeVY4QW9DUklVMHh4R3MzbkhZQzZ1cHVFbzFQcG9PRUl0VUtfZEJoRV96WWxHQUZSQ1hWbXhuNDJ2OVFwZ0MxOFptbVBDcUVfZDBMU1pvaVVITU5ncjVMR1YxN2I4NldhcE9XWnNtZU0wQms0VXBpRnJ1d2JjYm9W?oc=5</link>
       <description>Source: Google News - AI Education — Colleges are betting big on AI. Some students aren’t convinced MassLive.com</description>
@@ -126,22 +150,6 @@
       <pubDate>Fri, 21 Aug 2026 19:51:27 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4018f8e9c55c26360e79bf97d200bbb650f690e6bd72e490c2876c7b10b648c5</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>Texas Tech says it’s up to faculty to decide AI usage in classroom - EverythingLubbock.com</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3dOWHJ0TVk2VGM3QS1GWW5YUVhYQTJfWkJWLUlIbHQ0bVY3TE92d21rRGdDQjRwaHF3UnpOWkVTZDBlVk9fdFdlLXNORng2dGFqMlBMVVlqSXc5YkxDWXB5dDhVVC03R3pER1NiX1UzYTAzaFFCOXE4b1l6d0ZtNWRHZTFNQXVodVg3Mm54dFNGenZxbFl4NXRDeVdMWWdyVHdUNFB6cl9WLVpOUlNWOWJieS1rOGvSAbwBQVVfeXFMT3A4cGNGN0luTXhJWDAtTkpuUUxiV0FjaGEyS3M4RDR2bnhRMmpiYVc0VlVPVFBUakNaZl8zcXNFa0NCa0kwX0x6akFvd1JRc2c4TUlfZXZpdGc1N0RvLUpuQndyN3hyX2owQTNzNG1ZbmxpZkpSbVZZMDdtcll6Q0xtTEloNXE2c2xBai1Oa2dSdktnTFZINWJwOU1HTDZiMFdBWmhYOTZkSGx0NTNGZlM5N3MyQzFZVDVUeko?oc=5</link>
-      <description>Source: Google News - AI Schools — Texas Tech says it’s up to faculty to decide AI usage in classroom EverythingLubbock.com</description>
-      <pubDate>Fri, 21 Aug 2026 19:39:17 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:731748bedd751a882a58d8fca9f366a8a6de3f69171ca39ccd4bb2c7bfc8ccfe</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>OpenAI introduces ChatGPT for Teens. What do teachers think? - Northeastern Global News</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dVNxTmN0bzJsc2RlXzFkN2pNSk9ib1ZhX19vZ09HM0tHMzZmY3VSa3JYRC1kZThrWnFlWVFIeDB4bllhQWUzNHZzZ3c5d1FwazI5WnM2WXRmVGR3V2xWdUs4aVJZdTVkNzhXT0ZnazItMUE3bVRuXzBoMHk?oc=5</link>
-      <description>Source: Google News - AI Education — OpenAI introduces ChatGPT for Teens. What do teachers think? Northeastern Global News</description>
-      <pubDate>Fri, 21 Aug 2026 17:24:59 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a6792af917904115e4093395f6db726edff61336462c1da8ad905daf78044ec6</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Back to School: A Mason City education leader on AI use in the classroom - kaaltv.com</title>
@@ -214,14 +222,6 @@
       <pubDate>Tue, 18 Aug 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:6d4ec902c728a02128d0e9d0f2d97315b31b6e3516e9601be6e9577b06f5790c</guid>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-    </item>
-    <item>
-      <title>Survey: 5 Ways AI Is Cutting Into Students’ Ability to Learn</title>
-      <link>https://www.the74million.org/article/survey-5-ways-ai-is-cutting-into-students-ability-to-learn</link>
-      <description>Source: The 74 — Over the past four years, generative artificial intelligence has quietly colonized the minds of U.S. adolescents, changing the way they learn. A College Board survey last fall found that the share of high schoolers using it for schoolwork had climbed to 84%, with about half using it to brainstorm, revise essays or research topics. A […]</description>
-      <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1cc7692c546206d3869fa92560fc45782fafabbc4c5debb382304259077cc25c</guid>
-      <source url="https://www.the74million.org/feed/">The 74</source>
     </item>
     <item>
       <title>Slow math: Kids may learn more when AI makes them review mistakes</title>
