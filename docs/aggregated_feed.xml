@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 05:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:29:19 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>University makes changes across multiple schools, integrates AI - The Daily Texan</title>
@@ -64,6 +64,22 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
+      <title>IIT Kharagpur outreach network launches Texas AI Learning Centre in Houston, US - ET Education</title>
+      <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTjVXNk1hcXRqMjJha3laSUxwVzRpODNzWDd1YnBtdk9kUTQ4bTRFUU96WXh0eHdld3B0RlVIRmZ6OHUtSVc3VXlNR19jYThKUHFiZDB2NVlQMXFoUi1pVVpMNTBidE9sMmNqejlfZ2RjQ0VNMFdRZ0FJbzc0OGhuVDZPYnJNNDBWOHpSWFlzbE15NjFhVTVTR2F1b0IzYVUzWmxBeC1YRjl5VzZpTERxN3pWUV95UVR1ZjZEZXRKUHZpRmljSVc4Y3pGXzFod1R3dm1VSkQzNmYycVhlT0ZlOGtRckhNYV84bkE?oc=5</link>
+      <description>Source: Google News - AI Education — IIT Kharagpur outreach network launches Texas AI Learning Centre in Houston, US ET Education</description>
+      <pubDate>Sun, 23 Aug 2026 13:14:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9449002c11912696cc5a5d79424c89761313ac6b679190451b3047ad9b9b6848</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>University of Sharjah launches AI-driven overhaul of academic programmes - وكالة وام</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlF3MGtHaDJGWktnZkl5ZnMzSC1ablRyX0RNR0tWVUZDMlp2QUZUbmdEVXBzN01zN1RxNGNRVVRYOWpuSlNpd2hEc1NwTWRFQXZ4TVppRmF1b3ViSlJRUy1tSWZwWkZoQXViYVcxQlF2eG1VZG5BWmM3TGVWdHJoWUU5UFp1MHJGVGxoVQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — University of Sharjah launches AI-driven overhaul of academic programmes وكالة وام</description>
+      <pubDate>Sun, 23 Aug 2026 11:02:48 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ccefe024e09734254dc3a124ce7b2bd2990cb4182f428cbc4bdaaa2869ff1c12</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>Colleges are betting big on AI. Some students aren’t convinced - MassLive.com</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnRRTURpMTBCWWUtTVJSMXFTMjctenM3QWFDaVE2UTBFNmhTN0t6X2h4bzJySGZLRWVVeEx0VDgza0ZSN3hDQTFCYldIeVY4QW9DUklVMHh4R3MzbkhZQzZ1cHVFbzFQcG9PRUl0VUtfZEJoRV96WWxHQUZSQ1hWbXhuNDJ2OVFwZ0MxOFptbVBDcUVfZDBMU1pvaVVITU5ncjVMR1YxN2I4NldhcE9XWnNtZU0wQms0VXBpRnJ1d2JjYm9W?oc=5</link>
       <description>Source: Google News - AI Education — Colleges are betting big on AI. Some students aren’t convinced MassLive.com</description>
@@ -96,28 +112,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>AI agents are quietly rewriting school procurement, starting with the shopping cart - MarketScale</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOHNwUkw1djBDdnBNZzRveHp2ZV9ZMjJtZXZRQnVlckJqYmFnZDQ1OUVTZTFGUlIxVkRzTEhQMWZEMVhKTlJGTklraXNSZmpQc01yd3pIQzhYM3FJbWRubVQxSENYZWY2Y2FLaWx2ZVAwcVF2c1MxV2VwYVlvU1RFQnpDUmNGSVdwQVBwRHFwQW8zM1NweXdmMkZKMC1ja2d2UGVRUWxoTy1QYkpsNE9zRVo0dm43UDVSM1FrVVhGR3JRbzRUMzZUNVQwLTJtRnZTanNUQmJBb3QzUQ?oc=5</link>
-      <description>Source: Google News - AI Education — AI agents are quietly rewriting school procurement, starting with the shopping cart MarketScale</description>
-      <pubDate>Sat, 22 Aug 2026 16:35:08 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:61d5ba7718d8c93203c307df90ecebd45778b0a0d3c6a59020cee3c4293270cc</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>The Results of Middle and High School Students Using AI Are Extremely Ominous - Futurism</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPWk8yem05OFUwbkR3TnM3S2Vyc3lXdzJLOFViYUhzdGt4NklqdkJwXzZia21ZaFRHVkhwYUhWYU5iVkswUDRxWG8tUmpibW5EREVWdGU4SDJ4cnI5ajlOTGl3dnBLV2xTNVEwdXR5Nm9idzRGTVVuUkpDMGtlUnl6NjJn?oc=5</link>
-      <description>Source: Google News - AI Education — The Results of Middle and High School Students Using AI Are Extremely Ominous Futurism</description>
-      <pubDate>Sat, 22 Aug 2026 12:03:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:c1f95c7a856e7772b9f4fc66c1adedfa554fa37e3907e5d4e5e00e8eca7b88e7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Teaching AI literacy in the classroom - WKRN News 2</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9jT2xtVEZ6OE1ZaUtzT0pGbk5Rcks0RUFCdnF1eTZVYkhVZkZVNUhfc2N2ZEZrQmxYbm96YjB0TVVHRHNOODdQMWYxQ19ZZDVKM0tETF9VN1h2UThvVGZHNFZwWnh6NTQ3a0c4UzRwVHdiemlFWlJUQmo5UTg0RGs?oc=5</link>
-      <description>Source: Google News - AI Schools — Teaching AI literacy in the classroom WKRN News 2</description>
-      <pubDate>Sat, 22 Aug 2026 03:14:23 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d73812f871d75c1bac9bc0b236dfe2c936ac1207f2bec5dbaa9c7b1176321aa9</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <title>Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. - ET Education</title>
+      <link>https://news.google.com/rss/articles/CBMitgJBVV95cUxQMHFBUF8yd2hWcnBPb19IejJfQ29jNlMyRzVTTmVNZk1yRzIwN2o3ZDNHR20xaHFWSUxSaGk1aUE2aEJ0MGM2OUd2ODduaTVuU1VvUjZfSnpEeVhoMVhVZlRMTVU3MmFabUFhamx5VzJVa3VRM1JqdTJwTUtVRjdOOGp2LWJhSlFrSnNMdFJNMzNRUDFQbzZtN3FCTHlSVHRiREFnQjAzRDFscERBVllULXU5QlNoWllJSGV2aDBPODdKRmlzZE9QSF94UWtFTWtlMTMxck5LZTlTNFJrVFhNYjkzZzR2TEJNdjJfQzViY2pBNGhNZWxvWkpCeFFZbS01SHFuOGRjZmxqMHcxTlhhTlFLd21TMDI4TFZUVGplLUl6dkZsc0otN25VdTVOU2Q1bnUxaWdn0gG7AkFVX3lxTFB5TlcwSnE3a2ZuVGk1Y2lBTjZUSVdTT2taRkZ1blRkMmZjTm9OX0d1LUotQXMwYUtQSzVkb3NrOUJHNnVtUHNpN01EYzdZQ1paazVMN0Vwc3ZHMG9SZmt2amZzUWluc1lPWGRCbWFZdWt6SGZJbkIybjN3LUFraFN4ak40dTI4elowcVo5RUliNkkyajlwLUk5bTcyS1J6ZUkzVHJ1N2h3VTNhTmNHZlo1WVU3VV9ZV2lSQ1hBaWR6cEhjdGk3Q2VXQ3RDVGthemtvMWYxLVc5T1hIeHJCdTlBaWwwTFRyWF9CbG5QaDVMMFdndFpjVGNqbFpjSWVFdG5RMXRpaW5YZlpFSmxWZE91ek1UNkRQSFZqRTFSbXlGYTdEcjFmcElHaV9raGpJNUlQZWpsTTdzR1A1bw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Higher education leaders explore how institutions can deliver better learning outcomes in the age of AI at E.. ET Education</description>
+      <pubDate>Sat, 22 Aug 2026 06:30:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f2a0a7774e825d2b0406c2b201b2fd0aa20c2709a32eeb35631bbb2088f60bee</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
