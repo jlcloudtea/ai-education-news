@@ -5,8 +5,24 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 21:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 22:44:48 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Mo. college students face developing AI models as they return to campus - KFVS12</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzBzWFZMeENXTkdmNkVCamxIQnNQYlB2d3ltWHNmLUloTTJCcDk0eUt3ejVGWTBnQmstY21sQjFsSmJsTDlLaHprUU9mdDJXN3FWNmgxN2Q4V2Rqb0dlckI5TEJvV1BCNFJZME9QRm84WFlFUzNLM1NXb1VmOTFfN3BHbzBFaE4zODZOX0wxQnl3Z3psX29Jbi1MdTRITFMw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Mo. college students face developing AI models as they return to campus KFVS12</description>
+      <pubDate>Mon, 24 Aug 2026 22:08:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ba4f8f0de31aef7cf7a0d83978c8880a7a0404d0900ade5c1f20286fa3df6b5e</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>U. of Chicago’s Social-Sciences Division Bans Tech, AI in Core Courses - The Chronicle of Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1NHWGtUUk14THhoMDFESkl5cVlzcGtJOFBmRE9vN0NnQUhZUmpUVThJbXhIR2hMLXd5WnJfSjd4Qkk4V212U0xmVW9CaGMxNEVuemRneVRJUmhpNjVUQTdiNXJDRUl3amdtTi1pMUVKbDhjWFRLNmxMZ2lEN1I3X0lzbERkamxyWl9xQW5LN0l1YkI2R29xYkc3Z2VqRGQ1Z1VZ?oc=5</link>
+      <description>Source: Google News - AI Education — U. of Chicago’s Social-Sciences Division Bans Tech, AI in Core Courses The Chronicle of Higher Education</description>
+      <pubDate>Mon, 24 Aug 2026 21:58:24 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:457d9f365ee5439ccbed96eebb568917c4358a91d57c6c913669469e11da2618</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Shaler schools focus on student connections, AI and a band built for Friday night lights - WTAE</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk1VbXMtWUxrVjNWNUZCRm92X2pId0psREo3OGhwSGFMYVpCR0xtVWVBZ3o0b3A2b3JHVElQV0JiMWZ4emlqT0p0RlRpMkt2QXc3YV9kVGtEVEpBX2x1eFZWLW9WelZEcXZXd1FnejdKLUdNRkZwZjExQWlBYnVUVmdXUDI5c2s?oc=5</link>
@@ -43,7 +59,7 @@
       <title>Miami University integrates AI into curriculum for students this fall - WCPO 9 News</title>
       <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxQemxNaEY4RWoxYzJQbTVsd1hySmZCWGNqU2ZjTFlvQ0F0QjVybWdIOGtCQmE4ZzdxWjFNMGNNWnRCVlJ4anpHMktveXM3VkVUWTlhSjQ5OXVZNmZMU05PbGxadGFtc1FZMERtZFlycUFrR0ViWUl1YmZQSjRmT1JyekNTR2VHcDFwSzA4NWVreVVMYmZxS0txVUJ5d0NMOGZOY24wdmJQQzNkRWdheFBwV25kVVpzTG52blFMX1VaZDA4TzNhakRBN2xocHplRmxWWWJIMFVEd0VMR3NXTHJn?oc=5</link>
       <description>Source: Google News - AI Education — Miami University integrates AI into curriculum for students this fall WCPO 9 News</description>
-      <pubDate>Mon, 24 Aug 2026 16:08:34 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 16:12:48 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:38e3f2fb7c07b3ed676412a7527c6630916ff8f01638d2881cbd4cad5803d83b</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
@@ -128,28 +144,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Big tech says skip college as schools add AI programs - Axios</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPQkhpb3ItTnZYb3pYZVFTdkdZWGJNVW1EOG5Ba1hrMjV2SW4zS0NQaUZFbkZPWDQwcmRTOGp6Vld2NVFIbGZBTUphNnNpYmt0VHF0ZGwwVU9TdWRSV2tRaG5HcDZ2Q3M5NHBmdVlzVVJKLXl4NldFX1BEcjZHdTFVZTl4MHhHdw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Big tech says skip college as schools add AI programs Axios</description>
-      <pubDate>Mon, 24 Aug 2026 11:15:41 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:404f0eabb5e6e224ccb2a7a7ef1c83400efb1b94cb7d275a2d662e19b8b48a1b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Google expands Gemini into education with free AI access for college students - dqindia.com</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHNvVlA5MmlqQzlRSnF0T3JldlNJall1Z2xGQ3hsSko1RmtnY2RITHl2SzhVVy03dlZteHhqWDhDWWszUzQ2YmwzV2FkNVIycURyN1Facjh6TnZOWGhNcmYyek9hVWIxZXhUSmRqc1Y5SmNDbE1UOEE5eTBiUDZGdUNSbmh0Mkd0VnVFNExNUTBjZHBJRHZNM2RKM2JTYTR3LVEyVkdJNlR6R0dYbnZtR0pmWWx5R2FfMVh2SXV30gG-AUFVX3lxTE1sc29WUDkyaWpDOVFKcXRPcmV2U0lqWXVnbEZDeGxKSjVGa2djZEhMeXZLOFVXLTd2Vm14eGpYOENZazNTNDZibDNXYWQ1UjJxRHI3UVpyOHpOdk5YaE1yZjJ6T2FVYjFleFRKZGpzVjlKY0NsTVQ4QTl5MGJQNkZ1Q1JuaHQyR3RWdUU0TE1RMGNkcElEdk0zZEozYlNhNHctUTJWR0k2VHpHR1hudm1HSmZZbHlHYV8xWHZJdXc?oc=5</link>
       <description>Source: Google News - AI Higher Education — Google expands Gemini into education with free AI access for college students dqindia.com</description>
       <pubDate>Mon, 24 Aug 2026 11:14:48 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7abe5117138639d587619eaaacdb8ae9ce3a14fce5d4a8c724fb354834b0c4ce</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Teachers face AI's next big classroom challenge - Milwaukee Journal Sentinel</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWV6MTFJMlMteFlrNS1BX25ZUjlUNUV6SzlPbXRER3VjcXBTLVhCOG8tbnBycWluaHN6WmRjTHI2YzlyNzRPOXhBaGRQNXRiamJkM1lvdHZ2MnBaZ1ZZNjBiOFRqRV9EcmJVUnk4akNaeXBESTZ6eTdIUGpwRXRnc0hEdXFFaVVkaDlZMUswczU0a1YwYjNNazhsVm1kSG83SDUtSmEyN2hDZlY1dVJySWxnNHM1SW5a?oc=5</link>
-      <description>Source: Google News - AI Schools — Teachers face AI's next big classroom challenge Milwaukee Journal Sentinel</description>
-      <pubDate>Mon, 24 Aug 2026 10:04:15 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:7afb5f791693cf35de86409ecb12f8f88b522a8787a7bbbbdf1da6c174e5b43f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Why AI makes a growth mindset fundamental for university students | THE Campus Learn, Share, Connect - Times Higher Education</title>
