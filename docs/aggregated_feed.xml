@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:49:02 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Shaler schools focus on student connections, AI and a band built for Friday night lights - WTAE</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk1VbXMtWUxrVjNWNUZCRm92X2pId0psREo3OGhwSGFMYVpCR0xtVWVBZ3o0b3A2b3JHVElQV0JiMWZ4emlqT0p0RlRpMkt2QXc3YV9kVGtEVEpBX2x1eFZWLW9WelZEcXZXd1FnejdKLUdNRkZwZjExQWlBYnVUVmdXUDI5c2s?oc=5</link>
+      <description>Source: Google News - AI Education — Shaler schools focus on student connections, AI and a band built for Friday night lights WTAE</description>
+      <pubDate>Mon, 24 Aug 2026 20:33:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9510cbeecb53afc9f84ea4d59556ed2b60830ab2750782be0ee561b718425c3a</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Bot-ched rollout? Students protest school AI plan - The Mercury</title>
       <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaWtIZWY4aktWUF9mOVFtTnRRS0ZpbnRXWnhHc2drelpEdGEwdkkzX01rdU1CWENZbUlic25qSWE0OWg1dkRFMEIxQm9EeVFrTWhtMU9xNWhMTmc4NE5SZFYwSVV4MzhvbjQtOHRuRDQzWUpiTndEZlBpX0xld0RxWE5zMnJKR3Y4MjhtandIc0pKUnQ5d2FROHJOWEwtNjVkMnhFSlVhZEtfdHpuU193MTNxNlU5UnlrRl9Gak45ZFdfZ21uS3NKQ0ZsdVlpeXZJS0JnbmpiWUk1QWxNUkVfWXVDOGIyN25GS0ZxZ1BlZnMzR1I4LUE?oc=5</link>
@@ -48,14 +56,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>The Personalisation Push: Universities Splurges Into AI, KPMG Finds - BW Education</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVVjdFBETHVQSHhBMkd5b042SXNxSnlienpKSjl4M1c0bTNraTZ2QlNGWDM0aDRHVmdnazU1djVLaENtWGx5YkpBVndpNC1tSnN4SVRuMmNXcnFnVWZZUEFuVFJaa1NWQ2hyRXNlckQxM2pXM1RxaFAzUV9CZ3pZaHZCNHVydU9PN2daVWI0bzl0VDJhOUthQlFRckZ1Qm16T2FQcEN0LVhKelZH?oc=5</link>
-      <description>Source: Google News - AI Education — The Personalisation Push: Universities Splurges Into AI, KPMG Finds BW Education</description>
-      <pubDate>Mon, 24 Aug 2026 15:00:34 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:9b087a667da312678501a40c6b59e9877392cf1a01638928bb880630ebebaf4b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>USC among top college users of ChatGPT, renews OpenAI contract for $2.5M - Lexington County Chronicle</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ3NheG5jTkkyMUwzMHYtazBvN0VHYjJDSnFONGJsNmRzaGI1M3JwVnplMmV0MkU0NUZlR0lhZVhjQWVRQjNvUkNvVDVENU1Ma2FHLXVzYjJDMm1tdlFKSEhUSDJIeWZfNEs5eEEyTEd2bFVKY1RHZnNlRGp1MUZZUnBVb19rSWJ1UzVCQkdzTGRxVXJJM0RISnkxcDBWbjJ1TEljSnIzVXd5N2E0UkhSQmxKNU9zRFVYNG9z?oc=5</link>
       <description>Source: Google News - AI Education — USC among top college users of ChatGPT, renews OpenAI contract for $2.5M Lexington County Chronicle</description>
@@ -77,6 +77,14 @@
       <description>Source: Google News - AI Education — How teachers are balancing AI in the classroom as students return to school FOX 32 Chicago</description>
       <pubDate>Mon, 24 Aug 2026 13:37:48 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:162eae6609ae5fd372da0a644e63a487996b97dfc786258a76b6df98ec703b5f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>AI Cybersecurity Work Nets Ph.D. Student 2 Awards From Amazon - Syracuse University Today</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHZ5MktvcWZ3cEthNTh2M2Z2ZTFrd2JuRjFmVkR3Tzc3WGZBdjMtNXZRMDNXZjlLRW1obDdlcmlMcDMzNU1tMlU2WER1ekFlUGI3Q1VUUFZfT003LWRFNHpkSDdLMDgwYzRTSTlRYmJONVI4TFVxaTUzS3BfU0lRT1VUNkFtNmZaaWNSdlRTQllkWXR1SjFBUA?oc=5</link>
+      <description>Source: Google News - AI Education — AI Cybersecurity Work Nets Ph.D. Student 2 Awards From Amazon Syracuse University Today</description>
+      <pubDate>Mon, 24 Aug 2026 13:28:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:65ee65226ee4cdef602636ae7494e1e52cf1ab817f92a95782e69ad50b5807de</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -158,14 +166,6 @@
       <pubDate>Sun, 23 Aug 2026 23:30:03 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:6051940dcdac8bca144851790384ddc04ac725f6a88afa445b3cc5c52393408d</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>In an apocalyptic classroom, students question AI - Illinois State University News</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUdXZ3VMZkRXeUVTbE1QMFg2N09ydkJRcnFxQWpFa3U5TGpidEc4OXlGYVNRWHUtR2d1TVNydjdxQXZRTmFyQnV2THVtUUh2UG80ZExFOEtWUmdpSmU5U05VaG95SERoUTRJVTBzUTctYXdmUzVoYU1PdkdGYlRwTlpodm96bkJoUjlncmFNLTlOUQ?oc=5</link>
-      <description>Source: Google News - AI Schools — In an apocalyptic classroom, students question AI Illinois State University News</description>
-      <pubDate>Fri, 21 Aug 2026 19:51:27 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4018f8e9c55c26360e79bf97d200bbb650f690e6bd72e490c2876c7b10b648c5</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Help us understand how AI has changed the way you teach</title>
