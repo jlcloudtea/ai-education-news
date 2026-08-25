@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 16:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:46:04 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>EdTech Policy Academy | AI and the Future of Education: From Policy to Implementation at Scale - World Bank Group</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPclZMRVh3LWVxVW55aUdRSXJ0Q2FqTm0tcWp6NnUxakhHWUhiNms5TUpJSmQwZDEwbzBvT2lWWV9wMEk2SUphVy0wOWdwZ1R1dnNXckQ3QXpiTXR6cjNOc2Z6Mm1faUJDaGZHNHE2TXJlVkpHMUJBTnRjVWRUaHhhOUNaVlZrU3VuUXJkU0hrV1Q4VW5Id2c?oc=5</link>
+      <description>Source: Google News - AI Education — EdTech Policy Academy | AI and the Future of Education: From Policy to Implementation at Scale World Bank Group</description>
+      <pubDate>Tue, 25 Aug 2026 17:30:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9fe88dc79f9db337dc2fef88bce676934c6a9e100c920dc7520055be7a6bc1cc</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>LCU holds AI conversation with faculty on student needs - Baptist Message</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3dkaHh5ckFLQmVIRFNVQ3NFdUY4TzZwZjJiaE9TMVg5MHR2U0NjV3NxWGdfUVh3WmNlMnZ4VDVyR3c5NHVlRzFNcjBZWTdrR042VWlwRWstVHJGSFV3ekNLaVl0c2pwajhieUozbkIyeWtneWF2bTNDSml3Q2lNZHk5Q3hrUUF1aUNHU2J4YUk?oc=5</link>
@@ -56,6 +64,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
+      <title>DEI in AI: University Influence - Defending Education</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9JQjVrT214bmhhdFVfMWd0V29OSFlMRGVyMzQ3S3JCT1FYRTB2NnlrT0RpTjJmYkZmQnNUTEJLOTNVS0UyeUR6bkV5blBfY1NKcUpNaE5DQ3lDajR5YUxuc2xlY0ZDYmpuUENiU09MRUVXcENhbTM0bWdB?oc=5</link>
+      <description>Source: Google News - AI Education — DEI in AI: University Influence Defending Education</description>
+      <pubDate>Tue, 25 Aug 2026 14:51:46 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3c3b5643a647b5ff59ca793745dbe52055e8a654d89c4b36468879b497dd53f0</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Google Offers College Students Free AI Plans for a Year, Expands Gemini Study Tools - TechAfrica News</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1pmQl9vbjBqMUlRTklYUG5yajNPRjdjZGdoaFpDQWQ0RHZCdW1oREhpS0VlWkxLSy1VcDFNWVExMm1HNWluWjlSQjJ6QU55azJWX3hfalc2NjRJQW5kWXpKRjZCbjU2QzRMWVFwOGVxa3A3MGQtYmNtY3VrQUlPRkE4Q21UeGhBcVRHZU9uUHpEOTJJWmRhNXBnMA?oc=5</link>
       <description>Source: Google News - AI Higher Education — Google Offers College Students Free AI Plans for a Year, Expands Gemini Study Tools TechAfrica News</description>
@@ -72,44 +88,28 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
+      <title>Bot-ched rollout? Students protest school AI plan - The Mercury</title>
+      <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaWtIZWY4aktWUF9mOVFtTnRRS0ZpbnRXWnhHc2drelpEdGEwdkkzX01rdU1CWENZbUlic25qSWE0OWg1dkRFMEIxQm9EeVFrTWhtMU9xNWhMTmc4NE5SZFYwSVV4MzhvbjQtOHRuRDQzWUpiTndEZlBpX0xld0RxWE5zMnJKR3Y4MjhtandIc0pKUnQ5d2FROHJOWEwtNjVkMnhFSlVhZEtfdHpuU193MTNxNlU5UnlrRl9Gak45ZFdfZ21uS3NKQ0ZsdVlpeXZJS0JnbmpiWUk1QWxNUkVfWXVDOGIyN25GS0ZxZ1BlZnMzR1I4LUE?oc=5</link>
+      <description>Source: Google News - AI Schools — Bot-ched rollout? Students protest school AI plan The Mercury</description>
+      <pubDate>Tue, 25 Aug 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c69b6686d46cea6e46c0b7bc4254709f3b03961c25df8742089d76c1234b2c08</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>Passion vs. paycheck: AI and student debt push students to rethink their majors - 2 News Oklahoma KJRH Tulsa</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcjE0ZEF1QTM0LUxUX1JLb2wxMDVBZGxTTHcyUDdROFRHLTJLTWJRWll0Z3U2Y0NwZ25KTm5kckp0T202VVA1eW1VMUdfT280aXpOQ0pIaVRaNXpHeXhTTmI1TFlFZnAyQkZkNjNzOEZBbHhIS2Jkb2ZWb1RSR192TXp3QWRpcGZBejg1dVBCOXdaVzZrNjJRU011NU1zcmE5SEdiZGx3a2R6bEtfbURiSUVmd1l6NTJyTFZHM2xTbTU?oc=5</link>
+      <description>Source: Google News - AI Education — Passion vs. paycheck: AI and student debt push students to rethink their majors 2 News Oklahoma KJRH Tulsa</description>
+      <pubDate>Tue, 25 Aug 2026 11:05:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:6dc56100a9df4381cf5a6b487ded18efd39865aa341e520f93d8dce4ee5b419c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Why AI Is Becoming Higher Education’s New Defense Against the User Access and Credential Battleground - Unite.AI</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQNUZlSE15MGRvV0hSNlBNLTBFTTBfamxGRDhaMFlEMk5ucEdHdldfUGlURkFPbWQ4LXk3enRuZzBsci1tdm9SclNoNnFubm8yS2Nmd2dHc3I4UF8xU3Q0RTlLdEZTZE1xUm5wSVhCYURGWlVnamxEX3NpZnlCcGJPTmFvcDJieGpaa2c?oc=5</link>
       <description>Source: Google News - AI Education — Why AI Is Becoming Higher Education’s New Defense Against the User Access and Credential Battleground Unite.AI</description>
       <pubDate>Tue, 25 Aug 2026 10:41:26 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7d224eacafb95ecb239088dba84662222609205889bd936e94252de0496bc3e2</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>U. of Chicago Bans Tech, AI in Social Sciences Core Courses - The Chronicle of Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1NHWGtUUk14THhoMDFESkl5cVlzcGtJOFBmRE9vN0NnQUhZUmpUVThJbXhIR2hMLXd5WnJfSjd4Qkk4V212U0xmVW9CaGMxNEVuemRneVRJUmhpNjVUQTdiNXJDRUl3amdtTi1pMUVKbDhjWFRLNmxMZ2lEN1I3X0lzbERkamxyWl9xQW5LN0l1YkI2R29xYkc3Z2VqRGQ1Z1VZ?oc=5</link>
-      <description>Source: Google News - AI Education — U. of Chicago Bans Tech, AI in Social Sciences Core Courses The Chronicle of Higher Education</description>
-      <pubDate>Tue, 25 Aug 2026 10:36:54 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:457d9f365ee5439ccbed96eebb568917c4358a91d57c6c913669469e11da2618</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Passion vs. paycheck: AI and student debt push students to rethink their majors - KRIS 6 News Corpus Christi</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVNDcjdnbDh4N2dtckpla0NPU2cyczQxMW1OaHg5Qk53a1ItZFhsc0YxQ2JzTElFellYLV9jczBTZnVNbDRqTjhsRVpxamxick8xT21DdWs4Y2FLWTJWbW1wQzJVOERxbUU1SVBQOHR4Z21zaDFWc1RDNnNjNmd1SFlaeDFjZUtPTUxjOHFTWk1RbjB3YkM1U05GdnNsU1p0ck5DVWFIc1dPNTRuc1RQQlUtRkFNSnlOaE5ma1hpVmhOeXc?oc=5</link>
-      <description>Source: Google News - AI Education — Passion vs. paycheck: AI and student debt push students to rethink their majors KRIS 6 News Corpus Christi</description>
-      <pubDate>Tue, 25 Aug 2026 10:31:50 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:0f83c6727e9584ac692b707cda612b438fd8468367a431dd2d26c2dd8c4fbcc0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI creates gray area for MD law schools, students - Maryland Daily Record</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE9GaXBYdTBEbDRqZ3pEdENGcXBpMXZuTXc1S1FwYkt1aWtwRlJmbFF4Z21tRm5HNHEzQ0ZHRm5RckhIUngtaFFwYi14dGxvMmpIQnJ6RXM2SHVEcXFUc2xVR1ZXSUtjZ1pLRkpfY0hRTQ?oc=5</link>
-      <description>Source: Google News - AI Schools — AI creates gray area for MD law schools, students Maryland Daily Record</description>
-      <pubDate>Tue, 25 Aug 2026 09:01:42 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:fa22fca36325a3808544da4491e53846a079bde19ecdcb02a72cf9e5946c6a5f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>National training for responsible use of generative AI - College of Policing</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3NBUlFKYXFjcjBxUVdCU2NhdDJFeEd5RFFleWpRcmpYNFlHNzJERkNXeW5qSW9TTUZuRnltblc1Y3FXeFFhQ0tndGVCYURzTmVReFNZcWk0Xy1FcW40UkZxeS03WDJ3cHBOODM1SU1aYktYejgyLWYxWU9RTHlnaVhBVzJwcmJvX2NGSW1R?oc=5</link>
-      <description>Source: Google News - AI Higher Education — National training for responsible use of generative AI College of Policing</description>
-      <pubDate>Tue, 25 Aug 2026 08:08:17 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:23207e10497f06598fada78fb188e5806fbc3f1c0d6b33ea9089fae15e2be2eb</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Missouri college students face developing artificial intelligence models as they return to campus - WGEM</title>
