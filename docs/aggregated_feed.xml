@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:46:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:44:30 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>With limited AI policies, teachers take different approaches in the classroom - WRAL</title>
@@ -37,6 +37,14 @@
       <description>Source: Google News - AI Schools — Teachers gain insights into AI, digital technology at Kangra school The Tribune</description>
       <pubDate>Tue, 25 Aug 2026 20:03:25 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3003988553122b7a22f3e845e0b019516a378e7d2a79d1e31f8eda413f2cef63</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>'It's relentless': The AI robot preparing teachers for school conflict - ABC News &amp; Headlines – Australian Broadcasting Corporation</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0pUdWpVekdidkIxRlE2dEZ3dkVHbkh3YU5kcGI3cjkwQV9xU3RJRjZrYUtqc3duYjJsMjNFd3V4RG1xbHFPbGVQZ0hmZUhrdjZxbkpJUk1JOXBfaGY3amdNY3ROWVZRME1zNW9YMjNaUFNuMHQtOWVRV1FLN2VjeDBWSFg5dHBCY3EwMjg4VDBoUjFxVFl6QThZYW80NElYT1hVdW9NcUhVWkp6Y0lObTNJbw?oc=5</link>
+      <description>Source: Google News - AI Schools — 'It's relentless': The AI robot preparing teachers for school conflict ABC News &amp; Headlines – Australian Broadcasting Corporation</description>
+      <pubDate>Tue, 25 Aug 2026 20:01:46 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b0ea9d8f89bf6476bceb7d228e743eae9f9b5ce151896334d09b11a4fba03c1e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
@@ -96,11 +104,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>AI Literacy Africa education philanthropy K12 schools - ACCESS Newswire</title>
-      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRUlXQWtPd2V0dlEwZ3c4bVNRTGlUR1V1UXozVnlaWlJwMWFYQ3Zua1RBMFRGemtSY0JMOGduM0F3OGZRa0xleXZjd0ZuUUZiakx6cm9mU2lDTXF5RmJCVDV5QnVjUmhXYnN5XzJvVTUtOWVleVMxNlFGQ0lmQmQ3d1Zkc2lOQ0FiMFphRnQyU0pyX0xlWkZjSUYyUWZ2SWV6VkFQT1hsUTNnWXBVM0RqZVlkcHdtX2lwZGJlVEtuOFgzemtqMVYwSXlLanlwbzFiLTJjN2NxT0gyWFZhVUNVU1hxME4?oc=5</link>
-      <description>Source: Google News - AI Education — AI Literacy Africa education philanthropy K12 schools ACCESS Newswire</description>
-      <pubDate>Tue, 25 Aug 2026 15:30:28 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:fdd4de5c026427d54083f1ad16eba7a04e85299c45bc5117fb15e4647ebc34ec</guid>
+      <title>AI in schools: How often are students using it? - WBTV</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOZy1RYml3VmRLSC1xb1ZqaUJ1WDVZUHFUenUzcXlPUi0yeXV3Y0RhS3BMbnl0Qnp0cGQ2cmVjTnQ2aXJwWUhCSDVyUEMyb1VIaTN5VDQyMlh1cV9JOTEwQ3hjUEFCS0hBdW9kN25Pa3M1eHhqNDJudWxHam8taTNaRNIBlAFBVV95cUxPZXNWQURwa3VaTnlfOVlQZk9GUG5GRE5YS0VXSWNSdWszWTFEUDU3VFNZNkx3Uk15WUJUNGpoZXBobTFTWDVUVlNCUWg5cVJYUzlpNDRNN1RuWXk2eUh6Yjl3TmV4Y2Z1dGxaUkdxcXJYenVZWTVJNVhnU0pINWJMcTJCMzQ3QkdjM19sME1Mb051VVox?oc=5</link>
+      <description>Source: Google News - AI Education — AI in schools: How often are students using it? WBTV</description>
+      <pubDate>Tue, 25 Aug 2026 15:53:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:02051b50af749ee260be6b0b3cb4a96a54f1734229342bd7ddf8b5e7081774af</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -198,14 +206,6 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
