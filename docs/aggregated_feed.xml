@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:02:43 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>With limited AI policies, teachers take different approaches in the classroom - WRAL</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzViYzBJX0dkNzAtckFKRUpOV0RzZEpoTjNnRzA1OHRxeDRWcF9Zc2VuRVpmNnVwX0sycV9jRGQ0NWVpSklDckpxc2luenY2SzEzWG5pdlhNOTZLbklibnJlZGNQaXpobGhQVDByLTctc2RsZHpIN1g4ejR1TmVrdy1yeFdlX21jX19iRWNaV2xRdTVvTVpPc2lsb0VQRlJHQ1p1WTVKbllxTDR3RE94MUx3UUhxN3dTTzFKakNYVkxxdEJk?oc=5</link>
+      <description>Source: Google News - AI Education — With limited AI policies, teachers take different approaches in the classroom WRAL</description>
+      <pubDate>Wed, 26 Aug 2026 07:57:15 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:604d7bdaefc72ad748707ff584642674f11fa5ddf21f7604774273e388668fb0</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>UNESCO strengthens digital and AI learning in Tanzania’s vocational education - Digital Watch Observatory</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1fRGM3N081Q1h5cVlzbGNvNzlmSXpXT0Q1VkI3T2tsZnozWUN6TjBsc3pNbW5QUkhxVUdIaWpINExmSlVPUl9HemswNFhDMWh4a0JQMk1BdVlzaUE4ZzVOXzVDYlQ5YlhscGhtSGhFdlNKZmpCMnROXzE2Yw?oc=5</link>
@@ -206,14 +214,6 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
