@@ -5,13 +5,21 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:16:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:08:19 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>How Companies Are Using Old-School Software to Grade AI Agents - The Information</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOaWdiQ0xYemVqN2ZHdjFHRnBoNlp3bEt2R3c0SUk5allHSDJnR2FQTDltOFF2UEZFNWRudzM1dktQcUxqOFpZVFY4ZkVKUlIxaXBDWklIOU9LRElrN3Y3eDFZeEU1elNSTXlYa0VqeGdBMHVxcVVGbVB2OUxITE53bVBnb0p4V180d2xLeks5Z3JKc1dWbm5acXNVZHZZQVgzQW5wdUJOYw?oc=5</link>
+      <description>Source: Google News - AI Education — How Companies Are Using Old-School Software to Grade AI Agents The Information</description>
+      <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3a93b97a6e1c1148aecb985c7fca126ff085dd64b17332f43d67b1ca74ee9f6f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Student research into AI-powered crop monitoring system aims to prevent plant loss - Kennesaw State University</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQcTBmWWZ6YzhLVTVtRnhFTG9OZmVEVXdTZndMSTQ1T3Z1NjB0dmdYVldXYWVZM1I1RzcxVVZaQXhDaXNHbGdQWFBPeTc3Qy1zVTU3TDQ1VVJfX3NEbmJpNmY3LUY5T00wQ3F5ZGpZaXllYXQtbm5GcDFNVDRHZlB1WFBIWkx3TV9pbzBTcW5IRUhmVEZ5U3c0RkhScGdYdw?oc=5</link>
       <description>Source: Google News - AI Education — Student research into AI-powered crop monitoring system aims to prevent plant loss Kennesaw State University</description>
-      <pubDate>Wed, 26 Aug 2026 13:10:32 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 13:10:46 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:9a38de23a38ab0f0448406653a5e82301cf1716468cb2a963e2ba9e08c08e1d7</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
@@ -54,14 +62,6 @@
       <pubDate>Wed, 26 Aug 2026 10:53:52 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:87ae0e5176d7506f0cceb912a219787f85e08092027ec2e0570b1555f23e7bca</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Why I Stopped Fighting AI in My Classroom and Started Teaching With It - Time Magazine</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2czdWpxU1R1ODVRcmpidFNkbHYxMTRRR3poQ1FQTFB5UUFHRTlVR2lQYjB3UTFYVFJvZGhKTlpEYURKWnRxY1BMM0lydTBkVG5VUGh6TGVaUG9nUGY5QkZQczFWM2FNdTZyMkxRejlZNnhTTjZIRjZXbnFsbTc1cUtqSTlGVElFLXFJNjUxRFNSak5sd3FSOFR4cldkaHRVOVBla3lNMDA0RU0?oc=5</link>
-      <description>Source: Google News - AI Schools — Why I Stopped Fighting AI in My Classroom and Started Teaching With It Time Magazine</description>
-      <pubDate>Wed, 26 Aug 2026 10:00:04 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:89a2fac4a50e3301d9a1e5c27f25a6c7a0a564d5abb77df5280d01cf830e9c82</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>UNESCO strengthens digital and AI learning in Tanzania’s vocational education - Digital Watch Observatory</title>
@@ -162,10 +162,10 @@
     <item>
       <title>Miami University integrates AI into curriculum for students this fall - WCPO 9 News</title>
       <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxQemxNaEY4RWoxYzJQbTVsd1hySmZCWGNqU2ZjTFlvQ0F0QjVybWdIOGtCQmE4ZzdxWjFNMGNNWnRCVlJ4anpHMktveXM3VkVUWTlhSjQ5OXVZNmZMU05PbGxadGFtc1FZMERtZFlycUFrR0ViWUl1YmZQSjRmT1JyekNTR2VHcDFwSzA4NWVreVVMYmZxS0txVUJ5d0NMOGZOY24wdmJQQzNkRWdheFBwV25kVVpzTG52blFMX1VaZDA4TzNhakRBN2xocHplRmxWWWJIMFVEd0VMR3NXTHJn?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Miami University integrates AI into curriculum for students this fall WCPO 9 News</description>
+      <description>Source: Google News - AI Education — Miami University integrates AI into curriculum for students this fall WCPO 9 News</description>
       <pubDate>Mon, 24 Aug 2026 16:08:34 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:38e3f2fb7c07b3ed676412a7527c6630916ff8f01638d2881cbd4cad5803d83b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>GenAI cannot accurately grade student essays in higher education, study finds - Phys.org</title>
