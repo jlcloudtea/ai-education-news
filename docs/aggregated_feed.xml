@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 02:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:29:14 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>The understanding gap – and how AI can help university educators close it - Times Higher Education</title>
@@ -176,6 +176,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
+      <title>OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states - 9to5Mac</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5GZUl5M0QzalNsOHlrUG9EMWxxblBKb0N0blJtcmh3ZExDTXJldUxud1VuVDZVczZvY1VmYlg0aXNSblZlYWx3b1RqOXk0YUZtdWtzcy1vVzFWZ28yMmV3MjZZa1E2MXRjYW1JY3UwS204eEltSUE?oc=5</link>
+      <description>Source: Google News - AI Schools — OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states 9to5Mac</description>
+      <pubDate>Wed, 26 Aug 2026 17:46:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d10a8906fd1d77c8ddd016af3bdb7d34fccf268c3a15d4a75d2970838748ba4f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
       <title>Even With Human Help, Kids Need Motivation to Use AI Tutors. The Question Is What</title>
       <link>https://www.the74million.org/article/even-with-human-help-kids-need-motivation-to-use-ai-tutors-the-question-is-what</link>
       <description>Source: The 74 — Artificial intelligence-based tutoring programs promise something schools have long struggled to provide: personalized instruction for every student at a fraction of the cost of traditional 1-on-1 tutoring. But for that promise to be fulfilled, students have to use the AI tools. New research suggests that may be much harder to achieve than schools assume. In […]</description>
@@ -222,14 +230,6 @@
       <pubDate>Wed, 19 Aug 2026 19:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5602e916cb003a465170db1e2d40a380ef94bc0cf2a1e28f6cfce9539375ffe6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Built for the complexity of education: AI that understands your institution</title>
-      <link>https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution</link>
-      <description>Source: Microsoft Education Blog — See how connected context, governance, and AI agents can help institutions support educators, students, and staff. The post Built for the complexity of education: AI that understands your institution appeared first on Microsoft Education Blog .</description>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08e050d4b9f257e818daf6d3e50b55b5efe92d83850ba858ca9edbcf2b4858a2</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Introducing ChatGPT for Teens: Built for learning, backed by protections</title>
