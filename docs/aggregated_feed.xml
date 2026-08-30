@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 17:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:06:48 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>School district invests in AI robots for classroom learning - The Business Journals</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTUN0N2tuVVNNak5WQV92QWhBdG5aSWIwWEJyOVpUY0dDdTdYNUk1VWo3a2N3Z04xUTFBVHJCYWNTZWlCYnVBb3NKbDdIT0M2NjhlM2lsTU5lVHdnNFVUemc5OWhyNDhYSEZVYzllbExxMGF4cjJVZlZPWUt0UGF3RU1nWkkwNXlnSlA3ZTFxa0VHQ0g3QVozMlF2V1ZySjlOc0hibGVpS2I?oc=5</link>
+      <description>Source: Google News - AI Education — School district invests in AI robots for classroom learning The Business Journals</description>
+      <pubDate>Sun, 30 Aug 2026 19:06:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:745185dc38c18e0a5bb6afd02dfa9d31f814372b8cb6b4cef7df45d08cb4402f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Drew University To Launch Ai Powered Private School For Grades 1 8 - News12 | New Jersey</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQa3NoNEd3bm9zTksxSkY1MHRMS3JXbnNUMFpDVm5XdVlfR0dVVEdVcnd2enkyN0JjbWkwc0lpT05YS0laeWI2RmhDbmk3X1VGWHZ1d3FxUzRBei14ejV4Z3JjRi15NmdKWDFmanViaVZsbmNyVVBqY3VnV3NGYllGUHJXeFpETzkzNE1ud1BaWjRfQm9IY2xkbHRicw?oc=5</link>
@@ -30,6 +38,14 @@
       <pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c2b89b891f6ff62d69b9ed4bc90ce2ba09b82b4855c1a63a65cd79d7fd12704a</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Togo AI Summer School 2026 concludes first edition with campus tour and intergenerational exchange - Tech Review Africa</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNVFsODlmMDdBOGZ0ZWJfeUlCVmZDRjJxN2JmRWFMay1YRk50WjRpMWp2YmRHVXNCVlg5YUplaWVVSDVIQ09aWkU3bXZuQWUzLXR1X0IxUEZSVUxEd0RraEpfSEI5NHBsZFZOY0dvV0l2bUpybS00U3poT2Y1TXNaMVFNellXWkxiYkl0ellfV3dUX21zTXpfUllaTy1kdDVlRlJtOTBWQlBleC1rbldFRERYXzVJdHQyX3RLbXVlWmpWOHFMRkpmWkxOMjBsSDExU0Zv?oc=5</link>
+      <description>Source: Google News - AI Education — Togo AI Summer School 2026 concludes first edition with campus tour and intergenerational exchange Tech Review Africa</description>
+      <pubDate>Sun, 30 Aug 2026 13:35:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5d67193d6ef5a707f0123364bb1ff686db61051d79c3578c632249d77c24a933</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Preparing Teacher Candidates to Lead with Human Intelligence in an AI-Shaped World - Notre Dame de Namur University</title>
@@ -64,20 +80,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>AI fears are changing what college students choose to study - Central New Jersey News</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0FQaVBTTWhlVDhkTzFXMEQtYThBOExqV2FjZzJhQjVSbnJHbWM4Sjlwa0luV0tXVlIwQV9UR3diQVVCMjRLb2RSVmVBcEU0ZE1iaWJyOEV4ZDVVTW5EVGd1Z0w2aVkwdmVTX0s5azdHb3RnWEp0eE9tTVFKV29uckpTQmlHemVzc2NlZmk0Nk5MU3ZfUTB5UWZWWm53MTlTcDNXZEtOTldndUJYYW1nLVVNaW0weDJjV3A4?oc=5</link>
-      <description>Source: Google News - AI Education — AI fears are changing what college students choose to study Central New Jersey News</description>
-      <pubDate>Sun, 30 Aug 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:37bb9d9c383ca08e5d7ed0a20b32b8fe3ccceb357e7c6dd12fdb4391b6c6c199</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>The understanding gap – and how AI can help university educators close it - Times Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzM5bGpnZTZqVVZwQzhPaXNTNVFSQlJWY0V5N3hUTEpYekQzMVpqYk1ydC1mWFMxOG04Nm0zblY5VTRRSE9peGptTHc5YTd1d3lXNnp2SXhNYUNCaFNIZ1BFNW40V2gwZUZqZ0hOZTFYQmprN05ibDFuOTRsT0F4SFRBNUt0TDlqMmZ0WE9BRDBPcUtyQnN0RzNoQjlDWUdEOGphTldhNlJ0cE1XQnZLRQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — The understanding gap – and how AI can help university educators close it Times Higher Education</description>
+      <description>Source: Google News - AI Education — The understanding gap – and how AI can help university educators close it Times Higher Education</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0311fb039f2ce67a7106b1a374cb70e5ae5c3d45910e11bbb45fcea5e6d08d78</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Florida Moves to Enact AI Rules Across K-12 and Higher Education - The EDU Ledger</title>
@@ -134,14 +142,6 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ccef886bb5008dd826e5bce3d1b67b88f8c80482b87abca89aab9209d8e23b50</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>AI in classrooms NC | As Artificial Intelligence's role grows in education, schools help students develop critical thinking - ABC11 News</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNzRpaFFJTlhyMUxDdzBkSlZjcHJZWnEtenUyQlQ0bWNhTkhobEVyTEx4LXFzaWhrVlIwajY5Vm41MXdBT3Nhb2tuR0dCNlNDeTF3MkpuaWdJWlkxWXlhX1JwQk1BZ0ducWUyVXFpQXRjNzVIN01OOUlQcm1SR0txNTNqUlhRR2R3TklKMFZneExRWk92LVZnM3lIcTFZQ2E2ejVaZ21YMTBVcG0wOUczNTBfX2ZkRnZWVmtobUtjTmVselNTNmtLa1ROU0VPMDlFemJVeFBybUJaamvSAeABQVVfeXFMTkhoWnpucDlMaW1hRmhIeTk3X0NIS294bWJXU2ktWm15Tmh2Y3A5Vy1CdmlhQWlMWk1wOC1PQmstQmQ2MmRteVpaQUpPRktlNDgwcWViRmY4Z0NUU2k4MmRORzJkUi1hek8tMEdIckwxMWxPZWZDOUliRTl5OWdmekJQUGc0N0hQbGJwQ2ZoTjUxNVk0YVNEeUpGcl9GYkd1Wm0weEwyM2ZfMjhaVEJ5V2tSRTF4NERyb0FrRHpiUHdHVEEyS0UxN0laY1JSazlLMWFNeDNmekpzZGxYSWZGOWQ?oc=5</link>
-      <description>Source: Google News - AI Education — AI in classrooms NC | As Artificial Intelligence's role grows in education, schools help students develop critical thinking ABC11 News</description>
-      <pubDate>Thu, 27 Aug 2026 20:44:41 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5278408254c9b3a440eb98cd82c044b0cfffb2c0c01e90441a7573f32a4929d0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Looking beyond natural sequences</title>
