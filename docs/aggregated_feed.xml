@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 21:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:20:52 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>'Robbing you of your thinking': Teacher warns AI is hurting students - NZ Herald</title>
+      <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTllVT1Nia24tRGFWX013ZGxPMzd3TmN3UkVHdkZPTW5faFNCUVk3Si16NWREQzA0UXVVTlZ2MHFtd3hZUXpJRlc0Tk4zNjgwYnlFenQxeXg5aUo3d2lyeE5WTVBNV0lFcmRfRUFLUnM4dnBpNmRmRzJOT1Y0Vmd3VnNwaGRGMTFGRUo2aUxzS2lqazhqQWppWmN5ai1oaVVTaXYtR0EyaUd4azhVMGNkUWxWempiandJR3lLNTRBRjhZejJBa21wbXBVRFdDV0JxWU9aLTNLTFhLWVZXYklYUDJzbXFsbEVPT2pOb0JPUV85RE0?oc=5</link>
+      <description>Source: Google News - AI Schools — 'Robbing you of your thinking': Teacher warns AI is hurting students NZ Herald</description>
+      <pubDate>Sun, 30 Aug 2026 00:02:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ba816797736efdaabb396be9f4b30ec7dc748b4278d2ef6626da215a09c84135</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
     <item>
       <title>Osmania University hosts national seminar on AI’s impact on accounting education - Telangana Today</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDFzYlJBTzljSnRiSzNPbTlaZUFETGVNNmU4dkNpckN5bWx5ZFg5NjhBNEJ6ZHBBTVVxOEpmY3pEdlRhSW5vNHZlUmNmOFhRSjJhaTUwVVFYMlBzOGZMa2pnRnNORzVPNVlhR01OM09KSHlXazN5cFNobXJHNDQxV2puYVhJa3RjdVZqOXVWUzBLMllyOGxkb3dFQ0l4ZnNITFByYlRUUzdVQQ?oc=5</link>
@@ -34,10 +42,10 @@
     <item>
       <title>The understanding gap – and how AI can help university educators close it - Times Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzM5bGpnZTZqVVZwQzhPaXNTNVFSQlJWY0V5N3hUTEpYekQzMVpqYk1ydC1mWFMxOG04Nm0zblY5VTRRSE9peGptTHc5YTd1d3lXNnp2SXhNYUNCaFNIZ1BFNW40V2gwZUZqZ0hOZTFYQmprN05ibDFuOTRsT0F4SFRBNUt0TDlqMmZ0WE9BRDBPcUtyQnN0RzNoQjlDWUdEOGphTldhNlJ0cE1XQnZLRQ?oc=5</link>
-      <description>Source: Google News - AI Education — The understanding gap – and how AI can help university educators close it Times Higher Education</description>
+      <description>Source: Google News - AI Higher Education — The understanding gap – and how AI can help university educators close it Times Higher Education</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0311fb039f2ce67a7106b1a374cb70e5ae5c3d45910e11bbb45fcea5e6d08d78</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Educators create space for AI in the classroom - KTVE – myarklamiss.com – Your ArkLaMiss News Source</title>
@@ -166,14 +174,6 @@
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:58bafef639539b856f896fd1c73e2a712d5cd2b875aae0e620b3484c7d91bd6e</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>Common Sense Media completes K-12 digital literacy curriculum as 70% of teens use AI for schoolwork - EdTech Innovation Hub</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQi0tbEdVVFZWdldzSFBaM0xJaDNmb21Xa3ZJSnhyYlRzamQ0YXdOd1Q0MmJWa2p2ZWp5RUZjOTZEYXpLNWRPNkdXSy1kMEE4LUg2ZVNaYWpFTklFM3BNMkpZZEVBYmI4NGNDejN3cXNuRUFZLWU5aUFVMWViZGU3RGVfRUhlMS1vR2hJb21SVWxJTGZaR3c5aW15WlhPOGFLNTB1NkVURmliYXVTZGcxU3ZQMk8yWlNmbDQ3Y094bUxEWVI2MzFhSmNIUHNWNGZDYnVzT3lB?oc=5</link>
-      <description>Source: Google News - AI Schools — Common Sense Media completes K-12 digital literacy curriculum as 70% of teens use AI for schoolwork EdTech Innovation Hub</description>
-      <pubDate>Wed, 26 Aug 2026 23:30:50 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e364f2c80a00d3583caa9c83e049717842a31f911e761f9773a7d70e332819e1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Even With Human Help, Kids Need Motivation to Use AI Tutors. The Question Is What</title>
