@@ -5,14 +5,54 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:51:38 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>83% of U.S. teens use AI but schools lag on guidance | ETIH EdTech News - EdTech Innovation Hub</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFVrNThuRTJzeVkwWDdRQlRHZ2V3c0NTQzdDZWg3U2lmTU9rQWQtN0hzRlhlbDhwQWV6c2c4em1lS2VjZU9CYUxGelJneHJMWnJNbnE1dndMS0M2QjROTWRtSmJ1RGNwNGM0OW0zbGpzalpQc0tMYzAwcFdZX21Eb1RVNWJTcnlXM0d6YVhpdE95c25nTm55TWZUdFItSzVjRmpzekdZTzBRNzBrbTdrOU13?oc=5</link>
+      <description>Source: Google News - AI Education — 83% of U.S. teens use AI but schools lag on guidance | ETIH EdTech News EdTech Innovation Hub</description>
+      <pubDate>Mon, 31 Aug 2026 23:50:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:62dffc8cd4a4e9283f7b2491765488f5d4dd9d20c7e2b9fe202dd3e661b128aa</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>OpenAI adds 55 systems to ChatGPT for Teachers | ETIH EdTech News - EdTech Innovation Hub</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlRGTm1OdWthRjNTb0lUYXNwMmhwVjdSZFJfNURhcUhmeXlwbkR4TWtrdnh2VXhNdVRjMGlGRGdjdUlobGR5aFdDTWNJT3B0a3hrNWZBQ2dpd0pMWjcybkdvZ3VzVmhDZlhKNjk5dktZRjFwMTBzYUpjQTlMQUVCQXN5V3BadW1DZll3NWF0TGE0ek5SWGFpYjZ5WlpGTTM5aWlLd0JJeHo?oc=5</link>
+      <description>Source: Google News - AI Education — OpenAI adds 55 systems to ChatGPT for Teachers | ETIH EdTech News EdTech Innovation Hub</description>
+      <pubDate>Mon, 31 Aug 2026 23:05:34 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e2bf4fd0052cfcad45e4ad446c99a43d7124e093c5832042f29108c4ac5535ba</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Bill Gates’ Stark Warning on AI in Education: It Could Result in ‘People Learning Less’ - Education Week</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkRoRmFjeld6SE4ycHNRMHdDWUIzUDNFUlRVeEVoQ1dOblNsTkJETkRHOEtvY0pmLWM5Ym92SW52LWo2LTFnRFBuWEdSb2JBeFdhN1BlSTZLUHlKekFqdlNTWjhfNWxXejhFSEVZRmpLUFdyYVJWZUF3dDBGUUhuRGJhQzllREZ6VTdfeFJ1TWVmY0N6NmtmbVZuUzZsZlM0T2NJVE14a0xlYkcyZ2l5S2lRSVhXenJhSF9iNm5GNWx4WFE?oc=5</link>
+      <description>Source: Google News - AI Education — Bill Gates’ Stark Warning on AI in Education: It Could Result in ‘People Learning Less’ Education Week</description>
+      <pubDate>Mon, 31 Aug 2026 21:40:56 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:62dcd662dcf8e622fe08685c4422e5582d4b7e79b15037121d3d1671041812b1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>University of Tampa requiring students to take new generative AI class, starting this fall - FOX 13 Tampa Bay</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxONGNmWjRHenhmSDJsWkExSmNJSW84MldIQy1NZ3h3ejBEODlOWTRwb095V3BRMjJxZ2VySHlJMzVYb1NHS3lxNWk1eEo1Rlp5clY4NnlHZV8zWFVfNEdrRFBRY3Baa2pwRVU3eWFMdjRORk55S3NIaUZCODRCNTZjNTlHVTNKZTZvMERWU2lFaXYxcU9lUzBZdUs0blFXZjltUTBRQ0VGUHR0VXMtS2c?oc=5</link>
+      <description>Source: Google News - AI Education — University of Tampa requiring students to take new generative AI class, starting this fall FOX 13 Tampa Bay</description>
+      <pubDate>Mon, 31 Aug 2026 20:56:09 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:36d53d17cb117ed967120843ae49fdfbbbdc18f9aba2a749c7aec3bbd6093670</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Has software engineering curriculum and recruitment changed after generative AI? - New University</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTlB0aXZJMUNvanRlVVI3S2VaYzUtNG5UZFlfUENJVkVLSjlWbXItUXFySUh1THdOSm1VVTFJTHhDWmJ1cVVXS0xqdDNQZFhDWDBvMkFyT2Rkd1hMdW9xYkJwMUlVcGdhM29GcFdGS1J4Uk1aOVJzSTdoYm8zU2FKaThtdXdsM3lJdlpsOERPSUREdnVtSnlHT1lxVUZhQ1R0WElib19YUlNWT1RacHFMOVZYOWpwT2cy?oc=5</link>
       <description>Source: Google News - AI Education — Has software engineering curriculum and recruitment changed after generative AI? New University</description>
       <pubDate>Mon, 31 Aug 2026 19:45:33 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1b0474e5f59769a741f350dbd0cfa33f5b2bf31698e8a7c70e86ae81476cf4ea</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Rider University partners with CollegeVine to enhance student experience with AI-powered tools - Rider University</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUdRQ3NkaFBpOEQtVXJVak1SX2RFUDVlbXdCcmtuY05BbkJ0cUtyX0FPSFNYSlBISXNseVYwekZUbmFORUpIX2tCdzBhUVBRRXo4UFJfNHJMSm94WVA2bGhyMXFwdUpFZWxoZU5ONHozSGsyeHdYMFpweHhkbUZaOU12LXNwcGx2NE82X3IwQ2M5NVFjZDZSUUVwbkNmcU0wVEdKeTZIeTd0Vmp0dHFKNFJROGc?oc=5</link>
+      <description>Source: Google News - AI Education — Rider University partners with CollegeVine to enhance student experience with AI-powered tools Rider University</description>
+      <pubDate>Mon, 31 Aug 2026 19:04:49 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a7885951744ecda955cdf15ff7d392b22a7d69726876ed94c3895af2977c5706</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -24,35 +64,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>University of Miami Business School and IESE Business School return with executive program on AI leadership - Yahoo Finance Singapore</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOanMwVHVYbUFJTDdtVDJ2Q0djWFFpdWF1bEZfR3gxcVhTaGJqRFdQU1hubkJpQzZQaGx6ZV9tTUJ3ZlI0RGVod2I0Ui1OTVpwbnp2eHJVbTcxam1uUmVQalh2VXNhV2J4S2M1VXl2Vmw0VzNEUVBOOHMybmdyZmdfeHNRRmF6Q1JjQy11dWZ5VQ?oc=5</link>
-      <description>Source: Google News - AI Education — University of Miami Business School and IESE Business School return with executive program on AI leadership Yahoo Finance Singapore</description>
-      <pubDate>Mon, 31 Aug 2026 18:10:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e2b6b9996f3fc72f1e3135f882579d0cbafbf0ae755021b943c6f8298a3dd885</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>ABP Education takes equity stake in voice-first AI tutor YoLearn.ai - Dealroom</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQajJPcHduM0ZkcnpLc2QzeEo3QmJBeFZOa3JtZDZvbTRkbmQtZTE1bF8wYXYtLTRRSG51cjZMTmRHUW9YdjhEc290QURSTDZCOS1IQThVTXlOR205eEN5ZDM1dUxNb2RyUEhMSC1QN0o5NF9DSThER2QyNUlMY2lmdVRNcVdtYUg5UWNQbDJwX2tnNDgySWQ5d1Rmam04bkNsQUY4?oc=5</link>
-      <description>Source: Google News - AI Education — ABP Education takes equity stake in voice-first AI tutor YoLearn.ai Dealroom</description>
-      <pubDate>Mon, 31 Aug 2026 17:57:27 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:9f43861fffb0c76caac38e17d77e37a00431dd002d034fed41fdf09d3bd39f62</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>Rethinking assessment: Making learning visible in the age of AI - University of Florida</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDd2pnVG1uNlQzZkY1NGRya0N5V3EydktBMHhVZHI5TDZnRUhhUmljbTlxR0xjalhBdXdlai1UODRFalBxTHFZQmc0Qk96cHo2REZJTXVNeHNwVXh4N3Zr?oc=5</link>
       <description>Source: Google News - AI Education — Rethinking assessment: Making learning visible in the age of AI University of Florida</description>
       <pubDate>Mon, 31 Aug 2026 17:49:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c3ba4a9fe7c77bd05d74d8f5c50e71140a1fdc3756f1ba1bed67e06c9cb9e323</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Fort Worth ISD partners with OpenAI to provide teachers with expanded ChatGPT - Fort Worth Star-Telegram</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBRcHBuY3B5WWJlZnJVSTFOOWJKSVIzdXpZV1VwbE5ZRjExX1FScXpaXzhMRFI5ckZsbDYxaGlkWGU3Z3U1VHF1ZHZQcWdoZTJzTWFWamsyNnItbTVneE9sVFpDNzEzY2stWUpDbmYzREZRQ19zeG9mYUd0SVnSAXxBVV95cUxPRzFYUVNXOE5NcjZ0OFo1a18tRnF3dGJFZ25FY2tMdE5JME5pZDlFdEpzeEFGRnFla0NXdDBvVzNUdnBIREtxY0lnRlRvVHZpN3QxRmhxU3JkV0JIQzRVbDJlOWc4VTJvTWJkeHVZZzQ4MkpxZUhoRy1yMnNo?oc=5</link>
-      <description>Source: Google News - AI Education — Fort Worth ISD partners with OpenAI to provide teachers with expanded ChatGPT Fort Worth Star-Telegram</description>
-      <pubDate>Mon, 31 Aug 2026 16:33:06 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b66feb06a75bdd4b76b6341ca16e7ae74762cf1e81df45680cc21b65dbd47cf7</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -88,14 +104,6 @@
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
     </item>
     <item>
-      <title>Dongmyung University Expands AI Curriculum... Cultivating Future Talent Through Industry-Practical Education - asiae.co.kr</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5WSVoxY2hMUllBUVdOTlJBc3FuMVRiZURja1FyVHVtZnlQNmNJX0tna0xWbWtPT2Z6SDNHU1JNY3FrR1VRM1Nwd054QUN1eldRZXp4OU5aV2loNnA1SzBMQjZpVXVWcUU2STMzOXl2R1k?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Dongmyung University Expands AI Curriculum... Cultivating Future Talent Through Industry-Practical Education asiae.co.kr</description>
-      <pubDate>Mon, 31 Aug 2026 04:44:31 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:29341c738bce50be8a7af4f80d1dd541f21bf518007b0a148cb0c642997afc83</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Move beyond technical skills and embed AI literacy that teaches students to question - Times Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGlqQ0I5UDNEeEM1UzRldHJXR2ZoNkhucGVXdWlsbEw3N29DR1ByNlIzcF9aVUdycjR6cmg0TGJfNnpaWnZtY1g5bTZpMEZTNG1BczF6bGJydElMMXdtSV9hdkc3QlBBVnZTdFZTSUExQi1nQXpDVTVmYmoxbDNzX1A0ZUFxNjhPdTA3bEJiRmhWWFRBczlFVk1ESF92ZldvTFdwRF9na09WUXpFZjVfTWlCOW9RUjlvMm10ZA?oc=5</link>
       <description>Source: Google News - AI Education — Move beyond technical skills and embed AI literacy that teaches students to question Times Higher Education</description>
@@ -125,14 +133,6 @@
       <description>Source: Google News - AI Higher Education — The understanding gap – and how AI can help university educators close it Times Higher Education</description>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0311fb039f2ce67a7106b1a374cb70e5ae5c3d45910e11bbb45fcea5e6d08d78</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Florida Moves to Enact AI Rules Across K-12 and Higher Education - The EDU Ledger</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmZXYWdGVkZpcDJTYzJld01iMjFvWTNBcFU1cWZ1bXJnVWV3cEwwaXV4MFFZOEM3OC1zcE13QzVtTE9HS0g2bVZ0YnNEMXZiZzJ2SDVFY0YzSUNESnNSMVhHVFJJQU9iUmxmc3Y4WEE0cURIMDVRZkdlekRPbEQ5TDVNajB0eW5UOW9tb0dVTzVLcFoyZzI4bWVlM1hSOUgyYWh5aW94SDJzdmZZMEVaZWxR?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Florida Moves to Enact AI Rules Across K-12 and Higher Education The EDU Ledger</description>
-      <pubDate>Fri, 28 Aug 2026 20:56:22 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:763d586a38c04c6b4dd77815a5175658c865a4d6c1a16000853ac68fe3a7642e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
