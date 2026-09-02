@@ -5,31 +5,55 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 09:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:30:05 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>New York City Public Schools banning AI use through middle school this year - ABC7 New York</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2c?oc=5</link>
-      <description>Source: Google News - AI Education — New York City Public Schools banning AI use through middle school this year ABC7 New York</description>
-      <pubDate>Wed, 02 Sep 2026 08:01:52 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:61a3fe395954dda9c0b13ff2c65235136920a0d33909d703f331ad73c37adcb1</guid>
+      <title>New York City Schools Ban Student Use Of Generative Ai Through 8th Grade - News 12 - Hudson Valley</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPR01qWkRWVTZ2QWQydUxncmdJRko0XzdKNU45SHlLV1VZQmRrZEVMU2NLWk1aMTVkR3NqdWtJd3VWXzlkSjVWLTZpNWdQSnRtOTA0RGxJRXRHR2x2RlFONEMzbjFhc3hQbGkyMnRIdGx5bHBMelRDVUtUV0RGajBUdjE5TnVwZ3A0djBJLU9NT3d0aXNwTlZWV2E1TzRCT1luUl93SWhWMA?oc=5</link>
+      <description>Source: Google News - AI Education — New York City Schools Ban Student Use Of Generative Ai Through 8th Grade News 12 - Hudson Valley</description>
+      <pubDate>Wed, 02 Sep 2026 13:39:50 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e1ca9fc7609571e4c56dc4e1e98ddc556981ec00beaf86e26db63fb8cdc86d7a</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Australian university replaces in-person psychology classes with AI chatbot for two subjects - The Independent</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ2dYck15RmlhNkltMHFDV0xkOXBtVTJlM1V4eEZKUXA3ak85NG9QQmtNblZBdjk3Tmw1ZjhBWUg0Ymd2Mkd3cUtURl9WY0hUYXg3MEhOa3VPMmZXWk1uckZIUnlzNXREb2haLUx2SmlDdXV6M0RfZDlMOGZVZHhLd0xaZ05XWFRuV0J5UkJ6SmZJQ0pXOEdmNFFqMGtDU2NWRHBLSEpjQmZOMW1UbG1jTGdYcndNbGtubDhZcmRIYzZZWmh6cnc?oc=5</link>
-      <description>Source: Google News - AI Education — Australian university replaces in-person psychology classes with AI chatbot for two subjects The Independent</description>
-      <pubDate>Wed, 02 Sep 2026 06:06:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4d2be155195a4d5a5c7c1ac649c76f9d241768f227e960e82095ca3a665eaf6a</guid>
+      <title>This university built an AI curriculum before ChatGPT. Now it wants to help other schools do the same - CTV News</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUnBsc2I4MFJkXzdhS0VzSmt4SHlrcHRJeUNSdmJ0WkZXNUF0OXZ2bDZXZFluVlRZeC1LT3hhcm5KcFJGQ1pVMjJnQzhENjdPcHlHaWJSX0NRM2stcVlLWEpkelNVUk94MzBVZ2ZkekhUd0J0UGFwYWE3bkJ4MU5faThpd0VPWFBjSnYzMnVtdTJnaGZsM0lDWkMyaGFJSldpQjdSX2QydjRnZXd5aXlqY3NuS3M0NVZpVktYZG1SZFctcU91NkRJR3JtUjhJMnNybWlqc0FOXzc?oc=5</link>
+      <description>Source: Google News - AI Schools — This university built an AI curriculum before ChatGPT. Now it wants to help other schools do the same CTV News</description>
+      <pubDate>Wed, 02 Sep 2026 10:45:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d35074673529bec680a805d31836d743eed4db7f582ada3e963e6759e059f231</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>University of Florida Integrates AI Across All Colleges as Students Build Digital Assistant Teams - Межа. Новини України.</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE9zMU1uOFl0dTZUQXI3QVg0Zm9LbUFiUWhTSWFpZHVscllCeERKM0dhQU5Fc0ZYa2paOTY1cmxTeG45MklIMTl6eGFkWUc3MnBXdFhiVEZ4Y24tNFBSa182Z0hfVjRWY0YwcHdF?oc=5</link>
+      <description>Source: Google News - AI Education — University of Florida Integrates AI Across All Colleges as Students Build Digital Assistant Teams Межа. Новини України.</description>
+      <pubDate>Wed, 02 Sep 2026 09:53:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:422b95338ed6542e7360a67841a0b4d5f28f30c345bb0bbabb3d62430eacf52c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Auckland University study warns against AI pain care assessment for seniors - Inside Government NZ</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmZHZ3NGUUk2dC11c09Lczh2clpPMFd4MndfOFpZOVp6bGVMb2g2eHEwY3RrWmRyVExERnZ2ZUFnZmVpWV8wc3VpR2R2eHN5OUFXR1FDXzhFdnZmRXlCQ1Y1Z3NDNW02ZzdJNTAxSDhqMlJIR0lNOU54WjFVcDBTOWhtSjUxZ3BSUWxSYTRYS0xLcnlOT2N5RXREdHBna1NzWnJJUEdSLUVoUTg?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Auckland University study warns against AI pain care assessment for seniors Inside Government NZ</description>
-      <pubDate>Wed, 02 Sep 2026 05:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:2dbff2609812394ff052d9104736ff94e03070e01c01a1cc9dbd4978bc7b552c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>AI governance in higher education: Five lessons for university leaders - QS Quacquarelli Symonds</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQbmZRQWVSa09iRkNncWMyZ3M1T3VZWU1ONU1ha1BYQUd0aU9JWGZQYUN0bE9DYjZpYXNwNlp5bUpOVjRzczg5b2xFaGQ2eXNfandEbjBSMGg0SnFLVHFNMWtCUy14UEEwUXd5bFIzaXFVT0EzTWdEM3VIV1VwMzRKOUptSy1Uc0dMS1daVk16Q1JSeGRtanA0YzFsYlVRZw?oc=5</link>
+      <description>Source: Google News - AI Education — AI governance in higher education: Five lessons for university leaders QS Quacquarelli Symonds</description>
+      <pubDate>Wed, 02 Sep 2026 07:13:28 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d3b4170a20c2df18915539a60c0c3067164936207ad61a31a23787079c91cb5a</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Faster homework, poor exam results: What AI is doing to students’ learning - aljazeera.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOX05MbzQyVzZqLUtTdXFRVk1nNnNNci1QQlBnX0ZyNkFuRWtsM194Qm5yTEVoNVRJaUlzVHlPWkZhdnNtNFc2MWNBWGUwbUZxQjRmVVY3WnBoWGJxTi1DLWtsemFRX1puWWdhcGlCeDBtOTRnVEo0RnhNT0ZPNkdjWllCSy0tRWZCZ04tczl3UHVLX251aXdXVi1aOGpKeTVNczkzS0VYaXVweHBHMGU2YdIBtgFBVV95cUxOZVZtQ1paY09PR2c0ZVdvdFdERFNWOUJiQzVqWVFLVFdvc2FOZ05sTTlrMEJRVDR0SlctMkNiRjdEdGNxd0FONjlGbzVvLUdYZ25HcG90MDl6bDZyb0NIWU9nY3RoNWFyMm1GakpVWWN0TkRsaU5LVUY0STlOcDUxaXk2dC1aRDFOZW56ZWRCalhldENwTm5NSzZzeW5oNkJ6b25OR3d1cE9YYkJyUXBWczRXS093dw?oc=5</link>
+      <description>Source: Google News - AI Education — Faster homework, poor exam results: What AI is doing to students’ learning aljazeera.com</description>
+      <pubDate>Wed, 02 Sep 2026 06:03:22 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d75b7e79d75206d5a65a805792bcd39d97293a38610b875b294fc1a25a0e2a65</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>NYC public schools to ban AI for teaching students below 9th grade - Gothamist</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNOElzUTBZeWQ3ZzBEVlBtc25YV29uRmYtaExQc3JBQmEzVTl5Y0IyckxyVzRIdVBHUUlqTFZpZGtWUzE2VGFDQlRqYWxQYllDZWtIMnB0SXEwLVRlem1pQkhrNE1aM3o0bEg3NUdfaEpndXFkLU11R3ExbFBSMDd6aEVaUzVCZUZ4SUdHcHhUUzdVZ0hNYi1PMw?oc=5</link>
+      <description>Source: Google News - AI Education — NYC public schools to ban AI for teaching students below 9th grade Gothamist</description>
+      <pubDate>Wed, 02 Sep 2026 02:28:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:007daf3172d262e7ecf2b0aa942f80a2e702af0abddceaaad19ea7872eaf8500</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>How AI Taught Me to Embrace Vulnerability in the Classroom</title>
@@ -64,6 +88,14 @@
       <source url="https://blog.google/technology/ai/rss/">Google AI</source>
     </item>
     <item>
+      <title>Learning Law in the AI Age - University of Virginia School of Law</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeF9DWFhpaXBWWVV2MzF5eU9ZZU5QVjRyVWUwUkJ1NDZUR2diWnlWMWFHYW85ZGtSVE5kcGpOc3lIV1R5ajdMZGlSRk1jQmQtQmc5Tk9fOURUZUkxQVhXcjJlclBsSWduS2Z6dA?oc=5</link>
+      <description>Source: Google News - AI Education — Learning Law in the AI Age University of Virginia School of Law</description>
+      <pubDate>Tue, 01 Sep 2026 20:27:45 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:4f8f9bed03071f86219a7862a4589c1b7725c945eaab4ea7328474348aba86bf</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Fambot introduces an ‘AI chief of staff’ for families</title>
       <link>https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families</link>
       <description>Source: TechCrunch AI — Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.</description>
@@ -80,14 +112,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Nearly three million Israeli students begin school year with AI, financial education at center - Yahoo</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2JBSWdQMmt2c1pkcThuS1ktVmNJbXpkcHJjWXl0bGttZE8yOExieXNRc1RxQXkyb3Y2RG1aR0JsejZQVkZrSGdiMVFldG5Sa0tFMm82a0dWNmtEU1ZHck1CYjRtY3l4VV9BN2ppRF9JZl9rc0tLM2hXSWpFbGF4dUQtRkp2dzBlMVczaU9zTEhnY1VFSFF3UFZB?oc=5</link>
-      <description>Source: Google News - AI Schools — Nearly three million Israeli students begin school year with AI, financial education at center Yahoo</description>
-      <pubDate>Tue, 01 Sep 2026 07:32:04 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:8ef7ab02aa43b53e1b1df82a076a067b6338f544376360673364b542d270b3f3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
       <title>A Principal and a Student Reviewed the New ChatGPT for Teens. They Had Plenty to Say</title>
       <link>https://edsurge.com/news/a-principal-and-a-student-reviewed-the-new-chatgpt-for-teens-they-had-plenty-to-say</link>
       <description>Source: EdSurge — The new offering is promising, but there are some real-world reservations.</description>
@@ -96,9 +120,9 @@
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
-      <title>OpenAI expands ChatGPT for Teachers to 55 more U.S. school systems - edtechinnovationhub.com</title>
+      <title>OpenAI expands ChatGPT for Teachers to 55 more U.S. school systems - EdTech Innovation Hub</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMlRGTm1OdWthRjNTb0lUYXNwMmhwVjdSZFJfNURhcUhmeXlwbkR4TWtrdnh2VXhNdVRjMGlGRGdjdUlobGR5aFdDTWNJT3B0a3hrNWZBQ2dpd0pMWjcybkdvZ3VzVmhDZlhKNjk5dktZRjFwMTBzYUpjQTlMQUVCQXN5V3BadW1DZll3NWF0TGE0ek5SWGFpYjZ5WlpGTTM5aWlLd0JJeHo?oc=5</link>
-      <description>Source: Google News - AI Education — OpenAI expands ChatGPT for Teachers to 55 more U.S. school systems edtechinnovationhub.com</description>
+      <description>Source: Google News - AI Education — OpenAI expands ChatGPT for Teachers to 55 more U.S. school systems EdTech Innovation Hub</description>
       <pubDate>Mon, 31 Aug 2026 23:01:09 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e2bf4fd0052cfcad45e4ad446c99a43d7124e093c5832042f29108c4ac5535ba</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -136,36 +160,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Discovery Education Launches Conversational AI in Google Classroom Add-On, Connecting Teachers to Trusted K-12 Content - Discovery Education</title>
-      <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYXR6WGJXZElPQ2x3bHdlQ2xwdVpYREVOckVjZ19OWkMzYTl6c3ZrcExiSUh2VS1OQkVocHhWTzdkcktkTUF0TjdDamdYTXNfNFd4NC1QVUt6ZmN1NTRBNDhsZ2lCY1ZsUVY5ODN4VllLTTZQQjNhT0pxdS0zX25EbGtkMFZFdS1obWxsM0tGV0JVWFdYRFlpMTU4R3FUZmVXTjBxR1Z1N0p5UTA3ZzdYeUtqZDdtNk11bXRJc3dyNVdWWHEyVDRDNmpwWGdCcHZ1SGphclgwMERoTkpBMzB6TTEyQWJzZWliUTFxNVkzX0Y2YUU?oc=5</link>
-      <description>Source: Google News - AI Education — Discovery Education Launches Conversational AI in Google Classroom Add-On, Connecting Teachers to Trusted K-12 Content Discovery Education</description>
-      <pubDate>Mon, 31 Aug 2026 12:59:47 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:60af8226adcc8b5c4c0b1a6b14c01c870bff08a520033e9975db9097d8a58408</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment - Faculty Focus</title>
-      <link>https://news.google.com/rss/articles/CBMigwJBVV95cUxPYmRzQlA1VExIY1IteGFYLTRJT0owbFZMRzYyNDJUTFRnb2F3WVM2VTRraTFNZ3kyQlluUzA3T1BMUnRlakhzSDRaT1ltNHpOZTlxLXRDdFN6UWI4UjBGQ01oOGtzRjVISmc4M3JCd2s1UW1yMmp5NnBDYjlUQnh1eE5ndHgzTjhvTGV2ZEVxVjJwcElHcGtPRHNyTTRSMUxEMm9DWGpkYUdJUjRDTFBmTjZxbC1BLW84Yy1Kb0FxTVRBRU1sMFRoWjhwWU9SdDNEQWhIVDZQMHcwNmlHUHBIX0ExQmFqQkVQTWxQNWxMU1F0R3BLZW0wbDZ3ZXJjNzhrOGYw?oc=5</link>
-      <description>Source: Google News - AI Education — Artificial Intelligence as a Pedagogical Tool in Higher Education: Enhancing Reflection and Formative Assessment Faculty Focus</description>
-      <pubDate>Mon, 31 Aug 2026 09:05:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ddd746e0926adc08ecb419d9948826a612b578f815b27baa501558e662bf1fb4</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>OPINION: Knowing how to use AI tools is not the same as knowing how to apply them responsibly. Colleges must do more</title>
       <link>https://hechingerreport.org/opinion-knowing-how-to-use-ai-tools-is-not-the-same-as-knowing-how-to-apply-them-responsibly-colleges-must-do-more</link>
       <description>Source: The Hechinger Report — Universities across the country are investing in artificial intelligence literacy. Students are attending workshops, experimenting with generative AI tools and earning certificates meant to show that they are ready for an economy shaped by AI. The problem is that we don’t know if these programs help students solve workplace problems, if they open doors to […] The post OPINION: Knowing how to use AI tools is not the same as knowing how to apply them responsibly. Colleges must do more appeared first on The Hechinger Report .</description>
       <pubDate>Mon, 31 Aug 2026 05:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:306124c8773c9ae17af68cc1e8b1bbea1b9eabefddf7ec21a5a0f4f037e5c892</guid>
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
-    </item>
-    <item>
-      <title>Move beyond technical skills and embed AI literacy that teaches students to question - Times Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGlqQ0I5UDNEeEM1UzRldHJXR2ZoNkhucGVXdWlsbEw3N29DR1ByNlIzcF9aVUdycjR6cmg0TGJfNnpaWnZtY1g5bTZpMEZTNG1BczF6bGJydElMMXdtSV9hdkc3QlBBVnZTdFZTSUExQi1nQXpDVTVmYmoxbDNzX1A0ZUFxNjhPdTA3bEJiRmhWWFRBczlFVk1ESF92ZldvTFdwRF9na09WUXpFZjVfTWlCOW9RUjlvMm10ZA?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Move beyond technical skills and embed AI literacy that teaches students to question Times Higher Education</description>
-      <pubDate>Mon, 31 Aug 2026 00:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e1158aacadeab51a1e13947a47c2bd28213027647f818f91f353802e1ecdde92</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Supporting Thailand’s next generation of AI startups</title>
