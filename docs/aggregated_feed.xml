@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 18:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:15:23 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>The real challenge for university lecturers isn't whether students use AI but how they do - VnExpress International</title>
@@ -16,17 +16,17 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Dear Student, Please Use Less ChatGPT: OpenAI Goes Back to School - openthemagazine.com</title>
+      <title>Dear Student, Please Use Less ChatGPT: OpenAI Goes Back to School - Open Magazine</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPekw3S2Vtd0VJWFFZV3BMUlVzaVVWUDVUcVZQQTRfQVlEaVllT3ZKVGZuRkRIbUdrY0xaaXptUG9wMWNxZTZQczFmQTREUy0yLTRYdUU5SG9XT0lmaUIzSFU1SUh1czVHdWZEMFVWdG1MVW1oRE5vRXdtMXlRZEVrNHhrRjRKZUk0ekU3OGFvZ3NNcGxlR0hWWUhHRjJ5Zjh5eU80NHpDNXhGQUVDVE1IaFBOazRLdzZ1OW9relVVOERkOTNn?oc=5</link>
-      <description>Source: Google News - AI Education — Dear Student, Please Use Less ChatGPT: OpenAI Goes Back to School openthemagazine.com</description>
+      <description>Source: Google News - AI Education — Dear Student, Please Use Less ChatGPT: OpenAI Goes Back to School Open Magazine</description>
       <pubDate>Sat, 05 Sep 2026 07:30:17 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:042b0b8d7daa92e2ca5faf934b0dacbd573bc1d9461aa5ccf112d87753af347b</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>LA Schools Join NYC in Blocking Student Access to Generative AI - pcmag.com</title>
+      <title>LA Schools Join NYC in Blocking Student Access to Generative AI - PCMag</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxONE9icHg3OFFHRmZCR0hrZTdIeXJlaTBIOW1HclBVSjRHNHRjcS1fTDBkTUJuaVd2Wk8tSzJ4RHkzNFdUMFJTS09FT0lSa3BaTWZuUTc2clFETFZhNllObDZfY0I1S0dRaG5GREhnTE9RRU9fYUFVcGpNNmN1WUh5eGhudVhONWxFdk0wcmlZQndVVWNl?oc=5</link>
-      <description>Source: Google News - AI Education — LA Schools Join NYC in Blocking Student Access to Generative AI pcmag.com</description>
+      <description>Source: Google News - AI Education — LA Schools Join NYC in Blocking Student Access to Generative AI PCMag</description>
       <pubDate>Sat, 05 Sep 2026 02:48:54 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d74bdab380572c43dc17156dbfea9bbc11c82628cd05826dd837ffdd22e10dda</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -120,6 +120,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>LAUSD Adopts Moratorium on Student AI Use, Another Move to Limit Classroom Tech - Education Week</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPSHlzOVpoRDRpZzZjRWhjcFlRSVVLcE05TjA0M1JBUmwtU3o5WWwtXzRSMXFkWVBKajFyeXVnUE0wN052YnNuOUhfUGVwX1VjZEVxbVBEYmZLdGo4WTIzWUM4Tlo1ODlZQVFzUnllakhidUhqRzRLcEllaWxiQ0I2c01URmJVOGJDWlNhZW9xb3J4ZHNBLTc4aGVCd18zNXFtcUhURjhyaWpkSmZUdTgxM0FrM3U3UzY1NlE?oc=5</link>
+      <description>Source: Google News - AI Education — LAUSD Adopts Moratorium on Student AI Use, Another Move to Limit Classroom Tech Education Week</description>
+      <pubDate>Thu, 03 Sep 2026 18:45:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2ba31c5041418489a1bcfb33da8935acaf6c3b0cf661a0452f926aaa89ad0666</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Start the year AI-ready with the Google AI Educator Series</title>
       <link>https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026</link>
       <description>Source: Google for Education — A badge on a laptop screen. A graduation cap is in the photo as well.</description>
@@ -134,14 +142,6 @@
       <pubDate>Thu, 03 Sep 2026 12:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b0b1014560704d1a83b1a9c1fe263b515e7ad0075f88995590cda4747466849b</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
-      <title>NYC schools ban student use of generative AI in classrooms through middle school - StateScoop</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQakkzd2JOck5IU1BHM0Z3MjZWOEpPVXRMX1NUenA5alh5ZVlCeTN2ZzRfRmZBU3VrSE9sanNBNmJhUU1GMzNUSmZvRW1LdFRmMXpmTkpnSmliZ1ZHMFVzQ2FFbFNGQVdzYmZNV2VnS1RqbmNhRzVoS0o5MzRhN0I1bnM0X053Y00weHJWWTdZT3JBVzJsdU9ydTVRdnY0YVFXa0JPZ2FHcw?oc=5</link>
-      <description>Source: Google News - AI Schools — NYC schools ban student use of generative AI in classrooms through middle school StateScoop</description>
-      <pubDate>Wed, 02 Sep 2026 19:09:24 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5171d4109d0199a8cb7cb1aebb405f7ba3d634b27a18f2c40329129bfd1bbc95</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>DeSantis Administration Moving to Regulate AI from Pre-K to Ph.D.</title>
