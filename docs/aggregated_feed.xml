@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:21:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 23:54:55 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Education experts discuss decision to ban AI in New York City public schools for at least this year - CBS News</title>
@@ -16,20 +16,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>The AI strategy gap in Australian schools - The Educator K/12</title>
+      <title>The AI strategy gap in Australian schools - The Educator</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQRXlMQkM4MzBTdU9ZZUE4RkZoWFF0NTgyWDV0RVgyWnRZQjM3MG9iX2FTQy1OSy1mWHhQY2p6WTF2MEdaWFdKYnlJdVZPTnNzaU1OWDRKVmUySHBxWHlMZ215b3pZS2l6dkdPejNVUlRTRkJXWXd5ZGg2ZFdrUmVSY3UyQWd3R01BYUxmTFhzYWM0T2ZFRXc?oc=5</link>
-      <description>Source: Google News - AI Schools — The AI strategy gap in Australian schools The Educator K/12</description>
+      <description>Source: Google News - AI Schools — The AI strategy gap in Australian schools The Educator</description>
       <pubDate>Sun, 06 Sep 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:844c6073ea828f02c560e654b2ba56a60b49d3ec19ddb6b4d7da387182a4ce46</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>New York City Bans Generative AI In Elementary And Middle Schools - Memeburn</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNY19wYUZPSzhzbjlYbzVQSktqdGRoa1NiNkt1R1Z1RUtwVFJXTXZhSmJ5YzkyMTJvTkVpTGUyUFRnMkMxV08xSmVWYzJRLWtPdm1fcTNaRkt2dmZyZ3RsX3V6WVZXTllYVlI4ZFJvajdJQVVSa0RUQTItb3NJTE9WQXViejhTY0FlX3lmekczNGU?oc=5</link>
-      <description>Source: Google News - AI Education — New York City Bans Generative AI In Elementary And Middle Schools Memeburn</description>
-      <pubDate>Sun, 06 Sep 2026 16:14:34 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:371a8f9b820f474085af3f5b6ab0894a5b807e4c4c37a9a0582798d08567ff22</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>These teachers fight AI cheating with classes that force students to show they are learning - The Washington Post</title>
@@ -45,6 +37,22 @@
       <description>Source: Google News - AI Higher Education — India’s First Quantum-AI University Starts Courses this September: What Students Can Study Analytics Insight</description>
       <pubDate>Sun, 06 Sep 2026 11:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:a3d865ce034faf542da366e40107455d5ca9cb1aa300751b23ddd8533e229d1d</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Schools are for learning, not for AI encroachment - New York Daily News</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlcyV085YkxMR0FReTZmQ3ViSkptSE5QQWZRQmVDN0k4a3VhVWZYbmZDaWVDNmxVSC1hMzVFT0hvQnJmMkZ4cXRqQ09Xbi1tNHktbEtmOEhOY2tkLTJYTnI2RTFuU3h1VHJ4STZJVjNIYXNDWW9Pdm9QRHBDbmVJcEVOWncwS09jc0VDVV9VUFRoZw?oc=5</link>
+      <description>Source: Google News - AI Education — Schools are for learning, not for AI encroachment New York Daily News</description>
+      <pubDate>Sun, 06 Sep 2026 08:00:38 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9dec35b0e36fb569ed7078d0f8e3908975c19fe0a97ddaf6d3f3cb3327342cfc</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>How AI policies are reshaping college learning and sowing confusion - phillytrib.com</title>
+      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQlpaMmItV3ZPSWNFVEotcVhOM1pWQlJkRmxKVUVmYXV4ZVgwMUhuZE5nQ0pmU2czX2hfcjNqQTBndElWU2lxRkdoUFhsbGVISmgtZXIyQzBOM25pcFZoaUZYRDhfVU1YRTg3X0x5UklNQi1sZThaOUpuVWJDRGZ0eUUxLWN1d3cyRUVydTlDVlpJUTVxN3JGQm5HRzl2dWVTanhXdW5acjM2S0RwYTl3YlVDaXJ2TkpZdmhiS09GVnhKZlBlcjR4c1ZaZW1XSV8zZEhLTDczTU42UnJEZDVpVVJDb0JDYW5DVHVnajFYNUswUQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — How AI policies are reshaping college learning and sowing confusion phillytrib.com</description>
+      <pubDate>Sun, 06 Sep 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a352dc841c9bda0298ba50defcf119ea6578569aa6cd25a775f43e5bc8c27779</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -64,9 +72,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Gottheimer unveils bipartisan AI education agenda for K-12 schools - WRNJ Radio</title>
+      <title>Gottheimer unveils bipartisan AI education agenda for K-12 schools - wrnjradio.com</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQUklyaVBSOWJZOWdxVTF1bUdhSl94ZU14a19sQUt5Unl0a2pQQWZ3b0xRZlYwSVNHT3FsNnFHeXNWWXVRa3BjUnJUU2p3R08xM3RpYlBNTjVKWXE2ak9JOWl0M2RiZzFDZ0FHbTFuelJjakwyeEczeG9fR2MtZmN4WFBoQXJBX216SWtfOUdmZ0xoWkE?oc=5</link>
-      <description>Source: Google News - AI Education — Gottheimer unveils bipartisan AI education agenda for K-12 schools WRNJ Radio</description>
+      <description>Source: Google News - AI Education — Gottheimer unveils bipartisan AI education agenda for K-12 schools wrnjradio.com</description>
       <pubDate>Fri, 04 Sep 2026 21:12:59 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:a4d41463fd0e81e4a64b675910afb1df79157b3f4858a71212c880bd6fbf4c8c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -112,19 +120,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>The generative AI learning penalty in secondary school - CEPR</title>
+      <title>The generative AI learning penalty in secondary school - cepr.org</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmg3VjRzNkJYTEN6LWxFMlZvaHo2d2hVQ1BUUElRTkVvNDRkRnc2MlZQVFFCTW9PcUloUzhzdFNEVEJRbmxzQlFGdXFHb25vRGUzSEJZYU9JYlloRzBkWFN0MVgtR1J6YWFMWlhQWU5wRjhFM01IdzNwZERWTFVQTzNQUW8?oc=5</link>
-      <description>Source: Google News - AI Education — The generative AI learning penalty in secondary school CEPR</description>
+      <description>Source: Google News - AI Education — The generative AI learning penalty in secondary school cepr.org</description>
       <pubDate>Fri, 04 Sep 2026 00:01:48 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4b86980e356a4ef7da34c5a31dd5cec281cfa7cacd4f6503a5775b5bf0bb91a7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>OpenAI launches Learning Lab to build evidence base for AI in education - EdTech Innovation Hub</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnpWcnJHc21MZWstcXRjR0VrTXp1dEpCcEx0OWlXcHJhTmoxTVZuNTM3REpZSGoybVJJbnVYRXgyUWZsM0FuellYOHA4QUFNUEJQT2tVTDJnXzF0Sm11YWNXMEhaVkp6WEpZSXV0NjhNNUZ2MndJdXlULXBwX01YRUNqWk9fSVRWX1o1TWcyMnhMR3k5OWJWZkktMnhZczdveWtfVm5na0xudEhhUGNKX3Nn?oc=5</link>
-      <description>Source: Google News - AI Education — OpenAI launches Learning Lab to build evidence base for AI in education EdTech Innovation Hub</description>
-      <pubDate>Thu, 03 Sep 2026 23:01:06 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:aefb0d71510b2260db05a6a7250edef128f425b212d598b7080315fb2522dc30</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
