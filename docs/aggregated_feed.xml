@@ -5,30 +5,54 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 16:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:34:49 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Dordt University launches generative AI pilot program for tools access, community conversations - Iowa Capital Dispatch</title>
+      <title>AI In The Classroom: Better Homework, Weaker Exam Results - tovima.com</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFM4MFI5NEstV3VPSFBkTXJ5RHZIZEw4VlVyakdnYlVhUFBoaDVxUGFoRWFuZFVXc2VYZndmQk5xQlM4VmxhWmpQeVdZMlMzZl9nNzMzX2hXOC05NllGb0xSeW5PYUV4Um5wQVJVbUY0T2JHd01aQ1lfYzVnUlJpa19Cd2VfTDZFOUpNR0lObHbSAZYBQVVfeXFMTTRZZkczQVIyRWhBZDAxcUp5dk9IUHNwTnRzN3ZzQXRXTTFkVWZobzR3Y3NXVFBiTVJEMnd6VVJWd1c4ZDF3ZmxCcUFBOXJRUHFBeXBLQVVReUFtX3FCN1RudmdOZUJWeDFHZ2hpQ2JpOExycC1xQ1VobXZ3QWc1RzVZSlE0eDQzdzlBOEpHd3pBYkpNNFJB?oc=5</link>
+      <description>Source: Google News - AI Schools — AI In The Classroom: Better Homework, Weaker Exam Results tovima.com</description>
+      <pubDate>Mon, 07 Sep 2026 19:04:41 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:8a49cd835376c4ef1955a9904d6b4acb25f6d139b7c00d8a810f67f841a36b96</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>AI Is Moving Faster Than Higher Education. Here’s Who Can Close the Gap. - entrepreneur.com</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWFBZWU9IMGdUdWFrN2ZUNm9RQlBwLTdOUVNRZUtYaXRnU21qeXZSYklZX2NyYzlYY3UxbU9XOUhVNXhwSDkweHhrM1pNajVQQldRRnRmNHZzR2hNb2FWY2x2QVZVY3pyQllIQ0MyVFN2bnhtSXZ5Z0c3SDRyQjFrMGFrQlluZUFuam1ia1dUVGxYWlk1ejJrcEN6c2hoRW9oT0hjdDdjeEdXWmVfNHRBMk8tVUhxSWk3?oc=5</link>
+      <description>Source: Google News - AI Education — AI Is Moving Faster Than Higher Education. Here’s Who Can Close the Gap. entrepreneur.com</description>
+      <pubDate>Mon, 07 Sep 2026 18:00:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7a56bb00666f4c2d2a731f09ab74437895ec6e8e2982a8e2ad4c0efe7cc20b18</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>AI is changing the way students learn. Here’s how educators are responding - WKMG</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPWTNIVXlNUW42cXV0a1Jib1h3QVA3QlNFYWdqbzBlaEVpcXRBcHhmZWNsRmN3Wk1sMVR0Y2JjWDhHcXhqWVdoUHNDRzlDTGdmZkR0elRYNktick9uS3JScjQwWHNDdGpIRjZDQlBnVG94TERIZUlzNFRobU9pdFluVllZM2pienZCMWUtd1FWNFJuZ0ZBS0JZSVY4UHBNaG5HMmNjX3JlY09UVi12SW5Jc2dqSW1tVVQzYm8xWXV1VlRyeFNUc2c?oc=5</link>
+      <description>Source: Google News - AI Education — AI is changing the way students learn. Here’s how educators are responding WKMG</description>
+      <pubDate>Mon, 07 Sep 2026 15:56:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:edce444cb07e1c260dbf70f86c0460973e9a9bac72c2ca32baf20509c848b342</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Dordt University launches generative AI pilot program for tools access, community conversations - iowacapitaldispatch.com</title>
       <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZU45XzJtM1o4ZFdzbHUtWUphN0Z2SUN0cnVYVm5DS0pybFNrUTBaY2NwdUFJWE12RVVjQkZ3SlhuSlE5YlNTM0hjYWVoT18tNmpZWU1LSkItcFFIUUhCYTdNSmVyMGZEb1VxSm52S2xIU1ZmUVZZS0xHeS1xM1plRmNDSzAwVzE4VU9ZekIwQ0tPWW9raTROS2p0d3lOTDcxclFvV2c2eDNkYjA1OUVveE90UTZCZEZQbmhVOW5sWW1HSC1tbVhXVURYNmJiWnVwT2lCYQ?oc=5</link>
-      <description>Source: Google News - AI Education — Dordt University launches generative AI pilot program for tools access, community conversations Iowa Capital Dispatch</description>
+      <description>Source: Google News - AI Education — Dordt University launches generative AI pilot program for tools access, community conversations iowacapitaldispatch.com</description>
       <pubDate>Mon, 07 Sep 2026 15:02:31 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e3dac1cdfc56720b8eb819ab61c7396fa00c3babd14831c4ce1e7b95d9decdb2</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Law schools tell students to put AI away - ft.com</title>
+      <title>Law schools tell students to put AI away - Financial Times</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5PcmVFemlfWjV4RnZ0ei1zMlUwREpGeUZTYjVZVnNDdy1RTTlIT0tKRElKY1ZReTlqZlJGdks4dDZ6VXlTck9WWklqZUhGV2EwWkozZUc1ekdqMEIwYzdzRlVqQ2lNdXladXh1Y1dJWHc?oc=5</link>
-      <description>Source: Google News - AI Education — Law schools tell students to put AI away ft.com</description>
+      <description>Source: Google News - AI Education — Law schools tell students to put AI away Financial Times</description>
       <pubDate>Mon, 07 Sep 2026 14:37:40 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b0554c1ccee6c785d86d7b1308478f666263c1f4639c6297f9bebf80f2cc7981</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>NYC, Nation's Largest School System, Bans AI for Students Through 8th Grade - Broadband Breakfast</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1RGS25GSTZrQ25SQ3J3V0tfU0Q4RXpkeEgyRy1iSzl3TUhlZmU3RXBpbDRPblRNbnFtUlVBZldlNjFpSDZHWDc4Z2Y4VFM5ckk0RFAwZFZkWVRPQV80dnBoVTNzOUJ4ekhjNW1KWHFhaHZFc2R2WnVOYWdMc2lsdVp5UnRJT2xOTXR0cGV6MlItWFJEQUx5bE1HS3BWeXlBZzhoT2RPWQ?oc=5</link>
-      <description>Source: Google News - AI Education — NYC, Nation's Largest School System, Bans AI for Students Through 8th Grade Broadband Breakfast</description>
-      <pubDate>Mon, 07 Sep 2026 14:30:44 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1bc5c9895741f77cce104abada35d42d2321aa1122c63b07c7f4f4712cad5e94</guid>
+      <title>El Salvador Expands Classroom AI Tutors After Pilot Scores Rise; New York Restricts Student Use - southshorepress.com</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWpobXllc1hOR25RcEpZUmQycFhPa1BoNkd0SWdNaVM3R0w3MFN0VzZxWG9yTFJoUkVPZFpXZk0zdklSTUVSbW1faXBuaDhra1h3aV9oZlFmZzNBZm5TeVhPVk94TTZjU040OUFlNnZBZHRXemh2eUhaTHNpb3JYQnhyU0VMcTQtRFNWNVVKWWJJRWZEY29weE50SEQ1bE1kVlNDX0wySHVCS25peGR2WUFUVmJSaXY3TExWUTJfNUk4cU5yaGc?oc=5</link>
+      <description>Source: Google News - AI Education — El Salvador Expands Classroom AI Tutors After Pilot Scores Rise; New York Restricts Student Use southshorepress.com</description>
+      <pubDate>Mon, 07 Sep 2026 14:35:55 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3d479ccf35ebe873b8c022d655a4fb8f81916241ba5daf348f9d3e42fe7ce595</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -38,22 +62,6 @@
       <pubDate>Mon, 07 Sep 2026 13:59:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:05ec5c5842f4335af42c7baae8e04e86923187398574fd431ee75968122c0bd4</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>Catholic colleges tackle AI as new academic year begins - aleteia.org</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOWk1DaWE3cjdCZ1ZUblMwUThyRFBsWEN2MzFyZlgyYS1nZkU3U2dzeUM4RlZ2dnJ0V19CZVVBV2s0M1JuR1NrcUltSVBncWgtaUd6VXFWVUdhQ0cxdFpUM0UtSkFDZjJaREtTek5IU2lVaFY3LUFCay16QjBFV0lQcmsxY0xOcXh3TDFlR1VqMmE?oc=5</link>
-      <description>Source: Google News - AI Education — Catholic colleges tackle AI as new academic year begins aleteia.org</description>
-      <pubDate>Mon, 07 Sep 2026 13:12:10 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:218372f585f78a722ce07135c2f62d76d4d7f0e0d5f19d607241dc6db0051fd1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>An AI chatbot conversation revealed a Texas man’s terrifying plan to attack an elementary school - NJ.com</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQMjRyUmkwZWNaeF9XNUFta25zZzFnTVRJczdqVjViamZQZXNrazB1anhFZTdSc1B1eHQ5anVxRXVOTjlHX2FRRTBrcDlxQ00yMklFUVhIbEhOUU1OT2JPRTROcU1pWkxNZXZ2WkZ2WVkxX294SS1fd2pkLWpTOVdIc21mNmxRQW9KdkFDdEFaRGx4dkdOZGJJTlJ3ZGdYQVZEVzRqSmwxWEhPRFVIQ25UNjNDLTdtbXF5cmJrcnRkODRBRWJybnFkZTNObWvSAeABQVVfeXFMUEZLSDF1S3h3LVAxbDFXUEhpdHZuV0RGdTg4WlBQZ01sZnhibXI3cHhYODFGMVFiVVd6SXJhUnFJdS1pXzdUeFJMdHZfb0JmM1Z4aDVjeGFCTFZaZlNmTHRSTkd5ZDB4VEhOblB0eHp1d1ZWVWZmakluVDdnaC1kdXJXUlV4TDZXZlAzWGdLX1luWHBNaWRidy1XVjV3SGV3bnZvYzFBXzRiQVppZ1RNMTRQelVQQVdOTVZZYVhHOFljOHpvSGh2TnNQNzJod01nR2l3ckhwRVRvVUI2MWlYdUI?oc=5</link>
-      <description>Source: Google News - AI Education — An AI chatbot conversation revealed a Texas man’s terrifying plan to attack an elementary school NJ.com</description>
-      <pubDate>Mon, 07 Sep 2026 11:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:8db8d519a19437bcfb17eba5db9c3346c57eb92bdef39a6cfcfe2af196968f19</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>AI Is Making You Dumb: Study Shows Using Students Using AI Can Score Higher In Homework, But Eventually Fail in Exams - NewsGram</title>
@@ -117,14 +125,6 @@
       <description>Source: Google News - AI Education — Kentucky higher education officials push for all university students to use AI Lexington Herald Leader</description>
       <pubDate>Fri, 04 Sep 2026 20:52:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:04185746368a68aef91505a7bf2eec4a4ff80f9aeb85636fad9d8454a657ea6c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Los Angeles school district restricts generative AI access for all students - The American Bazaar</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkk3aXhsVi1aUWxoejZES0phZzhGTlZJbDFSdWNmWHdCY0dyZUhOa0ZwdkhPLWNMY2paTFpiaTlNaWhkOGVwSkxYUkJoS2FCekgyV0J2LUVTNVhTaWFCXzlSVjNsbjFyOEtXblJkTmxvVmJYQ1A2ejFWVWlDX1RCcGVaSEVsUDhhMGNSVldVdWJBdUxrZHh2cDgwWmNDelczbWpBWHVlWEN2cTlHRVFSeFRrQlRUbXV2OHc?oc=5</link>
-      <description>Source: Google News - AI Education — Los Angeles school district restricts generative AI access for all students The American Bazaar</description>
-      <pubDate>Fri, 04 Sep 2026 18:59:32 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:28e12dd9656f3e9ec42aa153ac517bfb6e7ad744bd6570bccd7e31bd0532ef14</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
