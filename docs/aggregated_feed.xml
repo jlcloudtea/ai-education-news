@@ -5,39 +5,63 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:37:26 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>University of North Texas launches College of AI and Advanced Analytics following $20M donation - FOX 4 News Dallas-Fort Worth</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOX296Z25YdUpyZVY5SGV6c3hNWlE1b2hzODhhNGJKRDFxc2JDdEhXeXRxZGxFbWt4b2NHVzhBTDZBNlFFaUFnYklQc2YwOXkyekhkZlk4d0tUbV9YUzY0bTEtYWtsRzZrZlRzY3c1RGZYbllWdGRIRjgwOXJ0QUVFb1I3WTR1MmZGTlVkU1NxMldHMERFdXM2dkM1VEJlVElhSXVNYWQ1YUhnaWFZaTdVTGkzNlA?oc=5</link>
-      <description>Source: Google News - AI Education — University of North Texas launches College of AI and Advanced Analytics following $20M donation FOX 4 News Dallas-Fort Worth</description>
-      <pubDate>Wed, 09 Sep 2026 13:28:41 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:799105f50f884404354e4238869733c2c1f8dfb462ab6b44d43ca57b0d9fa361</guid>
+      <title>Vanderbilt Law School Starts Students Practicing Depositions On AI Witnesses - Above the Law</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnd2Q2tmV1QtaUlIYTBLQ0dHcDEzTzl1bEd0VXpGMWp0OFNoX1l2QVRzVlBnbGMwdDVueTBLWEJLTGZ1d2NCMFRPYkhWWlJlRlRudEdacl9NT1BZTXJvdGJJUGk5N3hibm5JR29uUDVrLWc5aFNsWjhteGlDTUdrOWw1ZGFTbmhMM1Z0OGVHeGdvM1E3SnBJaHowV0ZRVUZoWUZMWTNIOVJqeFY5SFE?oc=5</link>
+      <description>Source: Google News - AI Education — Vanderbilt Law School Starts Students Practicing Depositions On AI Witnesses Above the Law</description>
+      <pubDate>Wed, 09 Sep 2026 18:32:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1b180f0a0bc5a50775634ce4744d6e12d3641cfab195787758b6d28bad0e5ffd</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>The largest US school districts restrict student AI use - VernonReporter</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2xxM0w1d3lUQ1g0MmF2aTF4Wk9pQXpQcDdkazUxTEFvd1NLLUFKTUdyTFNqaTQzbWp2YWRmXzV1STVpT2J5SWlhV2Y3cXZ1c2Eyd21pX0YyR3oyRmVxS1hQVkp1TEJrNjhPZmlRVjRwcjQxODgxNDhxRUNpZWZFR1VQTHNzYlJxWHAw?oc=5</link>
-      <description>Source: Google News - AI Education — The largest US school districts restrict student AI use VernonReporter</description>
-      <pubDate>Wed, 09 Sep 2026 13:23:17 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:67fa945fc20daa0e73225f09839092a31d078bcf14664cf59c7aafd426402b53</guid>
+      <title>Teachers' unions and Microsoft create school AI safety protocol - upi.com</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHdxWXVDRDBicjZRVWRkSW44Vm9XMGdYdTlsZ1lzSWhCLXlWcDdfek54OE5WWGl1YndxMkFKSjdBSURKTHc3Y2RVSkFKSVFlOThwSTUxMnpEbTRKYVJzN3lrQXhlc2pxXzJoY0FJamtnLVZwa0hCR0tsNlNTZU1pUVZCM0pQU21qN3ZSaXo4MXFMbVhjTE42TS1NVjlHWjNJ?oc=5</link>
+      <description>Source: Google News - AI Education — Teachers' unions and Microsoft create school AI safety protocol upi.com</description>
+      <pubDate>Wed, 09 Sep 2026 18:24:04 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b4ef106592f0266afa93c9bf850ee809645aa5074b8176cec932325815dc654e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Vanderbilt Law School Brings AI-Powered Deposition Simulations Into the Classroom - law.com</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEFIdTlLZkw3N3FMOWR5dEl4WXFoZ3JDbVMwRFRoME9GcjJqcGx4QUlHcHJSSUFvblZMcnpaY3ZpamlkT3lJRW1aVHZ5LVk0ZDY5Zkh4RDVsSEZSMFhoT19LRTN0V05vRVNEYkF5TDVhWDVYSVBYNHg4T0NhSWUwN2pJNVFjTk5rSDhKUW1IclA5S3lYOWlrc0NLLVlDVldIZy0yUllWVk1ZeFg4T1BWeEs3anFzV2JsSTFtdXVNNHZIOEZrUWc?oc=5</link>
-      <description>Source: Google News - AI Education — Vanderbilt Law School Brings AI-Powered Deposition Simulations Into the Classroom law.com</description>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:63fe59c1718cd3b9b28d76eb7d64dc11151cb1ffb29485daab40c127c42339a0</guid>
+      <title>New UNESCO IESALC study reveals widespread AI adoption in higher education across Latin America and the Caribbean, but governance lags behind - unesco iesalc</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZEM5dWR5MmNGRTNHcUx5bXlpazVfYXZQZWM4alJsMU55TGFjenlYNkgzSVotV0c2aFh3ZDl6bk1GWWF3RXdqUmhnYlpxRC1tblhReVZ6U0JLUHl3RkdhLU9jSFN1bnBGQ2xfLUp5bmdTT1AxazQ5UWp5eXdKOWtwSXM0YlFJcnRvbWwzdlRiNUNuVVF1b2ltQ2swZmRTb2gwZEFNMUtueTJaNTE1VkZMRW54VHNYa3dHRzBqMjNkMVk2Zkk4NjhHdDkxd1FpdzlMZGZSSw?oc=5</link>
+      <description>Source: Google News - AI Education — New UNESCO IESALC study reveals widespread AI adoption in higher education across Latin America and the Caribbean, but governance lags behind unesco iesalc</description>
+      <pubDate>Wed, 09 Sep 2026 18:06:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:05c6895ff5c59c71aa06cdddc53f2ab21013de2f52a9a4f70728fc9d18414f7c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Indian-origin couple donates $20 million to US university to set up AI, advanced analytics college; insti - The Times of India</title>
-      <link>https://news.google.com/rss/articles/CBMipwJBVV95cUxQZHlnMmhOWU5MR1hfbG51MDVkVGdqRHVLTUhzeDNqV3g0UmdJQkhWY2NjeWN3a2hUQ2VMNlE2a2dVaExJenN6RnNDS096WkRaTUpubThtVjI3R1NrRW1Sb1MzQ3dZcGRDanJEMTlUSFNmSUNTc3FTZTIyRi1ISXNyWVEydHpycTNfSnM0cjNhblpVbW82S1Qwdjd1U3NjbVlHcmp0Z1pTdlB1ZThMMWZORGRaVi14RzhBUzRNcHp1bGNsdmFiY2lQY19nLXhnLVkwMmpUMGxSQkt4Z1RrcXgxajhwSDBTb0xLYUlCZUdCTUw1V09QVTNpWHNHVDI1VkZsT3FRN1hMOHZ3MUowSzhuY0JaWkh2dkRPUFI2SHJFNktfWlNFZGJn0gGsAkFVX3lxTFBtY1F2V2Zyb0ZhSVR3d243TzhrMEprNjFOTHNJQWZYLUJhb3dtUjU1VnBhd190MXoySnktM3VDVUJvU2ZwbG5EZk9mM2x3YU9QekZBSVpiNWtiRVNNSkxyMklhRnRGMUo2VkFpaFE4UFVmMHFrSURBUHhBN0hsTmczT0xhaTViSW5UcUtCWXBjSjF1Q3VyUTRKcWRnc1AzUlZWQ0FTeDdnTFc0d25jRXdrOEFMazFfNTlwcktpOFpQUzZQMWFMUFNVTUFvMXVhN0Vibk9NeGJjTktyZHR4X0h1U2ZYVkZldW9jR3phekhFSDNHUVdlX21VSXFkOGZueHJUSlhoRnBkNl9DVmlfSzloVWRwRGJGRHNHeS03bU1CUDk3b3MzQUY0THZOTg?oc=5</link>
-      <description>Source: Google News - AI Education — Indian-origin couple donates $20 million to US university to set up AI, advanced analytics college; insti The Times of India</description>
-      <pubDate>Wed, 09 Sep 2026 12:43:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d1c866d1db4719f1da7abb9a2162c06514b79acb89fc25a5480cf152f82dd6df</guid>
+      <title>Indian-origin engineer couple donates $20 million to US university for AI college - Firstpost</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmthdm1OV3VnaU52ZjhsOExVZk1lemJmbl9wYmJmYTVWWk1YOGVDV3VQMDRQbHZ4VXNpRFc5NmxUSnZwVTRReVplR0tXQlVudHZOYm1TZHZIdUd2WUdkcmZ0RU44QTJzVXo1RkMxRllraGdGRFBFc1VuLTRFWGllSWxTQU9OVWRZSmhPSlpTUnN1VGlwSVpKeHVuc2p0bWllVWhsWkM4VUZwT016M2p3RUhnSkNoOHhXUGM0dnFDYURxUWN00gHKAUFVX3lxTE5MbmtueFRJWFZCZkNkbjVnTVhJcWVmMDBaM0Ria1lmek8welFqNzlROEluZUlxUzhyeUhHaDBreGdvMFBkaEZ6MldOYm5aaE4wTUVnNlpyOTFTQWkxQUxETTlvaVFRVTRxR3pmUUJmVV9nYjdob1pVSXg2c2IwSXp5dVl3WEhHS2p1bHFUZFdpOWJUdVlPNmdKaVNEdm8zSHJleEVCWjhKdlo0R1c2blh3LXdiOHBaYU4zZlJmMEpCYXVnZG1ocjI1Mmc?oc=5</link>
+      <description>Source: Google News - AI Education — Indian-origin engineer couple donates $20 million to US university for AI college Firstpost</description>
+      <pubDate>Wed, 09 Sep 2026 18:03:41 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:274a4f48d4fce1c2bf022d157fce88d81003b46fbdcb47a5f0dc3e1f0939567d</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Harvard College’s Dean: ‘Everyone Is Using AI All the Time for Everything’ - The Chronicle of Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnl0RGVzdU14TkRkajNkVGxhbDFUMHBDQ3oxTEVRclE3WlE2blNhRGJuM2ozbkVtY1NGbmttX0VraWlRM2dvR24zZjZIVDNwNUVBTzNMa3RLb2RnS0JlRkhRbzVuNW45OWo0UVFhOHduTzI0MmpVNHF2ekdfQW92SHNKMFNxdlBzeTduUldEeC03bGNweGl2Y1Q5TG54bXB6NW8xX2lLSQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Harvard College’s Dean: ‘Everyone Is Using AI All the Time for Everything’ The Chronicle of Higher Education</description>
+      <pubDate>Wed, 09 Sep 2026 17:32:55 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:21809bb88e7432ea25c5caf7a28aa33cadc1732b30a29ca0bc2e9418dbbf3f76</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>ChatGPT’s Teachers’ Day Ad Calls Out AI Homework - WeRSM</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dkxjQ1gwM0Y4TS14UVBNb1UxR0NkbVFLMDlDQ3FLX3I0NVlIM1ozRHAzLURiR3RTNm5zVTlrU2V4dEZ3VDFoYXNZVlRLeHZaY3RQQUVjQmgwYUhuUDNkQXgtRkw?oc=5</link>
+      <description>Source: Google News - AI Education — ChatGPT’s Teachers’ Day Ad Calls Out AI Homework WeRSM</description>
+      <pubDate>Wed, 09 Sep 2026 16:28:50 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d6447f2b870a0963691a0afd89372ffd8e9b159c0375540fee6d2625e1f36848</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Shipt becomes the latest delivery app with an AI shopping assistant</title>
+      <link>https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant</link>
+      <description>Source: TechCrunch AI — Users can ask the assistant to do things like "Create a cart for my Saturday tailgate for 25 people and include some brunch items," or "Build a cart for easy school lunches and after-school snacks," Shipt says.</description>
+      <pubDate>Wed, 09 Sep 2026 14:51:45 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e225c74ef331550f498ba35e0407164d755e33d397f4b8b82585ef656bd06f70</guid>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
     </item>
     <item>
       <title>Can ‘Hard Fun’ AI-Proof Classrooms?</title>
@@ -94,14 +118,6 @@
       <pubDate>Tue, 08 Sep 2026 20:57:45 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e3b4fde84f30783c8c58b168c40d23bebee8de8ec66c0a52ae650378fae7cba2</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>American College Students Paid Foreigners To Do Their Homework — Then AI Came Along - AOL.com</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlpOVGRrWHc4dEo1UGJzN2RzbUZWdENzZFAxQjVsMGxsSzdDWTlYMmVURE1FWE5tQndudmduby1nNDNuMEdnZy1mVEFYYmZHZ0k1SE9RZXF5eHVQaEJ2b1pFVG9ib1Q4MUZIbHM3YXN1ZnE2Y3ktVEw1ZWpHNE9jNnk3a0FfeHEtTmdNRmlR?oc=5</link>
-      <description>Source: Google News - AI Higher Education — American College Students Paid Foreigners To Do Their Homework — Then AI Came Along AOL.com</description>
-      <pubDate>Tue, 08 Sep 2026 18:16:25 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5dedb61448341073c1d0820c915f799ffe12e2aae76873d8a51956b5c0a522e4</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Del Mar College brings AI into classrooms to prepare students for the workforce - Yahoo</title>
@@ -176,14 +192,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Outreach activities for AI literacy: from sparking curiosity to lifelong learning - Times Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOejB3NTVYWmV4bmRmQzdzeHQyU2NPZ3BEMFh2TEZ5RjBrR2xvalB6ck1ocmZNYjRoUE5wRjJqWmZVQl9uUUhvLVlRbWNWVzFkTy01OEg5TjN6Q08xSUFwYm55UWp4OUhmZEtLcnJlUUhTengzaC1GVHE4MlJBRnZPQVEtQWZTRTMtYW5ydVh0THlEeEdsTXRRYnF3NWZKSlZuLVhhZU5OUzBjVzNySnpaa1F3?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Outreach activities for AI literacy: from sparking curiosity to lifelong learning Times Higher Education</description>
-      <pubDate>Mon, 07 Sep 2026 00:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:32c3551eb5156ef0eaa27431a8a776c894dac4813b2da05375ff844b6d344955</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Start the year AI-ready with the Google AI Educator Series</title>
       <link>https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026</link>
       <description>Source: Google for Education — A badge on a laptop screen. A graduation cap is in the photo as well.</description>
@@ -198,14 +206,6 @@
       <pubDate>Thu, 03 Sep 2026 12:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b0b1014560704d1a83b1a9c1fe263b515e7ad0075f88995590cda4747466849b</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
-      <title>How AI Taught Me to Embrace Vulnerability in the Classroom</title>
-      <link>https://edsurge.com/news/how-ai-taught-me-to-embrace-vulnerability-in-the-classroom</link>
-      <description>Source: EdSurge — True innovation isn’t found in mastering every platform, but in being willing to ask deeper questions and take risks.</description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5ff6d47314295fbe9f054c52973eebb5eb82bfbdb7a4b0d4296bc75b32a81dff</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
       <title>OPINION: Knowing how to use AI tools is not the same as knowing how to apply them responsibly. Colleges must do more</title>
