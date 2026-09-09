@@ -5,52 +5,68 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:42:35 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Vanderbilt Law School Starts Students Practicing Depositions On AI Witnesses - Above the Law</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnd2Q2tmV1QtaUlIYTBLQ0dHcDEzTzl1bEd0VXpGMWp0OFNoX1l2QVRzVlBnbGMwdDVueTBLWEJLTGZ1d2NCMFRPYkhWWlJlRlRudEdacl9NT1BZTXJvdGJJUGk5N3hibm5JR29uUDVrLWc5aFNsWjhteGlDTUdrOWw1ZGFTbmhMM1Z0OGVHeGdvM1E3SnBJaHowV0ZRVUZoWUZMWTNIOVJqeFY5SFE?oc=5</link>
-      <description>Source: Google News - AI Education — Vanderbilt Law School Starts Students Practicing Depositions On AI Witnesses Above the Law</description>
-      <pubDate>Wed, 09 Sep 2026 18:32:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1b180f0a0bc5a50775634ce4744d6e12d3641cfab195787758b6d28bad0e5ffd</guid>
+      <title>USF President Limayem shares student successes and plans for new AI college during fall address - wusf.org</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNmdQc1k3ZjJ1SndSdTZKS044d0E1RDBCZEViQTV0UnkzUEVwaVBoX2J0WDZfN0dUM2hCdWxnQTBmRlVTYm1oc0xsTUs2VUhJbmJsaHpZaF91WUsxUXlTcHVieUxwdzVnaURrTFNRRVp1UzdGVE5qUVdOS0xnTk0wQWl6N0w0MmFSSU1WbF9YMFlsVjFCcTdZRERGdVFTWTVVeFlvSklES2xzQUF1V0wtcEdBVmc0VVZxdUh1ZG1ZQXFqcE9jWHVNNkpGUGVZM3o3UjByaVpYWUc2dGc?oc=5</link>
+      <description>Source: Google News - AI Education — USF President Limayem shares student successes and plans for new AI college during fall address wusf.org</description>
+      <pubDate>Wed, 09 Sep 2026 21:15:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:cfa4e8fbaac328c9943f0c49a8302a3d225bb5c829289fd9db32511c52441a82</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Teachers' unions and Microsoft create school AI safety protocol - upi.com</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHdxWXVDRDBicjZRVWRkSW44Vm9XMGdYdTlsZ1lzSWhCLXlWcDdfek54OE5WWGl1YndxMkFKSjdBSURKTHc3Y2RVSkFKSVFlOThwSTUxMnpEbTRKYVJzN3lrQXhlc2pxXzJoY0FJamtnLVZwa0hCR0tsNlNTZU1pUVZCM0pQU21qN3ZSaXo4MXFMbVhjTE42TS1NVjlHWjNJ?oc=5</link>
-      <description>Source: Google News - AI Education — Teachers' unions and Microsoft create school AI safety protocol upi.com</description>
-      <pubDate>Wed, 09 Sep 2026 18:24:04 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b4ef106592f0266afa93c9bf850ee809645aa5074b8176cec932325815dc654e</guid>
+      <title>MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines</title>
+      <link>https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909</link>
+      <description>Source: MIT News - Artificial Intelligence — A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.</description>
+      <pubDate>Wed, 09 Sep 2026 20:40:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5a44a5539042946085c27fd95c748952414042d621a54641c5b28f32e16620bf</guid>
+      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
+    </item>
+    <item>
+      <title>Middle school teachers embrace AI as a classroom learning tool - newscentermaine.com</title>
+      <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxONFhmTVF2TWlOTURrR2pMLWZhblRyZDdERVRQTk9qQlhfeXRaaExEelF5TGQ2dVBScmRkelRqelA4U2d3WS1oMXN5QjhndDc4SkVtdlhZYzgwN1A2elNPMTBtMTllZGFpZTNOTXdNTHFGZGpLZmk2R2ZEOTVndUUwVWszN1daNGl6eks0U21LaGtIR256ZF95bFZRQVdqRGEyTTVLdDUwZGJ6QXZvMEdjcUs1OE1yTlZlNXV5MmM1NHdzaVVuYnpmMW5ZSWhUQVl1SzJTUThPZll6RzJySS1qeUNMc2I0XzQ2LVoyQm1R?oc=5</link>
+      <description>Source: Google News - AI Education — Middle school teachers embrace AI as a classroom learning tool newscentermaine.com</description>
+      <pubDate>Wed, 09 Sep 2026 20:30:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:add07d8e1e9695a2133503746ed1dc969c5eded81ef23d8f0c07b41683cf1206</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>New UNESCO IESALC study reveals widespread AI adoption in higher education across Latin America and the Caribbean, but governance lags behind - unesco iesalc</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZEM5dWR5MmNGRTNHcUx5bXlpazVfYXZQZWM4alJsMU55TGFjenlYNkgzSVotV0c2aFh3ZDl6bk1GWWF3RXdqUmhnYlpxRC1tblhReVZ6U0JLUHl3RkdhLU9jSFN1bnBGQ2xfLUp5bmdTT1AxazQ5UWp5eXdKOWtwSXM0YlFJcnRvbWwzdlRiNUNuVVF1b2ltQ2swZmRTb2gwZEFNMUtueTJaNTE1VkZMRW54VHNYa3dHRzBqMjNkMVk2Zkk4NjhHdDkxd1FpdzlMZGZSSw?oc=5</link>
-      <description>Source: Google News - AI Education — New UNESCO IESALC study reveals widespread AI adoption in higher education across Latin America and the Caribbean, but governance lags behind unesco iesalc</description>
-      <pubDate>Wed, 09 Sep 2026 18:06:36 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:05c6895ff5c59c71aa06cdddc53f2ab21013de2f52a9a4f70728fc9d18414f7c</guid>
+      <title>AI Is Working Its Way Into Everything. Can School Districts Really Ban It? - Education Week</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXZubUM2UTBqakJiN09KSE5ETVpzMGxtbFdiUHVOT2U0eFVVeUlzb2E2MXN6ZHU0SEtaMzFiZlNuZk5Qak42NUlVMS1YYzlhRnpMUHVDdU5vS2JlVFFCb3JndTAwRlFVbDV3OWVfa0tSckphS0k4aUlmUjc1aGpuMndWaDB6eXZLS19Gb2plRjZncmpzRFRkY0x1XzVoN0FreEp0dEJBY1J4RUtHdC1lZ1I3LW8?oc=5</link>
+      <description>Source: Google News - AI Education — AI Is Working Its Way Into Everything. Can School Districts Really Ban It? Education Week</description>
+      <pubDate>Wed, 09 Sep 2026 20:27:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:efc47bf9788cd2a0b230c5e4c8676a2b0b800a3d8893703f34b05bb7a0cbe823</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Indian-origin engineer couple donates $20 million to US university for AI college - Firstpost</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQbmthdm1OV3VnaU52ZjhsOExVZk1lemJmbl9wYmJmYTVWWk1YOGVDV3VQMDRQbHZ4VXNpRFc5NmxUSnZwVTRReVplR0tXQlVudHZOYm1TZHZIdUd2WUdkcmZ0RU44QTJzVXo1RkMxRllraGdGRFBFc1VuLTRFWGllSWxTQU9OVWRZSmhPSlpTUnN1VGlwSVpKeHVuc2p0bWllVWhsWkM4VUZwT016M2p3RUhnSkNoOHhXUGM0dnFDYURxUWN00gHKAUFVX3lxTE5MbmtueFRJWFZCZkNkbjVnTVhJcWVmMDBaM0Ria1lmek8welFqNzlROEluZUlxUzhyeUhHaDBreGdvMFBkaEZ6MldOYm5aaE4wTUVnNlpyOTFTQWkxQUxETTlvaVFRVTRxR3pmUUJmVV9nYjdob1pVSXg2c2IwSXp5dVl3WEhHS2p1bHFUZFdpOWJUdVlPNmdKaVNEdm8zSHJleEVCWjhKdlo0R1c2blh3LXdiOHBaYU4zZlJmMEpCYXVnZG1ocjI1Mmc?oc=5</link>
-      <description>Source: Google News - AI Education — Indian-origin engineer couple donates $20 million to US university for AI college Firstpost</description>
-      <pubDate>Wed, 09 Sep 2026 18:03:41 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:274a4f48d4fce1c2bf022d157fce88d81003b46fbdcb47a5f0dc3e1f0939567d</guid>
+      <title>Educators Feel Confident They Can Teach About AI. What Do Parents Think? - Education Week</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOM0JnZktSTDRkQ1lESUVveXh3RnZneUY2MzNrbmtDVkllZDlNTjREcXlMNnlibXZ6ekx3RnlqcDJaZVNBaDhDWWJTb3VLQzZTOUUxeTNPMVVla1ZZR0Fwb0k1MlZkY1VCTFltcnZpRmNPdHpaZklFb1VBaDZXcUNiV1VzLXpzbjM2OGtsb0NSU05SbjJ4bkhhcXNPRXdrQ21UWVAyQzJWQWFTTHRBUFZHYUdn?oc=5</link>
+      <description>Source: Google News - AI Education — Educators Feel Confident They Can Teach About AI. What Do Parents Think? Education Week</description>
+      <pubDate>Wed, 09 Sep 2026 20:02:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0adbda28b763781cfb280909768bdd8717f0becc764e6b799dc486d5ed7839c1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Responsible AI: where student expectations meet academic integrity - The Chronicle of Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxORk5QUTEwRWlPZDJRS0NfZzFyQVZNZFBLR0FRaUlmUndKWGhxLWZfd1NjcXlZNXZmUUxHRzY4dUxTWngwV1JzRTBqNkE4Tm1GZGVuSGV3WDFBekdHa3E3anNyb0RXRnhTc2VydTBTTWJRdXdHVnVWZ0pCcjdqOUhobXhxV09PMVd3cWE3Q1VseHBYN2pBUmVwNUczZ25KNVJVLTliWHQtdDh2VzhKd1VLWnRNQkp1bXc?oc=5</link>
+      <description>Source: Google News - AI Education — Responsible AI: where student expectations meet academic integrity The Chronicle of Higher Education</description>
+      <pubDate>Wed, 09 Sep 2026 18:41:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:96273886a989117c44dc4465e13c5786f905f8d9e5c9e6bd6edee36ad01b0b7f</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Harvard College’s Dean: ‘Everyone Is Using AI All the Time for Everything’ - The Chronicle of Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOUnl0RGVzdU14TkRkajNkVGxhbDFUMHBDQ3oxTEVRclE3WlE2blNhRGJuM2ozbkVtY1NGbmttX0VraWlRM2dvR24zZjZIVDNwNUVBTzNMa3RLb2RnS0JlRkhRbzVuNW45OWo0UVFhOHduTzI0MmpVNHF2ekdfQW92SHNKMFNxdlBzeTduUldEeC03bGNweGl2Y1Q5TG54bXB6NW8xX2lLSQ?oc=5</link>
       <description>Source: Google News - AI Higher Education — Harvard College’s Dean: ‘Everyone Is Using AI All the Time for Everything’ The Chronicle of Higher Education</description>
-      <pubDate>Wed, 09 Sep 2026 17:32:55 +0000</pubDate>
+      <pubDate>Wed, 09 Sep 2026 17:34:01 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:21809bb88e7432ea25c5caf7a28aa33cadc1732b30a29ca0bc2e9418dbbf3f76</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>ChatGPT’s Teachers’ Day Ad Calls Out AI Homework - WeRSM</title>
+      <title>ChatGPT’s Teachers’ Day Ad Calls Out AI Homework - wersm.com</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE82dkxjQ1gwM0Y4TS14UVBNb1UxR0NkbVFLMDlDQ3FLX3I0NVlIM1ozRHAzLURiR3RTNm5zVTlrU2V4dEZ3VDFoYXNZVlRLeHZaY3RQQUVjQmgwYUhuUDNkQXgtRkw?oc=5</link>
-      <description>Source: Google News - AI Education — ChatGPT’s Teachers’ Day Ad Calls Out AI Homework WeRSM</description>
+      <description>Source: Google News - AI Education — ChatGPT’s Teachers’ Day Ad Calls Out AI Homework wersm.com</description>
       <pubDate>Wed, 09 Sep 2026 16:28:50 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d6447f2b870a0963691a0afd89372ffd8e9b159c0375540fee6d2625e1f36848</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -104,7 +120,7 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Two Students, Two Questions That Wouldn’t Let Go</title>
+      <title>Two Students, Two Questions They Wouldn’t Let Go</title>
       <link>https://edsurge.com/news/two-students-two-questions-that-wouldnt-let-go</link>
       <description>Source: EdSurge — Students asking why learning matters in the age of AI forces two teachers to respond.</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
@@ -146,23 +162,23 @@
     <item>
       <title>What students gain and lose as AI chatbots take over parts of university teaching - Phys.org</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE03cHFCeXVRcHhSdlJNb0FlNDlzR2cxTTM0aXBkdkZydTE1SUMtRlFYa2Y5UzU5cGItZUNadWVQMEdwOV9jM3h5X3BMbFNvZ1ktOWtLNHV5alY1N0lzbjR3MWdaNHktS3BCN0JBWVZ6V2VjaHRnMjdYWnN0bw?oc=5</link>
-      <description>Source: Google News - AI Education — What students gain and lose as AI chatbots take over parts of university teaching Phys.org</description>
+      <description>Source: Google News - AI Higher Education — What students gain and lose as AI chatbots take over parts of university teaching Phys.org</description>
       <pubDate>Tue, 08 Sep 2026 12:20:03 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b81fa094771283ab3f798a3b26f9df76da7c8aac2d90a7caf22d6646fb59c695</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>How Brown University navigates rise of generative AI in the classroom - The Providence Journal</title>
       <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2pOLUhsNUhPNFdZbzk4cGFCcEo3dE9SaENZeTJkbXJBNFMxalhKMFJVSXJiQUdqOW1EdXkxblYyMlBPbnNoSTR5bXh0OXRZaGtCUU53MVUxZHF4NS1GMGlDTTJESjN1cG01bkF3T1BTcFdUbkhCeE5RREl0Ym1aa2N4em1NbXNNVFJFVWo4WXdPTFFvR2lEN3pNRzNvWnBKVVdRUlZ4a3NSQ0VyYnpNa3FrRGpzTV9EV3liSDFzZE5JYVVwTXc?oc=5</link>
-      <description>Source: Google News - AI Education — How Brown University navigates rise of generative AI in the classroom The Providence Journal</description>
+      <description>Source: Google News - AI Higher Education — How Brown University navigates rise of generative AI in the classroom The Providence Journal</description>
       <pubDate>Tue, 08 Sep 2026 10:01:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:60fee25fcc3a4bf8e026c957e5e10017e722f10acbf5850a229ec76c07610b44</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Madison schools block AI tools like Google Gemini on student computers - The Capital Times</title>
+      <title>Madison schools block AI tools like Google Gemini on student computers - captimes.com</title>
       <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTJZd1BhRkpLeXdGMDI2LUR2NmVuazRFYlhaUHZUVlFObWQ3dllwVS1HVWN1S0JnM0EyQmlWSFBRMWpmbGE4X2hXS2hnZ1hpalpxekVVWHZzNEozS0MxLW91UC0wZ2pUT0FDNTRvaDRnTzZ6WnV3RjA5SHBDa0RpQ0U2RWVlNVVjclRlNXZRQUJ4VTdTZGRaMDFKd19QbE1TQ0RSWS1vM25USFVZUUFnaGJpNlRyT05jVXdtaXRGQndIaFlYUDQwRGkxcVpZc0xZNl81MVFjNTZaUWprTWZzSFhWMmJtbzRNTnFLRg?oc=5</link>
-      <description>Source: Google News - AI Education — Madison schools block AI tools like Google Gemini on student computers The Capital Times</description>
+      <description>Source: Google News - AI Education — Madison schools block AI tools like Google Gemini on student computers captimes.com</description>
       <pubDate>Tue, 08 Sep 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c2eb3fc195b598dd748adc73ed803411122d7a8ebf09ff4f50fbddc8cbef90e5</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -182,14 +198,6 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4a36ea7ba6bb268a569ba1bda62fe3a651ce22624e6c80e44fc2f66bda887c59</guid>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-    </item>
-    <item>
-      <title>AI tools reshape learning as students, educators navigate new classroom technology - cbs19.tv</title>
-      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZFNTVG5TdENkdXhHLUhUbDFGNE9Bc2hwdTRlcFNtYi13anI5NzZXMjZCRnVIWnNZbmtHbm10UjZrcmpweXBmSFNxQ0p5cW1QZ1NZZTBfaVlXTHhZZVZJSGFvU29aczl0T1Q5MGplZ1pvbHJ0LWJkeGsxWEJuN1l1cVVFWWs1OHhSb0tGLVhOaFFKSl81MDBXLUtYcFhHSEMzVXhHSHlMSC1Tc29uSWdOZk5yMnlGa3RoR2NxR2JuV2RmZERFX1R2MzBIT2x4TGtZOVhJUkxfbFBrd1VOcmNCN3BvRl9aVE1fUlVjMVJEZ1NLUQ?oc=5</link>
-      <description>Source: Google News - AI Schools — AI tools reshape learning as students, educators navigate new classroom technology cbs19.tv</description>
-      <pubDate>Mon, 07 Sep 2026 13:59:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:05ec5c5842f4335af42c7baae8e04e86923187398574fd431ee75968122c0bd4</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Start the year AI-ready with the Google AI Educator Series</title>
@@ -238,14 +246,6 @@
       <pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5c8d75ef9c12c05961137bb4431a14c551ac90466a167ec85821c6aa78285922</guid>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-    </item>
-    <item>
-      <title>Student Artists Wrestle with AI’s Promise and Peril</title>
-      <link>https://edsurge.com/news/student-artists-wrestle-with-ais-promise-and-peril</link>
-      <description>Source: EdSurge — Four student artists map out what artificial intelligence means for their communities today — and 50 years from now.</description>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:58bafef639539b856f896fd1c73e2a712d5cd2b875aae0e620b3484c7d91bd6e</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
   </channel>
 </rss>
