@@ -5,15 +5,31 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 21:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:11:19 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>AWS Offers AI Coding Tool Kiro Free to University Students - Seoul Economic Daily</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmVKMWo5S1BBdmp6YzBMQ3hzQkV6TEZma3lHTDJMQU9jd1ZIOGdjemd5aC1LSWJzQWlBNXVkczRvNnh3TnFhSUhRNkxEbk1NNkZaYmJEam9uY2lmZDc2U3V5ZHhNR3QyTzRJd0tEU2c4OVp5bU9kV3lPbkNzV0lKWUFTVlpTQktuaHROdW9wazJNU01EWUhqNUVrWnNwSHlTMjMxXzhR?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AWS Offers AI Coding Tool Kiro Free to University Students Seoul Economic Daily</description>
-      <pubDate>Thu, 10 Sep 2026 20:45:05 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:f530dbf3eba2d7a5f799a8333d27386d21b4734ff7e778306bc2e47e944826ff</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>AI’s fluent answers hide bias. Here’s how to teach students to see it - Times Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFBhdDJmQjVDcnE1RUgxTkVoUlRKWUsyc0pxdkI1bzRXVWM3bHdBVW1FV0F1bFlNcTZJd2ZjcVRmTEg3TW5JUzVjV1lYT0c3TEFaeWh3aDBWMmo5emF4cm5ES085VVNUbFFmaFpnMXNLV3NxQ0hrSnQydmdiYjJBTHlVSml5dFRveG5SaFNvY2VvOXVxTlBfV2hlZVJjYUlCbG1hZDBMOA?oc=5</link>
+      <description>Source: Google News - AI Education — AI’s fluent answers hide bias. Here’s how to teach students to see it Times Higher Education</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0772cae2c68a12640a8393ab8ae9a203c9dd21546fa19852e36b1911c2245fec</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>AI restrictions spread as K-12 school year begins - The Center Square</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxObnJXZUk5VG4xYS1zQWwwT1NqNFJfTGtlZE9VSVlnb3I2SkN1cVdEMkFkT0F5TjVmNi15dl9JZzZxclpyYUxrajJseDZOTHVLSFZFVGhDVWcxYzdlMGkzeW9uWFhXbzVJVzk3Mi1VSXNFWE9odDI5OHcxRnVDdURUU0FZSloxVmlsVzk2VERZYUs0ZF9i0gGaAUFVX3lxTE8wM3lna1hyOWEzR0NvbEZFUHRaSVBXVzFxZ0FEV2ZLSDVpSU5KZXBCT2syQk1qSUNwa0NSU2RSMXFidlh3X2xHbC1Oa1R3M19xbEJndWwwdnh2VndERDhXTEdFRjZkY1M3aEw3QmFCczZSNlBrQ0VKZVE2M01KdlBYVW1raHRpd29jQURidm00UC02cGw1cTVYTnc?oc=5</link>
+      <description>Source: Google News - AI Education — AI restrictions spread as K-12 school year begins The Center Square</description>
+      <pubDate>Thu, 10 Sep 2026 23:20:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3dc2f3c35a2bc62c2047417568788bf282240906bf615a9f5cbba2cba6dabc6b</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>University of Virginia Students Help Businesses Explore AI - GovTech</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFVsSGxwU2FlTENFRVRsbXN5eklGOU5PeFZlY1IxdHBtNmJGLVBJY3R4RUFXZFRySFZpd19KRlpZdjBPMWFwYUVCWnAyOHl5N1dFejVtdDU2M014eXU5eWhiN2JBRXNZTGJmZ21zV0NaZ0dSLUpETWIxUl8xTHA1TFRaNllWZWF3VnJKQjBsZ0t3NjdDYkR4UDdtYXFUbGUxWDl5SQ?oc=5</link>
+      <description>Source: Google News - AI Education — University of Virginia Students Help Businesses Explore AI GovTech</description>
+      <pubDate>Thu, 10 Sep 2026 22:15:15 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:6fad0e503d1be0972bb576a5ed0f2decae489c6c4d9a835ce83a18a1026554c4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Arianna Huffington urged universities to rethink education in the age of AI — TIME - UA.NEWS</title>
@@ -32,36 +48,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Two Largest School Districts In the US Banned AI In Classrooms for Coming School Year - Conduit Street Blog</title>
+      <title>Two Largest School Districts In the US Banned AI In Classrooms for Coming School Year - conduitstreet.mdcounties.org</title>
       <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQOGFvXzVmd2o2MGQxdnBuYVFGckFfbVJ4cGJ6ZTZvOHgzMklqRWhmUmJLeF94Ny1tVFpDUndKcWpjQ05OdzUtN0MydFVMZFZmd3hFXzAxTEVUSFJ5Q09EeTY4WjFaYWItTUZpY3FmdmxuN1pHelpPbGFadEg4ZW9taWJDdmpWV29iRVpaLTBpcllSNVAyeFBNU2JSdlIxY0VEZmZQVW53YTZsajk0dEh0VEUzekpMb0pZTXBNeEhkUXdxZ1cyWUc2NmRjd2M4TzA?oc=5</link>
-      <description>Source: Google News - AI Education — Two Largest School Districts In the US Banned AI In Classrooms for Coming School Year Conduit Street Blog</description>
+      <description>Source: Google News - AI Education — Two Largest School Districts In the US Banned AI In Classrooms for Coming School Year conduitstreet.mdcounties.org</description>
       <pubDate>Thu, 10 Sep 2026 19:14:14 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d62306724d7152ea89eb4e2785a603cd756c8dc5f36daade5ed27b866f8d3c17</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Chicago school board candidates sign pledge to ban AI use in schools - Chicago Sun-Times</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQOWNwRE82RUxJWW1oUlViazF5Xzdnbkx4Tm0xLVJ1aXE1ZU9GbGFYOXFjeUVzS0FiM2lBX1VIdGlSNkJranhqT3Y4d3FWbVQydXRVUHV4blZidEFwWGFwV3FXTXZUa1VXd0NBZ2Q2c0tBOU5mWUFwd21NaWZzcGU1eXlBek50QTVSQXhiQXBvMVp1UjNObnN4N21DRV9mbXBMdy1rOEZTR3pRc3YzckEwNzd6LWRhMTBoZEE?oc=5</link>
-      <description>Source: Google News - AI Education — Chicago school board candidates sign pledge to ban AI use in schools Chicago Sun-Times</description>
-      <pubDate>Thu, 10 Sep 2026 18:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ca3a47e2c8533b53da99a7344d875447335ecf4c5f758664a08cb416a0342afa</guid>
+      <title>Teaching and Learning Intentionally in the Age of AI - Syracuse University Today</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2JkYXVleC1yVE43U3o2T0NaTmxrak91b01DSnVRSnVsMzgxTkFENHJyUm1Xc0ozaUxQVThMLTFPbE0zNHdIYnNDMmRIa0dmTWhxOHZKejM5OHlGV2hnVmxFVjlFTHNObmxzRFcyanZVZmh6LWtBNTlwcWlHM2doRlFFWTEwWlVyWlBITlRn?oc=5</link>
+      <description>Source: Google News - AI Education — Teaching and Learning Intentionally in the Age of AI Syracuse University Today</description>
+      <pubDate>Thu, 10 Sep 2026 16:45:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d89a46e240481a3b11e335043e52454a7b1c8edde2c77a9be7fb5f406e3777d3</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Faculty member earns grant to research AI in early childhood education - EurekAlert!</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TTktIVHdUX0ZWWHZidnNmbDZsa1BUN3pHSzNIMzdmWnppdE40N3pmT1ZWZ05MU1BYZExOMlA3N0taTmg1cGJfUnNKSTdNZERNVG5telgzVmtsYlRn?oc=5</link>
-      <description>Source: Google News - AI Education — Faculty member earns grant to research AI in early childhood education EurekAlert!</description>
-      <pubDate>Thu, 10 Sep 2026 17:13:12 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:2489f41fef20fa106913aba68ad65f118cd33eaff02f1a2ecf40142d974db4a8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Back To School Nyc Students Return Under New Ai And Screen Time Rules - News12 | Brooklyn</title>
-      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOWTY0QzRNUDV4dy1WUjhIU2dRcloxSkNQSVhSLVQ0eE5ZekxBemg5aXpJTzFTaHlFZzBkWFFvTTlRVzlVZDZBb0tjdk9BQVBPS1dEaXAzVW5XaVU3Ujk4dFVSdkVveXlvQlFfbC0zMnNiQlFSSkxFVTl5S2FGbGQya3dJX3lsSjZ2d3dURGJ1a0JYSjdOMXFzQU8xN1FEZk04R0pkUnpidEk4ZU1qNmxsWVZNdzVMOEUwaEtNSkFwYXBncUlYUXpQX3pWVQ?oc=5</link>
-      <description>Source: Google News - AI Schools — Back To School Nyc Students Return Under New Ai And Screen Time Rules News12 | Brooklyn</description>
-      <pubDate>Thu, 10 Sep 2026 16:19:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:65a65bc94adab7ff5a35eb9e17e59cdc3b6f0d4a3ae9bfe41e271e2a8f84b064</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Global AI teaching program arrives in Australian classrooms - The Educator K/12</title>
@@ -216,6 +216,14 @@
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
+      <title>The latest AI news we announced in August 2026</title>
+      <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026</link>
+      <description>Source: Google AI — Transitioning cards: 1. Text "Gemini 3.7 Flash" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text "Claim your student plan for 1 year at no cost"</description>
+      <pubDate>Tue, 01 Sep 2026 20:45:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e6646933ca959a5fc8d118c8b793de49bb6b72b8147d5eceda7d378fce794266</guid>
+      <source url="https://blog.google/technology/ai/rss/">Google AI</source>
+    </item>
+    <item>
       <title>A Principal and a Student Reviewed the New ChatGPT for Teens. They Had Plenty to Say</title>
       <link>https://edsurge.com/news/a-principal-and-a-student-reviewed-the-new-chatgpt-for-teens-they-had-plenty-to-say</link>
       <description>Source: EdSurge — The new offering is promising, but there are some real-world reservations.</description>
@@ -238,14 +246,6 @@
       <pubDate>Fri, 28 Aug 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:cb1db0d5c74b6e9eeb890e2ee46bb06c7f0b7f7e54363ac96a62606a772bbfa5</guid>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-    </item>
-    <item>
-      <title>AI Can Help One of K-12’s Biggest Challenges: Middle School Reading</title>
-      <link>https://edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading</link>
-      <description>Source: EdSurge — Artificial intelligence can bridge the middle grades literacy gap by providing individualized student reading instruction at scale.</description>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ccef886bb5008dd826e5bce3d1b67b88f8c80482b87abca89aab9209d8e23b50</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
   </channel>
 </rss>
