@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:43:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:18:46 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Education Ministry signs deal with UNESCO to guide responsible AI use in schools - Mexico News Daily</title>
@@ -13,6 +13,14 @@
       <description>Source: Google News - AI Education — Education Ministry signs deal with UNESCO to guide responsible AI use in schools Mexico News Daily</description>
       <pubDate>Fri, 11 Sep 2026 21:29:23 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:789762059e9156bf22c786c1e863313983b345bc526dadb75782da09312dba2c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Siouxland school incorporating AI into their learning - yahoo.com</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2hHSVNuakxyY3o5MGxZRUR3R01CQkhXRjdJekdManc1V3R5cmVlZFNKZmVuakdiZDVDSEZad2dGT3dyaFpvSVpXOFh3QU91T3lvZWh5SU9yVjZxak81bEJWdklObE9adVpTREMyY0JTZnJSMjNDejB5b1I2Tl80SFdIaGcwRTdYamFEUDNqa1p5VzJNYkJ4UW5IaTM?oc=5</link>
+      <description>Source: Google News - AI Education — Siouxland school incorporating AI into their learning yahoo.com</description>
+      <pubDate>Fri, 11 Sep 2026 21:27:13 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:407558af57b2bd2c576fad54dab5602c83f5aa91e39274aa4364d5ee4922af83</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -26,10 +34,10 @@
     <item>
       <title>Arizona School District Warns Parents About Viral “Cat in the Hat” AI Trend Targeting Schools - wengradio.com</title>
       <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnBxTWtaT0RucEJySi1vczlydGpva1RUdzhlcWk4WmgtVFBraS1FMFdOdVJyTHcwNVRraWw1UWQ3Yi1zbmp3UWtuMWk1UENqX0R3OW5kcENma2gtcTkyVzVGeGZZN09MNm5qNHlTSjBVY2dRQ3JiNVZrMF82MWZDdlg2RUNOMlRzQUE0V21TcmlYRlU5WlZDdWRHWGtDWldYUkNSbm1WVGFyTVV1YlpNOGNQN1h1bEVmT0wzMUpGVEE?oc=5</link>
-      <description>Source: Google News - AI Education — Arizona School District Warns Parents About Viral “Cat in the Hat” AI Trend Targeting Schools wengradio.com</description>
+      <description>Source: Google News - AI Schools — Arizona School District Warns Parents About Viral “Cat in the Hat” AI Trend Targeting Schools wengradio.com</description>
       <pubDate>Fri, 11 Sep 2026 19:31:18 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c08ae549fbf021ae550fb2a6b95a2818406d438582d393897b4aef6efa2c640e</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>From a Student Learning Platform to AI That Checks Itself: Engineer Wenke Du's IEEE-Indexed Research Advances Trustworthy AI - markets.businessinsider.com</title>
@@ -46,14 +54,6 @@
       <pubDate>Fri, 11 Sep 2026 17:36:26 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e38ef1b2cbaef412e7dcf5d37136e561ef410f72a656548618f6ccb5d7413c9b</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Students are using AI in school and test scores are down, but the OECD finds that those who use it once or twice a week perform similarly to nonusers - Yahoo</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUpZR1lTQ2I0d09QMmpvYzhyRVJmZk41RldSbFU3QXBfNmkzWHdXMTZneGlfOHZHQjJHZ3ppZy1GQUZFd0RJSlRiNWdaaURLUFpHd3h5ejZZNk14cDh0TS00UC04ZGNZRXlQMFdmeDMyamxvSDNSY0doVzJxU0VscndmdnAxVWRwSGtXYVloX0pOQQ?oc=5</link>
-      <description>Source: Google News - AI Schools — Students are using AI in school and test scores are down, but the OECD finds that those who use it once or twice a week perform similarly to nonusers Yahoo</description>
-      <pubDate>Fri, 11 Sep 2026 16:14:42 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:192b375359447bca104b6e9ef502c831c6d2669234d476983cc205d39a723be4</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>East Asian Education Involution: How AI Is Re-Exporting This Intense Academic Competition Trend - 36 Kr</title>
@@ -96,9 +96,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Students finish academics in 2 hours at New AI School in Kirkland - KIRO 7 News Seattle</title>
+      <title>Students finish academics in 2 hours at New AI School in Kirkland - kiro7.com</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3lDTHlDNWpoa3NiMkJCUTFtVXJDZ012MVpYNkxxdy1mU1NPQ2lLbDVaVm9rdURwQkZPbjZDWGU4UE1udldNTXNWRWFpcHdjMUdzeFZmY3JERmc1S0t1c1RfMUMydGQ0Mm1UMnhOQnlCOXRkU2Y1UHU3cjR0eTFWRENERUlCeG1JSTVLVHV5Y3NjUExiQVVPbEpId0Z0aDg1bUx1bWNmdzFEaTI4SzAya3BfakZTRFgx0gHMAUFVX3lxTE5NamVSdWFYR1NrUFN0X2pwelluejl3dFlTVXBxS1NVQUQ2d014ZWlPVWx6WU15akkxUV9yN2dCVHhCNEtzQnlrSk5PaGxDY0dUOFB0ZnI0TTVXcjZ3M3g3ZlltMnhpWGNlX3ZpcDA1bi1yZmlqNjNQdkN4X2txX3B2LWZhcVg0VW53T3BMdUx5dEpRU19wbzY0VE0ya2RiVDc2VlluQ2NkWVNzTEZTRlRCUkRQZnQwUHVUSmJjdWswZkFnSUdYNnFHSC1aOA?oc=5</link>
-      <description>Source: Google News - AI Education — Students finish academics in 2 hours at New AI School in Kirkland KIRO 7 News Seattle</description>
+      <description>Source: Google News - AI Education — Students finish academics in 2 hours at New AI School in Kirkland kiro7.com</description>
       <pubDate>Thu, 10 Sep 2026 12:14:30 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0d5d3f4da0ba062b17090f7b173181cef82d45285a732a3790966db8bb3de476</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
