@@ -5,8 +5,48 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:12:30 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Building AI to accelerate science and improve lives</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people</link>
+      <description>Source: Google AI — B-roll showing diverse environments and people, including a teacher and students in a classroom and a patient with a doctor</description>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:419a0d7bd8653188b6f438f24918653839815edcf001cf2cbbd21c040a0085a3</guid>
+      <source url="https://blog.google/technology/ai/rss/">Google AI</source>
+    </item>
+    <item>
+      <title>The Real Value of AI in Education: Returning Teachers to Teaching - The Times of Israel</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOZXI0X012cjFUTDgwRW1hMFZmTFBZMDhZcUx2QkdtTHpzWkRSWFRZWUlGSzRxR3kzOHpKQW1fN05NRC1YZWdrYVEyYTY3eFNjMXpYOWJXX1dfa1N5T1lLNzhHTVM1MFE0TnBsOS1hLWduMkI2Sms1UUFjSUs1ME9CUlhoRmlfQ2JvamVOUGx1c0dncEtSSzl0TDFKeUo4dw?oc=5</link>
+      <description>Source: Google News - AI Education — The Real Value of AI in Education: Returning Teachers to Teaching The Times of Israel</description>
+      <pubDate>Tue, 15 Sep 2026 15:32:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:af115e77925817e90cd04acfbb51613bd371d67a8c03f57943789224beaece1f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>GBAPS to launch two AI use, literacy lessons for K-12 students - Green Bay Press-Gazette</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN2JWMUxjYzZmZmY3eXhiYU9oVGNWZlRSdmE5N2pybkt0Ynhkb0JCaXpRczFOSFFZU3QxWjhiN3RrWERTeDd1MzZCVXAwdmpwSDV6YkJ5N2NJSGpCWmx0dzB3LUJJajViN2VkcTg3UGxHdzZlOGZZMUNtcWh1a25nYXdpOEt2eUN0Z0thaDdSdWtGdTBSa3ZLZ2g5NEZnQlF1Z3o1NnpfUlVEYnQzRXM3QjZxcUhFUV95am84THh1TXFVV0U0cXlYM2NVNDBNcFpjRlRQUkdyX2RBbmh0TjBlaWZEelY?oc=5</link>
+      <description>Source: Google News - AI Education — GBAPS to launch two AI use, literacy lessons for K-12 students Green Bay Press-Gazette</description>
+      <pubDate>Tue, 15 Sep 2026 14:40:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9721f3f8c583c3e28ff5df2c7ba23b7c72a1870d6452063d8c43b85e490c289c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>First lady to discuss classroom tech at school visit amid global AI row - The Independent</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUNMaW00VlU2Ui1OS2wyQkp1VmxuSjN0Yy1JdXI2aHdkeUp1d2ZjcTBkbGlKTC1SSXBHd2VzNUcyRE1vTGt3RXBGNTBsUTFnUF9ieXpSMlZLZFhCTzktNjhjZEZnZXJHZ3lkUGY5d2UtNUViREFGTXVRR1A1aHdrbm1ydTRIS0JGc3hrejVIVy1DNFlHTnI0dEVnWXdwdVU?oc=5</link>
+      <description>Source: Google News - AI Schools — First lady to discuss classroom tech at school visit amid global AI row The Independent</description>
+      <pubDate>Tue, 15 Sep 2026 14:40:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:631f6bfcc92a7f47ad5d61e53c24165cebbe47c85fd7b7a421155597b935c49b</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>President Elizabeth Kiss quoted in The New York Times on AI in higher education - Union College</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjhzRTJockdGUTdyYVVNUmIwWDdrOUpnTFlCblF0WXJHb09ERGQtUXZBUUZVbzZWQ0hYWFcxTDhXSHZFZ003emlyckVKZ2JZVkR6MTZEaVo4U0RBSmNoU2pHUGVJZkJHSmx0QWtlM24xTlhONzJHNzJkU3NlSlZsa0lGdTlWdzFlOC1hLVFfZzNfYlVXY1BlYnI2NzROTUlBRUktNk4wRjU0T0xk?oc=5</link>
+      <description>Source: Google News - AI Higher Education — President Elizabeth Kiss quoted in The New York Times on AI in higher education Union College</description>
+      <pubDate>Tue, 15 Sep 2026 13:11:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:cf07214984c746c976dc1a003f07f783acf5ee7d993570222e20874b3233482f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
     <item>
       <title>AI as tutor or shortcut: The difference may shape student learning - The Times of India</title>
       <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVml4c3JSaWZyWnUxRGZ3ZnJMTTk3b0xZN19FcDF0X0xyQzhvOVY4dThiaHQ1bHM0SDJkVEpNclpXWXVNTHJ5SmFFckNGb21lU0JGV3IzNDF1WTlxZXJXV1VZa2FBckoyRlU2ZmZlQ3Q5Tnl6b3JzcFZXejhWaGNWb3l4ZkNoYmdlY2c3bUZnR2F4UUJWWUlxcEkxUFhvYlhPMWxNblZjc25nSkVTSm53ZTEwZHFVVTdVMnhRVVBBSzJOcldnaEN6cV90RVp6VzFTc08wVngtZ244bUtwc2dzWEF3?oc=5</link>
@@ -24,35 +64,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Florida Board of Education set to create AI rules for schools, colleges - tampabay.com</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEV5YnJoWGtoTWFOMDVBUnpmSnJMS292Wm5nMHhiNkF6a0ptdUl4SXF4MldfRDhIck43LVl6SlFKR3Q1NFFDQXN0QW42VnB6SzV0cTZxVmZJdzV4ck51bHdscE84aHFEbVZhOW4zWUpLQVV3V0ZydkdsdWkxZFJZeXgwekw5NEo4TTRBa2FOZWVwY1hDRmRqOXVuVHhoQTV1eWdZcFFqczNieERGUWtSZEtR?oc=5</link>
-      <description>Source: Google News - AI Education — Florida Board of Education set to create AI rules for schools, colleges tampabay.com</description>
-      <pubDate>Tue, 15 Sep 2026 11:11:54 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a0c1bee6a293e420709aca005aa0cef2bf059a3f9626c0efda1ebb348c65f86b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Tyton Partners Releases Listening to Learners 2026, a National Portrait of Students Balancing Aspirations, Academics, and AI revealing important gaps between student and institutional priorities - The Manila Times</title>
-      <link>https://news.google.com/rss/articles/CBMi_gJBVV95cUxOTlpaeVlIRVRhQVlrd3o0Z0VaTE1qLXEwdXExb3hLdzFTU0o1UXl3dGRBTnhMci1XWGZ2RDJJaEVhNjlrMVlrTzVaN3NfLVhtanl2Q3F5Z3RRRUpOZ3NyWFRkLUtFSkxLaHVzOXVpUDY2R2EzOFUzR3ExRHBZczJWRHpnMmVfZUpQSmxvbHFSTzNFOXlzYkx6RVVRMzQ5UWd5NnByalhBdVBMR2lVTG5MVW1fSHlOMjJmaGJsREF5NmktdmdXUkhVdGhESUk0LXIwdUZMWUk5Sy1iRk1UdGFLbWZ4RW85OXVnZU1JaVotVFBJOC0yNFQ4THJlZGROMkY0cDNvZHpvVWFCRmxCYVFqMVM2Y19SSGE4NS1OSXYwcGxUY2cwRHFVa0RqeGk3T0d2cmFMVmVVNUZTZXJkWFl3VEdsbWduTVMwTDdyU2lWc01FaVhTYjFqSm5SU0RhVDFnVmZSUzdsZjNUWE53ZmtFWGlLN2FVbHlTdlBzM0Nn0gGDA0FVX3lxTE91Q1MxSHVoQW5CY3c5N1ZNWHUzelJLYXdQQm5hV2pINzMyQmcyN0w2eGUzcUlOa0FKejhKVjd0Q0xxYlBFZUpnczFNNzMtTnpObkk1OHBDUEppcGZqMVFIUWxGUk9wdDFybExETFZBNnoxdFl6b3JpejlqaWMwellxdXBmemphUERqSVNZSDVlMVJGRGJidWJ1WU1zajRBRnNJM2V5enFUZms0UnNBQXJxZVVQbWZOWm1YbmptQTR6eFZRY1NsMjlHNVEzX0NGNVFCNm5DZFlfMWducTk5TmRKYWxqYXBjUlFvRlYzTnBnWG84MUxUTkNSOUVZTFgzWFc0SlpkVGRCRV84TUpGYWRhamZDdzktdnpnQzgwZnc1c3BsM2c2OEJYOUpieUhjZmhpVk5fR1d0NXpvaVVuQ1NobGlJamk4MW1mMVpKX2h5bm9tcFNlckFJdk1mVXpYYXo1dzN6ZExiY2cxOXZhUWZiUWxWVkNxOHdGYTh2ZHNtTFU2TQ?oc=5</link>
-      <description>Source: Google News - AI Education — Tyton Partners Releases Listening to Learners 2026, a National Portrait of Students Balancing Aspirations, Academics, and AI revealing important gaps between student and institutional priorities The Manila Times</description>
-      <pubDate>Tue, 15 Sep 2026 10:14:44 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ca13a24f3f2cec5192dae37bb577ffc1fd2f6161810e3dc62585667c85f48680</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>GBAPS to launch two AI use, literacy lessons for K-12 students - Green Bay Press-Gazette</title>
-      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN2JWMUxjYzZmZmY3eXhiYU9oVGNWZlRSdmE5N2pybkt0Ynhkb0JCaXpRczFOSFFZU3QxWjhiN3RrWERTeDd1MzZCVXAwdmpwSDV6YkJ5N2NJSGpCWmx0dzB3LUJJajViN2VkcTg3UGxHdzZlOGZZMUNtcWh1a25nYXdpOEt2eUN0Z0thaDdSdWtGdTBSa3ZLZ2g5NEZnQlF1Z3o1NnpfUlVEYnQzRXM3QjZxcUhFUV95am84THh1TXFVV0U0cXlYM2NVNDBNcFpjRlRQUkdyX2RBbmh0TjBlaWZEelY?oc=5</link>
-      <description>Source: Google News - AI Education — GBAPS to launch two AI use, literacy lessons for K-12 students Green Bay Press-Gazette</description>
-      <pubDate>Tue, 15 Sep 2026 10:08:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:9721f3f8c583c3e28ff5df2c7ba23b7c72a1870d6452063d8c43b85e490c289c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>The AI Education Paradox: Preparing Students For An AI Workforce - Forbes</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVB1aVdQbzVPN0k1Q0FleThLLURqXzM2YVBvVkM5b0w0N1lUVXdTdlJPV21tclBVMVoycl9vaVkwd0Q4ZnJlQnIwLVI2T3oxNUxJLWF1dFE1bTNzdVhzYkUwT1h4dEN2bHFZaDN1NHdhV0E5dGdOeVNVLXhFUl83dEVPU1d4bzFDZ3V3d0JJSHJFUVJMMW04SGY0VUQ0M1EwVzhhWFdKWFcyVEgzdUU2Q0J1YXpvRXZsTjFrTnpB?oc=5</link>
-      <description>Source: Google News - AI Education — The AI Education Paradox: Preparing Students For An AI Workforce Forbes</description>
-      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:8b819492359cfc1cb5995bb78f34f93f630d91e1c8a4a3aa93e4dcd7c388e24e</guid>
+      <title>Florida Board of Education set to create AI rules for schools, colleges - Yahoo</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWNDNEVCb0RpOXFDakNzTkdzSkFHZGdHZVIzQUx5NXg3aXhDeHhFckMxcmVyNmZwSEZZN05vdUY1Y2k4c1ZZVkxyNERYZzExVTdrRkJaSHlLa3VRVE1zY0dBRWJjOVhNMlZwQmlBYnFEelNZVk9hbXVBcWthUlQzV3MtZmxWVTVvMUo3bXF4NTlnUlpTUld3VFNR?oc=5</link>
+      <description>Source: Google News - AI Education — Florida Board of Education set to create AI rules for schools, colleges Yahoo</description>
+      <pubDate>Tue, 15 Sep 2026 10:55:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1083eb5e69887abd172da9a7c99983a15b0963ee46a788421438a5af1995d542</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -72,20 +88,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>AI Education Moves Beyond Campus: Dong-eui University Joins Forces with 14 Busan Institutions - asiae.co.kr</title>
+      <title>AI Education Moves Beyond Campus: Dong-eui University Joins Forces with 14 Busan Institutions - 아시아경제</title>
       <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEdCblZkc1BUZU8ybFBDV1p4QWF0ZTRjalUwVk5aN0x3cFI4SUtQWmtUNHRBbm1fNklsdzMyYnh0R2RFd1lYbDlwUjdneWhfcm5scHhwQUlCbXViMVhZUUpkY3oyNUZScTlqNEEzbzA?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AI Education Moves Beyond Campus: Dong-eui University Joins Forces with 14 Busan Institutions asiae.co.kr</description>
+      <description>Source: Google News - AI Higher Education — AI Education Moves Beyond Campus: Dong-eui University Joins Forces with 14 Busan Institutions 아시아경제</description>
       <pubDate>Tue, 15 Sep 2026 02:18:16 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2bbc3ef62f596fef2f66274967efabc3620048b96f3c3651b63765f88185e4a3</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Supercharging education: Building AI tools to support teaching and learning at NUS - NUS - National University of Singapore</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0RtSlgtQ2xNU01WTWxpX0hwUmh6STBURkFkdXItaFo0bWVMSTBiRHNlT2FPd3l1U0FoU191cnZaWkZDWi1SUHRmeUJQRTBjZ2VVa2E1WHBhcnJJVDViNWVkN3lXY2w5cXNVYkNOekVyY2NROWxvOVQtMUdJZkdRX2dfaHVpOE1UMm9zbllRcVJaMWgtTW9WU09MQS1oVUdpRkt1QnJINWdpUQ?oc=5</link>
-      <description>Source: Google News - AI Education — Supercharging education: Building AI tools to support teaching and learning at NUS NUS - National University of Singapore</description>
-      <pubDate>Tue, 15 Sep 2026 01:47:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:283aa2ae95438b1567d6d1b63b3789b0f7c4d3184970ccc501819f42b0680c85</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Opinion: Schools Should Help Students Navigate AI, Not Ban It</title>
@@ -106,26 +114,26 @@
     <item>
       <title>Iowa State University faculty-student team develops website for AI tools - The N'West Iowa REVIEW</title>
       <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzVTR2xuNTN5cHRERVd1UjJaV0c1X291MEF6X1Q2RFp2NmJQUGl0N0JKNEprVEtZWnlNY0laNGY3WTFvOFMwSmNwSlFoYzN1UjBDSWM5SVBmSVJaaE1nazFLRV9uVGpBeDhqcTRrOVl0dk9wN1k3ZVd0MlVMVDdTOWdKSHpGaEJTZnN2OXdiUHBDN0pySjZNbVZrQXhhOFh3VFpZNThueVN2dzlaby1VSVV5bTdHTkk5Yk1SZm9Jb05sOUVIcmcxQU9KY3cxU1dJcUtNakhTclY0M0VOX3p4aE9B?oc=5</link>
-      <description>Source: Google News - AI Education — Iowa State University faculty-student team develops website for AI tools The N'West Iowa REVIEW</description>
+      <description>Source: Google News - AI Higher Education — Iowa State University faculty-student team develops website for AI tools The N'West Iowa REVIEW</description>
       <pubDate>Mon, 14 Sep 2026 17:57:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2be8937abda31170463351447fca962d0c47b580f091c134404c6086c8e0de99</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>AI research to improve K-12 STEM learning gets funding boost - The University of North Carolina at Chapel Hill</title>
+      <title>AI research to improve K-12 STEM learning gets funding boost - college.unc.edu</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzaFhTbWRPSC1DSUpwZUMtNTJ6bEVCTE0xaDcxeTFxVjVMWjk2ekY1NEFWRk5PVnlSZ2hBQkVpekZ0XzVPZndpTWZ0YXJGVk9sTV91ZDRiU3h6WEhoQ19j?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AI research to improve K-12 STEM learning gets funding boost The University of North Carolina at Chapel Hill</description>
+      <description>Source: Google News - AI Higher Education — AI research to improve K-12 STEM learning gets funding boost college.unc.edu</description>
       <pubDate>Mon, 14 Sep 2026 15:54:25 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:8562360684e8a461aeb1094cbae57bdf678b56faec3ee76b46c620cf6d035095</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position - Clemson News</title>
+      <title>College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position - news.clemson.edu</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOb01jZ3NuWVJNbVNUbjZnUFBIRFQzQnV5QXd1R005QnpjU1pQT0s3V0FlckVXNG9KakdldWh4Nm5NX3RVTVFVcWg3Wi11RWZuQlR1VkVQX2x0c0xmMndkVU5pcktQWjcyRGN1NkRqcjl3czZRbXVjU2dSSFNDaDNteHR5WlltdE1ublZ6aGMzbFVSYXNobkhRNDE5bFAxb3A2bEgyQmthd0Y0MjBnNFVvWUU1QzBtOUYxOUw5NzRB?oc=5</link>
-      <description>Source: Google News - AI Education — College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position Clemson News</description>
+      <description>Source: Google News - AI Higher Education — College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position news.clemson.edu</description>
       <pubDate>Mon, 14 Sep 2026 12:02:59 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:334d729dbda5f141a2733c72314a00df11f442c8232589b09c4c1ff97a85945c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>University of Sydney students and staff to receive access to OpenAI’s ChatGPT Edu tool - The University of Sydney</title>
@@ -142,14 +150,6 @@
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4c25e83c5a3e61ab4f288144ddec77147433107083266e59afb58f81581a547d</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>Norway rethinks Generative AI in its classrooms - The Educator K/12</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxORkFxRm56UGNmQVhNTEFGcU1qekpacDMtY0NLWnlNTlJyb0lrd21hY1MtNGZTa0htTXdkbV9MY3hNdmtCNEJrSVhPNG9oYzhWYkZsWHRzOGdhWXhzWE1vUTFwZHpNb1AzcVhLMnBxNFIxNHY2NmFNNFNLRXBYMnFOaFNEM196eXYzdkhJMUFBcVdDMWVIZVZYOXh0djhRQQ?oc=5</link>
-      <description>Source: Google News - AI Schools — Norway rethinks Generative AI in its classrooms The Educator K/12</description>
-      <pubDate>Sun, 13 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:f2569ab17d092cdfd4cf8c0e1386a090dbb474177cb60e1d3bfaee70a78d8acc</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>AFT, UFT and Microsoft announce ‘National AI Safety &amp; Privacy Standard’ for schools to protect students, families and educators</title>
