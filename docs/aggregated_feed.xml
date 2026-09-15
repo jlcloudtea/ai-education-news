@@ -5,8 +5,24 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 23:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:28:30 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>University of Sydney gives all students and staff free ChatGPT Edu access in major AI push - theaustraliatoday.com.au</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPSlh4WFNIN2s5d2wzelhkQW1aXzdYWjYtcXF2SWhnOU5Ta3ZNWmhvLS13bTZmM0FqU1E0RXU5dF81ZGNnZlhHSHdZNlcwZk5DSFFPcDlaeUhhZDFPb05DZUZXZU1KWHNrSXdITFdOUWtmX3B5S3cwX2hDbEtJczhVS191bFVjQjFZZE1rTEQ4RlVlNkdkemVIY2tUMUM1cFFNREktVHpaaWNFdnprWkJHZmF5TV8tOVhQay1Ya1pjTWo5dG5VQnRV?oc=5</link>
+      <description>Source: Google News - AI Higher Education — University of Sydney gives all students and staff free ChatGPT Edu access in major AI push theaustraliatoday.com.au</description>
+      <pubDate>Tue, 15 Sep 2026 00:32:48 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:fd4f1b1fbe981b4de7fabb7ffe99b95d8a13282ed88a92df28fd0a4271941af3</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>School of Thought: Preparing students for an AI-shaped world - The Daily Gazette</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUnBJSXI3bEY4NUl4Mk40TDdhODRFNHJibHczdTltd0ZDNEpEVWhfSmFFU1B1enVlZEtuMnROQkRFX0RBSEJ6WTdWLXFoQlp3YUllN2tSN1Zheng4ZmtHSHEwU1lXOHhSUFpDZ2dsZm1FS2k0eEdKRC1reEw5ZktGNEdQdW9kVGRaTlE5dndIZ2ZHRzB4bWtGa2oyRzNTU2pmdHpvWWNkVXFrVl9CUmNtVDI1cmxCV05fVkV6UmwxYmZCV280MXpyVjRMOHV6TUlreW1jbVJ1UjhIMHY4OEJscnVJSXA?oc=5</link>
+      <description>Source: Google News - AI Education — School of Thought: Preparing students for an AI-shaped world The Daily Gazette</description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f1eae6b42b0134efc0a7395ce831c6dc72c938c60cc5b7f5d432f612e86fa7e5</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Using AI without outsourcing thinking: how university assessment is changing - The National Tribune</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNOENkRE9iaXFBanNJSDdDY3VlOU14dDNLaHF1TEloR21kRlRPRUc1aXg2R3hfRzFlN0NiSEZOaDRoMXh0YzJDZnB1V0huenN4bm9TRVRqM1JqSEYtb010V1c4S1lfdHJmRXZlNjZWcVd5bTFKWFMzU1lJWUtPdTZqN3gxaE5UVzA1Q3Mzbmo4aXh0LVF5b2ItMmF4dEtCekxzUkVxd2dJbEJfNTgySzJYdw?oc=5</link>
@@ -14,14 +30,6 @@
       <pubDate>Mon, 14 Sep 2026 22:07:07 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e382cf08a4de433fd50ff44d80d36949e37bfee0966357bcb53914cb0c9f407c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Grand Forks Virtual High School educator chosen for national AI fellowship - Grand Forks Herald</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3JKSzcxZTlnQ21QeXg0b1dIMVRwYTNhb0N6dUk1OGZKaFhaa3dTcFRqX3BQcTJhSGdzaHdBMThhTmlhdmNHYnM0SU5XMjc4c0U0c1l1Yzd5M21jRXNPNm4zem9qV3huSFZyRmVLMF81LVVXU1JZZGJPUWpOZmVCNmdFQzM0MXBoVkRpVktuRi13MHVrMXRKeFNXclM1UjJpSXJCaXNOamNmeFhfc1Jxd2o1MW5jXzJyZnc?oc=5</link>
-      <description>Source: Google News - AI Schools — Grand Forks Virtual High School educator chosen for national AI fellowship Grand Forks Herald</description>
-      <pubDate>Mon, 14 Sep 2026 21:50:32 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:061df7c0f9e3eaf249b87d0f15372cadf5bf03ce08ff9c3de1e22ac0e8491ef8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Why schools are banning AI in the classroom - Yahoo</title>
@@ -34,9 +42,17 @@
     <item>
       <title>University of Sydney to roll out ChatGPT Edu to students - iTnews</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOZjJGZjUwWVhrSF96aXZ3a2w0Mk9hRTZOdVB4OXhINU9VRXNGdl9vdTg5cW9RRUpwcm9tRlBpSWVkaUVCYm5iLWhTMkE5UnhvVzFLRGplOWkwMnNNbE1BZlJGN19VUDJ2MTZhejd3ak1Eek50TGNDTzFlTVVoU1A4Qm52QXBhQWsydjhMOHBKcDJLRl9uR3A2dEdB?oc=5</link>
-      <description>Source: Google News - AI Education — University of Sydney to roll out ChatGPT Edu to students iTnews</description>
+      <description>Source: Google News - AI Higher Education — University of Sydney to roll out ChatGPT Edu to students iTnews</description>
       <pubDate>Mon, 14 Sep 2026 20:29:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7a8b509d9628c475a22b7c8c7745d18cd024bb67116c5f83424109ddebaffc26</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Connecticut School Adds AI Threat Detection - Campus Security Today</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXBqYkxwVWZuRHBUemVzRFEwVFZNWm5BVHZDVXRub3ZZRlNYX284RjZsU1ZFcTh0alBHZnJoWjBLdFRfQVUwMVdobGlBSmtDMjBQNTFhcVBfY2tqUnRlZG42ZE95d1Z3N1Q0U1ZuRXdENDQwVXBhbGtrdU5qSms0QWNwUThySFdRRVhlUnpxY2NORHN6Z0VIYWRUTFpCQVFQaHc?oc=5</link>
+      <description>Source: Google News - AI Education — Connecticut School Adds AI Threat Detection Campus Security Today</description>
+      <pubDate>Mon, 14 Sep 2026 20:14:44 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:18dc35de0bde0ef01026d015d0674aec139b1e5d4f186cc8b0542d2866189492</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -56,27 +72,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Juneau schools weigh districtwide rules for generative AI - juneauempire.com</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPZms0VFBhOFRjc0loeGtqQ1dQVUFmR2FFVDNnLWY0WnYtb3BoX01TVTY3d1FNQ1M1ZFRZM2VJX2psMG4zTnp5WDJYQUg1U0FWYk5CVGF4MVZBV3Q3TFk1U2xSQnN0Nml2ZDFrOS02alBHMVh1bUpZR3ZmOTE2aXBaVTE2VXN5RmFzWTJvNFpPZU02amQ2cjZhUlBSNmw1Zw?oc=5</link>
-      <description>Source: Google News - AI Education — Juneau schools weigh districtwide rules for generative AI juneauempire.com</description>
-      <pubDate>Mon, 14 Sep 2026 18:16:18 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:8bf737ca274ce2ce42f6d0762d05c3d4b38ce30ea6c9d75858a11117e9851ed5</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Digital Badge Helps Students Use AI Responsibly - Syracuse University Today</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPcDJVSEppOXdUR3BVWFVBOWQ1WWtyR1lXYzR0Rk1LbUFtVnpnS0pJYWxXQkFpVGZfTFVZQmtUNGdqOUtuSjJ1NndrU2ZEbGJ1NnViT1lFdWg4QnNSbnlNd0NSektDLXVaMkJQY3VVOWUwY0Q3LVp4MVNieWk2U3M0eGxsQllBblk?oc=5</link>
-      <description>Source: Google News - AI Education — Digital Badge Helps Students Use AI Responsibly Syracuse University Today</description>
-      <pubDate>Mon, 14 Sep 2026 17:43:15 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:77d01b6aa492c9ad046d0ba7be40722a2e010b402b0ac091c17e8c45eec31ef1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Iowa State University faculty-student team develops website for AI tools - Daily Nonpareil</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQR1JGMzBmXzZoWXJkUXlMZTZLRDhFSDRaWndWSUhVamxYT0owYWZrYVZXQzdXMmZpSVNSQ3BYdU5Jd2JWdlNrWnhkYjJmRXNFb0RlVU0wQkJTcmlhWXdnUWlGQ2MxZUs5UGZoaWVjTkZGSjBsLVE2eFhaeklPYTlEa1p2VXBMVTJWT0tGVEUzaXdKV0w4NE8zRW13aEVvdw?oc=5</link>
-      <description>Source: Google News - AI Education — Iowa State University faculty-student team develops website for AI tools Daily Nonpareil</description>
-      <pubDate>Mon, 14 Sep 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:6434e41378f5c1a1cb831b4c7b9a520a69e9590f4ef9839d688cb6d94f1af5ec</guid>
+      <title>Iowa State University faculty-student team develops website for AI tools - The N'West Iowa REVIEW</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYzVTR2xuNTN5cHRERVd1UjJaV0c1X291MEF6X1Q2RFp2NmJQUGl0N0JKNEprVEtZWnlNY0laNGY3WTFvOFMwSmNwSlFoYzN1UjBDSWM5SVBmSVJaaE1nazFLRV9uVGpBeDhqcTRrOVl0dk9wN1k3ZVd0MlVMVDdTOWdKSHpGaEJTZnN2OXdiUHBDN0pySjZNbVZrQXhhOFh3VFpZNThueVN2dzlaby1VSVV5bTdHTkk5Yk1SZm9Jb05sOUVIcmcxQU9KY3cxU1dJcUtNakhTclY0M0VOX3p4aE9B?oc=5</link>
+      <description>Source: Google News - AI Education — Iowa State University faculty-student team develops website for AI tools The N'West Iowa REVIEW</description>
+      <pubDate>Mon, 14 Sep 2026 17:57:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2be8937abda31170463351447fca962d0c47b580f091c134404c6086c8e0de99</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -88,17 +88,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Utah students to have a say in AI school policies around the state - KSL.com</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNVU1ptUy1HcFBlUWxlYV9WOTI4b0tKR29zLXhuS3dvV2QzcUY4T2pjTlJfa0ljSXB4bFRINlNhMjVaRUtOeHFQLWkydFgyN0FTbG81WnBfclNmbHk3WkJKX0RsNEU4ajJ1TTZTbFA0WU5nckNCNVFpSTBUbWlvWkYyOFVJYWk0NTJRZXlIUno5ek9JZVNhQVZ1WDFYdEZRNDVzYlV3?oc=5</link>
-      <description>Source: Google News - AI Education — Utah students to have a say in AI school policies around the state KSL.com</description>
-      <pubDate>Mon, 14 Sep 2026 15:49:44 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:926ac8be4681800a8f7d164948a386eee5a6ab7f51e013a46f8edbc58246e645</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position - news.clemson.edu</title>
+      <title>College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position - Clemson News</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOb01jZ3NuWVJNbVNUbjZnUFBIRFQzQnV5QXd1R005QnpjU1pQT0s3V0FlckVXNG9KakdldWh4Nm5NX3RVTVFVcWg3Wi11RWZuQlR1VkVQX2x0c0xmMndkVU5pcktQWjcyRGN1NkRqcjl3czZRbXVjU2dSSFNDaDNteHR5WlltdE1ublZ6aGMzbFVSYXNobkhRNDE5bFAxb3A2bEgyQmthd0Y0MjBnNFVvWUU1QzBtOUYxOUw5NzRB?oc=5</link>
-      <description>Source: Google News - AI Education — College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position news.clemson.edu</description>
+      <description>Source: Google News - AI Education — College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position Clemson News</description>
       <pubDate>Mon, 14 Sep 2026 12:02:59 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:334d729dbda5f141a2733c72314a00df11f442c8232589b09c4c1ff97a85945c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -128,6 +120,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
+      <title>Sathya Sai University to open AI higher education centre in Madiyala in Dakshina Kannada in November - The Hindu</title>
+      <link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQmp0TEVwNDBPWWItRnB4NDY3V2VZSmNIYWVUd0o1WWJDd3RXN0RZUUx1bjByTzdoNFdqdnBWbk5YU0xUZDJLMm82MFZFVHZ5WnNTeWR1dHZYaUxpa3o4YzU5bl9rUmVmajR2UTYyeUNNclFPVDd2anNLVWV3ZkdaMTU2VUstYmFwLTFuQVFGSWpVVTNONDN4UnlWTTB2LXhQeko1MTN0S0tXeGtFY1dlU19XcnNHVlZ1Yl8xdmpmeE1SVXlfVjRkcjJFZVdJYjdSeXBrOXJhSGNSQjRWLW5rZEJFYlJfRzlRYnZjeTFZMHJhamdhb3plZ1dSVdIBggJBVV95cUxNdTRKZUxkOWdCRnBreHMxQjlyaXJRUWdpLWlPVHk5Vy1iQlk1TU1JVHNBMEh5UFh2NmJnaXg4a0k3V2JXd0xncl8wMl9kajhHTFREdTRrNVQ3N1U0eWJCQnZiWFFKTGQwdk01R1lUV3o0SkgtM3prd19kdjYzMll0RGNWVG9OVmNXa1RvQWdpT3ZoT1VCQ19kOW44YXIzZktWS2w4Q2JJcnhKMzBJUW5hZFUwaFBRTTI0OU5jb3Jfb0ZqLXBiTzFNdVdHdTlIVG5kUGgxMXRtNTNwVjJOVS14TE1EcUQzelBLZVhsM0JZQ0dVRHdqZGotYndnZWJGTWFtSkE?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Sathya Sai University to open AI higher education centre in Madiyala in Dakshina Kannada in November The Hindu</description>
+      <pubDate>Sun, 13 Sep 2026 13:03:43 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:483b53e84391fa8972c58e0e861439912142a69df1a86536b1e748ad228aa905</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>Two-year university study finds banning AI from classrooms leaves students worse off - the-decoder.com</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVBkTldYTVZPNHRPRVdrSG1QY1M5VldrdHowM3FsZ1RHeEtyaGpMYkFhN0c5VGJONy1zTzdleFdYTmozSWFySlM2b2RrM2s3RTBGTnMxaXlsUHdmUGtSLVZKYlItWUJCaHgwMVk3d00yRnU3Nng0a19oTDcxM3I4blp2UFdEVjl3UHRNSl91eFhXVnhMM0Mta0xZWm9NTGxnbU92X0ZpVnBIZlhVVFE?oc=5</link>
       <description>Source: Google News - AI Higher Education — Two-year university study finds banning AI from classrooms leaves students worse off the-decoder.com</description>
@@ -142,6 +142,14 @@
       <pubDate>Sun, 13 Sep 2026 06:49:35 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:52b5367913d05a3f3da56cf1d9fbafa5fd0fe038b1b989da85dd5b0a058f36dc</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AFT, UFT and Microsoft announce ‘National AI Safety &amp; Privacy Standard’ for schools to protect students, families and educators</title>
+      <link>https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators</link>
+      <description>Source: Microsoft Education Blog — AFT President Randi Weingarten, United Federation of Teachers President Michael Mulgrew, and Microsoft Vice Chair and President Brad Smith today announced a “National AI Safety &amp; Privacy Standard” establishing legally enforceable protections to ensure the safety of students, families and educators. The post AFT, UFT and Microsoft announce ‘National AI Safety &amp; Privacy Standard’ for schools to protect students, families and educators appeared first on Microsoft Education Blog .</description>
+      <pubDate>Fri, 11 Sep 2026 21:21:28 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9e6892680885d62551ac823ac4cbede107fcc098aafb4ad91e278920d09d91bb</guid>
+      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Parents Are Bringing AI to the IEP Meeting. How Should Teachers Respond?</title>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 01 Sep 2026 20:45:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e6646933ca959a5fc8d118c8b793de49bb6b72b8147d5eceda7d378fce794266</guid>
       <source url="https://blog.google/technology/ai/rss/">Google AI</source>
-    </item>
-    <item>
-      <title>A Principal and a Student Reviewed the New ChatGPT for Teens. They Had Plenty to Say</title>
-      <link>https://edsurge.com/news/a-principal-and-a-student-reviewed-the-new-chatgpt-for-teens-they-had-plenty-to-say</link>
-      <description>Source: EdSurge — The new offering is promising, but there are some real-world reservations.</description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:7a8ed3f67825acfac275d964a006e2fd1db304d44c77bb18c606ac666d6c404c</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
   </channel>
 </rss>
