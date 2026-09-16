@@ -5,22 +5,54 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:56:41 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Florida Board of Education sets AI rules for school districts, public colleges - Tampa Bay Times</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFFUQm5fX0FZNDA0YzFUTm9ReHFjTU1CM1ZIVUd6OTE4NDQwWlFtSnpvNkhZS2RVY0ZwdFNEaVJfeTNWVHlkTVRjRXpfN2J6VFlCUlFjbHFPOVpwckpEZUFmeVN4cllqX0ZHQmxyeW9Ib2N2VzQxUFdocmJ6MmF3VDBqelluak9XZldIUTc2V1ZMVDlVSWE4RVRoaFlVa2N5cHZwSXlFcmFPX2xCTGJzdjRvWS11X3NsWEpxcXgxSQ?oc=5</link>
-      <description>Source: Google News - AI Education — Florida Board of Education sets AI rules for school districts, public colleges Tampa Bay Times</description>
-      <pubDate>Wed, 16 Sep 2026 19:54:53 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1bf7f33b17ab43c858404d1532ebbfbc6faf43644e8f1548f155c708e8f2a3db</guid>
+      <title>Marshall University Appoints Chief Academic AI Officer - GovTech</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFhxN0YwMnp4WS1XUDk1dnE2WDl6a1ctYUJwLTZCbFdPaXdFNjhUcDltc3p6RUtLbkVXV2I1Vl9VTXR6SnpfZnNERXZIeFk4SF9TVlFoVWROVXJEeUZTQzdtWFlybVU5V1o0ZldfazhkQjRGVG5CZ3VPdjhNbHZmUWRMTHBvWkxGRDdaQVEzX1VURXZnVVJMOFJPdWxvdzg?oc=5</link>
+      <description>Source: Google News - AI Education — Marshall University Appoints Chief Academic AI Officer GovTech</description>
+      <pubDate>Wed, 16 Sep 2026 22:36:56 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:32d046e9f2a989ff3b01307c5664176f2b72a025b1c868e59366706dc1ae3f8d</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>KSMmodel.ai Launches Executive Education Program for Universities, Consultants &amp; Enterprises - The National Law Review</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQbEJVQUZ1UFlXc1BWM1FjQjlOcXJJbVQzVlpvTWlfTlRQUXB6bGQ5Zk5Id0c3ZGJ0OEpKVzEtVFN4SFhfcGppeE9PWU1lYkFjN29CVS1WUklWbVJEbVl0ZGJNb3VPbzMzQkRLNFhzV0wyVjFaaDI0MlhpeG9OVkRvcmRfbUswR3FGZW52cTI0U2FxazNCZkJla2Nsbjd4UFB4QV9GenE2NHVwaG9uM1ZEMGJB?oc=5</link>
-      <description>Source: Google News - AI Education — KSMmodel.ai Launches Executive Education Program for Universities, Consultants &amp; Enterprises The National Law Review</description>
-      <pubDate>Wed, 16 Sep 2026 19:46:48 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e0d80952013b1ed049c275d81ca77da83b6033ee511bfbe5594a665d2cf77452</guid>
+      <title>Florida approves statewide AI rules for K-12 schools and colleges - Central Florida Public Media</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXNVb0ZaaEJuU1U0NlNscldlZXJkWDBVQkZfV2NzUkcwQzhPR0ZlMGFzWGdzeE84V3FuSVM1TFJ3OWZYMFBkcXc3NFVQNk5fUk5ObEhRX0Y5RXl2c0xuc1pVdGFHRHQwZUFBSGNKaS1VaUFnSzF2WjU5Ql9adEZ3N2NVRDE5bDltLU5DSTBaTUdpak9vVWRNYXlwalRfbzRYbzNPQ2E4Z0Rqb2NybGZTMA?oc=5</link>
+      <description>Source: Google News - AI Education — Florida approves statewide AI rules for K-12 schools and colleges Central Florida Public Media</description>
+      <pubDate>Wed, 16 Sep 2026 22:11:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:69a5d9c68b58d035d4b5118661732091d638e063fb76ccc2b96d5de6191cad81</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Florida Board of Education sets AI rules for school districts, public colleges - Hanford Sentinel</title>
+      <link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcnVGWThsTEdPVEZKdnNQeFF6MXpUWGh5aHlOWFhXd0RUWTRxYkdxM2VBdjN4M1NUNUZrZmtGU3o0UkxTeWJxVmdWZEIwQk5XQnY1NnJObk1hUUk3SHlIVjVkMmp5Z001MV9YaWhDU19TWGZ1QjRKcUZXZ2w2VWlnOUYwZk5QOU5zdzF5Nkp6Y3dRZzI0M1hrSkUwYnJKLXo3c1M1WmFCd2dtemxSSGtNQVpWYVFIUjRFbjZhQ25HRUx5QkRjOFY3S0d0Q09aTDJYWDVoZzllWGtPQm0wWWpSaE9vbnhLRzFrb3NYcUE5bFNnNllMR0hxYzJNcWFlZ9IBgwJBVV95cUxQZGxUN1hIZng3bFU5STAySkRDT0hZWmpHbjdVdVBuSHE3YnpzTGVDaTdBOGdEMmNTZjVraERYQy1XZUJVWlhfb2xHYnlHRGZZMS0zVnAxQWp5NjV0b0RSUUxuOEMtYi1LamdKSUJGUzJOTnFVVEttZnh2VnR3Y3lUb1QzNjJRUWtnbHZFVXIza2w4bWI0VGs2UWtMdmNSMkdJMkxEZjZwdC1JWTBOcmNGUENVM3k3MnZudFdWeGY4UFA3bkxxWnBSZjNQY0tMNkRSQV9kTnZxWnZzV2pZdllGY001MVljVjNoOVFZUXJTbmZVckY4ZWFDcmF0dXA4ajl0VEhN?oc=5</link>
+      <description>Source: Google News - AI Education — Florida Board of Education sets AI rules for school districts, public colleges Hanford Sentinel</description>
+      <pubDate>Wed, 16 Sep 2026 21:20:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:087cfa876d1618c9e1f771702154e8a542105ec3a568dfc16dd18e5ff59549fe</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Florida approves new AI policies for K-12 schools, state colleges - Spectrum Bay News 9</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnhqREdWUXNvS0tERmFYUDUxc0s4SGs4ZnZEMm1JeEQ3OHlqMi1IYlB0Vk1ueGx1clM1b0RoOVpRR1MzdEp4UHhWeFBqTkMtZDVlaGluNnVfTmxDN0R1aFNfQ3dQVkRxR0Vlckd2NENLMjRTb2JWRGpqLU1XUnFKTVRIYV9fbktZci02QTJxQUhSVUxDcnhGQVJpS1JSM1ZHRGROZlB0bEc0VGFzQ3c?oc=5</link>
+      <description>Source: Google News - AI Education — Florida approves new AI policies for K-12 schools, state colleges Spectrum Bay News 9</description>
+      <pubDate>Wed, 16 Sep 2026 21:10:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:fa9fa1aa39b7bb1bbdea9abd5c3d038c7a16536cd2679ac2348fcff592b56dcd</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>East Tennessee State University faculty and students speak on AI used in the classroom - wjhl.com</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVE2SmFEV2R2MnJBQ3IteV9nMmFVaUE5VFdOZS1BZGpnMmxOQUFDNm9BczJuMTVXWEtWUjJvcHAxd3JtNzVBeXVJazhDRHNpLWloNVFoMHRROUtYSTRLQl9hYllSZ3hDVzl0TGE1R0h6ZWU0ZmZqaGQxclFXVVlycWQySEJyVTFuaFVTMkVLVDdzaW9vZm85MlhBN3VMSXBLeFFWRnlhWFE5UXdPNFRKaGlqYU00aWp2cm5N0gHAAUFVX3lxTE5mc2ZGY0lSREdJdGFURmwzUFljdmxFMm9kSy1fZjlsZ1h5WHJ4dzBOYW1qN05uZnlSYUJMc0hObUF5bjFZMVJIWVJjcmdEMWVaRkZna09xYWdRYmUwbThNVjZiTjNxdjd5LWZKWXUtMVRNUXZVLU1zdUk3dE16Vzc0R2g0Q0dTVjBjVWFnQi1Cb1hOYkFnRnVYQkxMQUpHeTR5bHZlbkgzOERNeHZabU1qNjFhazRIY1M1T0tkaDMzSQ?oc=5</link>
+      <description>Source: Google News - AI Education — East Tennessee State University faculty and students speak on AI used in the classroom wjhl.com</description>
+      <pubDate>Wed, 16 Sep 2026 21:08:38 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:174731fa48e1e7af9976a526b2d8d65f7469bf310b8ca88cbdb2bba390062ddc</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Florida Board of Education approves AI guidelines for K-12 schools, colleges - NBC 6 South Florida</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFRKMnpKa08tZFNWTXNEQlhmZS1pdnFja0pXdlVSQ09aTkVVelJoTlVWVDEwTWhnUnE4T1pnVlZXMi1VTERzY3NBOXY4clJFTnk2RDI5eGZHSzNXclhrRmExR2lxajhQYlRJdlpGVzA2RXdoMDJQd3YzUDV0OFEySVg2ZWMxUmF4Y3FPSWM1SEd3LTJUN1lwVGk1NmpZVXZNcTBRWDVzT2haN0ZneGpUaDlobm1vWW9Pdm5netIBxAFBVV95cUxOb0dnUGtTbVVYeEd6RV85eTRxUVpYLUY2SUNlVF9DUWxkYVVqU3VLUjVrakZiWTRka3Z2SGtFTzIwM3Q5bzdMOGJFVTBSWkZTbFlJNkZCOF9zWkNhb01NYUhUSmxKUnB1cTRxV2dNeEhXUFpQN09paTlrTlBMS1pXbUxSSFM5bDdhRkxXMnhuUndvR2lwWXZ2dEhvTXBodTdlaUgxV0ZDc1FReWRaSnlOZ3F0OU9PMG1ubUVlMmVpcUlmNHg5?oc=5</link>
+      <description>Source: Google News - AI Education — Florida Board of Education approves AI guidelines for K-12 schools, colleges NBC 6 South Florida</description>
+      <pubDate>Wed, 16 Sep 2026 20:38:11 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5fcb05f5188e78de5aba35b9fa7a330f5b869f7d4c2b6222a4651cfa5fce5c24</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -30,14 +62,6 @@
       <pubDate>Wed, 16 Sep 2026 19:43:39 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b38ddef16e3ee3f698df05cf9f771606c494631a4763f5b293c98f9c454d1561</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Melania Trump’s unexpected gift to elementary students sparks debate over AI in the classroom - HOLA</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOX0NlUnVKN1NHb3Z0M0tnQ2tndThxZEgteGpvSkp1RUoxN1o4YThPVV95VkhhcjVqc3QteG9xanFYSm1iclZqWXdrNFRGdUt5V0R0RXhoZXhLVmVKZmMzTVpTaUNZOXZsbm5uXzV1WHhVeWg2LS1jMGxQNzZXRkozdXlEZ3BjcEF0NUFZU3FsUWdUTm5VS0RzVzUzNlVtR1BTOE03YkhYbGgtMHFBaVByblpjMlVrZw?oc=5</link>
-      <description>Source: Google News - AI Schools — Melania Trump’s unexpected gift to elementary students sparks debate over AI in the classroom HOLA</description>
-      <pubDate>Wed, 16 Sep 2026 18:54:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:665911428a3dd4531bf1ca44f160bd3b82b2712850569abca91d8bf510eb0459</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>AI-Assisted or Not, School Threat Assessment Starts in Classrooms (Opinion) - Education Week</title>
@@ -80,9 +104,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Kelantan teacher wins school RM50K grant with AI-powered Orang Asli learning - sea.mashable.com</title>
+      <title>Kelantan teacher wins school RM50K grant with AI-powered Orang Asli learning - Mashable SEA</title>
       <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3ZaZHVKajBDQno2Uy1POVh4ZUwyS29NNU5lQUdiRTN2SnBBYll1cEIyeG02V2otUEdCcGNTNk1QUU1SOGlkWm9xcm80RGN4eFE1akhkRm1GWDYweVlnbHd5N0h3SGZVbnNuSkgzaGF3SVQtM00xM2VhOGFUQ0U3VVN6bTlkUDRIcWJkeHFLVGU2SGt0d1BJaWd3VW1FRTFSNm44MVJZN3k2bXg0NjJRTnFR?oc=5</link>
-      <description>Source: Google News - AI Schools — Kelantan teacher wins school RM50K grant with AI-powered Orang Asli learning sea.mashable.com</description>
+      <description>Source: Google News - AI Schools — Kelantan teacher wins school RM50K grant with AI-powered Orang Asli learning Mashable SEA</description>
       <pubDate>Wed, 16 Sep 2026 01:07:57 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ff76a96f5fc0a95071ad31d5a469e9343d65478113ce024a4c34185272207805</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
@@ -136,14 +160,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>AI research to improve K-12 STEM learning gets funding boost - The University of North Carolina at Chapel Hill</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGxzUkR2MkgtMm5HWWozWmZpNXRXZHRQZWtteVZHN29HWWM3TE9wakNkVDFGUFBrYnM1Rzlyc2xtSkoxR1MtUDQ2cDNHWEdBS3BuYm9na1V3U2lxRjZsZnVOVkxUNFBJcXdlenVMTUsxaHBkcXBuY2g0d0d0NzR6aTIwYlI0TFhReW93SE83NlY2bE45YlNKbGpITy11WW8?oc=5</link>
-      <description>Source: Google News - AI Schools — AI research to improve K-12 STEM learning gets funding boost The University of North Carolina at Chapel Hill</description>
-      <pubDate>Mon, 14 Sep 2026 12:52:30 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:2f5c952b61030e8859f336df4a4c102c38f03ec76fa7dc1a53976797ec2bd02e</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
       <title>College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position - Clemson News</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOb01jZ3NuWVJNbVNUbjZnUFBIRFQzQnV5QXd1R005QnpjU1pQT0s3V0FlckVXNG9KakdldWh4Nm5NX3RVTVFVcWg3Wi11RWZuQlR1VkVQX2x0c0xmMndkVU5pcktQWjcyRGN1NkRqcjl3czZRbXVjU2dSSFNDaDNteHR5WlltdE1ublZ6aGMzbFVSYXNobkhRNDE5bFAxb3A2bEgyQmthd0Y0MjBnNFVvWUU1QzBtOUYxOUw5NzRB?oc=5</link>
       <description>Source: Google News - AI Higher Education — College of Education recruits Clemson alumnus to lead new AI, learning sciences faculty position Clemson News</description>
@@ -160,28 +176,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Bulletin: Emirati University Students Win Artificial Intelligence Awards; University of Jordan Holds Seminar on Scientific Research and AI - Al-Fanar Media</title>
-      <link>https://news.google.com/rss/articles/CBMigAJBVV95cUxPcjlJZWgzRWU3eGJNTnNoa1dsYlk0bW5PUUZ2RVE1cHBDLWt3Z0VLOUVmeGQyZ2hqdzMxM2VSZHhPczVmS09LOHRudHlROFVGWk1tMzBnYm0waHZTZTJRQWpQdERieDM5SjRRVlVPdlRrZ0VpdTQ2MHl0WFdWNkxYQjRlVXR3Y0tzUVRuRFBDeTNJLXlmOGJvMi1CZWNpeHlUYzZTX3hZcEswNXRQS0hNZmpEa2FZNHJiY19kY2ZZd1ZzWWJEVFg0VHJRa0Qyc1l3b2RtakN3bUJ6SEdneE5FVkhsNDZEN0VVMFNNX0NGUnJ3bFRfeW93d29LUWozRm1f?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Bulletin: Emirati University Students Win Artificial Intelligence Awards; University of Jordan Holds Seminar on Scientific Research and AI Al-Fanar Media</description>
-      <pubDate>Mon, 14 Sep 2026 05:52:56 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:dce39c125847ff1e2b2d5f711c7283450d24d1aa6257b03f6ed3ec5317cf7dd1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>New York and Los Angeles Ban Student-Facing AI (For Now). Should Other Schools Follow?</title>
       <link>https://edsurge.com/news/new-york-and-los-angeles-ban-student-facing-ai-for-now-should-other-schools-follow</link>
       <description>Source: EdSurge — The bans, coupled with a new APA report, signal a shift from rapid AI adoption toward more deliberate evaluation.</description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4c25e83c5a3e61ab4f288144ddec77147433107083266e59afb58f81581a547d</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>AFT, UFT and Microsoft announce ‘National AI Safety &amp; Privacy Standard’ for schools to protect students, families and educators</title>
-      <link>https://news.microsoft.com/source/2026/09/09/aft-uft-and-microsoft-announce-national-ai-safety-privacy-standard-for-schools-to-protect-students-families-and-educators</link>
-      <description>Source: Microsoft Education Blog — AFT President Randi Weingarten, United Federation of Teachers President Michael Mulgrew, and Microsoft Vice Chair and President Brad Smith today announced a “National AI Safety &amp; Privacy Standard” establishing legally enforceable protections to ensure the safety of students, families and educators. The post AFT, UFT and Microsoft announce ‘National AI Safety &amp; Privacy Standard’ for schools to protect students, families and educators appeared first on Microsoft Education Blog .</description>
-      <pubDate>Fri, 11 Sep 2026 21:21:28 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:9e6892680885d62551ac823ac4cbede107fcc098aafb4ad91e278920d09d91bb</guid>
-      <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
     </item>
     <item>
       <title>Parents Are Bringing AI to the IEP Meeting. How Should Teachers Respond?</title>
