@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 05:55:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:15:44 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Florida school district OKs new AI guidebook for teachers and students - Treasure Coast News</title>
+      <link>https://news.google.com/rss/articles/CBMimAJBVV95cUxORGMzdWpibVNGQzFpdnVMWlZ4LXhEekRmZXFPU2M5Z3dOUlkyaVlVWVhTaVhIWjhjQnRCcTlGNmtRNEVJVnl3UlRqOUs3VFJPSDh5QXBjYlRnS091XzVlMmd1aVZLdkFSS2dnS01la0FZQlRMNXYtVGFQcXdaUUVtdHAxV2VoSi12YWdhcm5SYnRaM2lsdzk2TElObm43SFg2VHU5M0o0TDA1SldZdGhSXzdTUUpaR0RRa2VNZWJVZnpkakZiSmRnUXdFcEUwNjBURmlhbkZGNXJmY3c4dmJEbHBvV2szS3paUjRGc2tDZ0FMQjNDb2Rjb05yX1RzV2FJSVlKZ2REamlPQmVDamd0LUpobks0dlZn?oc=5</link>
+      <description>Source: Google News - AI Education — Florida school district OKs new AI guidebook for teachers and students Treasure Coast News</description>
+      <pubDate>Fri, 18 Sep 2026 09:01:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a84c839ea91303d30db279ae95ebb3e7087be4cf97efe57fd49e173203583c88</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Casper College adopts AI platform for students and faculty - Your Wyoming Link</title>
       <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDZoZEswZWFQTmtIckphRkYtcUhDSEZIVVc2QTRrTlo5eU43NnJsTVkyVUd0cU0yQmY1SFRsdllLSWdycS14NDFHSVZwLWQtWHhXVEF5RlRJeW53VVlLUXdPMDhiMXRYYTByVmYyLUxqU2g1Z3VHVVlQYURYRkgxaFJic2l5Wk5BUzdXYjA1YUJfazNWQk81eE9EaEFLMXdNM3FFSExmLWI1blh3NmNncFc2ajBQQndoc1o2U0NFLXI4bjc4MVBlZi1OMVlFRE5EaERGMEU2d1hDdHh1Nl9zTS1PbkFhV0pCd0pV?oc=5</link>
@@ -34,10 +42,10 @@
     <item>
       <title>State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions - News4JAX</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWVOako2cTNQVTg2TFY0eklocUgzdGZfS2gxSVF6RmJXbjRQZmxmdHdXRlJrT0hXODI5eUljZTVKaXMzOU8xUk8zYm9DbVRueVlVaThkdlFaLWpscks5STZmZXd0VjY4Q0F4SVZqMldtYmI3QnczRzU2azhXa19sU0c0eHhWSjFvRE1sbG4yRFl3VlRGbnRCa1BGREFEUDZoT0xYZFNXOE0wOENY?oc=5</link>
-      <description>Source: Google News - AI Education — State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions News4JAX</description>
+      <description>Source: Google News - AI Schools — State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions News4JAX</description>
       <pubDate>Thu, 17 Sep 2026 14:36:11 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:dcf5b55148d671ce50e66167b9a2c2efe8246277adc89c68dfb3d8ca8b7c10a2</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Florida Board of Education approves new AI rules for schools, colleges - Gulf Coast News and Weather</title>
@@ -50,10 +58,10 @@
     <item>
       <title>Miami University professor alters course after backlash about AI chatbot - The Miami Student</title>
       <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0VBOXFOd0xMUW9OeDBhWnFWckwyTkZEeGRGd3p1N2txVGluUVVIR2tXUzlUOWZyem5yQkxaeF90aHV5RmFhcmhIYVhKdm1RWFJhcnQ1Q1diS0RfZWEyREw2Ynd1Skc1WXIxRkZ1T1puWFZWN2pDR1duMnFtY3pmb0dKenplMU5Fdk1SYnJmUG9Lbzk2d0tmRGJMSi05UWZ6MTR0bzRPaDFUV0dXVjMycTZaNGRCd0diXzRFbjlwU1Y5cHlWT2MzX2dGTlJJdzJPTTQ4UG9YcThKOVhTejhhOUpFTWY?oc=5</link>
-      <description>Source: Google News - AI Education — Miami University professor alters course after backlash about AI chatbot The Miami Student</description>
+      <description>Source: Google News - AI Higher Education — Miami University professor alters course after backlash about AI chatbot The Miami Student</description>
       <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:cf55308fd5449121fa1c06e2b00f34a8b45fbabd63a940aff596c4486edc37f6</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class</title>
@@ -74,10 +82,10 @@
     <item>
       <title>Florida Board of Education approves AI guidelines for K-12 schools, colleges - NBC 6 South Florida</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOb080OExFMTRqR0pDZ3pZbWRXZ1VVS0Frb3NkSG8zN3lwZGlpS3B5TnY3Y3VHX2NHaFVXejB4eTA5cXdVLWs3Vk5DdmlBb3BNMDRIMlA5S1U2ZmZjNTJLajhCdTdyU3dPX1JzQ0p4MmZVN0lFa3R2NWN4a25WbWp1YzhreS0xazc5RkRmeVBUR0FHQjZkcVpEamJ0S28yMU9HdG9TemNhc094dW91b0o3WVU1aDhKSGRJdGxmanZzMNIBxwFBVV95cUxNSEZvVlRkdUN3dHBrV0J5QXdGNTdCbm1rcUpZUjdFYWRYdC1nWTBCM1ZfX2s0Q0JWdXpRNlZKNWRtTUdyTTBhZVkzMFAwUGFucTUtcjVEQUNwQlZWTS1Oam9nSmJBVXFBRmVXMTZWRTJFUEY3dzhFN29kc2w3SEpjNnRGMWZka3U3Ui1DbFYxVlBORU5WeFhlLTJrTXY1eWZZOVpsZXJ1Tk5hNGJWT3ZCZzBJMGc5Ymlmb05qdkRVWlZyZWtRNWtj?oc=5</link>
-      <description>Source: Google News - AI Schools — Florida Board of Education approves AI guidelines for K-12 schools, colleges NBC 6 South Florida</description>
+      <description>Source: Google News - AI Education — Florida Board of Education approves AI guidelines for K-12 schools, colleges NBC 6 South Florida</description>
       <pubDate>Thu, 17 Sep 2026 10:37:09 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3f6fee701bfa2ad9dcc14227a4dd2bd2a5118fecce7e5a4b2cc3cb03d4c902cf</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Florida Board of Education sets AI rules for school districts, public colleges - Tampa Bay Times</title>
@@ -133,14 +141,6 @@
       <description>Source: Google News - AI Education — Microsoft’s commitment for AI in education; protecting students, strengthening learning The Official Microsoft Blog</description>
       <pubDate>Wed, 16 Sep 2026 19:33:23 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:678b99685ac219fab431a1c236179027a013577348d68366a68f220d3614c381</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI-Assisted or Not, School Threat Assessment Starts in Classrooms (Opinion) - Education Week</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzJnRkswRWY3UGIzY0JFU0xFYU90SENnNWFHQlkxY0tvRWRNRHlpWnBVT1libUxXeXZtYmFpVkdURUV5LWJHVnRoaXg0aXZnV2JDWEstZWlacUtBUFlwNkpDZ3pEY29jRGZUTVdYNHVNaFRZaDhnaDVXS3Y0Z01NdURRQVBPV1JZWTVQM2d2T0pHdWhORkw5ZkY2TXRrSnNsdFJUd0pOMHZrSk1RV1V2U1RyT3Y?oc=5</link>
-      <description>Source: Google News - AI Education — AI-Assisted or Not, School Threat Assessment Starts in Classrooms (Opinion) Education Week</description>
-      <pubDate>Wed, 16 Sep 2026 17:31:16 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:6281d6dfd4bd16ee6a471aaeb3da3f79bf358971a4ea1424c20d39ff0fcac8f1</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
