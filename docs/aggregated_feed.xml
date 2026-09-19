@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 21:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:21:45 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Register now for record-breaking AI course for UH Community College faculty - University of Hawaii System</title>
@@ -58,10 +58,10 @@
     <item>
       <title>UNESCO explores scaling AI learning across African higher education - Digital Watch Observatory</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5rWGx3cjJjUTJrQ29PNzYyWlE5aDNTMGlTcVN1U0o2Y3g0UWlxMk0xdVpndk04VzVDZ3dNV0ZDemNGbnF6aVVBejcxU184cFhKa0tibEF2SERSRmdGQ2dOSnBrTVNqMVNQbnRWTFVMYw?oc=5</link>
-      <description>Source: Google News - AI Education — UNESCO explores scaling AI learning across African higher education Digital Watch Observatory</description>
+      <description>Source: Google News - AI Higher Education — UNESCO explores scaling AI learning across African higher education Digital Watch Observatory</description>
       <pubDate>Fri, 18 Sep 2026 07:03:12 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0ed6524db86f72d1e5485fc927740bdb4cc6ddfbe6c05557f3a3a0c69467cf92</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Casper College adopts AI platform for students and faculty - Your Wyoming Link</title>
@@ -69,14 +69,6 @@
       <description>Source: Google News - AI Higher Education — Casper College adopts AI platform for students and faculty Your Wyoming Link</description>
       <pubDate>Thu, 17 Sep 2026 21:44:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3d0dd2977ee541782a8c80720615239d236cdaab57e8d6eb56db8a45325867c7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Miami Dade College Launches AI Elite Talent Hub, Connecting Students with Industry Through a 10-Month Work-Based Learning Experience - MDC News</title>
-      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTWk1SUcyTExkMExwcmQyNENvV29hLXRsaEhHTkxpb0Rob1E1NFBaM3lrdHI0ZUhzTmUzRTAyT20wYWk2WUhDMEMtNGlVR0NiWm42U0tzODdaTjc5SjJ3QS0zcno3R3d3MVhnX1ZyQUNYNzIwbXJkcUtIbm1ZSk9qRTVRakVjMXAxa3N1QXVfSU5fZG45QmxGYTJpM01ZSjFqangtdXhmekNBMnI3TnVPcHNMV0dqU1Z4MVAtOUR2S3hSZW04MUlYaXN5VGFnMjIzeVkxdDZBSDJXcThSUTI3NGdVNzJmMGVz?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Miami Dade College Launches AI Elite Talent Hub, Connecting Students with Industry Through a 10-Month Work-Based Learning Experience MDC News</description>
-      <pubDate>Thu, 17 Sep 2026 15:51:42 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1980d8728d1d403aad5132131be6f0849636271943ad695255ba813689c26620</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -96,6 +88,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Miami University professor alters course after backlash about AI chatbot - The Miami Student</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0VBOXFOd0xMUW9OeDBhWnFWckwyTkZEeGRGd3p1N2txVGluUVVIR2tXUzlUOWZyem5yQkxaeF90aHV5RmFhcmhIYVhKdm1RWFJhcnQ1Q1diS0RfZWEyREw2Ynd1Skc1WXIxRkZ1T1puWFZWN2pDR1duMnFtY3pmb0dKenplMU5Fdk1SYnJmUG9Lbzk2d0tmRGJMSi05UWZ6MTR0bzRPaDFUV0dXVjMycTZaNGRCd0diXzRFbjlwU1Y5cHlWT2MzX2dGTlJJdzJPTTQ4UG9YcThKOVhTejhhOUpFTWY?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Miami University professor alters course after backlash about AI chatbot The Miami Student</description>
+      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:cf55308fd5449121fa1c06e2b00f34a8b45fbabd63a940aff596c4486edc37f6</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class</title>
       <link>https://www.the74million.org/article/to-get-past-ai-hype-researchers-watch-students-use-actual-tools-in-class</link>
       <description>Source: The 74 — Like most of us, Emily Freitag hears a lot about generative artificial intelligence in the classroom. Much of it seems like the typical ed-tech hype. Co-founder and CEO of Instruction Partners, a Nashville-based nonprofit that works with teachers to provide high-quality resources and instructional support, she got curious about AI after seeing the tool Coursemojo […]</description>
@@ -106,10 +106,10 @@
     <item>
       <title>Kean University lands $50k grant to advance AI financial literacy for high school students - ROI-NJ</title>
       <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGpkY21RMGl2MWE4VEJfSkRuNjJHc1h3TjQ5TjliaDFsaHV2T1FETU43YTlyU0cyZE9VZ1EzOUthSjF4czFjdUEtMVNJcXlLbmN5OWN6dHR6dmYxclJwUGVQX2x3QUloUFcxdVJ6NkZrbVdqQ1lGcnlMazFmUDdRRDc1REh5OGdyYXFOdVhoT3NrQk1aMXRuNi1Hc2VzSzJ3dG9NVTlHMzExY2loblVyZ3hBNmRYNTlmbWE0VG1OMURuOHJZaXhwbmJBanZVUGM?oc=5</link>
-      <description>Source: Google News - AI Education — Kean University lands $50k grant to advance AI financial literacy for high school students ROI-NJ</description>
+      <description>Source: Google News - AI Higher Education — Kean University lands $50k grant to advance AI financial literacy for high school students ROI-NJ</description>
       <pubDate>Thu, 17 Sep 2026 10:44:31 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:6109cb3dbb8d88482c3488d22d598c2d0032b933ed6860f2bf8170e938a67818</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Florida Board of Education approves AI guidelines for K-12 schools, colleges - NBC 6 South Florida</title>
@@ -146,10 +146,10 @@
     <item>
       <title>Florida approves new AI policies for K-12 schools, state colleges - Bay News 9</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnhqREdWUXNvS0tERmFYUDUxc0s4SGs4ZnZEMm1JeEQ3OHlqMi1IYlB0Vk1ueGx1clM1b0RoOVpRR1MzdEp4UHhWeFBqTkMtZDVlaGluNnVfTmxDN0R1aFNfQ3dQVkRxR0Vlckd2NENLMjRTb2JWRGpqLU1XUnFKTVRIYV9fbktZci02QTJxQUhSVUxDcnhGQVJpS1JSM1ZHRGROZlB0bEc0VGFzQ3c?oc=5</link>
-      <description>Source: Google News - AI Education — Florida approves new AI policies for K-12 schools, state colleges Bay News 9</description>
+      <description>Source: Google News - AI Schools — Florida approves new AI policies for K-12 schools, state colleges Bay News 9</description>
       <pubDate>Wed, 16 Sep 2026 21:10:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:fa9fa1aa39b7bb1bbdea9abd5c3d038c7a16536cd2679ac2348fcff592b56dcd</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Opinion: Lasting Human Connections Across the Globe Beat AI Every Time</title>
@@ -158,14 +158,6 @@
       <pubDate>Wed, 16 Sep 2026 16:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3b6639dcdcb25fbc47ebbb46f095d2a32fad72e9a49b07ae9babe7182bacf3a9</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
-      <title>What Yellowstone, Rwanda and AI Taught Me About Change</title>
-      <link>https://edsurge.com/news/what-yellowstone-rwanda-and-ai-taught-me-about-change</link>
-      <description>Source: EdSurge — By viewing our classrooms as interconnected ecosystems, we can move beyond the surface-level debate over technology to focus on cultivating judgment, ...</description>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a142e6ce1018f9751e15203a0f683a7be22e1ddf8ec6cefec411a7c26dcfc9a8</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
       <title>Building AI to accelerate science and improve lives</title>
@@ -230,6 +222,14 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:44b8062d4582d07f2e2766320729154b00f41d44c0f2cd177c22eb5ffd94182a</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
+    </item>
+    <item>
+      <title>Missouri and Google partner on AI and career training</title>
+      <link>https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership</link>
+      <description>Source: Google for Education — A woman teaching a group of students in front of a set of computers</description>
+      <pubDate>Tue, 08 Sep 2026 15:05:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:20a6a3ca3c87af05309260e7f50a8dea1b11e28d74df6511944c8f5e1fdcafed</guid>
+      <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
       <title>AI Videos Are Warping Early Learning, Teachers Say</title>
