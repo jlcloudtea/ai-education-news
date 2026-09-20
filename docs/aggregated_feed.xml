@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:17:49 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Southeastern student journalists, faculty members lead hands-on AI session at AEJMC - an17.com</title>
@@ -40,12 +40,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>NITK, AIU hold South Zone conference on AI in higher education - The Times of India</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzFkM0lKYlV4UGZNQ0s3NTFJUUROcGVDYVN0Nkh1aXkwd3ZRd0tzbjR5dGJXMTFZZTE1Z2J0VkZ3OWwwWlUxdTZDdW00MGVNdVFOcmVFemt3NWFvX2dPNEM5NDVNQzhxeDk4dHVkQmY0NXFjVkc1elFEVmJ1RDZHa1hlX3plRkd0T0Z0LWpic29sd2JWM01zV28wdVRGV1hqWTdmYXRqZmR5aGN6OW5Tc2thc1BubHVwLUUzX2RTTnRMOTVZb19RTnRjS2hYbE50eGVDVtIB2gFBVV95cUxOOFJDRDJoX1VVVU9XWUNPcFd4YlBrcm5UUUVYeDdjS2RFZ2RKQU9BMDZ4M1UxejRBelBqMzkwZHFCWHVqeFRnZmVRRUNJamZqd0xXbGtZRFlUcURJa1dEc01TZWhDZG4xemJhdk9WNE1uU0RyYTZPa0RZd1dfSWF0RXc3NHIwLVFsclZLejROT2JjQ1huMnlKOGY3MmlFUFNvaVBfTnFiYzREVVB1SHRqcU9UUEg2Z1JzeHJNSGlsU2pjbW9BR0diMU9OODd4MDd6NDBqNkxGcTU0UQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — NITK, AIU hold South Zone conference on AI in higher education The Times of India</description>
-      <pubDate>Sat, 19 Sep 2026 13:26:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d0ea1449bd53ceb925d48fd8b506b23bb2b8139cbe17dba40ab6022878aeced8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>AI won’t fix education on its own. Chaula Gupta explains what schools need - The American Bazaar</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalJ6dGdCNlB2a05YNkFpZDhtai1pZV84MG9qa0g3bndKeVpYbjB6UmxiWHUwbnR6R291dnRvZUlLbFh3ZEdNV0ZzeWJlZWt1SkRaTHJfS091WHJpTzNRSE81aW9Gdm1ZdmtGek9xci1HTGpxY3hoN2ZMbE9adjVsdGRMUGVJVUpiNF9tTGIyNXgxNzBUWmVCVUhPUnNuMXdUUE5TMW5sYzVXU0RXaDNwbFdDRWJUWnZZbjMxb0pPa0IxUQ?oc=5</link>
+      <description>Source: Google News - AI Education — AI won’t fix education on its own. Chaula Gupta explains what schools need The American Bazaar</description>
+      <pubDate>Sat, 19 Sep 2026 12:03:48 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c6cbe344e9b3d77185ea617f610352a35bad1d4d8c90d1f07e6e3bbc77d5fd63</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Former Elementary School Teacher Applies Teaching Principles to Practical AI Use - Carroll County Mirror-Democrat</title>
@@ -56,20 +56,36 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Casper College adopts AI platform for students and faculty - Your Wyoming Link</title>
-      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDZoZEswZWFQTmtIckphRkYtcUhDSEZIVVc2QTRrTlo5eU43NnJsTVkyVUd0cU0yQmY1SFRsdllLSWdycS14NDFHSVZwLWQtWHhXVEF5RlRJeW53VVlLUXdPMDhiMXRYYTByVmYyLUxqU2g1Z3VHVVlQYURYRkgxaFJic2l5Wk5BUzdXYjA1YUJfazNWQk81eE9EaEFLMXdNM3FFSExmLWI1blh3NmNncFc2ajBQQndoc1o2U0NFLXI4bjc4MVBlZi1OMVlFRE5EaERGMEU2d1hDdHh1Nl9zTS1PbkFhV0pCd0pV?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Casper College adopts AI platform for students and faculty Your Wyoming Link</description>
-      <pubDate>Fri, 18 Sep 2026 20:48:48 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3d0dd2977ee541782a8c80720615239d236cdaab57e8d6eb56db8a45325867c7</guid>
+      <title>Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps - businessinsider.com</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQRUZ3dE9BQVZBNUQwQXhUT0ZsXzlFLWNybjc0ZTM0N1EyQzN5Y094WGVFSERKZmgyYm5TMmhiLWhOb3ZrWjZRMDd0NG9QMzczMjJJQlFxdDRVNDRGa0JOSE12dGZsQk5USXJLc0tUZ1F2SHIyX2xvek83X1pXYWJsZTV0M0p5N29FRnZSOVBQN0dXendPRHlHV3BGVzJ2Zw?oc=5</link>
+      <description>Source: Google News - AI Schools — Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps businessinsider.com</description>
+      <pubDate>Sat, 19 Sep 2026 09:22:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7196a961bcd6659638bfd4f7f38c0d30058e73c699f67dc0898af7a11bafc6ee</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>The Gates Foundation is spending $400 million on AI in schools. Teachers have a warning - Fortune</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkt5czRKUVZOQ1lieGxaTkwxOGY3c3dMRm5pRUFVR2ZkMkl5bE1ON0NpUW94bVZlUFlnZ3hDN2g5aUo0TUNSWGlKd0wtWjZYeDJsT3RlOUdGU0F4X2RJOTQ5Y2lZU1Z3M1ZDMTBhY0ZBaHV6cElJR2NFS1BDNWxwbEFWSE9nNmNLOHdEWnlPT0ZuaDN0dHlPSGJn?oc=5</link>
+      <description>Source: Google News - AI Education — The Gates Foundation is spending $400 million on AI in schools. Teachers have a warning Fortune</description>
+      <pubDate>Sat, 19 Sep 2026 08:01:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:dcc2aeea059e369e45dfacbe67673b5e837aedcbdf61cda83af18c920b011fe8</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>AI agents used University of Toronto tool to communicate with each other - CBC</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tQW9US0l4V1Y0Y05vWXVxd19JYlU2d01EaXN2LW1yMUhqOV9qVUp0eG1nc0dOdEVzdXNIWW5QTnBSVEg2MGR0czQwdS1UVllpbXpGT19GcExhdw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AI agents used University of Toronto tool to communicate with each other CBC</description>
+      <pubDate>Sat, 19 Sep 2026 01:39:54 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:86b834bbe1b482c6c1250035c3b033fb9c4da4694aa92f062adeda02784fa61e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Register now for record-breaking AI course for UH Community College faculty - University of Hawaii System</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPeWUxLWNyLXV2SjdSd1o3UmhNRGRDdnZDRlk1b0hoa2dXSEZRWTV5bzBtX2RRTmVTczJBbDlBRnNsYTlHRFJXWFIwUHZUUHRtWnpQVXIyRl81cUh0aTZCbHNNd1FpaDgwT1Y4S1ZobFBtTmxGLVl1VU5BUF8zeFVqM2N2S3Y?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Register now for record-breaking AI course for UH Community College faculty University of Hawaii System</description>
+      <description>Source: Google News - AI Education — Register now for record-breaking AI course for UH Community College faculty University of Hawaii System</description>
       <pubDate>Fri, 18 Sep 2026 19:58:11 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:fb0ca03633a5d906c5d7854d07000d097a5c35a69da900cc5e476a4880e57921</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>State Colleges, PreK-12 Schools Must Implement AI Guardrails Before July</title>
@@ -78,14 +94,6 @@
       <pubDate>Fri, 18 Sep 2026 18:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2bff38748c6ff92438b224d422034acaba450ad26c2f5673a862fee2a600f373</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
-      <title>Morgan State University Partners With Google to Enhance AI Infrastructure on Campus - The Journal of Blacks in Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPb09sNFJHWFBiR1BvVFRNSFpSMmVlWkZXMFNCbDVaZmlyemRZaGVuTEV4TENjNnZOTV8wNEttU3lUV0UwZU11cmFjWnRlZ3ZkSnRWdzhUVl83U1ppd3F5Z05IQXdZelJsVkVTZzRZUnhPNzF2d3VZX2duZGpOTFRhYVVwUWl6S2k4MWxYdEpuUHI5WDRnc1RMUGlRTzlyV2N6UF9FcWZzY3ZBZnl2RVE?oc=5</link>
-      <description>Source: Google News - AI Education — Morgan State University Partners With Google to Enhance AI Infrastructure on Campus The Journal of Blacks in Higher Education</description>
-      <pubDate>Fri, 18 Sep 2026 17:53:49 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:71ae9235f5bffb16a2bb276fb051c4eb580a9ed9c50cbaa5b7e3ee60227ad4ae</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Earn continuing education and college credits for AI educator training.</title>
@@ -104,28 +112,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Parents share mixed reactions to Florida's new AI Guidelines for K-12 schools, colleges - News4JAX</title>
+      <title>Parents share mixed reactions to Florida's new AI Guidelines for K-12 schools, colleges - news4jax.com</title>
       <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVE5aFlCN242NU5IWWZ4blR0YnZvZEdzTzhjMGlJMXdXWUkwcWxndGdoMHRxZEhqYkhGMXJQUjdrTjVTc1hGbXlucFFoMlJRc0prYWdNSHdUbVFTY1RJN0tFXzlrdVRrajZzSGw5anBfWlhKOUFTdzF1MVNmWEZHUEUzcllXN04xLUVzVHlJN1hsTXltYmctQUM3SXZmTUpqMzI4Z1dQZzJ6Z3J4VjFMVVpTSVg2LXFGVTRNeEw1T3k5NVRHUDhxLWI2dTNHbU0?oc=5</link>
-      <description>Source: Google News - AI Schools — Parents share mixed reactions to Florida's new AI Guidelines for K-12 schools, colleges News4JAX</description>
+      <description>Source: Google News - AI Schools — Parents share mixed reactions to Florida's new AI Guidelines for K-12 schools, colleges news4jax.com</description>
       <pubDate>Fri, 18 Sep 2026 11:46:42 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1e03dc3965142d90822c91ab6af8e12f8f7c8a88452564dc354a62dc01d49b75</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions - News4JAX</title>
+      <title>State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions - news4jax.com</title>
       <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTdnN1Z1WXBaTUYzd1pDcWcwVkJ4d0dHRW4yekZaOU9LVzNPVFNhZ1I4V1RGQ1dtaFpkdno2eGpCZnl0T252aEJkVVVlTm5JNW1XU2Y5RzlYMzR6cnl5eE05QktmazRRVG9CcVBpUWVtMC1icmMwZlB1VHluaVd5LWZwMWpHdVM2cFM5RTI1elhzWnktOERDOGJYSnJSQWd4ZGFXYU0weWZLSmw4VzNFTGdIYnUyeGVRNEVJLUlieE9lTVNwc1YyY1hhQll0Y2pfdGNr?oc=5</link>
-      <description>Source: Google News - AI Schools — State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions News4JAX</description>
+      <description>Source: Google News - AI Schools — State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions news4jax.com</description>
       <pubDate>Thu, 17 Sep 2026 22:05:01 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ef763d4ba3ec80b06747fd5b505c30f0478cd25d115498f4514a4fef11c2d210</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>Florida Board of Education approves new AI rules for schools, colleges - Gulf Coast News and Weather</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFFzRjE0aWVMcjVWb2FsWElkN2R0UnNXYmVHNVdpNE83bjNYalMwLTZlNXVZOVpuZW43RDlrZWo5NGwzTmtEZ1E3bG1tRGtrRVVmMjEzd3gtdWFHeDF5YkFrVDFVdjNFaklQMzNrSFhMQkdLM1FRMWpvMUJMeXV3VGRYWm51RVBYRk5nT0VkcFFoTXhmV2VpemVxU2tvYk54?oc=5</link>
-      <description>Source: Google News - AI Education — Florida Board of Education approves new AI rules for schools, colleges Gulf Coast News and Weather</description>
-      <pubDate>Thu, 17 Sep 2026 13:09:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b88a989f4fb5d6f1e3d1a0dac9eea1d9446fc152c0289b74fe659f1e2c56b26d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class</title>
