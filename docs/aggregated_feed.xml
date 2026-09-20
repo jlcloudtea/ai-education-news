@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2026 19:27:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:26:47 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Florida’s 30th Commissioner of Education Henry Mack joins TWISF to discuss AI in schools - WPLG Local 10</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXNLOTV6cWFKX251SkdnR3lweG0zMDI4Q0xWcWZ4Qm9GZ1IzNS1kNUgwdzVkRUx1TDU2bFBTMUhaazQ1dDhPZldNTFRwQ3FpbTd5OXhRdE9HeFNxa1ZUbHg4dXRuQ1Q3RUd5MGc4b1pFQjc2OUdBME50MW5yOEx1WTUxNTBiMHFxekdLZ1JWamtpRkJ6RS1WRU81cVl5WXhBN1IyLWw4bVA3YVE0eVVlSEdDUm5HeTZ6VXJMejNkcHFiRU1PWFM3SVUtUnoyeTA?oc=5</link>
+      <description>Source: Google News - AI Education — Florida’s 30th Commissioner of Education Henry Mack joins TWISF to discuss AI in schools WPLG Local 10</description>
+      <pubDate>Sun, 20 Sep 2026 15:53:06 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:79214877f41be7cd5eeb4aee7a9168c1c02c8266083c93a9e1c5794e68a12a5f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Can AI help college students become better writers? A first-of-its-kind research center at UC Irvine is set to find out - Orange County Register</title>
       <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSFFFRHNXZlp0d1NZcUdyX0JXWTlCSHlWQzZqZTNwYy1yYlZTT2kzRkRKaFllSF82TWVNQTBiNERyRl81LXM1eHZIZklxbmpsaWtKdXBHaGgtSmwtOThKNzVjUEprT0xtYkR3WFNrc2xnSVFHTnJFY0xRblU0VlNhdGJaMWxtQ3ltdWJ3c2ZYd2huYXdWUm1GZkViSy1WV2ZlelgxTzNxZGRZekpwZEhYYkRkWjlkVnVfdWVYaVZJeXhZN2JIbV91eUFUa3k2OERUWk0zcEF3b0RqMXc5ejRUb1dtNURianJ4MkZlT2J3?oc=5</link>
@@ -48,17 +56,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>AI won’t fix education on its own. Chaula Gupta explains what schools need - The American Bazaar</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQalJ6dGdCNlB2a05YNkFpZDhtai1pZV84MG9qa0g3bndKeVpYbjB6UmxiWHUwbnR6R291dnRvZUlLbFh3ZEdNV0ZzeWJlZWt1SkRaTHJfS091WHJpTzNRSE81aW9Gdm1ZdmtGek9xci1HTGpxY3hoN2ZMbE9adjVsdGRMUGVJVUpiNF9tTGIyNXgxNzBUWmVCVUhPUnNuMXdUUE5TMW5sYzVXU0RXaDNwbFdDRWJUWnZZbjMxb0pPa0IxUQ?oc=5</link>
-      <description>Source: Google News - AI Education — AI won’t fix education on its own. Chaula Gupta explains what schools need The American Bazaar</description>
-      <pubDate>Sat, 19 Sep 2026 12:03:48 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:c6cbe344e9b3d77185ea617f610352a35bad1d4d8c90d1f07e6e3bbc77d5fd63</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps - Business Insider</title>
+      <title>Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps - businessinsider.com</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQRUZ3dE9BQVZBNUQwQXhUT0ZsXzlFLWNybjc0ZTM0N1EyQzN5Y094WGVFSERKZmgyYm5TMmhiLWhOb3ZrWjZRMDd0NG9QMzczMjJJQlFxdDRVNDRGa0JOSE12dGZsQk5USXJLc0tUZ1F2SHIyX2xvek83X1pXYWJsZTV0M0p5N29FRnZSOVBQN0dXendPRHlHV3BGVzJ2Zw?oc=5</link>
-      <description>Source: Google News - AI Schools — Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps Business Insider</description>
+      <description>Source: Google News - AI Schools — Meta's Muse AI agent is very powerful — but not enough to overcome my kids' annoying school apps businessinsider.com</description>
       <pubDate>Sat, 19 Sep 2026 09:22:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7196a961bcd6659638bfd4f7f38c0d30058e73c699f67dc0898af7a11bafc6ee</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
@@ -86,6 +86,14 @@
       <pubDate>Fri, 18 Sep 2026 22:40:51 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1109850585d7e0ebe2a66e8a6efa771171fd5cbf49ef1a1412e592240a9cbde7</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Casper College adopts AI platform for students and faculty - Your Wyoming Link</title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDZoZEswZWFQTmtIckphRkYtcUhDSEZIVVc2QTRrTlo5eU43NnJsTVkyVUd0cU0yQmY1SFRsdllLSWdycS14NDFHSVZwLWQtWHhXVEF5RlRJeW53VVlLUXdPMDhiMXRYYTByVmYyLUxqU2g1Z3VHVVlQYURYRkgxaFJic2l5Wk5BUzdXYjA1YUJfazNWQk81eE9EaEFLMXdNM3FFSExmLWI1blh3NmNncFc2ajBQQndoc1o2U0NFLXI4bjc4MVBlZi1OMVlFRE5EaERGMEU2d1hDdHh1Nl9zTS1PbkFhV0pCd0pV?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Casper College adopts AI platform for students and faculty Your Wyoming Link</description>
+      <pubDate>Fri, 18 Sep 2026 20:48:48 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3d0dd2977ee541782a8c80720615239d236cdaab57e8d6eb56db8a45325867c7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Register now for record-breaking AI course for UH Community College faculty - University of Hawaii System</title>
@@ -134,14 +142,6 @@
       <pubDate>Fri, 18 Sep 2026 05:51:58 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ab5bfd1e3199d1e435075ebb997de5b9d37b2983895e2f361fb729316e99df19</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions - News4JAX</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTdnN1Z1WXBaTUYzd1pDcWcwVkJ4d0dHRW4yekZaOU9LVzNPVFNhZ1I4V1RGQ1dtaFpkdno2eGpCZnl0T252aEJkVVVlTm5JNW1XU2Y5RzlYMzR6cnl5eE05QktmazRRVG9CcVBpUWVtMC1icmMwZlB1VHluaVd5LWZwMWpHdVM2cFM5RTI1elhzWnktOERDOGJYSnJSQWd4ZGFXYU0weWZLSmw4VzNFTGdIYnUyeGVRNEVJLUlieE9lTVNwc1YyY1hhQll0Y2pfdGNr?oc=5</link>
-      <description>Source: Google News - AI Schools — State board approves AI Guidelines for K-12 schools, colleges; parents give mixed reactions News4JAX</description>
-      <pubDate>Thu, 17 Sep 2026 22:05:01 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ef763d4ba3ec80b06747fd5b505c30f0478cd25d115498f4514a4fef11c2d210</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class</title>
