@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 23:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:10:28 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Southeastern student journalists, faculty members lead hands-on AI session at AEJMC - an17.com</title>
@@ -16,9 +16,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Kish College offering free AI credentials for students, staff - shawlocal.com</title>
+      <title>Kish College offering free AI credentials for students, staff - Shaw Local</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzZnQ0lRckxYN0xSNHF2U0pGdUc2REZNcjVWTUdOUWFxaDN4UEhhYXJMMGUzZFZpMTIydFBGWTF3c1RVYTFDdkVTM0FoNjNVb2d4SUxTYnlTNndZd1FHOGdfcjJCTUhRVnJoUTlGSWozY0I5dXNUdWJ3T1pSbDY5SkVCeUVORlZTd0hZZ1laTC03Nl9kODBuSHBNQVkxenJFb0xoMXJVOU5vLXJaaEg1LVNHbmtOdw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Kish College offering free AI credentials for students, staff shawlocal.com</description>
+      <description>Source: Google News - AI Higher Education — Kish College offering free AI credentials for students, staff Shaw Local</description>
       <pubDate>Sat, 19 Sep 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2da81ec4820380db26c3588479b447fc7524a37a16c3429a812a0fee7124495d</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
@@ -37,6 +37,14 @@
       <description>Source: Google News - AI Higher Education — Conference on integration of AI in higher education held at NIT-K The Hindu</description>
       <pubDate>Sat, 19 Sep 2026 14:14:08 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e8656612b753c609bcc2641486a1bce9c85e56634c25746e0e1e75471ebb345c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>NITK, AIU hold South Zone conference on AI in higher education - The Times of India</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzFkM0lKYlV4UGZNQ0s3NTFJUUROcGVDYVN0Nkh1aXkwd3ZRd0tzbjR5dGJXMTFZZTE1Z2J0VkZ3OWwwWlUxdTZDdW00MGVNdVFOcmVFemt3NWFvX2dPNEM5NDVNQzhxeDk4dHVkQmY0NXFjVkc1elFEVmJ1RDZHa1hlX3plRkd0T0Z0LWpic29sd2JWM01zV28wdVRGV1hqWTdmYXRqZmR5aGN6OW5Tc2thc1BubHVwLUUzX2RTTnRMOTVZb19RTnRjS2hYbE50eGVDVtIB2gFBVV95cUxOOFJDRDJoX1VVVU9XWUNPcFd4YlBrcm5UUUVYeDdjS2RFZ2RKQU9BMDZ4M1UxejRBelBqMzkwZHFCWHVqeFRnZmVRRUNJamZqd0xXbGtZRFlUcURJa1dEc01TZWhDZG4xemJhdk9WNE1uU0RyYTZPa0RZd1dfSWF0RXc3NHIwLVFsclZLejROT2JjQ1huMnlKOGY3MmlFUFNvaVBfTnFiYzREVVB1SHRqcU9UUEg2Z1JzeHJNSGlsU2pjbW9BR0diMU9OODd4MDd6NDBqNkxGcTU0UQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — NITK, AIU hold South Zone conference on AI in higher education The Times of India</description>
+      <pubDate>Sat, 19 Sep 2026 13:26:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d0ea1449bd53ceb925d48fd8b506b23bb2b8139cbe17dba40ab6022878aeced8</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -138,18 +146,10 @@
     <item>
       <title>Florida Board of Education sets AI rules for school districts, public colleges - Tampa Bay Times</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFFUQm5fX0FZNDA0YzFUTm9ReHFjTU1CM1ZIVUd6OTE4NDQwWlFtSnpvNkhZS2RVY0ZwdFNEaVJfeTNWVHlkTVRjRXpfN2J6VFlCUlFjbHFPOVpwckpEZUFmeVN4cllqX0ZHQmxyeW9Ib2N2VzQxUFdocmJ6MmF3VDBqelluak9XZldIUTc2V1ZMVDlVSWE4RVRoaFlVa2N5cHZwSXlFcmFPX2xCTGJzdjRvWS11X3NsWEpxcXgxSQ?oc=5</link>
-      <description>Source: Google News - AI Schools — Florida Board of Education sets AI rules for school districts, public colleges Tampa Bay Times</description>
+      <description>Source: Google News - AI Education — Florida Board of Education sets AI rules for school districts, public colleges Tampa Bay Times</description>
       <pubDate>Thu, 17 Sep 2026 06:23:26 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1bf7f33b17ab43c858404d1532ebbfbc6faf43644e8f1548f155c708e8f2a3db</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>Florida sets new rules for AI use in K-12 and college classrooms - Tallahassee Democrat</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTlM5aG1CLWZYUngzNnZsaWhDRWp3NzBDcXJNNWNuSTAxVE5LLTJ4ZG9qRUFwcmNfOGxaclhoaURyZGliek9QOFBDblpBcTFZVVEzNzNZeG5WVU85eEpqS2FqN2ZvOFZTbllDVHAxaTBUSk45UF80TE1mQWhKd0JKSFhLTDlRTk9BZmh3OGswMDFXOFVwejdveDhNT1RiYkpXaE1SanBOTTRSb3RsSUJiZGs5eTdmWElFT1VrbHB4MTRCZHlsXzk4Wi1xVFUzeENzajZj?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Florida sets new rules for AI use in K-12 and college classrooms Tallahassee Democrat</description>
-      <pubDate>Wed, 16 Sep 2026 23:11:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:0d71714a7738e9dca9a1a9a8fa8ee0ab4c517901ac03f82886fddc7190db5d88</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Opinion: Lasting Human Connections Across the Globe Beat AI Every Time</title>
