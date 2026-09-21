@@ -5,15 +5,39 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 01:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:22:09 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>"99% of University Students Use AI"... Warnings Issued by Top Chinese Universities - 아시아경제</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pWFc1bkdiaHFQUXRxMzJCU3hQbkNlOG51dm42U1J0YmgxOXZ3NHhGQU9yT1ZBaGt3MTF1eWgyUlVzUzloSkJpVEhxSGM3Y1pMdFlzX2s1bEdDQWdMSDdlNDNYcGo?oc=5</link>
+      <description>Source: Google News - AI Higher Education — "99% of University Students Use AI"... Warnings Issued by Top Chinese Universities 아시아경제</description>
+      <pubDate>Mon, 21 Sep 2026 01:51:07 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0c0ef0edf52754eb9d2cc1a471b70fcb2f7fbe478f43096e7cc9f9c1527e571e</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
     <item>
       <title>Vanderbilt Law School announces partnership with AltaClaro, introduces AI depositions into curriculum - The Vanderbilt Hustler</title>
       <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU1JCMllMNW1ERE81TktCMlp2amc5ck1oS2xaWEJoOEN0T3EwM3N3OHJMZU50UlJ4VFRlZU1RaE5TY1hBdnhuSEtoekZrMnpCcHBwakFjMVpqLTVmb1Bqc1hlc3pwYlNENnhoR0oyLVVCS1R5UDlRajBYdWFxa2RLR1RIWjl6d1pzakh1c0IyOEtxclBic3BrMlJ1dy1LcEZkR1kxRjJmTUZkamRFUUllQnBRYURlZ3R2Zm1UOUdoV2tZZHU0VW5CYkxaNUhrQXZyQmM2YUJFVF9tZw?oc=5</link>
       <description>Source: Google News - AI Education — Vanderbilt Law School announces partnership with AltaClaro, introduces AI depositions into curriculum The Vanderbilt Hustler</description>
-      <pubDate>Sun, 20 Sep 2026 23:39:30 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2026 23:40:30 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2a386f6e46f9aa2a163f26c7e21e5811855e3d3c09288c3caf49ee9769e6c155</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Chancellor says state’s community colleges must rethink teaching, assessment in AI age - Local News Matters</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOallZb2RGdHhTbDM0eU8yOHFUOC0yVXhrMkVmT1FNcFBsYWkwQnFSQjZjQW83OGZ2SHJJd1JwRDFKM0FIQVVXT3BJQmlLZnlYeVJENlI5Z3ZyMVVnZm40eEFNV1NPWW9IdlM1TDFJbWUzdU5JZHlhTEdDWmIwZkNVdHBqRl9hNXN1dHB3ZFREbTdMQ2ZLSVlXMEQzSHhQRjlsNGJYcEZ5SlBfclBqRFlJaEZEVXJKY1l3dk1jaE9rQlRYMTQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Chancellor says state’s community colleges must rethink teaching, assessment in AI age Local News Matters</description>
+      <pubDate>Sun, 20 Sep 2026 23:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3e8c124b65ce5f3cc217a2e4e23c9f84b5f545baac0266406623cd224eb7cc72</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>McU Registrar takes global stage on AI, future of higher education - Vanguard News</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFFqX3A0bUV3NE1QbW03VHdIQ0VvTUtTYnN1SzIzVHNWRlNadFZvQi01MHNIWkNNSnN0aGw0TkJTSWI0M3REUzE0d0I0eVRlTGpCcW1rMEJkeEtOLUVnSUpyeGlkZGc5VXRtX1NvWC1XbkVYWVdhN2xPS1pZZHl2M3oyNDRZVkZoRG14bEo2NTBGNnd1anNzaVZhZ2l0V3VLT0JMUNIBqgFBVV95cUxQWHRMbUpBRVY2UFIxdC1iVUhPLUloMlhheldfcXkwMGx4LTNVMHVmbFR1b29yYnRkVXFwQjQtTmN2UWhOUUZQMC1MN3c0SDhMeFdGWGctaTdpbjMwUUtyUFdqcXpyWGlDeHo0V1RvUHZ4NExvN0FoNGhHRDIxM3BneHZvT3BleGJiOW80VTI5Z29DT1RKWGRsYjBTczdTR1BTV2ZTUklaOXVvdw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — McU Registrar takes global stage on AI, future of higher education Vanguard News</description>
+      <pubDate>Sun, 20 Sep 2026 19:12:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a1f65b55ced72c53c2c6b957453ff716009ec223d37450a90910b978182c1105</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Florida’s 30th Commissioner of Education Henry Mack joins TWISF to discuss AI in schools - WPLG Local 10</title>
@@ -24,9 +48,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Can AI help college students become better writers? A first-of-its-kind research center at UC Irvine is set to find out - Orange County Register</title>
+      <title>Can AI help college students become better writers? A first-of-its-kind research center at UC Irvine is set to find out - ocregister.com</title>
       <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSFFFRHNXZlp0d1NZcUdyX0JXWTlCSHlWQzZqZTNwYy1yYlZTT2kzRkRKaFllSF82TWVNQTBiNERyRl81LXM1eHZIZklxbmpsaWtKdXBHaGgtSmwtOThKNzVjUEprT0xtYkR3WFNrc2xnSVFHTnJFY0xRblU0VlNhdGJaMWxtQ3ltdWJ3c2ZYd2huYXdWUm1GZkViSy1WV2ZlelgxTzNxZGRZekpwZEhYYkRkWjlkVnVfdWVYaVZJeXhZN2JIbV91eUFUa3k2OERUWk0zcEF3b0RqMXc5ejRUb1dtNURianJ4MkZlT2J3?oc=5</link>
-      <description>Source: Google News - AI Education — Can AI help college students become better writers? A first-of-its-kind research center at UC Irvine is set to find out Orange County Register</description>
+      <description>Source: Google News - AI Education — Can AI help college students become better writers? A first-of-its-kind research center at UC Irvine is set to find out ocregister.com</description>
       <pubDate>Sun, 20 Sep 2026 13:14:45 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e96e1b2d91c543c869d6b599386c4a24c9f49cd12bd60ef4a2300aeb4fa554de</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -38,22 +62,6 @@
       <pubDate>Sun, 20 Sep 2026 08:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d13001fcf42e4be90418378d2e4df6d83d23d6a9c4c702a0466f857ad44ea90a</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Cyravix Investment Education Academy Accelerates Global Financial Education Expansion Through AI and Practice-Based Learning - financialcontent.com</title>
-      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxQdVhMNkFaVzZhSllSUnBCSUJUTS01VmlLSEFrWTZ6czNDNjk2LUJDMmpvQWg5Y1I4OWRDZ1hEYWlidExvM2d4d1pEOXNETTBUYnBFYnZUZ1F1djU0bjZwWjhnZkNTWE5DWVhTQmcxS1Q4M3NKR2VwV3kwMFgtNk95bmVaYlVXb3dtQW5Oei1EaXRtVTNzYUN6WVc2Y04tVG45dFpVV21BeDV0R3Vhc0N0aDRMT0hfOVVydm9JZmh5ODFaV3VGNWtsTE52ajhGOFluQjBPTHRKVWZCRDc4OFlJTHpqbFl6elhzOTBMd094OTZxQzdhVEtSTkZNUnhHa2hiTmpBX0xwcGZPYnpPcW5hNUx4UWR2U1ZObHc?oc=5</link>
-      <description>Source: Google News - AI Education — Cyravix Investment Education Academy Accelerates Global Financial Education Expansion Through AI and Practice-Based Learning financialcontent.com</description>
-      <pubDate>Sun, 20 Sep 2026 06:25:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ad36091e680f4fd4fbe112599f77d1d8bcae418c9d80cba8d99e7c6bd5f9e1ac</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Kish College offering free AI credentials for students, staff - Shaw Local</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPZzZnQ0lRckxYN0xSNHF2U0pGdUc2REZNcjVWTUdOUWFxaDN4UEhhYXJMMGUzZFZpMTIydFBGWTF3c1RVYTFDdkVTM0FoNjNVb2d4SUxTYnlTNndZd1FHOGdfcjJCTUhRVnJoUTlGSWozY0I5dXNUdWJ3T1pSbDY5SkVCeUVORlZTd0hZZ1laTC03Nl9kODBuSHBNQVkxenJFb0xoMXJVOU5vLXJaaEg1LVNHbmtOdw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Kish College offering free AI credentials for students, staff Shaw Local</description>
-      <pubDate>Sat, 19 Sep 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:2da81ec4820380db26c3588479b447fc7524a37a16c3429a812a0fee7124495d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Conference on integration of AI in higher education held at NIT-K - The Hindu</title>
@@ -82,18 +90,26 @@
     <item>
       <title>Rogue AI agents found using Canadian university web tools to communicate, intensifying concerns over AI control - Digital Journal</title>
       <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWWRuSFRibTlLb2R5aVBQU1JqeUpBb2R3V19ZbHFrWnZydm83TXBGcnVrUUc4Q05fZWE1bzR4SlhVemw4VEZwd0VvLTc2VjZQMXMxWnBBSW9USEswcDRURVlRRkFOZnBJSWdheGlJRWJEcExaakhXaWhVckxLaUJYYWM4VWV2MTJJVTkzWkx4ZEIzUExYcXJkU3ExM3R4WXBnNnJIbGxKZi04ak5QdW96UnQwTURjRE1KdF9ycUdtbHFON1lVMVJOTEFtcW1nMERGZW54SkNMaHoydjk3a3QzU05LT1M?oc=5</link>
-      <description>Source: Google News - AI Education — Rogue AI agents found using Canadian university web tools to communicate, intensifying concerns over AI control Digital Journal</description>
+      <description>Source: Google News - AI Higher Education — Rogue AI agents found using Canadian university web tools to communicate, intensifying concerns over AI control Digital Journal</description>
       <pubDate>Sat, 19 Sep 2026 01:33:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c6c719c55a3b4ad344ccb31f96d3a3a11bc9f0582608009deea47c03dcaff5a2</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Casper College adopts AI platform for students and faculty - Your Wyoming Link</title>
-      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeDZoZEswZWFQTmtIckphRkYtcUhDSEZIVVc2QTRrTlo5eU43NnJsTVkyVUd0cU0yQmY1SFRsdllLSWdycS14NDFHSVZwLWQtWHhXVEF5RlRJeW53VVlLUXdPMDhiMXRYYTByVmYyLUxqU2g1Z3VHVVlQYURYRkgxaFJic2l5Wk5BUzdXYjA1YUJfazNWQk81eE9EaEFLMXdNM3FFSExmLWI1blh3NmNncFc2ajBQQndoc1o2U0NFLXI4bjc4MVBlZi1OMVlFRE5EaERGMEU2d1hDdHh1Nl9zTS1PbkFhV0pCd0pV?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Casper College adopts AI platform for students and faculty Your Wyoming Link</description>
-      <pubDate>Fri, 18 Sep 2026 20:48:48 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3d0dd2977ee541782a8c80720615239d236cdaab57e8d6eb56db8a45325867c7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>Wake Tech weaving AI into the classroom as students search for jobs - ABC11 News</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPc3Y3dUtCbnRHcHhCVGRmTGZpVVZvcHJFN2h6dFQzc3RTdlA2cWM2YTl2TzBvclRPR01NUGpxLXN0T1NBNXg4SjlCcGR5WmdScXdkaE5sdVZjUFN0d0Y5dW1kRmhSTG5WY3lPNlJ4Q0FLbE84YzdlZmxFZ0ZaeEMxeFZNRldoLXExU2R4T9IBkgFBVV95cUxPd0pQTnpIdExwUXlHc3MzaS1kWUo3RmJubXFMQ19wTnUtLWtIeUZ4N0hRelktUE52eVVoS2YtQ01JX2dMZnNiek04RzRMSjFOc1pTa2tXNmdjaFNZRkhISTFEVWFMbTRnTDhiUlB6UE10QTd3ZE15clMyNTBTMk9GSFdoT1FrQWJiekJPam5FWTIwdw?oc=5</link>
+      <description>Source: Google News - AI Schools — Wake Tech weaving AI into the classroom as students search for jobs ABC11 News</description>
+      <pubDate>Fri, 18 Sep 2026 22:40:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9f878a138f50e41210671fe387be2c487e614dbd681fd42599a03a59186c04fb</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach - wtwcfox</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjNkdnR1RmVGNGU1Mjk4UlB0QkduSmRPUjVwSU0wbjc4TzQweHRnWF9iWDh5RDE5dDJyWjJ2bFpMTW9LdzI0YnNhdldWNnBycW1EUXNBc1RxaFRmN3RnNFBLbGw0Y2EyZXVFbE5RZC01X213TW84UmxCcjl5cWNYc1lXV3c1NkpaNnZPVTQwS3IxU0RWbXBVZy14WFlyMFNGc3BHMWZPelBzaGRVMllVRUZOajQ?oc=5</link>
+      <description>Source: Google News - AI Education — DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach wtwcfox</description>
+      <pubDate>Fri, 18 Sep 2026 21:13:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:acfcac3ab51f88f1fb9fa44271c7954b5d4267ea9bbd67f563c1f60d9358140c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Register now for record-breaking AI course for UH Community College faculty - University of Hawaii System</title>
@@ -112,14 +128,6 @@
       <source url="https://www.the74million.org/feed/">The 74</source>
     </item>
     <item>
-      <title>Morgan State University Partners With Google to Enhance AI Infrastructure on Campus - The Journal of Blacks in Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPb09sNFJHWFBiR1BvVFRNSFpSMmVlWkZXMFNCbDVaZmlyemRZaGVuTEV4TENjNnZOTV8wNEttU3lUV0UwZU11cmFjWnRlZ3ZkSnRWdzhUVl83U1ppd3F5Z05IQXdZelJsVkVTZzRZUnhPNzF2d3VZX2duZGpOTFRhYVVwUWl6S2k4MWxYdEpuUHI5WDRnc1RMUGlRTzlyV2N6UF9FcWZzY3ZBZnl2RVE?oc=5</link>
-      <description>Source: Google News - AI Education — Morgan State University Partners With Google to Enhance AI Infrastructure on Campus The Journal of Blacks in Higher Education</description>
-      <pubDate>Fri, 18 Sep 2026 17:53:49 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:71ae9235f5bffb16a2bb276fb051c4eb580a9ed9c50cbaa5b7e3ee60227ad4ae</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>Earn continuing education and college credits for AI educator training.</title>
       <link>https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series</link>
       <description>Source: Google for Education — Earn college or continuing education credits by taking the Google AI Educator Series courses.</description>
@@ -134,14 +142,6 @@
       <pubDate>Fri, 18 Sep 2026 11:46:42 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1e03dc3965142d90822c91ab6af8e12f8f7c8a88452564dc354a62dc01d49b75</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>Vietnam launches national generative AI competition for university students - Vietnam+ (VietnamPlus)</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPX0VhYURQb0xkdk5UUXFmVTlRc0pJUWIwMDRvbUxMVXpWbzBMRTRGNUt3WnJ4OEJJQzZuWUNpZVNJVkFUNUhHcXIxNXhQNGlTV0pPaTNyNkduRk1GaVIxdEpvSGlWNnRvS0pjNThmVlZsT3lWX0E5b2t1RnNndkQ5VkZUdHRFaVRtQmluejExeFBTTE0xVFpZWm8wVmFjdXU2VDRjbGRmMDZrSFQzWmtEVnFvVE9LZTA?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Vietnam launches national generative AI competition for university students Vietnam+ (VietnamPlus)</description>
-      <pubDate>Fri, 18 Sep 2026 05:51:58 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ab5bfd1e3199d1e435075ebb997de5b9d37b2983895e2f361fb729316e99df19</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>To Get Past AI Hype, Researchers Watch Students Use Actual Tools in Class</title>
