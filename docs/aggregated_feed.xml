@@ -5,20 +5,52 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 01:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:49:30 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>UNU and University of Bologna Partner to Advance AI Education, Research and Policy - UNU | United Nations University</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPelZYX2F2UHFBTTFtWWxoY09velViY1hpWm80S0pqNi10QTlZX1JoOXpzZl9sZF9DcGJXcjlVSVdVVVc4eE9YQkgxcjFRWVpKTElGaXZSMmxUYUR2R3dIbERhdUtrdjBwekY2NTU5OC1Tb0lkTEtNWGxSQldpQnFNR2FRdkdoZGlVcUVOcjFSenNsQjJjcFRoWHJBTWI?oc=5</link>
-      <description>Source: Google News - AI Education — UNU and University of Bologna Partner to Advance AI Education, Research and Policy UNU | United Nations University</description>
-      <pubDate>Fri, 25 Sep 2026 00:49:42 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:57febaa0250db51269e19beeacbabcadc4cca6c57bfaa6faf748a6f61aa5f04d</guid>
+      <title>COLUMN: Nebraska schools need to re-evaluate AI policies for lower education - The Daily Nebraskan</title>
+      <link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVDdUNkZ6T2RpcFpVbUdWSjdlY3JuMS1ZNE5aaDlVRjFZakNHSkNWNFBGazJWMHdSc1lwbER5ellqVDNuUjcyR2prWTJIcVRfM1d2c3ZIN3FOZ091d0FyMGlWSXFidlIxeGZHZmUzU1pUS01mOHRlSF9VZ2Q3MTVQbzFtTC1FVWdzQVJqdmFUd3VpaFZaMTFRd25yY1dGanhlUEFXUElYYUNCenhXY2E2RExxaEEwMldxTGMyRmdrLUZtNVRUdlA4amlHNFpPMDVLaEc3NVMyR29hdXZXV0YteGRKWl9xN1FESFhwUE85ZnNNOTJtR25z?oc=5</link>
+      <description>Source: Google News - AI Education — COLUMN: Nebraska schools need to re-evaluate AI policies for lower education The Daily Nebraskan</description>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5f20dded4ed33ada5c135d8d9737b510e45e360c69f89cffdc5d0eef3be53642</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers - EdTech Innovation Hub</title>
+      <title>Brandon University - BU researcher joins national study on academic integrity and AI in first-year university classrooms - Education News Canada</title>
+      <link>https://news.google.com/rss/articles/CBMijgJBVV95cUxQRk03UXo3QzVHR2YzejJDYXFpYVkyZGlDWU9VREZpNkZZSmdhVFNHUUNUMXZiN2dobEd5dzZRdFg5UE11dVpJMHNQUUtoaEkyb1ZxM0VSN0ZKbjRXLTlacGVpS0xCVmJZd2ZENXBnbGlwckJ2c2pvX1pEdFAtQ3htVF9CaVUySUN4VFFQSTcyLU5HUFo0d3ZSRW40czhoTXlrNUtnckpFZ0V4aVJ6ay1RSmRoYTZQbjRXdlJQdkdobmFJa0hKb3A3ZWhaY2ZmODBxZXgzaW5VQ2pfV0tkWllicGFJTjcxdW5USFM3Umh0NzgyLXZ5VmNoUHNyRWY4alY4QmtmbHIta3FhV3JNWHc?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Brandon University - BU researcher joins national study on academic integrity and AI in first-year university classrooms Education News Canada</description>
+      <pubDate>Fri, 25 Sep 2026 04:04:50 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:27dee9a4f0df984f9a400e8e9e508e9ccc060fd4168c73120c88a773b2333ad4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Stanford University used AI to replace Hispanic student with Black woman in promotional photo - The Independent</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkx2YVR2UVFqZG1mVlRtcWNjdkVVTWJHVWtqcmZjN0J4dGEyMEh1RDFsZEdLMVVncERzT3BwWnRUYUd4akxnVjlFWkZFTmZuU0tFcnVzU2hzVG1sLTV6cTFKUUhSSVdzTUlmeXFMR05ZR1N5QzZTdi1VZERpOWJhaTlrNFlMQmZubjVDVWh0VFV6UU5DYmlaRzZiUmdyWXA1ZGVUMXh0WGZQLWc?oc=5</link>
+      <description>Source: Google News - AI Education — Stanford University used AI to replace Hispanic student with Black woman in promotional photo The Independent</description>
+      <pubDate>Fri, 25 Sep 2026 02:10:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:8727830645f731d6a2f55cbdbe8afe34f2ce18814f3f69b95ac9b9434a4125b5</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Student success, AI readiness among top priorities in ISU president's State of the University address - WGLT</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1B2QXV4cXpVRzM4OUZhRzJEczVNOGx3SlNVYmV1N2hRWUdYbEdGR3hzM2xqUy1GS0RfN0dOaHoxQmpvVXJHa1RUdEg4TVNLOVRHdlhZVlRoQ0JhUjNNVHIzbEQtV0VDYUQ0Ym5KTTZVR2xacTZpZ3k0LW1hNy1adVNEQVI3RDRyUmVqZHI0UHFTVjhfNkd1TTU0TkE5cW43UmZabXdkY0EzcS1jdXVtYmtRV2NWSnoxT09sZ3NobFBLdXkzRFJ1ZG1pa2lHVlhzQmRSZEJkaVpNZw?oc=5</link>
+      <description>Source: Google News - AI Education — Student success, AI readiness among top priorities in ISU president's State of the University address WGLT</description>
+      <pubDate>Fri, 25 Sep 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d68961a55b06f762cc5ab442a32ff04a398fa246d889a1a41a6f269d299953c7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>AI Headshots for Teachers That Belong on a School Bio Page - Greater Milwaukee Today</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUdLM0dLNURWcUhMOHFnNkxsdFFCandwT1FKZnhhUUd6NDl2YjgyMFRXaWx3WFp6Q09kaE95SHdHcFZvanlvc1h2ekVSRTNOQUxuMnprUWFxM0JDWVFVQlhNZGdJc0Q3UWxIdTA5REgtSzRjR29icWlxNmd4ZGFEMktjZ0hENWFzaHN0eXU4Tm80WmY1eDJfYlJVTUphNGVoR0J3TENWQklXcVFCcWdmSDdnZTV0aUV0VHZEOVc0b0JmMkZyMWVWWEFieTZ3emk3UjhackxRaw?oc=5</link>
+      <description>Source: Google News - AI Education — AI Headshots for Teachers That Belong on a School Bio Page Greater Milwaukee Today</description>
+      <pubDate>Fri, 25 Sep 2026 01:54:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3c62405e4fdf6cf453ca3e064b52fef41c0a9c2008b5a0bb3822c93b29851ee4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers - edtechinnovationhub.com</title>
       <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzJoUGtZSWVlS1ZBMy1fWE5ZejFEay1TUFNWa25LR1hnZmlMeG9lM0tGZXp5SXhrdnJsTU81ZjBBTWczWnhkbFAyZ205MEVBendyVEkxZmg4ZGVEVVpzUXh1eDY5OFRqUnlkU2NhbXBwQzhIUi10Q3oxTXlmWWZTTS1oNHNfRnVacWVBNklOd0NSUlJ5d01zTW9nelp5b0haY21iUWIzbnZiUGVWZjE2d2tUYWJzbTA5M0l2clh3TjBxQ3VHeVh6N3k5TzdoN1phUUgyRA?oc=5</link>
-      <description>Source: Google News - AI Education — Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers EdTech Innovation Hub</description>
+      <description>Source: Google News - AI Education — Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers edtechinnovationhub.com</description>
       <pubDate>Fri, 25 Sep 2026 00:15:17 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:bc39f5f90485f0acb0c463ac10709208629ae77f56f257639f3d84dfb23fd45b</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -42,10 +74,10 @@
     <item>
       <title>Stanford AI row: Students outraged as university uses AI to alter Hispanic student with Black in promotio - The Times of India</title>
       <link>https://news.google.com/rss/articles/CBMimAJBVV95cUxPQVdhaTJueW1UbngteTR2UVMzdE4zYjJFajBWNl9SVkYzbFF6a3Y2aGNZM09mSWx1OUZGZWVYTWNjWHFDS0pSNG9jRnZ0QnFpVml3ZlNnT1NSQnFPQWk2V3FhdTdpUHd3Y1N0LUtpV3pzb1hFc1BlUzB6di1udG1BNVlYQl9rWWRsRGZ6TTAwRjVyZndHUXdreGZTNkZOTWR3Y0JlWXNBdkEyaXBSU2RFLTc3Q2JVakV5RzAxV0FFazZ2cG1VaGJGUnZZRkdJWmtvQWJ1emxIVFpkb3FIS3dXcnBpRGUzUmdFemNYTUM4bVpNMnZBWlNGdDBTWHVEWE5fbGJENS1wd3Nfbzl5U21rX216QlFxQVBk0gGeAkFVX3lxTFBGdXpzc2VZdTlQR0xtNWl4ZnEwRHFVTEdJRHhPX0RJOWlGLU1xclE5TDF4dmxabG9kX05Day1HNjVtVjBPczVuMWxabzZ4b1lFb3dMazNBbHMzOE5RSDA2NTZMY19wNWp6WGpVTjJ4RF9TSDdkOXZ2eHR3Nm1SY0dCZlpWM2MzNjNCcUlQZVFwaVJJQ1A2c21JdHg0UVVzaDRIU1BONFdIdUJZT3lVOWoxd084Wlk5R0dHYUIyY0ZGWVJYZ1N4Q0NYTHhGdVh3SlVKc1BZNEpULW9kX1ljdVd3bmtoN1FqTkRRUUg5bVV0MmhybzBJTWF4TTB4X1JhYUsxSF9WaU1jUVFPMlBBNlYzcTE3SUJ2TVFyZVpaYlE?oc=5</link>
-      <description>Source: Google News - AI Education — Stanford AI row: Students outraged as university uses AI to alter Hispanic student with Black in promotio The Times of India</description>
+      <description>Source: Google News - AI Higher Education — Stanford AI row: Students outraged as university uses AI to alter Hispanic student with Black in promotio The Times of India</description>
       <pubDate>Thu, 24 Sep 2026 16:43:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:6c2470441da6da9efa1541360dd8ca70d48be1a63c93641f85f75eac48c297a3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>EDUCAUSE 2026: Ellucian Showcases Ellucian Student and Higher Education's AI, Powered by Unmatched Expertise - PR Newswire</title>
@@ -56,43 +88,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>College-bound high school students say AI is useful, and a source of anxiety - Lake County Record-Bee</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2R3Wl9iR09WY3UxTTYwdlhjQ2pFUDhILUEyU3FzeDQzaTZIZEc5dUthOUlub0xOQTJJanY5QWgtLXRPbjRCWkJfM0VPb0k5MF94Mm95dFhjQ3lZY0JoZktMVTVPeWVoRDVUSFg5Z3BNX1BPdkZpOXBDRTZrLVFBSmg0dDJKNGlUVC1rTXpiX016UmhSblhoUFdINGEyVDZDOThsOG5YaTFUNXg5dno3QlgxWGY?oc=5</link>
-      <description>Source: Google News - AI Education — College-bound high school students say AI is useful, and a source of anxiety Lake County Record-Bee</description>
-      <pubDate>Thu, 24 Sep 2026 13:28:27 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ef6da2de8cfb26d6d6571b8142a10e65a263a1760a102309833ac75a59a1a006</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>BU researcher joins national study on academic integrity and AI in first-year university classrooms - Brandon University News</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejlsbllsZXpaZFdkZG9oY2dUV1V0eVV3X3F1NC1BQk9kYjU2ZmhMMGREcVNSRllrckVuYWRQeXlWTm5OZjRqTEFJWDJCZWZkVGdXMWVBUFIwOWwtU0djNF9MR3lUZ2MybzM1dTRVd29GUUtramRhc2ljZklMNjZrSloyYzVFbnAxMHg5YjRTX1JuY1d3bS1MaHVMV2JDTWxhMGUwMXFlcDduX3NieUVIeWk2US1sdm1hSDJhNlIzUVhSOFNuRG1KbEJOdnZ2LTJXX1E?oc=5</link>
-      <description>Source: Google News - AI Higher Education — BU researcher joins national study on academic integrity and AI in first-year university classrooms Brandon University News</description>
-      <pubDate>Thu, 24 Sep 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:8cc15336b08f37d7ac3d448df9c5f1e867c77fe25146a0ac385268e9a08a6e90</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Romanian-American University launches "High School Innovation Challenge", the first national AI and Business competition for high school students - Romania Insider</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE5pRExUVVRMQ3NPVWhxMXRPTUxubV9uS1UwdVMwR0hlLUtNSmlyVUR0ajJrZDFRTXE0aUNRdGZ5UGMxV0FaVzgxS3FSeWY0YzE3SU9oQnpRNkw2emlJdVBKX1N5U0xWWk0zZUthNnlKVFB0OVdzdkhQS1Rsa3l4QVU4dlBfQkRTc0haZW1RcUZmLWR1UWFaaEp6VkhucEhCWmVaSEhmSUtUazA?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Romanian-American University launches "High School Innovation Challenge", the first national AI and Business competition for high school students Romania Insider</description>
-      <pubDate>Thu, 24 Sep 2026 10:20:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:81045017a6336773fa235efd7936d0bcc5de0b1ff8d4206dba1fef998e747a0f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>‘Cognitive surrender’: Are college students who use AI really learning? - WGBH</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXBaY1VtVndrRzF1aUFFS2psbFVsdDMzV1N3ZldSSjM3eVZHbGpMVXZ2U2l1SXBaRFYtSFVncUx6ejRSRjhfelRfczMwbFJlZGxzaHV5M196eUt3OG85T1RhQ0gtMUJtXzRHd0V0d1FrT0pnbEVKU3BBRDBkLVFaT0NnWDBaWXFBSVdNYmhMT2gxNXZsVW1KYkdvRGYxQkh2clBRNUZaMC0ydFUySU54M1drZnpxTUQwUzVR?oc=5</link>
       <description>Source: Google News - AI Education — ‘Cognitive surrender’: Are college students who use AI really learning? WGBH</description>
       <pubDate>Thu, 24 Sep 2026 09:06:46 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d03cd50c924a4c174ce88140159353d9fecd2bf2c657ff6fa3b20ceca7316645</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>STUDENT VOICES: UGA students share opinions on presence of artificial intelligence in classroom - The Red &amp; Black</title>
-      <link>https://news.google.com/rss/articles/CBMijAJBVV95cUxOYW9oTktSX3oyWXFzcXFjWjFpTVFrSDZhTkxsWWYzTzAtRVNTSkdRRnFvUFRhajVfbExiUGdUUzdGTVlIc25VaTBuc19NTW9oaFloQ0F4TUU0OEFKOENUYjBoekxKZjNqUkZ4SnJHSXl3eUZ1akwteFpzQ0c0RzV5RVZJbmRNQ3RTcmF4bEJONHVkaS1JWlBKbHBfTkRtMElKbFVZaTgzeDFjQXF6VF9ZMy1ZRWFvSmZUTGZLS0FUSkV4cDlzWm5HbF95YXA1TEVaX2ZBU0xHRk5FdG92cWpWVU9RQllib0NMcEhxRUFiVWctT01tdGNFVzJBbUdqODR1WE5nV0JaV1ozLVFt?oc=5</link>
-      <description>Source: Google News - AI Education — STUDENT VOICES: UGA students share opinions on presence of artificial intelligence in classroom The Red &amp; Black</description>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:248e27c302857325ce0439681e0edafc77e3c220506b3981a72c369e35d23d80</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
