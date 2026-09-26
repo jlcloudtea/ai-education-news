@@ -5,30 +5,38 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:42:36 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Stanford University is accused of using AI to change student's race and gender - The Cool Down</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQNUpadzhOdG1wdmNHSkZudWdHZHp3NW1OUHF6am1PSEtMQUtjSC1RQnM1OXdMeFVtYnBGc1NwQjRSc21hNUpPRTF5cTREeTFaLU5FY2w1bmxyaHNYcmIxeENBMzBDY1VxVjdBeDU3UlVLekUxMlRFQTk4dTkydEdLVFdVdXNvNmdiUXNUYkMxQmZsbHc?oc=5</link>
-      <description>Source: Google News - AI Education — Stanford University is accused of using AI to change student's race and gender The Cool Down</description>
-      <pubDate>Sat, 26 Sep 2026 00:43:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:17ca0c3472ff552cebfbc8062cafce632b01562628b3e6d1136d7a4138ab3faf</guid>
+      <title>AI in Higher Education: Some Notes from the Front - Reformed Journal</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0JkNXhON2dNOWVOQ0UzWWpXb29YMVN4MzFmTEc0R2FPaERrc2NlT2N4c01sNUNWTml2WjZGd3VTUGQtR0NzZlJqdnlhSjg1TWJVWmg0NEZvdWtnQ3k1MGl3TFRWdDhfeXJNcTdYd2hPRzZTV0dvN29DZVRLRDNEU1BqZTQ4NUUzUVU4YndpTUxGQQ?oc=5</link>
+      <description>Source: Google News - AI Education — AI in Higher Education: Some Notes from the Front Reformed Journal</description>
+      <pubDate>Sat, 26 Sep 2026 07:25:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5c0ce36dfb1577641b8cc416801ea747f2f3c7b2f3af2fbc89a02a4021453d92</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>OpenAI Discloses AI Models Disrupted Government and University Websites, Has Notified Dozens of Institutions - finance.biggo.com</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9qS1k0YXZKVW5vV3JvYXV3WVBGYlltNFVPSS02ZlFfQ0xDR3dtcFR0bVlLNnJMbGlsS3VhZU9VdTg3Q3NSVnlpSFlqTU1xVTRHcTFuY1hPNmhlaWtsWUJ1UC1BTS1NLWJfYUZTdnRFWWRaVmlTQWc?oc=5</link>
-      <description>Source: Google News - AI Higher Education — OpenAI Discloses AI Models Disrupted Government and University Websites, Has Notified Dozens of Institutions finance.biggo.com</description>
-      <pubDate>Sat, 26 Sep 2026 00:05:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ef3a3fbeefb316af94845715b49164ec736c905c6a73c671a9d684b607d1d20f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>Area schools navigate the use of AI in education - InForum</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uOHpQRC1DOGRBNEtJOGpHU2pjV2RKSWk3cmxPUUVzT2YzamY5elowRjFDRHpfNzEyLUE3a3NFN1hTMmRFcGtJanFTQmk2TzQ?oc=5</link>
+      <description>Source: Google News - AI Education — Area schools navigate the use of AI in education InForum</description>
+      <pubDate>Sat, 26 Sep 2026 03:26:21 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:17dd28a735e2855ba868b448193545e29669ef78021f019e7b18ea1afe289a8c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>The upside of AI: TMU student’s summer job at AI startup is shaping the future of fundraising - Toronto Metropolitan University (TMU)</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTGl4OG9NbTVsYk1wU3M1OEtlbGQ3M2JDR1lZaGV4QkZUb3dJd3czbUw5Qjh1eWdlVEQ0aG5YUW1JUjV4elM1VE9TLWFVa2w2bGkwdXR0c25ZNnR4Z2hwcENtZ1VUeWcxY2FqX1gxa3ZxczhWelZoSHJoNm1DaGJpQzNkTU5mTzJTdGxkR0xNTUFkcFlDX3JuV3NtQkJxa3Z2YzhGQXdoa0RYMjNnT3dGT3AyTS1YTXp2bnJISktYWGxIQ2F0R2cxTll3eVdFLUpWVlQySTI5MktSaEk?oc=5</link>
-      <description>Source: Google News - AI Education — The upside of AI: TMU student’s summer job at AI startup is shaping the future of fundraising Toronto Metropolitan University (TMU)</description>
-      <pubDate>Fri, 25 Sep 2026 20:43:01 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:22d4032d750d2a4502b536c5cde7a45568878d0729e56246cc5495706a77335e</guid>
+      <title>OpenAI didn’t notice its AI bots trying to hack the Education Department’s website. - The Verge</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDNIWTNDVXdqVnR2VXFRU3p4YkdwMW1yeDlzQUJMUlNCNzcxZjZEZks1a2lEX2lRY3pkdHZMQ21vOGdIQXZ1MGNlX3hXWl92bU92TldWQWxhZmU4R0g2bFRaOFdoZGprbU9IaUtCNmRyVDR1SDR0U002Z3dtZ0toS0xnWFctdlJxN1UzbUR5Z0dpUU0wZTNNUkRxYm5xT0tySTFfT1gxc3dBNFd3ZVdsZk9UZ2dubU1QdlVmejhVMWx2VDM3UHYyRUYzTms4WERyUVpOd2UwOA?oc=5</link>
+      <description>Source: Google News - AI Education — OpenAI didn’t notice its AI bots trying to hack the Education Department’s website. The Verge</description>
+      <pubDate>Sat, 26 Sep 2026 02:43:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:cdeac31fb1466446faff7853149a8b0e39c08e57b88bc74e424c0f9a68002a1b</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>OpenAI says AI agents interacted with Education, Commerce, SEC websites in US - kcby.com</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmhxcGFsS1BXUmxXUDd1UkRFSmFyRVBFWlJKMTQyMWZ1aUhpek5nMk54azd1bWY4RGl6Z0VvY3JxU1Y4LXhtN290NEJvSmhPOEVoejgzelptRlNsZjUtVXU2bEMyVHNRTFdzRl9WN2VzMk5FZllmNGE5dVhyZjc2cEVOb2xvSGhnWWNzTjFpMGRUZFI4eTBRMzBZRTdITHJCYUlkVUlnR0xJNFBmU09GYWloUXlnM2tTUWNmS29R?oc=5</link>
+      <description>Source: Google News - AI Education — OpenAI says AI agents interacted with Education, Commerce, SEC websites in US kcby.com</description>
+      <pubDate>Sat, 26 Sep 2026 01:59:28 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ed3ff3cea4b91a866a31204b781d1a83567354f959999794465b4c1d87aea8ea</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -38,22 +46,6 @@
       <pubDate>Fri, 25 Sep 2026 19:58:20 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b95b1ae874bd02db44b5b8be966dcbfe903e9f0420cb5d186956b682c788bf71</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Vanderbilt University extends identity governance to AI agents - SiliconANGLE</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOS1dkV0k1UERsTVZjclBQY2dzVWlOdEpPM2h2SkxueW5mYUQtSkZzYTdLTW1TOVg1MlhtUkFwU3lqQTVybmdtRzFfbmhoeGgxR2p0cGtvbF82T3pEOFJfR2t5QWltbG9yYTlQQkpYbE5Wa1hTV3BEd3N6c1BVRHlVZExNOUp0QWFpM2dub1h4SGVUczZWUkxxaHlldEVYMjdSRElJU2hR?oc=5</link>
-      <description>Source: Google News - AI Education — Vanderbilt University extends identity governance to AI agents SiliconANGLE</description>
-      <pubDate>Fri, 25 Sep 2026 19:44:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:21f60231708b47c900923f0630a5ee37d650937728c3c3fdb468e47288da133e</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>How recent grads and college students should be thinking about AI, the CV, and the job market - CNBC</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGFyNV8wbVdtQWsxU09IOHZ4Z3pUYTRKSWdVcVo2MS12YVJBeFZSTUtfRFZzeExYQTQ4MGZXaU83ZzlSR0xqNElESTRQVkhsWFhuekNZT2l3N3czWVJHaTZJeHZDMFhiXzRvSjJfNkNyMkRtb3ZLWGtEdUNjcGE1XzBLSdIBiAFBVV95cUxPNFJVY01wSkt2clNMeHdVOTFCdXlnS2dVUHVxcWRvZWRfWHhtdzFfbXZMdHZuc0RKMlFiNm5zcG0yWlplU3ZFN1FPdXRyMmZJcE82cnZ1TDdjOWxRa0tUdENZcU54a1B1Szc1dEpPN3ZyNXAzNldyOHUxSXkwNjNWTU5HLTR3NzND?oc=5</link>
-      <description>Source: Google News - AI Higher Education — How recent grads and college students should be thinking about AI, the CV, and the job market CNBC</description>
-      <pubDate>Fri, 25 Sep 2026 19:10:24 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e8c43b447d15df2a251c1febd22b00127533a1234d03e29a48dda064bda1bd52</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>A George Mason University student is teaching senior communities how to spot AI deepfakes - WTOP News</title>
@@ -80,17 +72,17 @@
       <source url="https://www.the74million.org/feed/">The 74</source>
     </item>
     <item>
-      <title>How should universities rethink teaching and assessment in the AI era? - qs.com</title>
+      <title>How should universities rethink teaching and assessment in the AI era? - QS Quacquarelli Symonds</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOa2k2aXZfdVExamxJLWJMaTNYSWJJdFVvekJreHhqbVB3OFhtVnI1d09La2JFQzFKZWRYc1NTYy1tNkxiUHpHczluT3Zrcm9CUkVTeUZsOXFLVnkzcllwLTFwYl9jWG9WS1Z2YVY4QXFtYnVCM2g4ekw0NlVLVnU1cURtXzJMaTRnTjRWQUVQaU1vZl9ab1o4WUVVYWNFZw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — How should universities rethink teaching and assessment in the AI era? qs.com</description>
+      <description>Source: Google News - AI Higher Education — How should universities rethink teaching and assessment in the AI era? QS Quacquarelli Symonds</description>
       <pubDate>Fri, 25 Sep 2026 07:44:56 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:314af696ab345c67ece1bbba130595869c9f2e115b7635c7ef0944bcf99cba3c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers - edtechinnovationhub.com</title>
+      <title>Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers - EdTech Innovation Hub</title>
       <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzJoUGtZSWVlS1ZBMy1fWE5ZejFEay1TUFNWa25LR1hnZmlMeG9lM0tGZXp5SXhrdnJsTU81ZjBBTWczWnhkbFAyZ205MEVBendyVEkxZmg4ZGVEVVpzUXh1eDY5OFRqUnlkU2NhbXBwQzhIUi10Q3oxTXlmWWZTTS1oNHNfRnVacWVBNklOd0NSUlJ5d01zTW9nelp5b0haY21iUWIzbnZiUGVWZjE2d2tUYWJzbTA5M0l2clh3TjBxQ3VHeVh6N3k5TzdoN1phUUgyRA?oc=5</link>
-      <description>Source: Google News - AI Schools — Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers edtechinnovationhub.com</description>
+      <description>Source: Google News - AI Schools — Purdue and LEGO Education bring AI, coding and robotics training to Indiana middle school teachers EdTech Innovation Hub</description>
       <pubDate>Fri, 25 Sep 2026 00:15:17 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:bc39f5f90485f0acb0c463ac10709208629ae77f56f257639f3d84dfb23fd45b</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
@@ -112,12 +104,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>EDUCAUSE 2026: Ellucian Showcases Ellucian Student and Higher Education's AI, Powered by Unmatched Expertise - PR Newswire</title>
-      <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNUVpVW9EUWI0MFNoUjYybDNlc0tHMHZ0RGNWRk00YUozVGx1SHNwZXJPVDZva3Zsd1N5VTE5akZUc1ZxZlVkRjBMZTlUNUJXMXZpTHBOWEs3bGE3cFgybEQyVm9LRU9WMGZ5TlNqWm56M3h6ODM0bHdwS0ppVEpFUHNXWHFOd0ZNdnFnemMyUHVkQWNSeEVBTnJWb0R0dlZGU3FzWm9WVmFad1ZWbE05dEFuYnhGeno5Ny01eDRjMVViQlhiYXJuVjVILVUzdjdTM1gyU2oxeDhDYjc2UmQydW1QOEVrZkVXS3gyZGpfTVhvcE0?oc=5</link>
-      <description>Source: Google News - AI Higher Education — EDUCAUSE 2026: Ellucian Showcases Ellucian Student and Higher Education's AI, Powered by Unmatched Expertise PR Newswire</description>
-      <pubDate>Thu, 24 Sep 2026 14:15:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:6845469088b6c6bc4eb8bbd92f5e225c8b027ff349435df7514575b0ac399cae</guid>
+      <title>College-bound high school students say AI is useful, and a source of anxiety - Lake County Record-Bee</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2R3Wl9iR09WY3UxTTYwdlhjQ2pFUDhILUEyU3FzeDQzaTZIZEc5dUthOUlub0xOQTJJanY5QWgtLXRPbjRCWkJfM0VPb0k5MF94Mm95dFhjQ3lZY0JoZktMVTVPeWVoRDVUSFg5Z3BNX1BPdkZpOXBDRTZrLVFBSmg0dDJKNGlUVC1rTXpiX016UmhSblhoUFdINGEyVDZDOThsOG5YaTFUNXg5dno3QlgxWGY?oc=5</link>
+      <description>Source: Google News - AI Higher Education — College-bound high school students say AI is useful, and a source of anxiety Lake County Record-Bee</description>
+      <pubDate>Thu, 24 Sep 2026 13:28:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ef6da2de8cfb26d6d6571b8142a10e65a263a1760a102309833ac75a59a1a006</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>EDUCAUSE 2026: Ellucian Showcases Ellucian Student and Higher Education's AI, Powered by Unmatched Expertise - ellucian.com</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzRaY1JFUTRHSDRpcXdSOXVKY2oxdGpCV2s4MEtjdmlRYjlvT0ZXNnpobHJ5U2dUbGhoNFRtQ2JodW9DRGRHTlVBQnhPYVZMMGZIMUxJc2t3VVJlYUJ4NUFKaGtjRXI3VnRjT2FiX2x3Y21HUi1UNGlzeWtiRFBmbkc0MDZ0NnUyVVBIaFg0RkZOQnhNMnhPNXF2NkI5NncyYkpndDJxOVVPR3NZdE10TzJ1RWxCZjA?oc=5</link>
+      <description>Source: Google News - AI Education — EDUCAUSE 2026: Ellucian Showcases Ellucian Student and Higher Education's AI, Powered by Unmatched Expertise ellucian.com</description>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:04dc622297699e1f53e566ec1440518bedc8dde7d98e86cd3bd3d3670a7cd5b4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>‘Cognitive surrender’: Are college students who use AI really learning? - WGBH</title>
