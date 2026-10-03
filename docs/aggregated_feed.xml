@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 12:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:17:35 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Should Schools Ban AI in the Classroom? - The Regulatory Review</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXBoMUdxUmt2UV9NR2YyZTV1aUJCTlljeGlCVl93MFlQVTdmbjA4cV95N2YtcnRhTFJzS1kyR1lieFBveE1MTEVjX2pISFNpamptZkJJSHZDM3JQd24ycDdzRWs2aS1wZmwzTW85eGpSdVlBdUNERl9GeGNJcU5IbnNkTjgycXktNmdRSkMzc2g?oc=5</link>
+      <description>Source: Google News - AI Schools — Should Schools Ban AI in the Classroom? The Regulatory Review</description>
+      <pubDate>Sat, 03 Oct 2026 08:50:31 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9bbc7783693443cbc60a3c3e3127f6748ee0baba91a923b056d5ed38e944ae21</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
     <item>
       <title>Evergreen High School students demand AI regulation in classrooms from district: 'Pencils, not prompts' - KGW</title>
       <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXVFWHR3a3h4b29KVkw5UHJsVTVYdVl0ay12WXFzWkdkdWhVMlYwcmlZSTRpV21QTWdCclkyLVBNVDE3SE9iNjdVQThWbmM1ZDduZmxMdTRRb3ZqcmJpV2dwblU1cXBXenNOV2E0UHV6MzdWUUF0bHBVMTNQQk9uV3d4ZGlaMHVQQU9EdjROQThFZlV5Sm1NX3U1bVp0cGZJemdQTzdtQ2s0RDJXWGRYVXRuV0hCQ3I3c3E0eGU2SkVuUVhTckEzekZRZEwxS2hKSFhIRDdVQmdGQUJ0WFVz?oc=5</link>
@@ -24,9 +32,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>University of Houston student wins case over AI assignment accusation - FOX 26 Houston</title>
+      <title>University of Houston student wins case over AI assignment accusation - fox26houston.com</title>
       <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVdE5TQ25HenBIajc2R1g4eS13SzZXZUNiNHZwQmF2YWxoS29oX2VhQm9DcWF3d1B2NWV5OFBxTkNsYXBpQ2ZZNkVybnFXTDFYc1pVZHFueWhhOEdueGRjRWVHMWx3Z9IBa0FVX3lxTE1aZ2JyYzBVOUVteEQ0ZzI5VWlvRjlZaEx0eENJWmtObXUxWkRSYjhldTNrdzlPX2RIaHpZTllyVjd1T1p4VE9SQnF1UDlZSG1PVGxwdGg3MERkOTVHLTVCMlpEc1pvdFozTEhZ?oc=5</link>
-      <description>Source: Google News - AI Education — University of Houston student wins case over AI assignment accusation FOX 26 Houston</description>
+      <description>Source: Google News - AI Education — University of Houston student wins case over AI assignment accusation fox26houston.com</description>
       <pubDate>Sat, 03 Oct 2026 02:22:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:321267ca3b325e21dc0485d45f276950e0d35a42a3381ef9aabc44159652b0f5</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -48,9 +56,17 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>GAU holds seminar on generative AI, future of assessment - New Age BD</title>
+      <title>Trump has promoted AI in education. His FCC may end school internet subsidies. - KRDO</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNckhyb2NHT0xpQU1YOHZiZmxoM2FDQzJsaUI5bjBRejVRb01Ic2F6UzFoWGFuT05ab2FQVnUwcDNEWVZfYnl3N0xSeGl5Yms5LTdBck1oeFJJcTk2Mmw3Ml8yNUMzSjlaTkJRR2ZBemF2V08zanYzSUUwSVpQOVBoNVg1am80ZjBCMHJIZjh3M3dWeFE1dndQbkpoOW5Bdi02cjlULWpGN3ZhWGprZFRzdTNaRFFVc1BvT0E4ZFlYS1IyaUdBM202ak9HV2pQQQ?oc=5</link>
+      <description>Source: Google News - AI Education — Trump has promoted AI in education. His FCC may end school internet subsidies. KRDO</description>
+      <pubDate>Fri, 02 Oct 2026 19:11:33 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:90b05c0a12b232feb91ed09c2257e9fd0c97cc8b80777fa668563bc9903efc19</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>GAU holds seminar on generative AI, future of assessment - newagebd.net</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFo3dk1GSmpzWnFtZGtjZ2VFb3dDeDRkbWdCT3RudGVkTWRxUkpNdkYyMlhpSlR3dHRjSUh1ZDlTeEpGWV91ODBXMXVlTi1LX0liYnRwN1hIOVl6M21MQ2ZNRFZ2SGtDTDd3NURtUUNqSWpFaHpobkJ4cGh6a3JzNlZFUkVneG1Ob3hveEJKckVfTThOM1dYdFNUbXZaamZ2VnNMSDZRdjk?oc=5</link>
-      <description>Source: Google News - AI Higher Education — GAU holds seminar on generative AI, future of assessment New Age BD</description>
+      <description>Source: Google News - AI Higher Education — GAU holds seminar on generative AI, future of assessment newagebd.net</description>
       <pubDate>Fri, 02 Oct 2026 19:03:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3c86ba7f08b8217f91e2465a8217e9a9597324e9d0f0f52056e300cea9642b89</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
@@ -64,11 +80,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Colleges grapple with AI use in the STEM classroom amid uncertain impacts - Chemical &amp; Engineering News</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlRLMUtwYnBFaWVtT211VTk4NW5FQ3FtRmJqQUJJeXB3QmRRTEllNjF6MWVHTWhRZjY0U2J1Sl9mOGNibk5JMmd3ZlZvUFU3cHhnWkhRS3dhYWhaVFpiZ2pGczVITkx3bXJ0MTRVLWVoZnVtRHl4VlRUMDNtQUZfaVJVVGdfdWpkQmdzZElETFpmOTNZdjhzTTJxNFlrODlsSnRTZXRTV0VXZw?oc=5</link>
-      <description>Source: Google News - AI Education — Colleges grapple with AI use in the STEM classroom amid uncertain impacts Chemical &amp; Engineering News</description>
-      <pubDate>Fri, 02 Oct 2026 17:39:01 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:acd1e95c58785e81e8f5eba20046190a1285fa12fbf0d60f63b5418e85c9ea0d</guid>
+      <title>Google Pushed AI Into Schools—and Even Students Say It’s Gone Too Far - WSJ</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1GQ1g3MkhsR1VXWmJvLXU2UDYyMVR5ekl6aFJPc21nZW9GZUN6S2JwQkJNdHFFbHMtS2E3MlFTNnEtWFpsZHhRX2lhWVBsTEpZbm5ENGZha0hqb3hoT21aT0hLQ1FrSHdXVWJMUXB6R0pFeXphTnZqQ05VRQ?oc=5</link>
+      <description>Source: Google News - AI Education — Google Pushed AI Into Schools—and Even Students Say It’s Gone Too Far WSJ</description>
+      <pubDate>Fri, 02 Oct 2026 18:01:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b9398d3613253343c22355f1db6f0e4c02c76be4066863fe89a1b831280a6878</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -77,14 +93,6 @@
       <description>Source: Google News - AI Education — How AI is powering student learning at Alpha Schools FOX 5 Atlanta</description>
       <pubDate>Fri, 02 Oct 2026 16:20:03 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b01cdae140cc09650598c6f327355e593ec75a86d863a1f3de1692a6ff45ad3a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI technology is transforming trade school education in Lancaster County | Local News - lancasteronline.com</title>
-      <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGV5dmJtYWNtakJFOEZTQ000OEpZRmVIUzU0b2w0Z0kyYW5FX3hpU1F2ZWJVVVFYNVRwSVlIWnpJQ3ZQREhjSDUyOHRIUEtvUmYtOFhFY2dKenIwTGc5cEw1UFFLajNoVThoMU15ZkpPbGx1LWZEeEVBTExrbFNMX05zQVNzRG1yenAwTlJlb1l2cnVzMUxoQ3FuU1ZFWG8wZTl0eW03bTF0Q2FDSHNVbDBIdFNiYy1mRHpteXp4YWY4Wm5TQ3hxelJoLVBzbTBFUlFkVGlNTkdBaHlBSDZXUWdubmtaQVA4MWVfQ0F0Z1hDQmc?oc=5</link>
-      <description>Source: Google News - AI Education — AI technology is transforming trade school education in Lancaster County | Local News lancasteronline.com</description>
-      <pubDate>Fri, 02 Oct 2026 15:41:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:c092b88b17cb70fc35fbe5eee02587991857a6a138851808fa037a520564e81e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -102,14 +110,6 @@
       <pubDate>Fri, 02 Oct 2026 13:38:51 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0080530e592cc2aa8e9ffc3a48b654a71d8000ae8d82139cae1bcadfef0401d3</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>17,000 new school seats, global universities and AI skills: KHDA’s 2026-27 education agenda - Gulf Business</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2J2ZDRCRDNQOHotdVJTTzdpWmExTTBNc2hzSXVjRW9hS1hqckwtQ3VQV2tSM2Z0aFhwX3Z4Z3V2blNqcDUtamZEZzFkVVI4Y3VZXzBHRE9KekJKa1I0RzUtMzYxdmRrMWxUYkJYUjdqbWU0dmR5dVhSeHotSldxRmM4Q1RVMUowVmg2SkdZZzg5S1h3WFdyUFJ0alNXUWtlazE0a3NUc3VZSHJRQ25scnl1enhuUjRXX3pJbTFDS3hNajM2TjU3SzNiUTc3VGV5OVhWc3ZsVQ?oc=5</link>
-      <description>Source: Google News - AI Schools — 17,000 new school seats, global universities and AI skills: KHDA’s 2026-27 education agenda Gulf Business</description>
-      <pubDate>Fri, 02 Oct 2026 10:30:48 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ea20c94fd00f91bdca3300ac893530898bee0362d627341af3dfbfbaf57ae005</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Students offered an AI tutor got lower grades and disengaged from course materials, University of Maryland trial finds - EdTech Innovation Hub</title>
