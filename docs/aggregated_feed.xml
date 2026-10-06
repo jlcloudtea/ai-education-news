@@ -5,14 +5,78 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:19:30 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Does the gender pay gap extend to AI? New University of Limerick research finds female AI agents ‘paid’ less - EurekAlert! Science News Releases</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1STDBmcGxYdHZhNmFqU3BXYkhZNWdZdzA0YXRxWGlVYy1JSUxoZnlyVDRrN0FQLTZOSXc1ODNTNUgwVGU0Y0R4akhKa3k2MGhqd3A1bEtjUmlZOG9n?oc=5</link>
-      <description>Source: Google News - AI Education — Does the gender pay gap extend to AI? New University of Limerick research finds female AI agents ‘paid’ less EurekAlert! Science News Releases</description>
-      <pubDate>Tue, 06 Oct 2026 00:25:10 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d524d0a6d22b63b385f3ca05f539a53afbfacfb13c0bf0783b4bc27cdf3cf1f0</guid>
+      <title>Hamburg University of Technology launches initiative “AI in Education” with “inTU” chatbot - Informationsdienst Wissenschaft</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GaGxLNXpCSzZWUl9rRk9jYzBTVkpsNFlvTVhvNm1OcXRfT2FBZWxEcTZjYkJEMkk1eUVIQW1iYXNNaU5sSkRET3gyYw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Hamburg University of Technology launches initiative “AI in Education” with “inTU” chatbot Informationsdienst Wissenschaft</description>
+      <pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:52823b7f800c88150bf89663ef50fee13f34aeaa4837711f9c3eb92b7d6a6217</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Student invention combines AI and robotics to rapidly analyze crop seeds - University of Alberta</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxORGFrRTZTczNlZy1kbVVwZlctZHNDb3lNc3Z4X0gtMi1oVWtWbVpmQWxKclNKQ0dyMlpIZXlsZ0VRa2tXQnJiVlZmMFNiMUVpWVdWdzFzVjREQjViVGc1Skk5VE1hUGIxYV9rb0Q5Q0dUcURZdUpRSERoSjhJdkpxTUNkbkVjRW9tR3M5bVJYcXRTYWVxYXRQNm4zc1ItMUZOTUNwWFE2VGplem92SmRDMW5EbkdfdE4xdEE?oc=5</link>
+      <description>Source: Google News - AI Education — Student invention combines AI and robotics to rapidly analyze crop seeds University of Alberta</description>
+      <pubDate>Tue, 06 Oct 2026 07:09:53 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2f7f4018c6d11f8cec038587dd52e2705ee1dfb330ea4246b46e61aba0c9327e</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>AI meets SA education: Saving Grace AI Tutor opens free Grade 12 tutor access - ITWeb</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGx3enlOQ2J3U3JyaDRlbVZhUmNpVG9WTkdvTW82ekFNRzd0bS1QY0hONXgxMk95ZGZhWHhSQ3Z3SVhNc2tsWmsyTXllY0N3SF9MMHE1NGUybWltUmRPODFTZlZub3QxYXNmcWJPakpudDllaldPMGJuaGVsWTZIT1dtcWp5UVprd2FuaktXVEI5S2FsXzkycXVGd21KYnZqWG1VMm56bEY0bDNRdlQ4SG1HeFMzVXA1YVY1dy1MUlA1R3M?oc=5</link>
+      <description>Source: Google News - AI Education — AI meets SA education: Saving Grace AI Tutor opens free Grade 12 tutor access ITWeb</description>
+      <pubDate>Tue, 06 Oct 2026 06:33:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:02cdc0015d808e5edffa3371e95b279c0c90375126027dcc8c36c557ed1d4c30</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Whisky to be distilled in space, Scottish school appoints AI literacy teacher - Tech Digest</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNdlBiTVYyeG9qODllYWdiM2NmalFfM0Y2YmpCQTNBWlNsOUM1X0pvOWxycGVaMlRrdGQtZE9CMmd0eUF3U3VNRnE0NkZtRnNDV2haQWE0MDVkZllobWNJV2p0dU1sM19oWl93WWtqZ2NxM1dzVFRWM3h2U211TG9SblJuZ3lTRmNYQzJXUkJxUFFZV1Nnd1oycTkzX08wMTQtVVJWVWpTTHI2TDFYMVZZLVJnNGVwdw?oc=5</link>
+      <description>Source: Google News - AI Education — Whisky to be distilled in space, Scottish school appoints AI literacy teacher Tech Digest</description>
+      <pubDate>Tue, 06 Oct 2026 05:02:09 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0b1710b6398b5bb33c4846d2bec91eedb6f08ac9fffb8f886892c456541b592a</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>IIT Madras to offer AI, law and other certificate courses to Jamia school students - India Today</title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOXy1nRVJ5NjktaUZMeXZzZW0tSUhDUXdaSkdCT3Z2RkFQVEUtUVBHc2lXMkJpWU43WEdLX1gzdE1USG1lUzNOcEdTRjJjOWd0VWYtSGM1NkJPVVhVVmo5MHBESUw5cW92NU9rZFRtckQxajYxV3o0SVpoY3hjT0w5VFE3cjJlWWw2bV9ybmNLa00xbEJZaFo3U0xRLVk2VFpoRzlONlNwMXQ5enF2dk9QanM3LTRmVFQ2ZHowaU40RTBGMEkxblFkWkZGVmQyVl9uS0FNcko5WnRWQldoVmtGc3J2dzl2a0pxRnQ00gHwAUFVX3lxTE5SSkc4Y0xKOEh2MEFUSUY2dkNWUGR4LVIxemFBR2paNWNNTTdxZTVPaVBqb3g3Qk1VY2k4M3FtYi1JQlZkSVBNU081cFZSeHBWbGJJYkZEdFVFQllQOWtWMWRQa01kRkxNRFhQRktFbHNiQnRsWjJEb2RjdWpkUlVZVzVRM2lDY0Rod1lsLWxOTVBUVzZFZ3BBQzBuQTB1QW5IYkxOdGx3bnJTX05WaTRHb1RwYnBBeWVKVVNhd0hOYm1pZFcxcUpSUU5mM1E4ei01N0dMdF8tWkllWDRWYUZGN1REV0JCUXpGVUh6NUtMVw?oc=5</link>
+      <description>Source: Google News - AI Schools — IIT Madras to offer AI, law and other certificate courses to Jamia school students India Today</description>
+      <pubDate>Tue, 06 Oct 2026 04:55:26 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:07f4059c239532e3c63a95d183eeb17841f39d6b0a28f1fc78c0a649ac2a33d7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>South Bend school board discusses AI use in classrooms - WNDU</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNak1hM3NOOTVZTDRUbGJTR21ONGY1YXdNOGw5aGpkVkJqa3JSSWFBSl9jUDJOUi1sZUxuRVZ3eXo5LWtBUW1Bd0k0UjRUTWdzMk0yRWhmX2g0d2pYQmUtZzZEQnU4S0ZJcnY4by1uVk1EdTYyMTZ5YVV4S21KRmljRmRtUlhzSHFQNVNuNdIBoAFBVV95cUxQSXFjaGk2UGtSZWdiUVVrWGFrVWw5Z0FYdjNqTk5ndnk3OXN2QlJYbmdKZ25KR05QeEtqWjRYejFOUl9VVnQ4dFMtaGdsVENvNWk4bndZRFUxMTVIY056X3h3TTliTmlBLTRFVlJEaFJrbXpzZVlhQy1JaEFwd05qallKR3dQdmRra2tuZEQxd29BMjhzSVFvYUwzeUJFV24y?oc=5</link>
+      <description>Source: Google News - AI Education — South Bend school board discusses AI use in classrooms WNDU</description>
+      <pubDate>Tue, 06 Oct 2026 03:43:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a9f861a303e7a31c3146399e960576ad1eece9cb8965a8552ed347090c467ebf</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>WL school board candidates discuss AI, budget in student-led forum - Purdue Exponent</title>
+      <link>https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYTBXOFdSNzNaWVp6MWxrbVIzQlllMFJteWhKbExSZWw2cWhTVXlNTjQxS0dzSU8tYndMLXdtRjVFZDdzcUh2YmhMcXlaWGgzQnRZb1A2Y2tTVzFYQm1fWHdrWkp0MGMxWDVVRWpkN2RaTWNCYllZRmNDN045Xzc4eXN1N1dUb1p4akotcU9Eam5sWV9HbkQzbzdWTjRZZVFoNldlbEo3SFNsVmhPOWR2X1dwdWF1NVJUUk5CRktVc0k5X0VOMHFtUDVRLTVmS2k3STJQYjVseFh2ZGpLZHdpZlBqeVNOVFRvTk9mb05B?oc=5</link>
+      <description>Source: Google News - AI Education — WL school board candidates discuss AI, budget in student-led forum Purdue Exponent</description>
+      <pubDate>Tue, 06 Oct 2026 02:56:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:abacf72e9da0901d6e0f5d304fb13d9ef3eb7a24e74bf73e42cff3ae3932b3b4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Teaching teachers: Rowan researcher explores how AI could help educators understand student thinking - Rowan Today</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUpuWGhoV0Q0WWlRcTdJUlRpNV9lRjdhaVQtaWRlUnd4c25SVGM4LTdDbXRMOGI1WTlTNjRpc3k5c2RWQ0ZldU5VVWpEOHJUMUJLaXZ6TlRNRUJtR19oWG9TTHIxeXpRTlRPU1RYTlViQU01Yk4xZW9XOXptWExVV0dFOU9lS2E4T25IYkFlaEdMdE5FYmhUeXRmYUFCclBfZU5aVS1KRTFsM3N6M3NIczY5aDhLamZX?oc=5</link>
+      <description>Source: Google News - AI Education — Teaching teachers: Rowan researcher explores how AI could help educators understand student thinking Rowan Today</description>
+      <pubDate>Tue, 06 Oct 2026 00:13:46 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:73a08fa547b2032c08bc2b65a8f27ecc40b2a1b3571b84802b1327a203f9eb98</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Mohamed bin Zayed University of Artificial Intelligence places 1st fellow of Ruwwad AI Scholars Fellowship at University of Oxford - مكتب أبوظبي الإعلامي</title>
+      <link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWW5id1ltX3I3cnVWRENSYmZncjYtb0s1bVZYZzBvbmxiOW1lbTdBWmtVN3lyeGstaHQwVHpsUnBnUnBodTR1djUxQkxma0VVMHR6S1NFUmdvTjNnQmlsUnAzVkM1T3F2aDh3cVlibnZJUTVFbHVOUU9mSkgwLTFyLVQwS1FmYUxSSFBaVGliZ0VkTGczbkRndTR2MTh0Nk5ndXlUWjNIbVUzRlpVV3FWcWtPMTZEZUVHdjRiZk5lTXdPYzYtSU11ZVpTSGx4VVNSelJJUVROWC1yakZlVlhyeVQtRDRiajhrb2hPQUhTakJGRThPN0tKZkNkMnozbnMtbFBGX2dweTQ?oc=5</link>
+      <description>Source: Google News - AI Education — Mohamed bin Zayed University of Artificial Intelligence places 1st fellow of Ruwwad AI Scholars Fellowship at University of Oxford مكتب أبوظبي الإعلامي</description>
+      <pubDate>Mon, 05 Oct 2026 23:16:55 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b58de48968d179da715ff4cca702786c186f6c96804eb27f3c51f1d77dd818d8</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -24,9 +88,9 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>District 742 school board to hear student perspective on AI - stcloudlive.com</title>
+      <title>District 742 school board to hear student perspective on AI - St. Cloud Live</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQNm13bXhlcFQ5T3B3YjhLWEM4Q1gteXBjTHBIVWNIaXhaOWxzRjlta0tSbDMyWkh0MHZ1QWV1RE12Q3dpRUxEYVRxaGxOaDVsVm5SSmZUb0daVXAxQkh1OUl3QWNYenJha05lZTU0M0Q5ZlUxbWljVVlyVW8zWVhwOUJDbGNpWVdUZXh5TzRGZ0YyMFpienhzN0xhZlBXeTQ?oc=5</link>
-      <description>Source: Google News - AI Education — District 742 school board to hear student perspective on AI stcloudlive.com</description>
+      <description>Source: Google News - AI Education — District 742 school board to hear student perspective on AI St. Cloud Live</description>
       <pubDate>Mon, 05 Oct 2026 22:41:24 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c2c9c1c8bddbad78b2654c8977cd09db2f4a3e4e5a82253cd4fbb93c585fb498</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
@@ -43,16 +107,8 @@
       <title>Austin High School hosts AI expert for students, staff - kaaltv.com</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlBpbTZ6bGRsdmZSaE9lbzN6VE53YVVncmR2Zm94eUg3NkpxXzl6eWlzd2xpNHJOY0NsZzNsX3RLR245YWMyakVsSEVsOVdoT0pxYUhSMXhoaVo4LXh4VDluVEdVcG1GQmsyc3pwcUtoUGFLVDJ3XzdtcGFmWDdHTERyRE95SnFCM2c?oc=5</link>
       <description>Source: Google News - AI Education — Austin High School hosts AI expert for students, staff kaaltv.com</description>
-      <pubDate>Mon, 05 Oct 2026 22:01:25 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 20:49:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:990bde08635a44caefbfb652ac9a675dd9e7d7db154e09cad62072158333bf7b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Molloy University Student Develops Ai Powered Cancer Detection Software - News12 | Long Island</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmZucG92eDhNbVNCNHRodGFzdm5mSEk5MjRxM2dndTltSG9adE1PSGRrT3dMRkVDWExZbFdicWFhcE1rOV8zVk5uX2xVLWhwLVRXa05IVVpvVGM2dmZDZFFXZXBaNkNQbnhhMWdzZENoTV9QRmo2WjJLUGpVbVFZNVRaVG55SGVjdGhyZ2oyVzFpdzZoRjR0NkhlaHJxSnM2RlpB?oc=5</link>
-      <description>Source: Google News - AI Education — Molloy University Student Develops Ai Powered Cancer Detection Software News12 | Long Island</description>
-      <pubDate>Mon, 05 Oct 2026 21:36:09 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:9a27074548cd46ea5ec5b35dfeed02a7bbd87c8ce745d011281566de1bbf396c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -65,58 +121,10 @@
     </item>
     <item>
       <title>Felician University Awarded $3 Million Federal Grant to Advance Student Success, Workforce Readiness, and AI Innovation - TAPinto</title>
-      <link>https://news.google.com/rss/articles/CBMinAJBVV95cUxOOGo0Vi1ieGJTNEtXNWFnandHM3hHMURCRjJ1WGpsOWM2ZFhDVjF1MGRUeHNNUDFvUlhkazBVWE0wc0hxeG4tNzlWb1AzQVF5bk9PVWlGV1hpYWNELU11RGs2b1h1U0VHR3JwYXZ0c3BGVFpEVDR4eGRUenpXdXh6b3hSd0p1bm9rWTVGbFVYRjY3Uk10Z1UzRDkzLUpBNERkZWFBYnQ1MEdoMHN0dzZRVEdlNHY5WXNyNGNSWWw4RnNueVZncHJjRDh4MkZEc2pOclQ0LUlVeHl4M0loeGlJNHFZN2EzZDAzMlVrY0E1a2pjSEM1Qy1KSVZhNml2aU8tcllMdkpRZmVzUzduSUpVVFJSQXdnRnJVbTdJXw?oc=5</link>
+      <link>https://news.google.com/rss/articles/CBMingJBVV95cUxPSURlcTFvMkc5cmVzVFFBTEdBbThFMG5USEF6RVhkcTBqRGRhTEwyUEUyaGpibkNYRHd6U2JOSnktWjBSdDNYZnlyRkQ2cjA1N3ptdUVTalJSNUlFSUpqOUVpcXd2MXdkcldzbkZBazN4OVpzV3dvc09Oc1h1cFZpb2lKeXpCSWFsTjh5dnNTOEdVQXY0XzZ4MlppQlowZWtpWUN1MXZKb1Z0TmduQkF3SWNSUlhTYS1UNG81bGkyVTJUc0V2UENzWWZKTkRwdU81emVXSWRoSldtVTJPZDFaMHE5Wmtka0w5OE9wNXRHcGFSa3I1VnJDZE1iRWUzQWlLYXZGMjlXNWJvNGExbW1oNVBWTWtzSlFPWW1sVnJ3?oc=5</link>
       <description>Source: Google News - AI Education — Felician University Awarded $3 Million Federal Grant to Advance Student Success, Workforce Readiness, and AI Innovation TAPinto</description>
-      <pubDate>Mon, 05 Oct 2026 20:01:12 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:236b264e401e6ca070ee93b89aaf2f2e7b34a0973cb8dda8111247f3505d83e1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Stirling student wins prize for developing AI-powered crop tool for farmers - University of Stirling</title>
-      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0hldDVoYjVidkEtaHl3b0U0ZldzOFhEczFyazBfY3lhdnRFZTRObXZEbHd6VmU4eFhkSXF1MXIzOG15Ymd3d2h1TDlTenFjRFhfcDFkdGNteDlic1k3U2pGVUdUX1hPN240RWR6cmRXWHlTcDJtMGpmUXJqYWFXQ1JybWsxaWRUYWdxMEdvYUw1TE9sWi0tTW40Vm5yZ1hVSGpQeUNxTXFhbFdNWUI0dVlVU2dxMjliNzAtaU1fSmRrQW1QelE?oc=5</link>
-      <description>Source: Google News - AI Education — Stirling student wins prize for developing AI-powered crop tool for farmers University of Stirling</description>
-      <pubDate>Mon, 05 Oct 2026 19:20:45 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:cd56feb5ddafbc94e984043fd5f16df0ef4f28e29af829ebebbb98bcdcb7179a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI-related majors for college students | Videos | 2news.com - KTVN</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQbkJzbE16bHNLejZGVDJFSXlzWHhtVk5zcldlRlFEdGpQamd1MFNEbTY2U2RoaHNzMWY3VzlrTTVudzNXc3lzTktXSVlidWFDNXMyNFVTY1RIQXptUHBGOGlyQm5HcU9uWHhvN1JmbXZfeXZ1Sm8zejAzYXQwMzF5T2tpMURhczFMWXZwYkg3U3dTUmdDUEoyTjBiTDBHYnNVOVlpdkR3d3RGSjlIUS01Mnp0cE8?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AI-related majors for college students | Videos | 2news.com KTVN</description>
-      <pubDate>Mon, 05 Oct 2026 19:03:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:687b0df03987415033e29a247ee4179ecff4eaa6cf887ec69c861c57f648559b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>GSFC University uses AI to bridge skill gaps among students - The Times of India</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbko1QnFJTnE1R3lJUVdKcGxTTHRqa3JoVFNYZXVJQ1RObjZiVndOY1EwN052RXdoOFlkMVQ2MmtuYWNiNHVjaGNGUUhiN3M4a0RCM3YxbHpfWXpPU01pQjZtb3lFcko5X3p5MWZZcUdaVzBNUzZOODVrNG5Na0NLcXFCNHVwVG1vWWN0NzRHNlA1Z3FQQ1Z6MmNuajBYdE56SUhIWkQ0cGx6YWhBQU0ydk9hOHJuODNBSjJTSS1URHRIc1R3Q0hPWk9LX2M0eF9r0gHWAUFVX3lxTE92ekpSREd4djdlZHJnTzdwVzJsUWhRS2NRR3NHTTlSWlB4bkFCNHQ5RHZfRUM3bzVFX2dDN2RpcVZXRF9xNUVlLTBXUzI4dnBvY2REaGt5b01oTnBnbUNnMmtkT2MyeFhNTGN4MHBhQUV1YU1YSmhIRTRXc0NnUjIzcEpfakNPdkdjZXNlTEN4U2RfNl95Um9SQTFudzZVc2NWSVlJQmt3Tjk1NWZDR2FCQkR1ZE42UVJmNEpheXdjZzVRbzNrY1prZmxIU0Z4Z3pxMkFadFE?oc=5</link>
-      <description>Source: Google News - AI Higher Education — GSFC University uses AI to bridge skill gaps among students The Times of India</description>
-      <pubDate>Mon, 05 Oct 2026 19:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:c4c500e42346b0a4339b73286f588711353ca0262e3c31849b05020c2a460095</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Mohamed bin Zayed University of Artificial Intelligence places 1st fellow of Ruwwad AI Scholars Fellowship at University of Oxford - مكتب أبوظبي الإعلامي</title>
-      <link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWW5id1ltX3I3cnVWRENSYmZncjYtb0s1bVZYZzBvbmxiOW1lbTdBWmtVN3lyeGstaHQwVHpsUnBnUnBodTR1djUxQkxma0VVMHR6S1NFUmdvTjNnQmlsUnAzVkM1T3F2aDh3cVlibnZJUTVFbHVOUU9mSkgwLTFyLVQwS1FmYUxSSFBaVGliZ0VkTGczbkRndTR2MTh0Nk5ndXlUWjNIbVUzRlpVV3FWcWtPMTZEZUVHdjRiZk5lTXdPYzYtSU11ZVpTSGx4VVNSelJJUVROWC1yakZlVlhyeVQtRDRiajhrb2hPQUhTakJGRThPN0tKZkNkMnozbnMtbFBGX2dweTQ?oc=5</link>
-      <description>Source: Google News - AI Education — Mohamed bin Zayed University of Artificial Intelligence places 1st fellow of Ruwwad AI Scholars Fellowship at University of Oxford مكتب أبوظبي الإعلامي</description>
-      <pubDate>Mon, 05 Oct 2026 18:08:11 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b58de48968d179da715ff4cca702786c186f6c96804eb27f3c51f1d77dd818d8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Tokayev Calls for Expanded AI Education in Kazakhstan Schools - caspianpost.com</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQREJmenFKWnBLR1F2UzhfRWQtWFBtd0w5ZFdjWkZMMVk3Qjk0MktXckFzRzVhR3kzLWVyZGdZMWFvdUtRbF9lTnZQUlF4N3ZSY0FUZ3pvLU5PMlFKbll5MVpTSXVwbHV5eVBtS2FiLTFRQXR3WnNabVc1cnhFbFp4Vll1ZDBYUHFEbGxpMUh5NUVKVEFaOHpqWVpXbHo?oc=5</link>
-      <description>Source: Google News - AI Education — Tokayev Calls for Expanded AI Education in Kazakhstan Schools caspianpost.com</description>
-      <pubDate>Mon, 05 Oct 2026 17:48:16 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:0b08e13635d89a38c0bf4dadffb2649a71200bfc72da34e5b09d4ee9d6b88254</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Teaching teachers: Rowan researcher explores how AI could help educators understand student thinking - Rowan Today</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUpuWGhoV0Q0WWlRcTdJUlRpNV9lRjdhaVQtaWRlUnd4c25SVGM4LTdDbXRMOGI1WTlTNjRpc3k5c2RWQ0ZldU5VVWpEOHJUMUJLaXZ6TlRNRUJtR19oWG9TTHIxeXpRTlRPU1RYTlViQU01Yk4xZW9XOXptWExVV0dFOU9lS2E4T25IYkFlaEdMdE5FYmhUeXRmYUFCclBfZU5aVS1KRTFsM3N6M3NIczY5aDhLamZX?oc=5</link>
-      <description>Source: Google News - AI Education — Teaching teachers: Rowan researcher explores how AI could help educators understand student thinking Rowan Today</description>
-      <pubDate>Mon, 05 Oct 2026 16:03:59 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:73a08fa547b2032c08bc2b65a8f27ecc40b2a1b3571b84802b1327a203f9eb98</guid>
+      <pubDate>Mon, 05 Oct 2026 20:01:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b6af025a109e359460f67e99ece7add4be4f5ac488992a2fa064f7964537d45b</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -206,14 +214,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e5d71c2b540eb98848c4f3a053003f4bc2097ccef93955e5308bff5d9bc217f2</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>Evergreen High School students demand AI regulation in classrooms from district: 'Pencils, not prompts' - kgw.com</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXVFWHR3a3h4b29KVkw5UHJsVTVYdVl0ay12WXFzWkdkdWhVMlYwcmlZSTRpV21QTWdCclkyLVBNVDE3SE9iNjdVQThWbmM1ZDduZmxMdTRRb3ZqcmJpV2dwblU1cXBXenNOV2E0UHV6MzdWUUF0bHBVMTNQQk9uV3d4ZGlaMHVQQU9EdjROQThFZlV5Sm1NX3U1bVp0cGZJemdQTzdtQ2s0RDJXWGRYVXRuV0hCQ3I3c3E0eGU2SkVuUVhTckEzekZRZEwxS2hKSFhIRDdVQmdGQUJ0WFVz?oc=5</link>
-      <description>Source: Google News - AI Education — Evergreen High School students demand AI regulation in classrooms from district: 'Pencils, not prompts' kgw.com</description>
-      <pubDate>Sat, 03 Oct 2026 06:16:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5f6f0aa37f8dd43123e5289d8b60a3274bf139960f672b132010d144675e1b46</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>1,400 educators joined our Badge-a-thon: Day of AI Learning.</title>
