@@ -5,55 +5,47 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 21:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:56:09 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Playlab, NC school districts partner to bring AI to classrooms - EdNC</title>
-      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeDZnY0FuZXl3ZENEV2tIaGp4bjJVOHptaVpJaXJNRjFKUTNOUEYtOUdhWklwYmRnZWtDWWhKSjA3aDl3NTk0a3lqZi03S0Z2eDc1WC15TWNWd1FrdUk2ZkJNdmpLVEltZjI4cHR6Y0xyS3dmWkVwdWlvdE9GSVFXZmhsYlVaMGxuX19EZENqRVdxUjBIOE9zandZOWpsQjE4Q3BnTUhhVmdWa2h0YmxYdEVkZmFyUWR3b19UT18wNDRMMkxDek50ZHpsOUhWWmhLWUJUcjc5cFBlVmRwRngxU2J3?oc=5</link>
-      <description>Source: Google News - AI Education — Playlab, NC school districts partner to bring AI to classrooms EdNC</description>
-      <pubDate>Wed, 07 Oct 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d4429bcf54048392c201e86271c222e585c89f2cbe1bf889e3ee039e4197e5d3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Students at Cedarville University integrate AI into job hunting process - WHIO TV</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPcS15Y1lCMEUtWU4zZXROUHc0cU9wbHF4WGloYzNLZjBQZnFLcXgtN0FUYzNBNWdWYUVZS3AzMHIwenJGTjBQclpEZ3BzdC1ZeDdYNlZiVjN3Tzgtd0dVM3pwNFVELTNGd0VXMkM0cXdmek90SjVSbWk2NG1pTmRBcnZfMHVfU3VlMUdFWmdxTXk2Rm5tY1BDcGhmT0xxT3d2cG5BT3EtVGFqNWc4dzlMRE5HOGh5Q1JUdzM2b1BsOXpZdFpVeGpDRS1BNlQ?oc=5</link>
-      <description>Source: Google News - AI Education — Students at Cedarville University integrate AI into job hunting process WHIO TV</description>
-      <pubDate>Wed, 07 Oct 2026 21:16:05 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:42943d0e933295c47454be15e6de89e938bebcba205538b551f2b8f3204c2ec2</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>What is Artificial Intelligence's place in university classrooms? - The Ubyssey</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTZKVHZuNG1KSUdOWlFGeEdfc25TNVkyLU5zQk1XMlNqcW5BeVlIUGY5Y2hoeU9qV05nZ0pvNHhaTmljZXFvamt0RmRfbktnQ3ZFMVptUm5fa1ZBUE52cjFFLW0zX1Zfd0d5cjJ0enU1ZmRXR0RpeE95WnF1aWNNZVVPSW9haGlVWVdacHloOE5XUE9RdXZ0dHJ5U2VPRWc?oc=5</link>
-      <description>Source: Google News - AI Education — What is Artificial Intelligence's place in university classrooms? The Ubyssey</description>
-      <pubDate>Wed, 07 Oct 2026 20:46:10 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:830e8742861da40125336bef4bb94b6b005a559f8dd0dac9e17084a662aa3a04</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>College in the Age of AI: 5 Things Students Need to Thrive - Yahoo</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2w1LW1RMkhuR0I4bWYyUC1acDJjVHg1SlhIQTE1bDhPd1Q5Yl93Qmh2U2xNX3ZzX2tnRFRzZU82ZVZpRXE5YnRMNXdPSUdjWE1TNzJpLVNtNDhkYzFSZkVIUFhGeUh6WjBhejVZejladnhFS1ZjRTNyeElvMklOS0JOWllkQQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — College in the Age of AI: 5 Things Students Need to Thrive Yahoo</description>
-      <pubDate>Wed, 07 Oct 2026 20:42:02 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:719066420be6d4803e5f303548b440e5a9d12457785c0ed5273634c13f6d231c</guid>
+      <title>Korea to Bar AI Glasses Cheaters From Next Year's College Exam - Seoul Economic Daily</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPVl9sQmdyREpZTjNwTmNhSndiZmlFcklHU2tFQXRSNlRFc1FZMzV1cnkwQ082cnpDbGJPWTY2Z2lBM3N6OXF6Z0ZNRU50VzZvaFBnZzc4N3ZiRmowQzJENlhEbHBIdjdZbUJ4Z3V0bVVlSXk4SllDQ3RvU2ZCNWZ6VnZ2NjN3QzRRdFhteThmRGMxcWVZZDFzUFJ5OFYwd2s?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Korea to Bar AI Glasses Cheaters From Next Year's College Exam Seoul Economic Daily</description>
+      <pubDate>Thu, 08 Oct 2026 01:12:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f41b8d93033a24838a1335528d6017ac5ed307adb5e8bab17d50df1ea1637518</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Engineering student creates AI program for schools with limited tech access - ASU News</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM3FLTFVkN3JpbF9uTmhQRUZGQjZJSGlXNXNaWV9vNnFoZDc4ZnJ4SXk1WkNMN2RzZHFhRVZVT1YzQnlFV3g1SzZRb1ByWUx1V0RmYW0tSENOVklXRm9MN190QUtLZVRwWmE0b09PeVBHalVQNE5mMURQVEtTWTFoSkFBY21oV0w2UHFhbEFGMXRndG9kVDdTUXc2UjlTZ3pEZjNQa3FXeHJjYkdiS29YYVhacUtTVW90V3p3?oc=5</link>
-      <description>Source: Google News - AI Education — Engineering student creates AI program for schools with limited tech access ASU News</description>
-      <pubDate>Wed, 07 Oct 2026 20:38:50 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:14ada9786c33202ac6d3d773f24fb267415b02a8a3442bfeccd0c640e8311981</guid>
+      <title>How Utah students use AI in school depends on where they go - KSL News</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQQWJmTEREOHJ2bWV6aUEtd3ZUQUNnekc5Z2JKZzZ4OEVqWmRGdGRCeUFDUURJaUxTMnJpTl85bk0yaHI5WjJOLVA3RVI5bHpKTkhkeGl3cDhsZmpIMGxYaDVMUVBObWRLci1MOG1DS3pOOVpXX283Q2E5MmZ3ODRpcC1OYWwzeFVCQTRqVEJycml4NTVnaWtySWtsX0g?oc=5</link>
+      <description>Source: Google News - AI Education — How Utah students use AI in school depends on where they go KSL News</description>
+      <pubDate>Thu, 08 Oct 2026 01:08:51 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:57ed76dabcafa8d2beb0d51fe4f05f19b4e988d433f8935aef4090d2d97ca046</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Adapting curriculum in an evolving AI world - Teacher Magazine</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPODZiakxSRXc0Q1JELXJSNmtROVRELVE3U1dFcGxwSnlCNU9wWl9tazQtaUdJalUzSXNQTXJUVnY5WjNWREROVEM3b281VzNyQW55Rkt5aUhkZ01SMFh5a1V6ck9pZHFYbnBCYlNjVU1pZ1J2X3ZnaEFISEYtOFRoUlVZQVpyV2ttZ28tU1p5M1ZKX0lt?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Adapting curriculum in an evolving AI world Teacher Magazine</description>
-      <pubDate>Wed, 07 Oct 2026 20:26:15 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:56d601aecd81cabb95cf30a78cd9848da4358a9b7cb770d2b6cefa6cda3029c3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>Albany schools roll out AI classroom guidance, stressing basics and teacher role - WRGB</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxObkM4U0F5cXZiaTBVT09jUTZjNEZQeXZCU0I2ODZRaWs5WUhIb2VhQzZsdDNvUUZ5dG52SFdMcEZlc0RsVGxmTnRRbXZtaXlLNXR4aGF1eWF4VEJEazFwUVMxUDUwTFVvS3pkT3RIMHhPMHFvZ19zaU5oT3RpU3d2NnAtLW1DSTVGOWRPb1BhQVZRb1F4bDhYNUtrWUt3QS1xcU5zX2VxU01kZzc1U0ZFR21nWQ?oc=5</link>
+      <description>Source: Google News - AI Education — Albany schools roll out AI classroom guidance, stressing basics and teacher role WRGB</description>
+      <pubDate>Thu, 08 Oct 2026 00:53:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5903b64e5d0aa1588330f098974c92146d7f085484da6ec4e71c3cb5dd085681</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Facing an Uncomfortable Reality: Student Perceptions of AI in Higher Education - RealClearEducation</title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU0tINkV0aHNEMVBqcFZ3Wnp1M1BOSGhOdlpsd3VjU2RfZ3hrTUpiY3lXX3NOUjV1ZE9WU3p5WjBxcHgxYzZsVmNhMS1zenp2X2JCN3drQnhTZy1FVFAwMjV0V0h1YTg5cjJvdFZzQW9qM0UzVVgyamxYa1paVTZzMTNOQ0E3RkZSOXRYX0xSOVBTYmVBOHhzamFtM29FRU5Nci1mQXBKRGpJLTY3eW5hZkNPN1FLQWNUSGIza1dvX3d4Z18xV0VycDJvLXY3WFpXOXlPdkM4WlJ5Vjk2YkE?oc=5</link>
+      <description>Source: Google News - AI Education — Facing an Uncomfortable Reality: Student Perceptions of AI in Higher Education RealClearEducation</description>
+      <pubDate>Wed, 07 Oct 2026 22:18:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:37f948cf7b847d347dd40138b3c08f50d0a35cf790e6926b97575580e7b453f3</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>NMSU dean on nation’s first national AI advisory board for public higher education - New Mexico State University</title>
+      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX2VDeERiVzBhdkxWT29wLWlfbkZ1UWpNdUo1N2Z2OE5IaWd5ZE1pTjFpUENNSGRXZ3RTMFljelZ0dkhhc2pXYTByUUpGRzF4NTE4U1Z5aWZDQ2R1ZWFVYkpUZUpJMm4tOEhxVEVjWExIWnpWWW1wZU1iUlQtSVdKS2lHOURqNU13MmI2cVV1c0VIQUp1eGl5ZXRCNGtQMTlIUmduX0xZdjFySFNFbVhhc1N4ZE5sczZCSENZZVpDbmVkN184TmItU3VvMmdqVjcybFdKZkZ4ZzhPVEhPOTFZYlBXQ2RTTHc?oc=5</link>
+      <description>Source: Google News - AI Education — NMSU dean on nation’s first national AI advisory board for public higher education New Mexico State University</description>
+      <pubDate>Wed, 07 Oct 2026 21:58:12 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9978470e4a0b5b1f08e669108aa126b4f996a2960f7e6d4cc2a13d10233107fc</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>OpenAI Announces College Planner and Study Tools for ChatGPT for Teens - Unite.AI</title>
@@ -66,10 +58,10 @@
     <item>
       <title>Colorado State University Global Earned the AI-Engaged Campus Designation from the Colorado Department of Higher Education - The Manila Times</title>
       <link>https://news.google.com/rss/articles/CBMiogJBVV95cUxPTlRoNW9vWV9QTVEtaTVKYjlNMzNGT0w3V0hkWWhNLXdTQ3h0alNKTUkwQjBlcWMzN0NaVFZ3MkVwSFdCemRlUnBvTHZIVTh4b2p1cHpIaVlOM2J4cnRrcmRNb0J1VkYzNXJkcjN2d3JoaWNHMy1CSlZLa3Vuc2xJMG5QOFBpMmVzRzVJeU1qM2RtNDFZanBmaUhUaVF6eC1jR1hSZVBra3BOamszMHd6VFB6cVN1Skx0X1NEM0lRTk56MkNrcUduYmdmUVdFOXVvX09kaXVaVHZET2tyY2REclozTW8yQ0VWSlhnVy1qNGpqcG93SmRVSWdydlZKMnhWd01qUkVfNXVpWVpQbjNwTHZPRktkR2Y3X0JDY2gtazJpZ9IBpwJBVV95cUxNUXpibFJWdWllcHJWR0ZyU3Q5QUh4YURmb21IcEZld2FvSlhFcGM1OUFXTzctX3hfcnBvTDZmQnZXYkZVSk84eHVVSVR2UDhLdUU4R1k2clBtOFJyRnFHNFFsaENzNHN3TEJFMTJmd2JHQzhWVzB1Q3VwS1RuTXppZXpUbldNMS1xeC1RSV9oRzY3cGRHMnJDc0FmdklZRGZFQk9zUFVIa1lOLTJuMk5rR21DeDNzTWNCSjVvekNmS2x0WGhsd0MxM0lpRmtDMm9IZjYtWVg1V3RBanZlZ0JaQ3c0dk5wZTFjNTBERkExdWd6LTBLNmhzaEpfSkFiUTRvY3JQaDJhN1lCaXY4QWZYNUFWZDZMNU5iQk1uaHM1QjBaaTZwUTRN?oc=5</link>
-      <description>Source: Google News - AI Education — Colorado State University Global Earned the AI-Engaged Campus Designation from the Colorado Department of Higher Education The Manila Times</description>
+      <description>Source: Google News - AI Higher Education — Colorado State University Global Earned the AI-Engaged Campus Designation from the Colorado Department of Higher Education The Manila Times</description>
       <pubDate>Wed, 07 Oct 2026 15:13:17 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b31419f0a17bc93f395aa087fb7b91e20051921e32fe75a24e2669d14b17c53b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Erdogan highlights expansion of Turkish higher education, AI and university innovation - Azernews.az</title>
@@ -93,6 +85,14 @@
       <description>Source: Google News - AI Education — Stay in school, brave college students. AI may loom, but you still have value | Opinion Kansas City Star</description>
       <pubDate>Wed, 07 Oct 2026 10:06:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5c8fa0df92e85ea52a216a12346a09d626694e41b5264b7d0a0d0cff1bd2dab7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>UTulsa expands AI education from campus to Oklahoma classrooms - The University of Tulsa</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNM0loY3FKc1dBeTluTzVUWk5wTl9DZWhUcVdUVWk2YzFMS3FLeklyOEZPYW9Ubk10NjJ1VU12Mi1odVFHYjlyQm1vaFhCeDJEa1B2SHlfOTJRUk94TFNwNWxINmQ4NnlKdi1Gb1JFVXhqQzZfODVqTW5oY3VIRDZKcHJiX2ljWDVhemZYZVpmc2Y?oc=5</link>
+      <description>Source: Google News - AI Education — UTulsa expands AI education from campus to Oklahoma classrooms The University of Tulsa</description>
+      <pubDate>Tue, 06 Oct 2026 21:52:09 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:76278590a09726ed6b55f8e8f0dd7a78aef4417971f5ccf354403316161a8f9e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -232,12 +232,12 @@
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
-      <title>Will Kids Pay the Price for AI Panic?</title>
-      <link>https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic</link>
-      <description>Source: EdSurge — A backlash against classroom AI is sweeping public schools. But as New Mexico shows, blanket bans risk robbing students of early literacy interventions.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e5d71c2b540eb98848c4f3a053003f4bc2097ccef93955e5308bff5d9bc217f2</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
+      <title>1,400 educators joined our Badge-a-thon: Day of AI Learning.</title>
+      <link>https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon</link>
+      <description>Source: Google for Education — Many stars bursting out of a laptop</description>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d0ea6e16df857936305e103e74d13241a2dc395b3f9309cfe1a40e5174cb858f</guid>
+      <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
       <title>Higher education’s AI advantage is the intelligence institutions already hold</title>
