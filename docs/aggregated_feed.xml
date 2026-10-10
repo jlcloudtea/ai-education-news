@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 18:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:32:43 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>AI faculty launched in Tehran-based university - Mehr News Agency</title>
@@ -112,6 +112,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
+      <title>Column | Artificial intelligence is a plague in higher education | Columns | Opinion - The Daily Collegian</title>
+      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbW9ELVFyWkJ6d0kyTXJGd3d5VXZrcEtrX0xBU19ydE4xSnlFVDhuUWlVVXFxUnhMWURVQWJ6UFZfc0JiYm16bHlVSGlyM1k5WHpGYXQ1R3dSUzdoWlVLbXA2Vlo1bm5Pd25hb3pid25kZUNDalRFdGZWUHU1T21hUXE4dFFZZDdQR1dVMG1JbDFscm10SFl1dUI2enNIaTZaVUdXZmhtTnZPTVpvcmk4VHp2VUF1enZxd1U4M3JFNGoyNzVpWDdVZnNodVduM3QyeFUtZjE4WHFvWnVsUjdLMi05VHF6S2RRVVR1U0pYbVBIUQ?oc=5</link>
+      <description>Source: Google News - AI Education — Column | Artificial intelligence is a plague in higher education | Columns | Opinion The Daily Collegian</description>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c6c4b90ab69d25a25599c62e4d09910d07610b0946c374ac03df8b87018fc839</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>GEMS Education Unveils GR8 School, a World-First Fusion of AI, Teachers and Industry Experts Reinventing Education - Business Wire</title>
       <link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTks2NEhESUs2N2pYUkN4eVBVUkRxektydk5ia1RWX3gzTy1PUkVMeFVKbHZFZkVFaXhYVF93c0lmenZzSFo0Wk9NTDZEZHZ4NXY2clg0Z2YwT1dJMndiTEJMMjRrREdrYkQ2Tlg4M3FnZGQyVU91Y2d4bDNHVjV5c1labDJhLW1peHp5ZC1mSWxyQ1UxWWlSS0cwX3hvakJSNHA4NnkyZDdhYzE5S0NVbFBSbFFObktYNzd4Z0cxWWNUSmZPUWtIaEJ4SXhBZVlQTGduTjl0SDhEaHBwemszODAzRWNRTjJvZnFTdC0yRXZZVzhFU1hoV3Fla01XQQ?oc=5</link>
       <description>Source: Google News - AI Education — GEMS Education Unveils GR8 School, a World-First Fusion of AI, Teachers and Industry Experts Reinventing Education Business Wire</description>
@@ -134,14 +142,6 @@
       <pubDate>Thu, 08 Oct 2026 00:53:05 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5903b64e5d0aa1588330f098974c92146d7f085484da6ec4e71c3cb5dd085681</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Facing an Uncomfortable Reality: Student Perceptions of AI in Higher Education - RealClearEducation</title>
-      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU0tINkV0aHNEMVBqcFZ3Wnp1M1BOSGhOdlpsd3VjU2RfZ3hrTUpiY3lXX3NOUjV1ZE9WU3p5WjBxcHgxYzZsVmNhMS1zenp2X2JCN3drQnhTZy1FVFAwMjV0V0h1YTg5cjJvdFZzQW9qM0UzVVgyamxYa1paVTZzMTNOQ0E3RkZSOXRYX0xSOVBTYmVBOHhzamFtM29FRU5Nci1mQXBKRGpJLTY3eW5hZkNPN1FLQWNUSGIza1dvX3d4Z18xV0VycDJvLXY3WFpXOXlPdkM4WlJ5Vjk2YkE?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Facing an Uncomfortable Reality: Student Perceptions of AI in Higher Education RealClearEducation</description>
-      <pubDate>Wed, 07 Oct 2026 22:18:52 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:37f948cf7b847d347dd40138b3c08f50d0a35cf790e6926b97575580e7b453f3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Gemini helps me bring hands-on learning into the classroom.</title>
