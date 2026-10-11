@@ -5,14 +5,22 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 08:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:41:43 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>AI faculty launched in Tehran-based university - Mehr News Agency</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOaUFWSVZOcnFpSzhraXhxTTNUYThQX2pHMmJxRFhrRW5iYXlKWGNwcnd6THhRVTAyc2ZlWXBjU3gzWlVtaGU0aXVCcXlpTjBsVmswVmNWYTVqaXlOSGFQekh1UlFYUGw2elIxVUZLMG8tbmlFRFZmaFQ5UW1fNE5IVnFfdTdSSmhtcVE?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AI faculty launched in Tehran-based university Mehr News Agency</description>
-      <pubDate>Sat, 10 Oct 2026 12:28:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:c8d839a6210ad95aa3b3cc68a4a8d680b94b1c4addc2a3b421315dcaad23dff2</guid>
+      <title>AI in University Career Centers: Benchmark Trends and Ethics for the 2026–2027 Academic Year - College Recruiter</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2l0NGI4dGdodDRWLVFWN2xpRXd0VDctd3ByTGdoTUJKU3Z2cHBadmdaR3piYWZ0YXRhakhDc2Q2Tk44U3lpVXpITWI4WDVHaGFfdTBtdDVPZENDNWkyY0luMTdITFlyX0c1cXlEMUJXSmxZd2xITG1qTU1tRFZGZFpuNUw3RmQtRVJSRklUTWxKZVFkaDNpZldfRjZidW9IcDB2T0JLWmVpZDZrbTBoaWs1TjViSlF3VGZvN2hZSkZ1bUVFVjY1MFFRMlBtX3JNZkhUdjJlTDk?oc=5</link>
+      <description>Source: Google News - AI Education — AI in University Career Centers: Benchmark Trends and Ethics for the 2026–2027 Academic Year College Recruiter</description>
+      <pubDate>Sun, 11 Oct 2026 13:25:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:57a6b8cb16a8e4bac863a7dc9c9c8bf038ca3aead4cdf3a8c7f24ffd77f53ef7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Is College Still The Default Path When AI Agents Are Doing The Work? - Dallas Express</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNYi1uQUZ5TWFYMnpKNUthRzhONTZremwxTVUzakdEZVdiZ05WaWpWOTZKY2hJbFoyRlU0QnBPSmNsWVhiOG1QR2w5RWxCZm1CVm5kUmJRU3ZYd3pNNWl4R0lLV1FzMFZiZGxkNXZCLUtTTE8zZzBYa2IteVVQd2x4LUZMczl3dXBURTJGem5qSDVjQ1BLZGV4dTNVWkFDdHhCUUREUEc4NGtXR0Zq?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Is College Still The Default Path When AI Agents Are Doing The Work? Dallas Express</description>
+      <pubDate>Sun, 11 Oct 2026 11:31:16 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c14a0c0b91515a6702a6a7429ab8e59d0940e1b70074cff34e76bd2dc0046f8e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -64,14 +72,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Video: AI agents repurposed a University of Toronto link-sharing tool to communicate with each other - The Globe and Mail</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPdUo0SFRVZDlGYmFpZXZUOE15SDBjZm9OcEc2UnJodVh4c3ZEeHZpQmRQRjNvZDhOZXZNQTFMRURTcm5IMUx0OXBUY2RMRF9LYmEzYWFnT041QzFBX0xRSUtkRUlVWWhCRzZ0T1Z5OElyTDFsQ0dZMUk4Tm8xSFVSeTZrMjdua0Vua1dybkZxdkhVa0d0OGlQVXJKVVJaVmhYakZpT3UtQ0duSXFnRlRfR09rVVNLSEpERVZhYjhn?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Video: AI agents repurposed a University of Toronto link-sharing tool to communicate with each other The Globe and Mail</description>
-      <pubDate>Fri, 09 Oct 2026 21:58:41 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4b960556a757cb206ca0df656cc4dfc5cc8ff5e364c2419a11befe84e38499f6</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Frederick County school board votes to ban student AI use - WUSA9</title>
       <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0ZwSUctNW5qamh4WDFaVHIxX2xFaWdQRHQ0Rk41bzlvOUtTcHFvX0VsU2VaUkpkeDh3Qmd3VFRNbXE5NzNERk5qNzBJX1U5N0k0TWdvU3dZcklseVNEamtzNHdtTmVIZlhQUEt1ODFhVW1POFRuRGFfTHR0OEFKM3dKQjV6SzFzbTZzUXFtejJaVDJLRGxOQjE2RWZmVTE0YTBTTWZTQU9ZNFZ2anZpZHIwaVZ5M0RQVFdWY2FDbjA3MVlYbHcxTEdKZmgta3Z5TnR5clRINA?oc=5</link>
       <description>Source: Google News - AI Education — Frederick County school board votes to ban student AI use WUSA9</description>
@@ -80,20 +80,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Indonesian teachers need a say in school AI policies, Cambridge says - The Jakarta Post</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX3dPbG1SNHhnQVpNSkRIVkZ1MHR4MEhoVkNISHVfdzJmX0x5MG4tb05OblduRUpXZnBOV3ZpT1p6LTlhT2F4ME8yQTR5VjFNMzA0SFhfX0lZTFJUYUtiaEw3VnBFVk5YZzA0M0E2OUQwUkx1bFhKeHlFZVZmQ0w4M01McllQZVhYZTNQdWxBb2UyQnh2M1ZWbnE0OEdBS2lvckk3QVdvNFg3QlgxVzc0dXRQX01fV1JRQlBJ?oc=5</link>
+      <description>Source: Google News - AI Schools — Indonesian teachers need a say in school AI policies, Cambridge says The Jakarta Post</description>
+      <pubDate>Fri, 09 Oct 2026 19:52:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f1c4d616d9ed4a783d9f7a2477eb17a7b9aabce92bde2362fcbf927fa9a5a59f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
       <title>School District Just Banned AI Across All Grades Weeks After Rolling Out Gemini - Yahoo</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXlLM0hUVTlUMW11cS1MdzNJY3dwQ3Nld3JrNEpUNzlMRm1lUXJhcHpEUkVGcDQteWFsdmtjTjBKUnB2U0I1NzBvWU5sVnlTaVgzTHA5YW1vcG5XUEZ4cDk4SWo2aWZlaTd4YV9XX1FPS3NfMmJEeDEyb2wwZkdhRmJkOTg2Mnk1MHpqVg?oc=5</link>
       <description>Source: Google News - AI Education — School District Just Banned AI Across All Grades Weeks After Rolling Out Gemini Yahoo</description>
       <pubDate>Fri, 09 Oct 2026 17:26:50 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:1a7cbcbbab5f356ed6b45f5a92e5047d1fec9b87194d21b6c4e3838c4994b30f</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Students are already using AI. Colleges need to teach them how to use it. - Durham College</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxObDBJb1RWU2FZdzRFdGMwbThqQV9ObFJpaWplYVZ4MkFtZDI5M1JBaWRZbDNGMEJiSE9ZSjNoV2Y1Rl91cjdFd0NiX2p6b3dRSFcxWWlHcVdTMnoyODFnbUQ3Z0NvWmxfeExHZEk0YzNxaWU5MzJPRWU1RFlEWWpSbmJ3TEotZGJvek9hWlA3OVdIbE5vUzV0d29tYm9XWEhxa2FDRVhCQTE5ZnJmaVlPLTU2NWhqZw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Students are already using AI. Colleges need to teach them how to use it. Durham College</description>
-      <pubDate>Fri, 09 Oct 2026 13:30:42 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:44ee6e69fccb6d2d89fffc011a810961b70df55e0e030315c095a65bbd11e66b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>As frontier models go rogue, colleges beef up AI cybersecurity education - Cybersecurity Dive</title>
@@ -128,19 +128,19 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>GEMS Education Unveils GR8 School, a World-First Fusion of AI, Teachers and Industry Experts Reinventing Education - Business Wire</title>
-      <link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTks2NEhESUs2N2pYUkN4eVBVUkRxektydk5ia1RWX3gzTy1PUkVMeFVKbHZFZkVFaXhYVF93c0lmenZzSFo0Wk9NTDZEZHZ4NXY2clg0Z2YwT1dJMndiTEJMMjRrREdrYkQ2Tlg4M3FnZGQyVU91Y2d4bDNHVjV5c1labDJhLW1peHp5ZC1mSWxyQ1UxWWlSS0cwX3hvakJSNHA4NnkyZDdhYzE5S0NVbFBSbFFObktYNzd4Z0cxWWNUSmZPUWtIaEJ4SXhBZVlQTGduTjl0SDhEaHBwemszODAzRWNRTjJvZnFTdC0yRXZZVzhFU1hoV3Fla01XQQ?oc=5</link>
-      <description>Source: Google News - AI Education — GEMS Education Unveils GR8 School, a World-First Fusion of AI, Teachers and Industry Experts Reinventing Education Business Wire</description>
-      <pubDate>Thu, 08 Oct 2026 14:03:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:99b88cc53f8c005cf146c0cdf96c280774f10f833b2bf08f9214041d8c31f9e9</guid>
+      <title>[WEBINAR] AI in Higher Education: How AI Is Reshaping Teaching and Learning - Ipsos</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGpLbmVKajZ3SW50SnU2ODU5UEZjQ19RaEZfQVdlazZkSjR1NC1GbUpWODBrWWw0TW1zRkNTM1NTSWpoNVhRaXpEVzhwYVk0d2R2MTZ6cXZGWDhXVVpyNFYtdmhKTi1wMDE2dEQxUG1mQzFDTG9kTkh2S19XYUhvdzZqc1hMd2RCWFd6Ym04QVlpQU9YZllMeFdB?oc=5</link>
+      <description>Source: Google News - AI Education — [WEBINAR] AI in Higher Education: How AI Is Reshaping Teaching and Learning Ipsos</description>
+      <pubDate>Thu, 08 Oct 2026 18:05:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:635cdb5b345eebb35788dae2b6c81ac856c47437961d51393609b9a7bacdf127</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Despite Rise of AI, More Skilled Trades Training Needed, Industry Leaders Say</title>
-      <link>https://www.the74million.org/article/despite-rise-of-ai-more-skilled-trades-training-needed-industry-leaders-say</link>
-      <description>Source: The 74 — Businesses, local government and schools need to do more to attract students to skilled trades — and work harder to keep them in those jobs, a coalition of major manufacturers led by the Ford Motor Co. reported last week. The rise of robotics and artificial intelligence isn’t lessening the need for skilled workers, industry leaders said […]</description>
-      <pubDate>Thu, 08 Oct 2026 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:28e6b8a7a3ea13a4c1035cd7aa832febbd552349f9a880cdea439ab4c27cc12d</guid>
+      <title>Opinion: For Many Schools, Implementing AI Has Become a Minefield. How Congress Can Help</title>
+      <link>https://www.the74million.org/article/for-many-schools-implementing-ai-has-become-a-minefield-how-congress-can-help</link>
+      <description>Source: The 74 — Weeks into the new school year, artificial intelligence is already in the hands of students and teachers — whether school systems are ready for it or not. The rapid surge in classroom adoption has vastly outpaced district readiness, leaving school leaders scrambling to build guardrails in real time. While Congress and the Trump administration remain […]</description>
+      <pubDate>Tue, 06 Oct 2026 18:30:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1879705243ed906002ef30dc4ebb2f2b18cce563c57564006a946f7969205b99</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
     </item>
     <item>
