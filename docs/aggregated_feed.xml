@@ -5,23 +5,47 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:21:33 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Musings: Students need teachers to guide AI use in college - Newsday</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSW9mQktKc3VkWEk2TjBGUmdWMG5KM3NsQUFqa3U1Tkx4cHAwcWJvSTNsWEZSRzhsT2ZuREMzRHgtQkdSUm9aTnpxX0dQenVUbXVUci1QbXBOUXdsVFd0dlIyY001UHFTSTlmWURXWldvY2ppcHE3blozSGQwdG5TQkhieEIwc1Zl?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Musings: Students need teachers to guide AI use in college Newsday</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:899e09842262067a006ab83ab6ab7d2d44f64489bcb288833dd65456026bad57</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI in Teacher Preparation: Why Student Privacy Must Come First - Faculty Focus</title>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnJsQWt1RXV6dGRENldSYV9NTEg4Zndpbk5kUmdJSG9TZEJMUVRCQkFoVjdmd0NQR1RxNlV6QlB2dmRHMVJtSUJ3eDdpaFI4TjhRT3JBdHlmSFVycVV1OTM3Z3JBaGVRaDUzRi1FNjNtQ19NZm5HS04wX0hSblRhYlhRN1U2eWFGVmFjTkJwdDdFSVoyX3JGZWdVLVBoZFItb1lwc1p0MzMycHhMZGdERFZSVUc4NVUtSVpBb09lUjZ1b1drQ0w5YV9HZWFSa3M?oc=5</link>
+      <description>Source: Google News - AI Education — AI in Teacher Preparation: Why Student Privacy Must Come First Faculty Focus</description>
+      <pubDate>Mon, 12 Oct 2026 04:03:50 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:35fe21aebbd99f60009b763bb91e9e5043cf35e4440ac91901842c2e673ce33a</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Why every university needs an AI-evaluation layer before an AI curriculum - The Hindu</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlEzczc4WjFTdXFjMms5MFRJcjhmSHhKVTNJdzhPdEtpU0d1QzJZNUVHdGVKczBzdDNMekVXeWJYVFNrZXI5Q0tNZlFHLV84dzZvOWNCcWhDd3k5Q25PM3E2a2swUzA2N1RrZHpWd0xPVUM0dDZtbzVQRF9DSXFvVEo0bmNIcGVXM1VNYkJDWHR0YnBwRUhmci1GYk5JS3Y3Y0Rwa2txT1UwQ2ZPdXBmZHdDT0Z0eTlBUlhOTkl4Y2FndUNfWkpoeXhfNjBvdkF0N3Rn0gHaAUFVX3lxTE1adExxb1NGT1RrQkdWY0JKT0tGOThtYUtPcl93NUhaN0RPOGFLR2pJTFN6M2pKQ3J2bUYxRUZsZHhqWTV4bUNTQU9tTkhZMWJDc2p2ZHo2U0RTSkhONE1MV0NqUlpZTHg2UURsSDFTZ00yTVlwMEw0WGFueXUxUkx5YjVFT0ZGRTJQTWt3SlFoZDdHTDM5MDBoaF80bnktUU9uU05MRkZlWDVOZnJDa2w3eEVRMmF5OXZjOWpOTlF0QTJYU3dST0ZMQUQ4OXFGUzI1V3VOb2Z5VWx3?oc=5</link>
+      <description>Source: Google News - AI Education — Why every university needs an AI-evaluation layer before an AI curriculum The Hindu</description>
+      <pubDate>Mon, 12 Oct 2026 02:30:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:6366d1405cf5d42f78fd75d6fb300fc7be1af7615f076736ad04ead6b9f87d80</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Queen University Belfast opens £100m ‘Factory of the Future’ for AI, robotics and advanced manufacturing - EdTech Innovation Hub</title>
       <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakY5V18waWdaUmdfb0hITGVMLW5DbHlYWGJoakxwNWFlNHhUQ09KSDNzUWo1dENpaEV1QXlEOWtGMmxrSE5Ub2ZrT0ppeU9VUzdDR01ueDFwcl9HMWxUZDVPeHN5ZWVNZUxIOWp6ZUhJeGF5d1pYdVZETnd3MEFWaGNLSDFuMzc5M1ZhVkp4Rm5ubWhRWE5GOXlscG9BYUlhY0RwMFVPMmJVRHlFZi1RRmloOHBBdlBWaUwtSVZhRjFOQ2tYemtUbFVKOHJDT1ZudDMtdDVaNHY?oc=5</link>
       <description>Source: Google News - AI Education — Queen University Belfast opens £100m ‘Factory of the Future’ for AI, robotics and advanced manufacturing EdTech Innovation Hub</description>
-      <pubDate>Sun, 11 Oct 2026 23:18:09 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 23:15:22 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:12303663394539b0378796176107c247795dfe0b43e116c9bd485d0d0df3b38c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Chungbuk Nat'l University's AI, business programs draw 1,800 int'l students - The Korea Times</title>
-      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUFUTlpPRXRpS3RsU1FMcGdJSXZUQVdzcVhzNlpKcWNld29KZnBsQ2NIVVhjQ1ZOTGxxSEtPaGhYQTBHQmttTWNuTnF1WWg5NjBmYmpJNGVfaENBZVczc2wzMnJFUzR3QUNvUXpyYS05YmR0MTBkVjFTY3A1NUNPVG54ZXBVNjAycjlrTU1qN01teGNiZDdEN3psQUw2QkhKNUxMNi1OdFRQWHVTamU4SWQ1cWpaVzZaNTBYWGZ0UFFjR0hXUHUyLVJ3ZGdzRklrVzBVZVZ5QU9fZjVzaWdCR2JfS1VrQQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Chungbuk Nat'l University's AI, business programs draw 1,800 int'l students The Korea Times</description>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWU83aUI2dmxRM0twaUE5VGx5OUZYRHRiOVpLZWFORVF3cnB6aUpIdnEteF83cW9NNjZ3aHJwYnNfMk9oTXp3MVUtcDNUU2JzLWJFNGxmXzUwVDR6ejNWenkxQnZoSGxHTlQxa0F3dDRFbzhCMl9OUWZYVWJLSnBPSG1fQVFtYTdmNzI2cDgweXhQaFZnM05SVHo3Mnk5NWI5UU5aQkdTTlNLaVJHRXl4TW1YdlBBZm1KM1E3UTFPRzJQSVhQaUduONIBzgFBVV95cUxNUFZkVVN3TWRCNVVCR1dJVy1UX182V00tY3BJM0NwNGl2UG9MblMzRGFhcmhqMTVEcURyUldENTluMFU5bmh6NkV3RHozSU1zYktGT3M1SHpIQjNDQ2l1Q0xkdXRWRk9yenBNMnB3V3dlY0NGSEMyemFTWTh5TmVfVktXS0l3c1IweWpNVXo1bzdjM3NUNmVpWWxWX3dRMkg3TG1RMXp5MFdXZUNNdDJKUC1TOXN4TmZSc1BVOVZPMlhPSERmLTlmaThtaElIQQ?oc=5</link>
+      <description>Source: Google News - AI Education — Chungbuk Nat'l University's AI, business programs draw 1,800 int'l students The Korea Times</description>
       <pubDate>Sun, 11 Oct 2026 22:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a40a2341cd003e2676310dbaefcc142b0025bc9f320366c536e7e8260c389a40</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <guid isPermaLink="false">urn:sha256:193d5082aeb172a3b2a300eb00fa4a383e5cdb3b7a139cf8c2c35ea1dba576ab</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Student Senate asks university to regulate use of AI by faculty - The Daily Eastern News</title>
@@ -56,6 +80,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
+      <title>AI faculty launched in Tehran-based university - Mehr News Agency</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOaUFWSVZOcnFpSzhraXhxTTNUYThQX2pHMmJxRFhrRW5iYXlKWGNwcnd6THhRVTAyc2ZlWXBjU3gzWlVtaGU0aXVCcXlpTjBsVmswVmNWYTVqaXlOSGFQekh1UlFYUGw2elIxVUZLMG8tbmlFRFZmaFQ5UW1fNE5IVnFfdTdSSmhtcVE?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AI faculty launched in Tehran-based university Mehr News Agency</description>
+      <pubDate>Sat, 10 Oct 2026 12:28:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c8d839a6210ad95aa3b3cc68a4a8d680b94b1c4addc2a3b421315dcaad23dff2</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>New Phoenix Scholar issue examining AI, institutional trust and the future of work published by University of Phoenix College of Doctoral Studies - PR Newswire</title>
       <link>https://news.google.com/rss/articles/CBMipwJBVV95cUxQamk3eDZlYWNmUXU0MlJBZXhlXzFQNFJ1ekVmVmNzNGs0V2c1TnJTUUZFOEg5OFhLSFRfMHZxcDBYUEl0TUhveU5RTGVqMV9XRlo5dVh3QWk3MHhUd3lhNjV4SlZlSFhmTXMwYkFJWHRSSFZQWEU0VHZLR1VtVy1SM2xPWnpWZW16a2ZsTnFWU3h2dlAyWkhVWHRzY25pSnV5UFhFaUhTV3UtMVNidDg5cFBMeUw5T19LVE1GSF9uc1lSOVNaVkFKY1F6dFJzOHgtQXE1Z0NueXROdzhXUHZHTk1nVE9OWm8tRjZlUDdqUnhJNTBLUDFTRm0xbTY2amhCa1Nnd3VOaGJackNDLThjOWZFSHpTc0d4UDU2R2dyM2g1bHpPVFQ0?oc=5</link>
       <description>Source: Google News - AI Education — New Phoenix Scholar issue examining AI, institutional trust and the future of work published by University of Phoenix College of Doctoral Studies PR Newswire</description>
@@ -80,46 +112,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Fairfax County schools block AI searches on school laptops - WUSA9</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeWdYbEJTU3N0V0dHSWVURXI3TU0xbGdTUXRDcFAzNjZOQXZFU3luUkZUaUM0SHRoc2JQa3F4ODJoQk9vSFptZ3plR01ibTZCUTU0bzBLdmNnSmNBdkU1bENKQll1dzNfeDQ0R0xOdU5ldHd3VVp0STVCa3NCaFEwWHdfdzRKSF9VSW5yN1h2dmhhUU52b0l2dnZWOVVfdzl2N0t4cUM4OHFCQnlEMlRQOVo0T254ZS15R0QtdkpweDdMdkZ3dGlteHpac0dIYmdYeFFobmtISi0?oc=5</link>
-      <description>Source: Google News - AI Education — Fairfax County schools block AI searches on school laptops WUSA9</description>
-      <pubDate>Fri, 09 Oct 2026 23:32:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:44ad73d73f181e94cb14626dda3a27ad33ea1b5f816e68476c7b60dd0acc3dd6</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Frederick County Schools are banning AI in Classrooms, but not forever - WUSA9</title>
-      <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxNczM4LUhXLVZkUVN1YzFaWlo0WDRSaU1FTUg2X3RPNGpSUjlCcm5aQVdnTTZlWk5UZnNpVHhaaV9hR1FRdzdLcDNxZUs1eElpX25rMkRGOS0xdWRTRUJKeE5uSlJnQUhTUFFMbER6aU9XMFBJOGg5RjNfSHJCa0lIaTVjdnRza3hla2djdU5GUDkxamRPcVl1TDVLUkN4Uzc5czcwY1lqT2N3b2swZWE3V3ptOVlhNTVtVFpuaHFRZzQyanYyTlI4WHFpZ0I1NzVsclYzYV9DYmtnb3AzaUd3TGdFNllrWWVZcnc?oc=5</link>
-      <description>Source: Google News - AI Education — Frederick County Schools are banning AI in Classrooms, but not forever WUSA9</description>
-      <pubDate>Fri, 09 Oct 2026 23:22:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ddaca40d6725c5a30747be7ca2d3b88bfa13fd7e90364e42a45da1984eefd8d1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Frederick County school board votes to ban student AI use - WUSA9</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd0ZwSUctNW5qamh4WDFaVHIxX2xFaWdQRHQ0Rk41bzlvOUtTcHFvX0VsU2VaUkpkeDh3Qmd3VFRNbXE5NzNERk5qNzBJX1U5N0k0TWdvU3dZcklseVNEamtzNHdtTmVIZlhQUEt1ODFhVW1POFRuRGFfTHR0OEFKM3dKQjV6SzFzbTZzUXFtejJaVDJLRGxOQjE2RWZmVTE0YTBTTWZTQU9ZNFZ2anZpZHIwaVZ5M0RQVFdWY2FDbjA3MVlYbHcxTEdKZmgta3Z5TnR5clRINA?oc=5</link>
-      <description>Source: Google News - AI Education — Frederick County school board votes to ban student AI use WUSA9</description>
-      <pubDate>Fri, 09 Oct 2026 20:54:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:be038a6dc0a7ab5871d2b9627bbf19db5890b48beef32121b54ae28f3edbd99f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Mark and Mary Ann Carangi: A legacy of learning, loyalty, and the future of AI - Ohio University</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQZVFsUjhteHVIV2dmeG5ybThzYU1LbDR1ZUhtN19jX3hTbzVYVDNVMjVfWUtEa240dW1KckZTMTFNLUpiZDlOOHluN2g0TG1nX1pCU3R4azk1OXJJanJTN0RyTHB0blRxT3FYQjJPUlVaSXpGb3JJXzJ2SmRkanlNUWZ6YWVMNXNoM1hVS3ltcURaWnc?oc=5</link>
-      <description>Source: Google News - AI Education — Mark and Mary Ann Carangi: A legacy of learning, loyalty, and the future of AI Ohio University</description>
-      <pubDate>Fri, 09 Oct 2026 16:55:21 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1001cb9c265393e79deefb8ad49d8eb1b86a9afbae1790b4ce05decddb634920</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Ridgefield Schools Review K-12 Writing Instruction, Launch Technology And AI Oversight Plan - Patch</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG1Kb1lmeS1mWFRFbFk2bmdGbmVla3hGLU5zYUk1TmdMQzhDTlUxWXJ3cE5RYWI3eG9QSVNXNmZTYzhNa2JzV1N5UkVNYjRNTU1VTEpNWXpMVWV0ZGJDRERhdHhaZVltSXNyRjk5ejcxZklVdHhiVGtVd3VWcDVQRDVvLVVMWE0ya1l3UDZxN0Vid3hjd3pZSlFtZ3VadndmWnJ3QUFMd202dWxzVi1TNy1R0gHcAUFVX3lxTFAtamtrcmR0ZWNKcWZuS0pnMjN4MnV4MGpfYi1TMUFRcERDZmd3bFJ5ZThSd0h1TFJUM2pQclBxbEhydVVubW5qS2lwSFBGbEJySWpnMGV5S1NkM0V1Q2lDQ1FRVlFZNDc0V1lYQjdhMklXVS1iRXFaWDhFZ2pjQm84QVlQV1hyV2xJeFNCNEpyQkxiUjJyVUJBakZSa1dJMDB4RHU1VE5pRTRWWmpncWdDY0UxcFhLMjU2bzBwRjRfTnBnTWl4TEE5eHFWdEJyYjZwR21MU0ppY0pqWE0?oc=5</link>
-      <description>Source: Google News - AI Schools — Ridgefield Schools Review K-12 Writing Instruction, Launch Technology And AI Oversight Plan Patch</description>
-      <pubDate>Fri, 09 Oct 2026 14:19:18 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5afafdf628c3d19f11851018982ab3aa8c1ee558643e71d01bf17ef3007da639</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
       <title>Opinion: AI &amp; Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches</title>
       <link>https://www.the74million.org/article/ai-back-to-school-night-anxious-parents-nervous-teachers-and-chill-coaches</link>
       <description>Source: The 74 — Back-to-school night at the middle school is always something of a sensory riot. Adolescent hallways always smell a certain way, even hours after dismissal, even on a night when more than half of the pedestrians are adults with (presumably) advanced hygiene proficiencies. It’s just the way of things. Blithely noisy families are chattering their way […]</description>
@@ -134,6 +126,14 @@
       <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:d55f86db1e2b50a9128211a6c15aa83f523867f6e1ae81d640c1b5895e36486c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>AIJRF launches the “University Agentic AI Lab 2026” to empower students to design and build applied AI agents - Zawya</title>
+      <link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSjdlck95SXU5M2FFZDBwOGNEM19WOTJGZjlwdERUQmMzQUNpVlZST2tsTmVlQjFySFRHQS0ycHNienR2b3p2TUo4S2ZqX1c3MUp5clZWYzgyYS1XNDd2MWxIYzNSTHF2T0xQQXZKUzg4RndISmdkZjlPdWEtN1dhangwQnNDUG0zS1RHdFhBSW9DdlhiVTM0UW1ZNkNwNkJqeHpzbG83ekFoV3dQVTdHa3NmM1YtaUlDcnpCa3BrR0ItSmh3dHVIclBHVHU5T1BKOGd0bzdtMWM4N0pNbzF1TGJWMUl0ejJCcXNMWXY5TVNCTmRJeTZrQ3hpUFY3UQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AIJRF launches the “University Agentic AI Lab 2026” to empower students to design and build applied AI agents Zawya</description>
+      <pubDate>Fri, 09 Oct 2026 08:19:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0aa29bfd43aa085350619bcec936a412b22ea790b5f81ed0f15367d9c37c801d</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Opinion: For Many Schools, Implementing AI Has Become a Minefield. How Congress Can Help</title>
