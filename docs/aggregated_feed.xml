@@ -5,15 +5,79 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:42:49 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>National Smart Education Platform: 14 New AI Tools Launch &amp; Full Teacher AI Training – Unveiling Core Strategic Plan - 36 Kr</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zemxfaVBXZDl3bnJuUFZCSk1zbTNlSUxGWEIzSHBCX29heDB5RHp5X1pYWGp0bmFHcDJ5bmRWbGRVdksyVDJLY2JzZlkyQ1QxOWtz?oc=5</link>
-      <description>Source: Google News - AI Education — National Smart Education Platform: 14 New AI Tools Launch &amp; Full Teacher AI Training – Unveiling Core Strategic Plan 36 Kr</description>
-      <pubDate>Tue, 13 Oct 2026 00:21:04 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:19c0474263218653d4dcad27f6be87f22e476a1748b7ad014055a68458da94ba</guid>
+      <title>Vodacom, University of Johannesburg and AWS Expand AI Training Through Student Hackathon - TechAfrica News</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ19ZV08wNlJ4SVdhZHNoMmVjdWpUb0hfdlFvVE9EVU9QOVRYOWl6d0JvaC1vSktRMmh6TC0zV2t3LWRldVFyUUFpd0dYMExweXQ3MXloMVVQcUdPcXVQOGRWVDZCUnc1ZVpXZkFablhYUkV4NEFfZE1Oa1M3ZmVnWUV1bWYtdVdkRUNGUkxPYlMyZjNyQXo5NFJCc2NvaWZfNXVZdVNNTFlhNzl0b1M5RmlFVXM0blhnbG1Da0hFS0E1OU4x?oc=5</link>
+      <description>Source: Google News - AI Education — Vodacom, University of Johannesburg and AWS Expand AI Training Through Student Hackathon TechAfrica News</description>
+      <pubDate>Tue, 13 Oct 2026 07:07:46 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:24f2deabf82571eea7120742094c6b11ed8c419c34361ba44586a2fea92f7bff</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>2 caught cheating using AI glasses during college entrance exams - The Korea Times</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPQVBlUU9mMFRZQkMtMWh2M0RSLWVTM2lFQ0QzOHJpTENWUWFFSWFLekRKUnIyOHJ5VU1GT0ROM29BVVVQZFR6X3lMNlJGRUhwbUdpZ1hkdE00X0Y2RUhZOElvcGlENkVld1RWczJ1UTd4aENPblcxM18tVkdVLVlXd1lfYUM1OWtQMEN5VThlV2RyTXp5SWVGX0dhdEplYkJIZHZvUnoxZW1VU3JnVVYwYjZOTkNLTG9zLWJfTHlR0gHDAUFVX3lxTE1YVnBFb3FXcjExS3ljQ0FfLXhrV1l2WDQwbWRRSGhBQXFzWE0wTkdPaXJHd0pXdk16eFJKUUlkTlQxTU1zdEhtTm9XN2h5cHZvNk1URU5hRDVXVmcwMml1aEgyUnN4WHY0VEhwcWR2UTNVc19jcVRsNEdrNU9iUDViMmZBV2JucmpwRUpuLTlfdFJWWjB5aDM1TEoyZDdXV2VBZk1FdTd6WWFHSGpyWVVmdllibzRwdElyYVVXYUJhTmowVQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — 2 caught cheating using AI glasses during college entrance exams The Korea Times</description>
+      <pubDate>Tue, 13 Oct 2026 06:55:02 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:16e3b3665a991f849c4c3da6411096c7ad495acad1b22088e638f72ce0aa4fe6</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>A teacher at a boarding school in Nghe An incorporates AI into her lessons, helping students develop their abilities. - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNdU5oek5DT2w0N0FsODgxY19SN3JRay1MU3UxbXllcUlmaXpMVUtKQ1V0aGV3N1UtZUJaN0dWNF9YdzdFNUpzVzZyTGRoTGhrZzhIYmI3NXlKRnFBVEYtTlhYOTZ0X21XRDN5QmtTUmliVXhoMEJ2OTVSS2dWT1N0YWRocXJ4dFRaLWFsSmsxYl9vdzdjeWxRWTNCU3k1dUljdmww?oc=5</link>
+      <description>Source: Google News - AI Schools — A teacher at a boarding school in Nghe An incorporates AI into her lessons, helping students develop their abilities. Vietnam.vn</description>
+      <pubDate>Tue, 13 Oct 2026 06:03:53 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:722f8d0629e6b17266c08e165158b54550a78306c6bad9fd8057377728749c25</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>COLUMN: As careers, college and the workforce change rapidly, should high schools evolve? Help us find out</title>
+      <link>https://hechingerreport.org/column-careers-college-high-schools-evolve</link>
+      <description>Source: The Hechinger Report — Evan Perez could be the face of a new movement. He’s a first-year student attending Babson College on a full scholarship, majoring in business with a concentration in entrepreneurship. He won awards for building an AI-related business at his career-focused public high school and cares deeply about what and how students learn. “We had an […] The post COLUMN: As careers, college and the workforce change rapidly, should high schools evolve? Help us find out appeared first on The Hechinger Report .</description>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7e0b1ebe70bd247de33f303cff116a89fc94be60170eeb72da9cf68556ba001c</guid>
+      <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
+    </item>
+    <item>
+      <title>Artificial Intelligence (AI)-Driven Personalized Learning and Education Technology (EdTech) Tutoring Platforms Market - EIN News</title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT2x3U29oZFhZVHlfXzJuQVM3N3hxT1A0RVRSemtYd3l2dzdXNW1YaDdsaDJtek1KZGRPcGw1NTlJYldWa3JmVF9UcVdZWjVMUDRMWk41SjJWQ3ZBU0hDUmVJVE00VVd1cjRRaG1pV1Flb0h5YkZRZVJrOU4tWWN2QktEVklYVDNMODVQSUNzQVBteGFmYTI1RHF4THJveGMzclNtOHJjaGgxZlhZTUV5X2ozY2l1eXBSU01fQUFJeDhIb1BjOXU0WnJwVUc5YUFvN0FhX3hKWHBnbTQzczd0ek1lVWVqN0FQclhj?oc=5</link>
+      <description>Source: Google News - AI Education — Artificial Intelligence (AI)-Driven Personalized Learning and Education Technology (EdTech) Tutoring Platforms Market EIN News</description>
+      <pubDate>Tue, 13 Oct 2026 05:24:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e543db9c0fd7687ab305d6ac358a590ed0cbc3c6675402236516460806141e3c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Students Caught Wearing AI Glasses in College Essay Exams - Seoul Economic Daily</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3lqMTh5Q1hxZHZlWDY3SVhhSEtQTUU4N0Z5T3pQdXhFOElMY3BqbDRwM0o0bFg0ZExZLTBMRF9jLThialUzV0ItSERJSjI5RUtNLW05UjFKcDUtYkZYWEtrNlc5NjlRREotT281eW04Tk1aNXVxNVViQTZadWNEczdOQWJGM0d1WExCNXNQTzFBZV9oQkFlX3p6VGkzTkIz?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Students Caught Wearing AI Glasses in College Essay Exams Seoul Economic Daily</description>
+      <pubDate>Tue, 13 Oct 2026 05:14:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5b5ba0049a57d864e263c71c529b7f456118e1cbfab24bb3c30a2feaff681189</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI Smart Glasses Cheating Detected in University Entrance Exams - 조선일보</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDFHa21wbjc5Z2diam02bFhoUURzRDl2WW1DZzdwZXR4Z05MY0pKc21lZVNzYy1oaDlzc0prcGpSSmJsWG9qNVZyNXBmN0RpeTgxOTdxWmhSbU01UjZVY2R1Z0dBWjBybnl3elJuTUxBa0V0YVE1VFNOS2FuOGp6ZjN4VlpXRVF0?oc=5</link>
+      <description>Source: Google News - AI Education — AI Smart Glasses Cheating Detected in University Entrance Exams 조선일보</description>
+      <pubDate>Tue, 13 Oct 2026 04:51:55 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:781a9e06b2580791e1e4fae293861e600f093d7c384e093162520ee3c2593217</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>News 12 Investigates: Rethinking education as AI enters the classroom - WCTI</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGk0Ri1GMWsxUVJoX0tYRU5zYUdLa29iaDNETWgtWEZYLVByeDBNR3VFWVJRT3AtSHpfdU9Oc2ZJZmtHU3dmY2JHYjdIVDhhUzZqZERFYnlWbWFnYzFCOGJCQ29FanU0LW5yaVl6OGVCa0dNUTlMRWVyQWZ6d1JER251VEgxQmhNUldCclR0LXI5dTBRN1lHbGRjdE5uR0dNdWJ1YkZFU1BDWUtUa2RsYW9HQQ?oc=5</link>
+      <description>Source: Google News - AI Education — News 12 Investigates: Rethinking education as AI enters the classroom WCTI</description>
+      <pubDate>Tue, 13 Oct 2026 04:16:40 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2a4309c869f5e32145f21b09ec369080bcb1a833d744ad72dc9bc813138a1303</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Fudan University Teachers &amp; Students Led AI Startup Secures Over ¥1 Billion Pre-A Round Financing – Focused on Emotion and Context-Aware Human Understanding AI - 36 Kr</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMEJNLW1HNjJsck9BZzBFQ01MVGhsVXZOM0Q0V2FfU1FGT1lXX25WZXk1V1FvZHRzUVQtbFNiTnlpV1FmclVOd2oxQW5CQXBTcmw4?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Fudan University Teachers &amp; Students Led AI Startup Secures Over ¥1 Billion Pre-A Round Financing – Focused on Emotion and Context-Aware Human Understanding AI 36 Kr</description>
+      <pubDate>Tue, 13 Oct 2026 01:31:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ac852159b3c3784283e70e78563904fdfb83ca956bbf63693316185ad063ec29</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Will your college degree still pay off? AI and new student loan rules reshape U.S. education - Modern Ghana</title>
@@ -21,62 +85,6 @@
       <description>Source: Google News - AI Education — Will your college degree still pay off? AI and new student loan rules reshape U.S. education Modern Ghana</description>
       <pubDate>Mon, 12 Oct 2026 23:27:50 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:4426a504e71d1f12c35495ec740c21cace3560a0d05bd66ecb97a89e5f2f279a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Thomas College accepts federal grant to integrate AI into school curriculums - WGME</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc21zYVFyNFZ0VEhDZV9BTmxZU1BUcU0tdGdBM1M3c0tRSXNvbXEybzhSckF5UEV5eVVLZzNZVmFPSk1SMzFRZ1dOc2V4UVE3NUYtaFR3eEdyRklkRFR4a0pveTE4dmxFbmwtSVhTVmhzT1k3bzEzM1luNFRWc3JvR1REUnJhMERSNEVPTVRDbTF6WXRrMGpoS0FKdXJmWlRsMFowdThMV1c1dkRKRTZ3N1BFUDhrNmc3NXpRZDhXQjdvZC1YNktWWGZzTnBOemtfb0JVRWliSVhVUlh4?oc=5</link>
-      <description>Source: Google News - AI Education — Thomas College accepts federal grant to integrate AI into school curriculums WGME</description>
-      <pubDate>Mon, 12 Oct 2026 23:24:20 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:bf5f6bc31f781d2ecf597600fd281dd340616bda0483c732a31497148fc697d1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>News 12 Investigates: Rethinking education as AI enters the classroom - WCTI</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGk0Ri1GMWsxUVJoX0tYRU5zYUdLa29iaDNETWgtWEZYLVByeDBNR3VFWVJRT3AtSHpfdU9Oc2ZJZmtHU3dmY2JHYjdIVDhhUzZqZERFYnlWbWFnYzFCOGJCQ29FanU0LW5yaVl6OGVCa0dNUTlMRWVyQWZ6d1JER251VEgxQmhNUldCclR0LXI5dTBRN1lHbGRjdE5uR0dNdWJ1YkZFU1BDWUtUa2RsYW9HQQ?oc=5</link>
-      <description>Source: Google News - AI Education — News 12 Investigates: Rethinking education as AI enters the classroom WCTI</description>
-      <pubDate>Mon, 12 Oct 2026 22:54:40 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:2a4309c869f5e32145f21b09ec369080bcb1a833d744ad72dc9bc813138a1303</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Bradley University receives $3 Million federal grant to expand student support and AI Integration - WEEK | 25 News Now</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQY2tzRXIxUzR2NlAyMGc2UWpPTElDcnlRNkZabkxOSFNHaUk0SjZycWJTS29RY0ZTcTFPdko0bEJNMUxxamVmUUU2ckp1eUdlTTdydDllVHd6YVhRYnM5V3JMWG55c2I4QzVxSXZyU0pmbS1iaW8xcDJyYXZULXdOSmd0ak5xZloyQ19tb2lrclBNZm42VmNMQmJkRjJWTE5XbHJwRmNHbmxxUW1wdXVuQ0VtNjhfdm9PdHlZRFpkTDdfUEo0bkctMnJWWkJBZw?oc=5</link>
-      <description>Source: Google News - AI Education — Bradley University receives $3 Million federal grant to expand student support and AI Integration WEEK | 25 News Now</description>
-      <pubDate>Mon, 12 Oct 2026 22:17:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:06a9fe689ee16340aa878ed57ba674e84f0959941b372276bd902747124d2155</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Student caught using AI smart glasses in Yonsei entrance exam - Korea JoongAng Daily</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGV1NDBGZlAtMG83c05vSG5qWUxJSDllNUhaQUxFaFhNZnY4NTRTanRFNHlkSDBLODllSkZsX05YOXdxR3dydDBuNHVBVTVQZ01YeEdDLWhRT3R4cDU0WDFGTlozVXhFQ3hZckNHMTNJcmxKUnBwQ0lkVlJhSzVZcU04dEVCdW12b2ZLOFpJRWNqcHRscFFwT2VCVDI2QkI1aGFtWFY2X3c2blhORlRnNw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Student caught using AI smart glasses in Yonsei entrance exam Korea JoongAng Daily</description>
-      <pubDate>Mon, 12 Oct 2026 22:04:26 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ab48028ba42d71aca168dec70190513d89716e1b14e7b667ebedfbfaf4615f7f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>New California education laws address AI, staffing, student supports and more - OCDE Newsroom</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNaW1IS3loaExVdlByTnZSVzNjWG1vcUZtZC0tZ1VfZU5sVXhIcm1uWi1YV08zamp3R1hiT0Q1NlhRdnBmaFlwWkVZOEVNRVJGV3hmOGlMMWFOLXVVbzJhRGNhRDJSc0g3ZVNHZC00MmM0dmVwUVVjV2NObjU0aGlCYXByLWs2SHNnOWZsU2ozRmZxUkI5Tl9SNHAzTV9nV3dHNXRF?oc=5</link>
-      <description>Source: Google News - AI Education — New California education laws address AI, staffing, student supports and more OCDE Newsroom</description>
-      <pubDate>Mon, 12 Oct 2026 21:30:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b6f0b195445990afa24ac687a46034000de5787c7233512d963db010b7f08f97</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Smart Glasses Cheating — AI Eyewear Caught at Yonsei University Exam - The Korea Daily</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9keXVLR0swTkttV29TMkJCcGdQTEtXUU9oU2dzTVdaYlJhbUczUHN4cllmTEdXWEhKOTRUUUJyMVBNUzhWU0lyV0xJQTZNZDRZUG9iLVFXMnBMU0tQWlNLeXEySVFTVHlDUFV5WkRtcEMzRkZhVlE?oc=5</link>
-      <description>Source: Google News - AI Education — Smart Glasses Cheating — AI Eyewear Caught at Yonsei University Exam The Korea Daily</description>
-      <pubDate>Mon, 12 Oct 2026 20:32:04 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:aeebe0c034667317a019c1efa64967f41a5343927d95790ca8bc4e9be6940ac1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Virginia teachers balance AI innovation with student creativity amid rising academic pressure - Loudoun Times-Mirror</title>
-      <link>https://news.google.com/rss/articles/CBMilgJBVV95cUxPTENnSXE3NG93MkZNb0hlNFAwWHNhSEc5Qmk5ZlhRcjJIUG5RcG5UYjk0cFA0b3hIQ1daOHJrRUNFTXNQZnp1cVVrbUhFSXRUbWNhWnVOSWp0aVhmOG9mOHIwSjNCQ1JCZmN1WmptdGc0NmQyVUc0dmhKd21wYmQzUFc2NWRBRzEzMFRlYS1KQV9yWHVDU0djWlh3RFN0WFFYLU51dWVRSVcyNk9jaXRsckJOOVduY0lrcEFzb2luUEh0V2tKdzJDSEZYUnhnMEJoNGdQX0lscFRNWV9WNllPWkEtQjlTOXNqUmxuMXRLT3ZyQzdQbTJxY1JkVkFHNXhBOFB2Mk9nQ1dXbHEwaWkza1F1ckZKQQ?oc=5</link>
-      <description>Source: Google News - AI Education — Virginia teachers balance AI innovation with student creativity amid rising academic pressure Loudoun Times-Mirror</description>
-      <pubDate>Mon, 12 Oct 2026 17:06:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:2b63f205b6efdc867618c0c11d47eb7f9add1759793cae8d3833bd8d1c1a99b6</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -122,10 +130,10 @@
     <item>
       <title>AI in University Career Centers: Benchmark Trends and Ethics for the 2026–2027 Academic Year - College Recruiter</title>
       <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTlGelZSczZ5N0J1WTZSU0hMbmNjQTdNSEo0RHZLN1o2eDVUbDgwZXZsY1Vzd2p3STZyWW9aZWN5OTBYcnpqYWdxUXF3YzlBajZ3U2hZZ214c0Rjb21BLTI0VXNCdEhRN2E1UTEwaTg4WDhESjYzaDdrRmd0SXJtQ0VicnY5MkpJT0lENkNRTV9feUxnTGFiWWpZSE5leG94V2xzRWJBajNMTV9Dd2RzYzRNVGpCNlYtcUMyZlNzbnJ5UWY5VE4wRXFfLWlKVnN3bkFHNEJwaw?oc=5</link>
-      <description>Source: Google News - AI Education — AI in University Career Centers: Benchmark Trends and Ethics for the 2026–2027 Academic Year College Recruiter</description>
+      <description>Source: Google News - AI Higher Education — AI in University Career Centers: Benchmark Trends and Ethics for the 2026–2027 Academic Year College Recruiter</description>
       <pubDate>Sun, 11 Oct 2026 13:24:39 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:52d9d97ab9a8fe0ddfe51eefe6bbb51b70fe2621a3776af4b6741163be2ed50e</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Opinion: AI &amp; Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches</title>
@@ -197,14 +205,6 @@
       <description>Source: Google for Education — Special education teachers use Google Gemini to generate visual guides and voice prompts, empowering non-writing students. Read the full story.</description>
       <pubDate>Mon, 05 Oct 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:28127ef714bd022132e817de79c9d935c7c05e524dbe76c7e9506983c5b6f475</guid>
-      <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Here’s how I use technology to bring science to life in my classroom.</title>
-      <link>https://blog.google/products-and-platforms/products/education/science-teacher-gemini</link>
-      <description>Source: Google for Education — See how this teacher uses Gemini and Gemini Notebook to build digital literacy and refine lesson plans. Read the full story to improve your teaching.</description>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b818e10d69450758ef1ea88f394d9cebf3e0ab906d97a55a191b8079bcb65eb6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
