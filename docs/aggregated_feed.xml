@@ -5,23 +5,39 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:53:23 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Independent school pioneering AI says teaching comes first, tools second - The Herald</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHQ0TGVXQ3lMeFRPcUVmTW04c21WUzV4MW9odXpqTGgwWEExVTFZa0VnVE9SdlNpVFJzakcyYnBMWk85SzhuTWRHZnRVSVNYM09HRk1XQzhzVmZNMVlLMmU1ZS1sellkaVZEQzhxcWlQRGJXVzFJc0ZsLUt4UTdPbWV2YlA3cDBST3cxeHozTHFTbV9weHFkNUhnT1Ayd3VacXc?oc=5</link>
-      <description>Source: Google News - AI Education — Independent school pioneering AI says teaching comes first, tools second The Herald</description>
-      <pubDate>Wed, 14 Oct 2026 05:03:45 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:65d42c27e5ccca4658a5d7198d329a676a9e030114aaf593fcec40f027e7109b</guid>
+      <title>UVA students and faculty grapple with AI’s place in the classroom - VPM</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXU0YlNaTkE4SzRmOHB1aWE3V29oYjBweEFQak1pZlRwYWN4d25sRnlnOXBJSEVfQk5zY1BwRHNqTVhXSmtnbGVJZmN2UDBmWHJmRFdsSUFiOFNJamFOeFF2b3BrTTFPcjdBNk5nSWRhbm1vS3J5TnpBX3AyUzZrdk1ObjU0YTktT1lRelNIZXBNbjRHUFU0c3dwT0tCZl9iMi05dV90c21PdGxRX052V1F4Vnh5Y0lLMHpBbktB?oc=5</link>
+      <description>Source: Google News - AI Schools — UVA students and faculty grapple with AI’s place in the classroom VPM</description>
+      <pubDate>Wed, 14 Oct 2026 09:00:20 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7f01b0adaee006a75a98a8da6766fbff472ce79c4c85d3055fcad7e9a68d5066</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>Chitkara University Hosts Conference On AI Applications Across Industries - BW Education</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPd0NleDR6OHJMR2ZQUDkwVVZ4c2MxVHJaTW9kMW9jMFExRXVMX2IzOWM1OFZuSFYtZ2FkZVpWdk5OSDN3b01tYzlpdEpuVXVwWkRrQzJXd1JwY1NRTl9OelFGWnRyNGJCekRoS3d1MEZiemZEQUJuWkNZRkU1d0lYZ1Z2SjhFMUEteko4SkFsN3RyZEYybFFCWk1TMEFTb0dpYjJMaVBrdkI0c01nNlRmbmpjR2N2WVU?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Chitkara University Hosts Conference On AI Applications Across Industries BW Education</description>
+      <pubDate>Wed, 14 Oct 2026 08:01:50 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:27861c4864a1cb42601223ae065a17af5c847ef0384a595502df4b005e0b2d40</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI Smart Glasses Breach South Korea's University Essay Exams, Exposing Supervision Gaps - BigGo Finance</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1MeTh6LVUyREI1cHliUWZpdU9uLUgtN3pBSzJlZ1RPeThlLWNCb1hjMnJXb3VCcWdhZUNFQlpWQ3Z1NEhMb3lvWmdwZkhEOE1wcE5hS0YzaWk0cEJxWDdZVFlJbFlESnU3UnNWRnd5TFU0aE9TUWc?oc=5</link>
+      <description>Source: Google News - AI Education — AI Smart Glasses Breach South Korea's University Essay Exams, Exposing Supervision Gaps BigGo Finance</description>
+      <pubDate>Wed, 14 Oct 2026 07:10:14 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3b8bfe5a45f56d3f8a1bf8ba227be2bbf02fca67ad8dd622b6b68faa9119e7c9</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>GR8 School: What GEMS Education’s new AI-powered model will offer students - Gulf Business</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPc1NoSE1RbF9UTWF2el95YjVLVUU3cjdNN1dpdEZ5cVF6WTE0VjlVOWU5V1h1TFZ3a29TeTdUaG44OTltRjVSaW04bFhHeHI3TkdrQm96aW9DYklrZ2w3M3hKNnhvOTd6WkttREdzaUdZcURSSmRqT3NUcHJPcGdjelRGWWMxRjl5NXlRcWVIZU1NNDN4cDVROEEwWWlTeXVy?oc=5</link>
-      <description>Source: Google News - AI Education — GR8 School: What GEMS Education’s new AI-powered model will offer students Gulf Business</description>
-      <pubDate>Wed, 14 Oct 2026 04:27:36 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:003cb61610d870d8568bfb3d966f4d55175066b518b4a4dcebb462f90e8a0b21</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <title>Independent school pioneering AI says teaching comes first, tools second - The Herald</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHQ0TGVXQ3lMeFRPcUVmTW04c21WUzV4MW9odXpqTGgwWEExVTFZa0VnVE9SdlNpVFJzakcyYnBMWk85SzhuTWRHZnRVSVNYM09HRk1XQzhzVmZNMVlLMmU1ZS1sellkaVZEQzhxcWlQRGJXVzFJc0ZsLUt4UTdPbWV2YlA3cDBST3cxeHozTHFTbV9weHFkNUhnT1Ayd3VacXc?oc=5</link>
+      <description>Source: Google News - AI Schools — Independent school pioneering AI says teaching comes first, tools second The Herald</description>
+      <pubDate>Wed, 14 Oct 2026 05:07:46 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:65d42c27e5ccca4658a5d7198d329a676a9e030114aaf593fcec40f027e7109b</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>How MIT, Stanford and other top US colleges are adapting education for AI era - VnExpress International</title>
@@ -34,10 +50,18 @@
     <item>
       <title>National Assembly Audit Targets Education Grants, AI Scoring, Myeongyeong School - 조선일보</title>
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2M0TlZqQ2RZN1N3cEgtZDRLSURSOTVVbVdxcmhrV2lUVnI2UXQtWmZycm1ZMDBZQWh1Z0p1eXRYaTRLM3dLOGY2a1ZCSG05ZmFmV0xMeTQyZV9HY1Y5Q0pRQXVSckZxN19VazlMdm1VZzJTLVRudlNWV2NUZzlPWkdBMm1HWGxl?oc=5</link>
-      <description>Source: Google News - AI Education — National Assembly Audit Targets Education Grants, AI Scoring, Myeongyeong School 조선일보</description>
+      <description>Source: Google News - AI Schools — National Assembly Audit Targets Education Grants, AI Scoring, Myeongyeong School 조선일보</description>
       <pubDate>Wed, 14 Oct 2026 03:46:56 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:41991c9d2d0e7c9277134da262e49479a5932b14b8b7c97c1056e0e48c22be4b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>DeepL Supplies Language AI to Chung-Ang University's Translation Department — First Among South Korean Universities - BigGo Finance</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBBRlY5VkR0WEF4NTYzUmhHbXdmMXVKMV9FVFV6dWEyZG5ESlJXU1dmR2pBNWNKc2g1QVgxYVh3R0VFZExxMXhlV1FyNG9HcmdPWWVEOE9zWXQ4by1ONUEyUHlORkdZemF6b2s2MHoxUV96clBhU1E?oc=5</link>
+      <description>Source: Google News - AI Higher Education — DeepL Supplies Language AI to Chung-Ang University's Translation Department — First Among South Korean Universities BigGo Finance</description>
+      <pubDate>Wed, 14 Oct 2026 01:57:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:78623d0ac6547b8fad3eac045ff1f843c53e50d6441ea2caba1ab52f484d2227</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>"Do You Really Need to Go to College in the AI Era?": A Father's Realistic Advice to His High School Son - news.sbs.co.kr</title>
@@ -48,20 +72,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
+      <title>19 Newsmakers: Episode 20: Ohio’s top teachers union takes on school funding, vouchers and AI - Cleveland 19 News</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE56Wl8zOEVfV2hvRGM3RGtEYXVIemhyVnVMOTRmUjhuVVE4amhBT3E2WFFQdHcyVlk3RVZaQzE0RG1ueVU1SktVRDYzbkYwelBlcmN1cXhfdTRKZU9GZFh6NnVSSl9YRUkyS1BzYmYzbDk2bjNGNzdERklIVFRLaGcxT19GR1VVRm16MkhlZFVVZTJBWlRUdzBzQUkxazdSV2hGbWtoUUZYSk1OaGw3NmwxREFIcER1cDJ6Unljem1ydlJraHVV?oc=5</link>
+      <description>Source: Google News - AI Education — 19 Newsmakers: Episode 20: Ohio’s top teachers union takes on school funding, vouchers and AI Cleveland 19 News</description>
+      <pubDate>Tue, 13 Oct 2026 23:35:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:506ecec34e03b82b12218c283f6519a8b94ade51eedbf0a82bbbb00e459afab5</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Upstate university students, faculty address the issues they're facing with AI - Spectrum News</title>
       <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQUFZlUlJEc1NZT3h0cTRDb19kYjJ4Q3hfbXFOc0FmcWZYU01fYkVHZ05HZmtnN2VLT1NhN0pGQXdhU050eHBITU04bG5Pd2d0TW4xdi0wbVVIRUFZVk4tSTlMeE9iUGctWHB4SlAtc3BTWDNES01YUGFHOWdidTBYRUJIanRiZEhENElYTENiN0dIMWpYTlZBZVJiSm15eWFKa0cxeHF3enczSGFpMmZTYXhtM0JHR2Nkc21xU1VXNWdVN1NuNFBFWWI5ZWxyZw?oc=5</link>
       <description>Source: Google News - AI Education — Upstate university students, faculty address the issues they're facing with AI Spectrum News</description>
       <pubDate>Tue, 13 Oct 2026 23:02:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:373ea3badce4ccf4260916591ee6be9e57aeeba07b729fb373be340679e08593</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>School Students Argue The Limits Of AI Surveillance At National Moot Court Hosted By BML Munjal University. - TRIPURA STAR NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2QtUmFYRFM4dlJsMWNfZVp5TWJDRHVZaHdVX3N4Yl82NjMzMmNfM3FnVzBDcGFXMFZyUzk4ZThQX3FKX0N5WDJmdC1wTjFMQVJSbzJTWWlpaGlVczN0RV8tWXBiMXpuYTRRMC1qYzZ0TkdhLUxpRjFyV1RUV0lWTlBJb0I0TGN4UVRYU0xQZXd0TEhwMWZnRnZEdXZEdjh3UlMxdDFFek1iN1dWWlNERGtENHNzNFQxczJmSjJZQkpDeVBlX2NHbFJjMVRqMi1GZElSSm1R?oc=5</link>
-      <description>Source: Google News - AI Higher Education — School Students Argue The Limits Of AI Surveillance At National Moot Court Hosted By BML Munjal University. TRIPURA STAR NEWS</description>
-      <pubDate>Tue, 13 Oct 2026 22:26:07 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:7f77dcc4ef986ffde0f0fa8c491c2a940eb13ed0bb10ea0795559c9c5ccecd90</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>How artificial neural networks build their own learning machinery</title>
@@ -98,10 +122,10 @@
     <item>
       <title>UNESCO launches generative AI courses for university teachers - Digital Watch Observatory</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9nQVVHaUlDSXRoTndMMWhZTkx3bVBacXhSeEpkSGJvSlBFbzlWYkVLRVpiZ3pWUUpTelZkQlVXMDQ5S2RpVW44T1dCdHhjOW9xNUFhNGJqZ1JXQW44NmItclBSSGR6Ukk2OWhOc0JPYjB5bnJ2T0FMWnZXc1NEUXc?oc=5</link>
-      <description>Source: Google News - AI Education — UNESCO launches generative AI courses for university teachers Digital Watch Observatory</description>
+      <description>Source: Google News - AI Higher Education — UNESCO launches generative AI courses for university teachers Digital Watch Observatory</description>
       <pubDate>Tue, 13 Oct 2026 09:32:25 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:658ad2303b956fd6b2a58068fed7baccef0783cd95a582c64a4258993c44abd6</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>COLUMN: As careers, college and the workforce change rapidly, should high schools evolve? Help us find out</title>
@@ -112,28 +136,12 @@
       <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
     </item>
     <item>
-      <title>Students Caught Wearing AI Glasses in College Essay Exams - Seoul Economic Daily</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPY3lqMTh5Q1hxZHZlWDY3SVhhSEtQTUU4N0Z5T3pQdXhFOElMY3BqbDRwM0o0bFg0ZExZLTBMRF9jLThialUzV0ItSERJSjI5RUtNLW05UjFKcDUtYkZYWEtrNlc5NjlRREotT281eW04Tk1aNXVxNVViQTZadWNEczdOQWJGM0d1WExCNXNQTzFBZV9oQkFlX3p6VGkzTkIz?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Students Caught Wearing AI Glasses in College Essay Exams Seoul Economic Daily</description>
-      <pubDate>Tue, 13 Oct 2026 05:14:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5b5ba0049a57d864e263c71c529b7f456118e1cbfab24bb3c30a2feaff681189</guid>
+      <title>Bradley University awarded $3 million federal grant for student support, AI education - 104.9 The Wolf</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOek13My1TeXdwR2M4cWlfN2E3aDdJR2U3S2ppVEczeFUzZGlvLVJFV2NwaV9ob2tKbHV3ZG1OaHVlR0lpSGUzUXlFbFNYYllOSHdhVzdKQ214LU5wR21VSUhUc0pjSG4wdUpaWDlZMVd0bExld2RVZkFOOVU0THhVSzUxaE1EcXpHOVlQZndHTnoyVms3VlpfaFpUaERUV194TWR5MUF1Q3dqU0ppdGJRbld6Y2ZlRHhFbVdmOW54c00?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Bradley University awarded $3 million federal grant for student support, AI education 104.9 The Wolf</description>
+      <pubDate>Mon, 12 Oct 2026 20:58:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1a58072a9ff4d8d662b902d6fdd8839c86d4570a3b41df8df8ea1f0385fb6f65</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Fudan University Teachers &amp; Students Led AI Startup Secures Over ¥1 Billion Pre-A Round Financing – Focused on Emotion and Context-Aware Human Understanding AI - 36 Kr</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMEJNLW1HNjJsck9BZzBFQ01MVGhsVXZOM0Q0V2FfU1FGT1lXX25WZXk1V1FvZHRzUVQtbFNiTnlpV1FmclVOd2oxQW5CQXBTcmw4?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Fudan University Teachers &amp; Students Led AI Startup Secures Over ¥1 Billion Pre-A Round Financing – Focused on Emotion and Context-Aware Human Understanding AI 36 Kr</description>
-      <pubDate>Tue, 13 Oct 2026 01:31:01 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ac852159b3c3784283e70e78563904fdfb83ca956bbf63693316185ad063ec29</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Bradley University awarded $3 million federal grant for student support, AI education - 1470 &amp; 100.3 WMBD</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOURkNm1SRmxNYXZDNU5CcVpNdGxmcEoyV3N3dzdVNDBaVF9id3AwSlZubjExbkdESVc2SFZBZF9Hem1xb2VhY3VnN0UwSWhVWDE3YkhLemlWdUJObHFMU0h6M0pDUVAtcTcyc0U2SUk5aXVJN29iT0VKTlhGMG1MdHV0SFZsT2JQWEUwcTZqbjRueXR1NEpEVGtxSURQX3M2R1p1TFNKaGpuOHZwc1NYaTBHci1IQ18t?oc=5</link>
-      <description>Source: Google News - AI Education — Bradley University awarded $3 million federal grant for student support, AI education 1470 &amp; 100.3 WMBD</description>
-      <pubDate>Mon, 12 Oct 2026 16:19:39 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:34daf1de12d1db82a3f10d31bbe848ebc1bce5a37437e9693dd1945d28b0a992</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Virginia teachers balance AI innovation with student creativity amid rising academic pressure - Virginia Mercury</title>
@@ -146,18 +154,10 @@
     <item>
       <title>AI in Teacher Preparation: Why Student Privacy Must Come First - Faculty Focus</title>
       <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnJsQWt1RXV6dGRENldSYV9NTEg4Zndpbk5kUmdJSG9TZEJMUVRCQkFoVjdmd0NQR1RxNlV6QlB2dmRHMVJtSUJ3eDdpaFI4TjhRT3JBdHlmSFVycVV1OTM3Z3JBaGVRaDUzRi1FNjNtQ19NZm5HS04wX0hSblRhYlhRN1U2eWFGVmFjTkJwdDdFSVoyX3JGZWdVLVBoZFItb1lwc1p0MzMycHhMZGdERFZSVUc4NVUtSVpBb09lUjZ1b1drQ0w5YV9HZWFSa3M?oc=5</link>
-      <description>Source: Google News - AI Education — AI in Teacher Preparation: Why Student Privacy Must Come First Faculty Focus</description>
+      <description>Source: Google News - AI Schools — AI in Teacher Preparation: Why Student Privacy Must Come First Faculty Focus</description>
       <pubDate>Mon, 12 Oct 2026 08:34:08 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:35fe21aebbd99f60009b763bb91e9e5043cf35e4440ac91901842c2e673ce33a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Musings: Students need teachers to guide AI use in college - Newsday</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSW9mQktKc3VkWEk2TjBGUmdWMG5KM3NsQUFqa3U1Tkx4cHAwcWJvSTNsWEZSRzhsT2ZuREMzRHgtQkdSUm9aTnpxX0dQenVUbXVUci1QbXBOUXdsVFd0dlIyY001UHFTSTlmWURXWldvY2ppcHE3blozSGQwdG5TQkhieEIwc1Zl?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Musings: Students need teachers to guide AI use in college Newsday</description>
-      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:899e09842262067a006ab83ab6ab7d2d44f64489bcb288833dd65456026bad57</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Opinion: AI &amp; Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches</title>
