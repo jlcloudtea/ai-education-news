@@ -5,22 +5,70 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 04:40:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:55:25 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Sanwo-Olu, UNILAG VC seek AI-driven reforms in higher education - The Guardian Nigeria News</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1dwb3JiTDdaQmw0SzhSTXdITDQ5d2FFcHB2Xzh0ZzhxanltSDJnOFZBbXR6NVB4OFlqWHNLQS1mUUFYa2Vkb1BFblNwcFUzLVFNaW50RjhVajJaa0p5TjlfTkd5MUpFQzllZE0zaTRublVoUjItRUZNR3VUbjIxSzNaQWFndmI3eF9jOWtqSzBCUQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Sanwo-Olu, UNILAG VC seek AI-driven reforms in higher education The Guardian Nigeria News</description>
-      <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b429a0682050f6578f5c4794007bf2f66456798c82eeafb2fa5552266a1ab1ab</guid>
+      <title>Bosch Launches Nationwide AI Education Program for Students - Hungary Today</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQaTlTemZ6M3JQN3h6VVJkSUpOWGliYTBOTFBlYUFhZHNXNHBOUDNXdnJGSVBrNlUxMk1mSkwzWC1nVjhEdmhRV3U3Vzk2TFdudU1pZHV0djQybzIzNWJibV9tVzBpTGNaYU5XU25qVC1Dam1hbmFob1JLV0dCNTBqVmNrRTlfcnMyTjIxMw?oc=5</link>
+      <description>Source: Google News - AI Education — Bosch Launches Nationwide AI Education Program for Students Hungary Today</description>
+      <pubDate>Thu, 15 Oct 2026 09:20:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:6e9a96f835ad71a436fe8669f47b01bc3cd739ab61f443177a3c208dcc07f294</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Navneet Education Expands Its CBSE Portfolio, Accelerates AI Innovation in Classroom Education - TheWire.in</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBQdld2YTJERVpaQzhpV3NMd29WNlNwb1RwV1FON3RrSlExWEVENWRaY2l5SmtkdUZyQWFQdDlxUkt1RkdTdTBac1ZZdTlRZ1dEcjFJd05TVVNLYTFzd1JlTmg4QXZWNjVPRm1SRWV0NGFfNXB5VkJjZVZXTUc5TUNYXzFJS2hYNWdnc2o3RmlYb1pkalVISmhsNElNZHRwV1EzRTBic2Y2UF9wZ2FXc0FjaFdVVklkWExaQnBscldjOGk1Q3dPd0J1a2PSAdIBQVVfeXFMTjVUeVlrU0NfeGdSQXRiVTdsR3RUdEROeFZBN2g3QjBxMkMzRHFGUFYwc3NJOVFwcEoweUdmc2xMVWR1STNhdkJVVVZlWUhPeGVkem1kbGtsbzdZejhqR2s5a2xIRHA3ck5qRVBYb25hNTlYa3hKc2tmUEhoMzJGNzIzaWw0Q1R4VmY4TWYyYVRELXJFSG01Rk9PNmJhd3RsdXE5V3cyQUpCTmFMSkNpWkduZHRUaEZPUWoxVEdEQWJGekRmVkVYSldBVGYzdlEtcm5R?oc=5</link>
+      <description>Source: Google News - AI Schools — Navneet Education Expands Its CBSE Portfolio, Accelerates AI Innovation in Classroom Education TheWire.in</description>
+      <pubDate>Thu, 15 Oct 2026 09:14:26 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d0fd991b5f420d89df7fdf969c95638e0b7a32e205cf7b180db85c61a0303682</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>Google Expands AI Teacher Training In India Through Partnerships With Three States - BW Education</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRktxNTBRa1pmd1lxQjJxMUF2ZDhuR2k3dkJjV3AyYWVHUHV4TEsxTzE1V08yUnB2V1lKSU1FLUZSX2lLMjg1c2diMERfNXVvdjVvTFlxbzZENjVQeWs4U0FMZlNQTFg4d3BLNEx0X05MU1BpSFVZNVJSVHdUVzlpS3ktYkhlOHBGNTVuU2FlNWRCUVFLNUlXdXQ0S3IxRmN1N3hMWXJoWEI1c1BZTXY4ZTRaOFU1aWZrU1ZSN1RKWnVlc1U?oc=5</link>
+      <description>Source: Google News - AI Education — Google Expands AI Teacher Training In India Through Partnerships With Three States BW Education</description>
+      <pubDate>Thu, 15 Oct 2026 09:12:25 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9589188a1a3d4c48358b55fca937406be4be8e2bf2fa12cee162f1907891b80c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Missed a lecture? This AI agent at Bar-Ilan University helps students catch up - Microsoft Source</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1FBR2t2SjJyalM4bmdfbEhMdkdrRUhHOTJ5cTFkZzJpWGZTeklDandjYVZRYkpsWUhEV2hOLUpMcV9kMmhvRkhmTmQyb1pOOHp2NUFndzItVHBMYTFKSEIyWGczdVpVYzRDd2x2MnY5cDM4cjFJdUphVFNYUDJ5NjhXN3RKbXcybW5EMExDcWk1bXRQV1F2ckxtWkhQM2lDRGtybmRueWc0bGNkY1RZWHF6NGJPazJlVGNubk1FUVZtcGl4?oc=5</link>
+      <description>Source: Google News - AI Education — Missed a lecture? This AI agent at Bar-Ilan University helps students catch up Microsoft Source</description>
+      <pubDate>Thu, 15 Oct 2026 08:11:10 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:26238907d7390eea3bb58a11d8c5cbc4cc69add08c9e2a5ed912effda7f17dbf</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Building Institutional Readiness for the AI-Powered Campus - ET Education</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcFNsR051dDJlSFl5Y0wwWFJNZXUzeVc5TzdpSWRwd1ZDWUtabVpRRm5uQkV6NFdrclNmb0E4dHB6XzZSMFVoSldBWDJLdEQyQkx5RE5uUVYwcXpPLUREZno5NFE2MFV1NmlQSVd3cGlyTFFPRmkwcEY1WElURUFXbVZWRzBUd0hXME9FYkFYQkhNanhZTEcxaXZUNWZYSFlRSXczcS1BNFpQaTBQb04yMGU3YlJvU3Y3LWN5NTRBMkJaTG5SekZRa9IBzgFBVV95cUxNTzBNOFVHNi16MXBzNHJGMV9ZWFFLbHN6MmZCWFdWZXNiS05jOGd3RFAyclFhZVV6UHFtZGtlX0I5dmd5cWlzMTAxNVItWUhyT1BuckZxZ3RDa2xpenROSXctaUN2Ni1sU3dMY2lBaHhvdmN3N0x2X0pna2h0Qkt5M1JvWFRZNE9EaVM0NGE2NGIzU2Y5Qkw5ci1iTVhoRUNqeXBuMHZlQWhjNkR2MF9GMFFUWURkZ2xqRll6dmtNVmN3UzlWTEQ5enRuNGVCZw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Building Institutional Readiness for the AI-Powered Campus ET Education</description>
+      <pubDate>Thu, 15 Oct 2026 07:15:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2c2b284d86e6de2d222d8a9b7786d7fc48085f2fe83a20457ca770d0853e9fc9</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Falls Church Schools Detail Classroom AI Use - Falls Church News-Press Online</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNOEEweXA2SXAtbkxOdlNFdEtGejlMVjlMUWxUTDRWYnNkNGJEX2tQSmhNaWlkVXUzNTFLSVNfQ1cydkYwaEd3ZklNdTB5WnZvQWduNWNoaklmLTFIb3RDLWtVdk5yVmc2WEVYNXRFa2hBeElxdmZSaFpQbXoxWFF1U3BrSQ?oc=5</link>
-      <description>Source: Google News - AI Schools — Falls Church Schools Detail Classroom AI Use Falls Church News-Press Online</description>
-      <pubDate>Thu, 15 Oct 2026 01:25:22 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:026aa3c381e5d85806046f61ecb8c571f95ab6c18b6bab94f86920cca57dbe98</guid>
+      <title>Dr Rodrigo to Lead International AI Education Society - Ateneo de Manila University</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNMFlaMTB6U3FBbHZ6RzhmMVJ4dm4wNEt5R3VPbzZPNWlFdUJVNkktVGRaYTlLUG5sYlpEUlRmVW1RNXktdlRMNWxWX3g3dXJ0dTYxSlRKQmJtck5rUDFQaEJ5LWFhcmswMzhjeHROT0lJVVhNajhVV0U1S1lHSGR3R2tXQzdsMEhBNDlIQ3RyVQ?oc=5</link>
+      <description>Source: Google News - AI Education — Dr Rodrigo to Lead International AI Education Society Ateneo de Manila University</description>
+      <pubDate>Thu, 15 Oct 2026 06:46:11 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7ad9236839f4f8e520cacdddddaaaf28f24c4c8d8fa4c9c791892ffba094f4c4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Tufts Student Services introduces new AI assistant, ‘Ellie’ - The Tufts Daily</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWp1amZ6R1JFUmQyOE5qSXJSc21pMU9DMTNhYWp4WHY5NXdzY2VyNE45aXlFX1podnVzNkEzYkRfNnFPUklDSWY0TjUxN1BQM2JqWjJScUZWUGdqMDNMRmxqVl90dW91Qk45UTlTUk8zRjE4OXNla1FtU1JyeFFYbjNWdElPb3hQR29XSFNER3c5MTdLb3lyZGl4dVNfcjVB?oc=5</link>
+      <description>Source: Google News - AI Education — Tufts Student Services introduces new AI assistant, ‘Ellie’ The Tufts Daily</description>
+      <pubDate>Thu, 15 Oct 2026 06:09:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:767611ed524015667e1d4529d96701e3e7c78558157eaa8f542d96d18ff4f2ee</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>As the spread of artificial intelligence (AI) and the school-age population decrease at the same tim.. - 매일경제</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5MndTa3pYRmFjRWdsWnV0RUQxaEw1ek9lNE9SM3hFaEJpVHlCaWlBZ2xJWkF1NVFLRUJDSU5qcnF5NWZyV1FNYjQ1b1RWZmN4Vnc?oc=5</link>
+      <description>Source: Google News - AI Schools — As the spread of artificial intelligence (AI) and the school-age population decrease at the same tim.. 매일경제</description>
+      <pubDate>Thu, 15 Oct 2026 05:56:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f254e7bb37e4faca18e0e0fe056214bd0c67f90c3e1b1e9f8bbcac2fd8d3e72e</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
@@ -35,32 +83,8 @@
       <title>Digital Promise offers $600,000 grants for teacher-led AI assessment | ETIH EdTech News - EdTech Innovation Hub</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPZzE0Y2dMYWtiMmx6TEQxVjBpbUpvVVJ5YklNUElFNHhzTS1ZbHJKcER3N3p4bFUwWTFDbGVHM2ZCd2hpbkRITEc1eW1sMXpPenNaMUtWa0JReWM4bndOZGtIbXJBbU5jb1o0YW9rTzFxMkFVdmowSUN4WkQ3LTNqWWxRU1JhcENJNlFHbk8tQ2VPdHFjNGxucHFRZElmZnl0MzZNdC1YN2EwUGs1Tjcwb2NIRmxsbFFKdjlnU0xR?oc=5</link>
       <description>Source: Google News - AI Education — Digital Promise offers $600,000 grants for teacher-led AI assessment | ETIH EdTech News EdTech Innovation Hub</description>
-      <pubDate>Wed, 14 Oct 2026 23:20:23 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 23:15:39 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:52316d7c997ac25c6072afc0fe32474bcfde6c2521e31749c2e206fcfe68d22d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Six New Faculty Join USC Stevens School of Computing and AI This Year - USC Viterbi School of Engineering</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWJ2TUJLSXpGTG1EbnRtWVhTVm9XbTRhQ0ZQejJEQ25rRnUzNnRiRVoya3dmV0tIcHBCVEVUOHl1emRjblNqS2hVQTMxNEZOc0ZteHcwZDY1MnZvU3BMUERRR3ZkVlZpMTVVcnFwc0JXOGFITWhDZGZmdFZwQ1JoaDJLVHJiTXFTNTRTR0Q1ZmdPMy1YS1NvYl80QnZFVUh6bHN0MFd6ODFOYWZhSExzd2lpcw?oc=5</link>
-      <description>Source: Google News - AI Education — Six New Faculty Join USC Stevens School of Computing and AI This Year USC Viterbi School of Engineering</description>
-      <pubDate>Wed, 14 Oct 2026 21:55:56 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:7d03234bbb8654fcd350d8cb6ff11c833f43d0f9f27c351a652eae0902302011</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>UTPB Receives $3M to Improve Teaching and Learning With AI - GovTech</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3JxT3kzN0JmQjIyUlRMX3FIMi1VSG9IZFdvSUk4M3N1d2dzRmV5QzVOa1FySjV5eC1kdW5rbWJwbmRhMFEtdmN1UWI2U09Zakh6UmpqdWN6SDV2VVhqbHNJSGdXNmRsNXpGNGYwUVpVb0JFRkxDQTNSdXpLcHBWTms5TUhWOUtvcUxpNUJ4ejBWclRDUVJ4QnBSdU9xbXpFSHpZ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — UTPB Receives $3M to Improve Teaching and Learning With AI GovTech</description>
-      <pubDate>Wed, 14 Oct 2026 20:43:25 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:dcccf87fa6a566526f65194c0cda48306ad446d4f0e354e3e911e84f50604038</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>WashU kickstarts new AI faculty cluster hiring program - Student Life</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNWklXV2NLbDEyTlRIQmMxVEs4c0V0Nm40ZHdObU5rV2R1ejJxVWViU1NqUGhQUk5BU2J0VHFpMWtxclJueDNpMkx1Z2htZG5Md3p6ZklVVWU4TnV1a3NucENvcmZad285X1BRbk5yZFItcmdaZDZWZlE5cE5ZN05xcDhoLXFQU1hLN2pVbVZiYzVqUnVLMTg5SUNxVQ?oc=5</link>
-      <description>Source: Google News - AI Education — WashU kickstarts new AI faculty cluster hiring program Student Life</description>
-      <pubDate>Wed, 14 Oct 2026 20:30:45 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:dde7056cf14888b7e82c1a95f6569ba6bd9730848bdfe9d0d563dd1cbdca29db</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -136,14 +160,6 @@
       <source url="https://www.the74million.org/feed/">The 74</source>
     </item>
     <item>
-      <title>UNESCO launches generative AI courses for university teachers - Digital Watch Observatory</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9nQVVHaUlDSXRoTndMMWhZTkx3bVBacXhSeEpkSGJvSlBFbzlWYkVLRVpiZ3pWUUpTelZkQlVXMDQ5S2RpVW44T1dCdHhjOW9xNUFhNGJqZ1JXQW44NmItclBSSGR6Ukk2OWhOc0JPYjB5bnJ2T0FMWnZXc1NEUXc?oc=5</link>
-      <description>Source: Google News - AI Higher Education — UNESCO launches generative AI courses for university teachers Digital Watch Observatory</description>
-      <pubDate>Tue, 13 Oct 2026 09:32:25 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:658ad2303b956fd6b2a58068fed7baccef0783cd95a582c64a4258993c44abd6</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>COLUMN: As careers, college and the workforce change rapidly, should high schools evolve? Help us find out</title>
       <link>https://hechingerreport.org/column-careers-college-high-schools-evolve</link>
       <description>Source: The Hechinger Report — Evan Perez could be the face of a new movement. He’s a first-year student attending Babson College on a full scholarship, majoring in business with a concentration in entrepreneurship. He won awards for building an AI-related business at his career-focused public high school and cares deeply about what and how students learn. “We had an […] The post COLUMN: As careers, college and the workforce change rapidly, should high schools evolve? Help us find out appeared first on The Hechinger Report .</description>
@@ -158,22 +174,6 @@
       <pubDate>Mon, 12 Oct 2026 20:26:22 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7ecc31ff802c4b697c31b051942562f8870bf722b6e2e64ac32999d6e51799fe</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Virginia teachers balance AI innovation with student creativity amid rising academic pressure - Virginia Mercury</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQX2R6aGJDX0w5bTBiaDlHakRfSXBYbXNtRXRueEZuUndRWU9ab2pNMnBTZ1R3MWZBZDl3bkRMNkoyWDNGN2ZlbkM5M2tKNzgyNU54NVozTDI5T1M0ZnRFb0xWUE1Ea1gzMlBEcGdJdW5QRXp0ZlBQRGZjcWdMQmV2Rkh5NXdqem9HVzRkTFF1TEZqMTJOR1B0bDZzd1ZGVmFmZGRBYlN2b0J0bFRYNVlJbEQ5cnVRR3Z2SVB6UE9oZy1UU2VCX0dQZ3Fvc1d2Zw?oc=5</link>
-      <description>Source: Google News - AI Education — Virginia teachers balance AI innovation with student creativity amid rising academic pressure Virginia Mercury</description>
-      <pubDate>Mon, 12 Oct 2026 09:33:14 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:0e90f9db2fc3adfbf678ba91e636a36745a69c08822a3e4ed8c0e6fe5e301ae7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI in Teacher Preparation: Why Student Privacy Must Come First - Faculty Focus</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnJsQWt1RXV6dGRENldSYV9NTEg4Zndpbk5kUmdJSG9TZEJMUVRCQkFoVjdmd0NQR1RxNlV6QlB2dmRHMVJtSUJ3eDdpaFI4TjhRT3JBdHlmSFVycVV1OTM3Z3JBaGVRaDUzRi1FNjNtQ19NZm5HS04wX0hSblRhYlhRN1U2eWFGVmFjTkJwdDdFSVoyX3JGZWdVLVBoZFItb1lwc1p0MzMycHhMZGdERFZSVUc4NVUtSVpBb09lUjZ1b1drQ0w5YV9HZWFSa3M?oc=5</link>
-      <description>Source: Google News - AI Schools — AI in Teacher Preparation: Why Student Privacy Must Come First Faculty Focus</description>
-      <pubDate>Mon, 12 Oct 2026 08:34:08 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:35fe21aebbd99f60009b763bb91e9e5043cf35e4440ac91901842c2e673ce33a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Opinion: AI &amp; Back-to-School Night: Anxious Parents, Nervous Teachers and Chill Coaches</title>
