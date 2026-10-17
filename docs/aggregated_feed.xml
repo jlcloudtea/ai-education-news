@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 17:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:24:28 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Teachers in Portage and Baraboo embrace AI as a tool, not a substitute for learning - Wiscnews.com</title>
@@ -16,11 +16,35 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Control point inflation and promote AI integration in higher education. - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVN4aWsxUHhJR1Q2VTQ3cDl6N0R3Z3k0V1ZMTG5HVEFxV2M3WGotSHhXRVpMQ1hsSGxCZlc1LXlUOC1MLVpPazlTMHcxYVNFcEJtZFhybmlMVUQtdTlEQnl5N3Z3TnBURm9LVUdrMGJ6YjlCWW85SjV2aUxYeWNhTVZGOVZMSDB0YmlzR3pvdUNqMDFkMzNnWQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Control point inflation and promote AI integration in higher education. Vietnam.vn</description>
+      <pubDate>Sat, 17 Oct 2026 09:01:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c02cc7c827a762ff96c82cdea2efb7d9f85230b895215b3980350a401b3d8e09</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>Chey Tae-won: "College Degrees Unnecessary in the AI Era… Schools Should Become Experimental Spaces" - BigGo Finance</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE12Ync0VlBUTzRuZFNfVHB0TDRWSWV1X1ZhV0l5dmJ6dDYxeEVFT2JZcjdqWHlMbzF3N2p4MXAybXNjR01TWGdUdEZGNW5tcGE3MVdfTjRyODRyN25oX0ppTjNxbjd4Sk5pQ29GZjV5LUFVZmFZZmc?oc=5</link>
       <description>Source: Google News - AI Higher Education — Chey Tae-won: "College Degrees Unnecessary in the AI Era… Schools Should Become Experimental Spaces" BigGo Finance</description>
       <pubDate>Sat, 17 Oct 2026 08:55:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:74911aac586fe76f2a1977e5501944301d67b26b6c909c9e0df71eb3bf955d21</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>University of Glasgow Assures Students No Submitted Work Will Be Used To Train AI. - Glasgow Guardian</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcFZQbzVhZ0cwWW5uNkRrZHduY1VIUjNfdkdrV0I1STM2MHFDU1ZZNTdVSGRuNFU1eFhUSDgtZlhBeHd0aGNjd2ZMUHg0OXoxNTNzSVI4XzJ3TTZmSC16Wk9YRUctTmgtUUplNHAydVlQUmR0UldvcXZiTGtpS3VHM1g4dHFGNlpqWU9jSVpwOG5YdnVOakIzeThXeWxjUWpHNklkNF9waDZENEtmZnIxTFZ6NWtlRExNUzlJRnRUTXY?oc=5</link>
+      <description>Source: Google News - AI Higher Education — University of Glasgow Assures Students No Submitted Work Will Be Used To Train AI. Glasgow Guardian</description>
+      <pubDate>Sat, 17 Oct 2026 08:01:14 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ec11d703cc7557b4dd39ec44c3775fc416deab638bf996069911c63ed5d682b9</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>MSM Unify Joins Team Canada Trade Mission to India 2026, Calls for Deeper Cooperation in AI, Higher Education and Cybersecurity - Odisha Diary</title>
+      <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTHJCdEJsc3JSMzY0aXBBVFRNNGJ0cUFhaWEwT1FLQmJoVlY0bDRqYm96Wm5Mdmx4bVE1bl9NN2MyeHdOd2dvTzVBTnUyY3FzTWY5R0tzYnhYS0szNHlldER3Z2RKa2UwOGRKYWtOTFFub1lUOTV1cWhxRjhKdlBaUENCYm1BM3JiMlJ1VWdVVnU5TDJLbEpMaWlCS2s2QnMycXNsVTMwUldOSTBsQ0pLZVdwYU0teDNFejNFWGFiX2w3VDAtYVp3LXpTMExpWE9aNW5pSVVmTDlPQzlya0gzakRUdDU?oc=5</link>
+      <description>Source: Google News - AI Higher Education — MSM Unify Joins Team Canada Trade Mission to India 2026, Calls for Deeper Cooperation in AI, Higher Education and Cybersecurity Odisha Diary</description>
+      <pubDate>Sat, 17 Oct 2026 08:00:46 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c34ff57d77aa5005f468aab2d8e3940f5546d2a68aa3377626ff7658c5d3f689</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -32,20 +56,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>'I use AI for nearly everything': Teachers discuss the promise and challenges of AI education - ABC News - Breaking News, Latest News and Videos</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNSDUweEQtYnZ5cFdpR2tKbW5oVS1yWk5fZEVkc1E4ZXhJNl9aeDk4UDFWM1NWVEgtZXVHb1RLV3ZSRDA0cjB4UmlTclFiYlZOTmloam1zS0tnWmRNNGxQZGxlU2w5cEFlOGU2bWtQTEk3Q0FITlFrdXhDVWVfRWM0TFJBalljWkwwa2pnWmdrOFRBTFR5ekV5TNIBngFBVV95cUxQbHFibWYzRVVka1dGUGNXQ0RYNmwtU2tZdUNzR0Z2ZFg0Ylk5Snl6OUZmQllsNXE5SlRNcVFHX1VxUVRjNUhWQ2drcHN3VzVQWWM3cVBjUUhORDJfWW9hcGwxTlpSRmdNNnFTUmcyQW80U0o4X0VRdjd6NHRzcDV4bkNncXJYdU5IdzFTZGxHMS15c2tySjlNYnhKeXlMZw?oc=5</link>
-      <description>Source: Google News - AI Education — 'I use AI for nearly everything': Teachers discuss the promise and challenges of AI education ABC News - Breaking News, Latest News and Videos</description>
-      <pubDate>Sat, 17 Oct 2026 00:53:08 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1109850585d7e0ebe2a66e8a6efa771171fd5cbf49ef1a1412e592240a9cbde7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <title>Teachers vent on TikTok and Reddit about learning struggles and AI - Mashable</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBMSm9MTWxXdEJLWjNvSG41Z29GNTdCdjkzYkhZV3k3ZE5iT1RfMkNOa1JoNk0wMU5pMVRnX185ZHJ1dFJIeXdHOXhkRV9PZkwxMUFmNkRrbmJFNG53cWZfTkFfdnZwSXFZN09sQzB2aFZOb0lrdkRLY2l3?oc=5</link>
+      <description>Source: Google News - AI Schools — Teachers vent on TikTok and Reddit about learning struggles and AI Mashable</description>
+      <pubDate>Fri, 16 Oct 2026 21:23:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5c533134de1e46f3e73b7b1f6e328bea59741ed85157841ba6ef4c3f164eb595</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Howard University And Google Are Teaching AI To Understand Black Voices - Black Enterprise</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE16TGZLWGc5RFdoNlFoemJ0VGZlZEc2eVRYYTJvRFplRVFsenpPWjdZdEF4aTJVUjhsbWczdGpZQmgwUC10clRLSXotUF9yWDJzQnpEQ1JqMUxwM00yUnZQZmtKeDBnXzg0NGpPRDVzVllzLXdpQmRfV2FlSF94dw?oc=5</link>
-      <description>Source: Google News - AI Education — Howard University And Google Are Teaching AI To Understand Black Voices Black Enterprise</description>
+      <description>Source: Google News - AI Higher Education — Howard University And Google Are Teaching AI To Understand Black Voices Black Enterprise</description>
       <pubDate>Fri, 16 Oct 2026 20:50:23 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e68f40fdc41fc352f8c9485f268fd95abf7d53e8eb577bbea639f66143ea7033</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Local colleges discuss AI in higher education - Yahoo</title>
@@ -54,14 +78,6 @@
       <pubDate>Fri, 16 Oct 2026 20:25:21 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:b262043d37b9defa26e6223134baee279913a9e2354c22d92affde2ee7b9f5b1</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Teachers vent on TikTok and Reddit about learning struggles and AI - Mashable</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBMSm9MTWxXdEJLWjNvSG41Z29GNTdCdjkzYkhZV3k3ZE5iT1RfMkNOa1JoNk0wMU5pMVRnX185ZHJ1dFJIeXdHOXhkRV9PZkwxMUFmNkRrbmJFNG53cWZfTkFfdnZwSXFZN09sQzB2aFZOb0lrdkRLY2l3?oc=5</link>
-      <description>Source: Google News - AI Schools — Teachers vent on TikTok and Reddit about learning struggles and AI Mashable</description>
-      <pubDate>Fri, 16 Oct 2026 20:21:05 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5c533134de1e46f3e73b7b1f6e328bea59741ed85157841ba6ef4c3f164eb595</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Campus Update: CU Student Government calls for students to have a voice in ChatGPT Edu partnership - KGNU</title>
@@ -88,27 +104,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>GU Pilots ChatGPT Premium for Faculty, Staff in Latest AI Expansion - The Hoya</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOUHFmMlp0MmRkakRNY1FEWUsxT3Z0VzNoUUEwN0tKR2VfbElDbFpaZlVKWUFudXpFQ0s0UVlKMFJfcDA4Z0Q4OW1FZkd6QXV1WEV2X2tIS1JuTDVabWdoaHJWMVh1VUY5V2p5NmxCdFpFZkFsZUlSbFp0SDFQUlMxckQ1NmNoSUxmMXFsbnB3bw?oc=5</link>
-      <description>Source: Google News - AI Education — GU Pilots ChatGPT Premium for Faculty, Staff in Latest AI Expansion The Hoya</description>
-      <pubDate>Fri, 16 Oct 2026 14:17:20 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:02b8175de831e9f704a22be3fb34e508f49cafeb09abc06ae1abc9fd93c51b7a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>McGraw Hill Expands AI-Powered Study and Student Engagement Tools for Higher Education - Business Wire</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTk14ZWtTR2RaUjZnRk0xWjdnaUxjdU54elQ3R2FibUFQRGZxekFocTVDXzVwdFdpeEMtNVVRNzlUNDBYbThabmYyak4tQjU5TXhkSEZMZzlSaFZEUFhiYkZnTjFQSUo1VUsyMy1kTmtQU0dsR2hSYWJ3VkhmTFJZdWZSQ3JpVUVwMFc3Vmx4WkFrWVM4TXBjZWl5T2l3SzRfdjltT2tLQ2pDaWk5THNIczRFc2VqeUxKWWp3ZHQ0a292RTZGUWJQa1Zhal9YYXR3VEgwdUpfUXFGWVU?oc=5</link>
-      <description>Source: Google News - AI Higher Education — McGraw Hill Expands AI-Powered Study and Student Engagement Tools for Higher Education Business Wire</description>
+      <description>Source: Google News - AI Education — McGraw Hill Expands AI-Powered Study and Student Engagement Tools for Higher Education Business Wire</description>
       <pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7ff1361cdbccdb0f2588814f4d995d9108d1ff6c7771e9b3d53895cf717ceda0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>The Future of Competency-Based Education and Generative-AI Solving the Scalability-Verification Paradox through Process-Based Assessment - SCIRP Open Access</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBmUWd3TzcxSFZOWHRnT3hHWHhmUHZRZ21lZ1NSVHlzSmJOQ044UmtaRDV1dmdJT0lpWF9DNjJUS1ppeUZQQzNfMGpuMGQzV01jcGlLU3hLZkQ5R3BUNTQ5Y2JHaDROX1dmWTk4ZnVn?oc=5</link>
-      <description>Source: Google News - AI Education — The Future of Competency-Based Education and Generative-AI Solving the Scalability-Verification Paradox through Process-Based Assessment SCIRP Open Access</description>
-      <pubDate>Fri, 16 Oct 2026 08:17:29 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:25d3fff9fa215db44deea899ed921e82143a0544807b1bc073faa33b41a67aed</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
