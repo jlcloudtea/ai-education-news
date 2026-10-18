@@ -5,15 +5,23 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 20:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:13:14 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>British and Irish Students Express Concern Over Turnitin AI Policy - The University Times</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3hLdm43NkpDSHRmR0pPbkxXNEJZYUFfWHBLdUtSRmo1XzB3Y0h3MzdoWmVObE83NFY1SHdpYmQ3c3pwb0ZjMTlWei1vR2ZkTURIcTQyYTZJaTNJemd5LVlNV0xhVDJXSWl4YTBpRWhfbTlPYnp2NkY4MkYtVmRlRXotR09iQTJQczN4cktrWFhuSG9KZjNkME1yQnRZZDhoSi1uQQ?oc=5</link>
+      <description>Source: Google News - AI Education — British and Irish Students Express Concern Over Turnitin AI Policy The University Times</description>
+      <pubDate>Sun, 18 Oct 2026 21:27:23 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:03358c257600152cc23d04adce9897bb026243782c41fc8f1ea5db4158b59e7e</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Open-Source AI Grading Platform EvaluAI Turns LLMs Into Classroom Assessment Tools - Bioengineer.org</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ3pwNHRXc3BBS0tEcV93S2hUY09KZXcyUW1MRi1kaE5RLS1hWm45TUgxWkpGeEJkeVlaWDVybnZlNTZtOHRQX0FtZ3BGQXJLNUlaRFAwTGxDQmxJaElxOFpUOWJGNERzN1kwU2s5R2RuWXJtVHFLQlRVdENJcnNoeGI4ZDk5dWNCMGVHVDVSSG50Z1BwUkZQWmVvLWVjUHNhU1hubzRsZjZDNXM?oc=5</link>
-      <description>Source: Google News - AI Schools — Open-Source AI Grading Platform EvaluAI Turns LLMs Into Classroom Assessment Tools Bioengineer.org</description>
-      <pubDate>Sun, 18 Oct 2026 20:26:51 +0000</pubDate>
+      <description>Source: Google News - AI Higher Education — Open-Source AI Grading Platform EvaluAI Turns LLMs Into Classroom Assessment Tools Bioengineer.org</description>
+      <pubDate>Sun, 18 Oct 2026 20:46:20 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ced343ce54b128a8f7e4908828d4c2db0b37e2ccce58fd62162b2d4ae57b1f20</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Faculty Senate Discusses Curriculum, AI and Meeting Modality - PantherNOW</title>
@@ -72,14 +80,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Teachers in Portage and Baraboo embrace AI as a tool, not a substitute for learning - Wisconsin State Journal</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxON0IyR21MSnJNZW5zMDJCN3ZEQTlaSktVLUZfckVydUstMXZTeUxfUFNJUjduNVJJbURmRFdaWjU5NlhnZ1RsTXlIemxRMzEwb2l5V2Z2eGZEcDVXU2lYZHVMekNwUTFQbTlMeXh2ZnZ0ZXRwVVVzek9aRjBxRVlBQ1Utdmo2aHhObG0xcW54WHdMVEdrbjdrejdOdHMzVldJ?oc=5</link>
-      <description>Source: Google News - AI Education — Teachers in Portage and Baraboo embrace AI as a tool, not a substitute for learning Wisconsin State Journal</description>
-      <pubDate>Sat, 17 Oct 2026 10:50:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b3ebf9ceb5f4141c920568197c2f6ef48a2d5dae778586cb1f9e0e527e788278</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>Chey Tae-won: "College Degrees Unnecessary in the AI Era… Schools Should Become Experimental Spaces" - BigGo Finance</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE12Ync0VlBUTzRuZFNfVHB0TDRWSWV1X1ZhV0l5dmJ6dDYxeEVFT2JZcjdqWHlMbzF3N2p4MXAybXNjR01TWGdUdEZGNW5tcGE3MVdfTjRyODRyN25oX0ppTjNxbjd4Sk5pQ29GZjV5LUFVZmFZZmc?oc=5</link>
       <description>Source: Google News - AI Higher Education — Chey Tae-won: "College Degrees Unnecessary in the AI Era… Schools Should Become Experimental Spaces" BigGo Finance</description>
@@ -96,6 +96,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Teachers vent on TikTok and Reddit about learning struggles and AI - Mashable</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBMSm9MTWxXdEJLWjNvSG41Z29GNTdCdjkzYkhZV3k3ZE5iT1RfMkNOa1JoNk0wMU5pMVRnX185ZHJ1dFJIeXdHOXhkRV9PZkwxMUFmNkRrbmJFNG53cWZfTkFfdnZwSXFZN09sQzB2aFZOb0lrdkRLY2l3?oc=5</link>
+      <description>Source: Google News - AI Education — Teachers vent on TikTok and Reddit about learning struggles and AI Mashable</description>
+      <pubDate>Fri, 16 Oct 2026 20:21:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5c533134de1e46f3e73b7b1f6e328bea59741ed85157841ba6ef4c3f164eb595</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Campus Update: CU Student Government calls for students to have a voice in ChatGPT Edu partnership - KGNU</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNNl9IdW9MSHZYOHZoc3B5bndBTkVIZ0JSMWs0bVB4d1N3RF9oeXZ4b0U0MXRIcnpnOHM1aVFTRm9yVlpvZEp1Y1ppTENuTHNocjgwQWU2N0ZwQzE4VlM5WGtXbVNEQ29TWmR6UXF5ZXI4X2pudzVPZUswRDQ0Szl6RHhIS3Jxdi00VmFfMkdOcjNCa21vSXRPa2FodEZWNkNVTGY3RHlVSUdXQ1ZHZy1XXzZVZGItZw?oc=5</link>
       <description>Source: Google News - AI Education — Campus Update: CU Student Government calls for students to have a voice in ChatGPT Edu partnership KGNU</description>
@@ -104,11 +112,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>The Future of Competency-Based Education and Generative-AI Solving the Scalability-Verification Paradox through Process-Based Assessment - SCIRP Open Access</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBmUWd3TzcxSFZOWHRnT3hHWHhmUHZRZ21lZ1NSVHlzSmJOQ044UmtaRDV1dmdJT0lpWF9DNjJUS1ppeUZQQzNfMGpuMGQzV01jcGlLU3hLZkQ5R3BUNTQ5Y2JHaDROX1dmWTk4ZnVn?oc=5</link>
-      <description>Source: Google News - AI Education — The Future of Competency-Based Education and Generative-AI Solving the Scalability-Verification Paradox through Process-Based Assessment SCIRP Open Access</description>
-      <pubDate>Fri, 16 Oct 2026 08:17:29 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:25d3fff9fa215db44deea899ed921e82143a0544807b1bc073faa33b41a67aed</guid>
+      <title>McGraw Hill Expands AI-Powered Study and Student Engagement Tools for Higher Education - Business Wire</title>
+      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTk14ZWtTR2RaUjZnRk0xWjdnaUxjdU54elQ3R2FibUFQRGZxekFocTVDXzVwdFdpeEMtNVVRNzlUNDBYbThabmYyak4tQjU5TXhkSEZMZzlSaFZEUFhiYkZnTjFQSUo1VUsyMy1kTmtQU0dsR2hSYWJ3VkhmTFJZdWZSQ3JpVUVwMFc3Vmx4WkFrWVM4TXBjZWl5T2l3SzRfdjltT2tLQ2pDaWk5THNIczRFc2VqeUxKWWp3ZHQ0a292RTZGUWJQa1Zhal9YYXR3VEgwdUpfUXFGWVU?oc=5</link>
+      <description>Source: Google News - AI Education — McGraw Hill Expands AI-Powered Study and Student Engagement Tools for Higher Education Business Wire</description>
+      <pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7ff1361cdbccdb0f2588814f4d995d9108d1ff6c7771e9b3d53895cf717ceda0</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -118,14 +126,6 @@
       <pubDate>Fri, 16 Oct 2026 05:00:52 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e2b370f25bcfb6b8e11e42cc7e65376794e102630cd04e15c7fc42c80e6d7d02</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>OpenAI Launches Rosalind Academic Plan for U.S. University Labs - Unite.AI</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPek5MdTRvUjNkaVlrTjBERkQxZHFjcDZjdDdmYjAtUFk0TWFIRFZCLUItR3ZvbF9mTXBuX1h5Ti1MRXRpLWQyb1E4SWl6bXpGcmVybmVPMVVDd2tBMTBnOTNXNzVGYVFsUWFiVEw3c09yWXI4enhMbXM3SDc5anNHU1A2WWFLMEVxZ2Eyeg?oc=5</link>
-      <description>Source: Google News - AI Higher Education — OpenAI Launches Rosalind Academic Plan for U.S. University Labs Unite.AI</description>
-      <pubDate>Thu, 15 Oct 2026 21:32:09 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d4be71df7ff567afbc46c0e6d2a9b1a3833c044aef7569ebf1b3357adc26968b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Teaching students to think and learn through questions</title>
