@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:34:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:06:25 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI training set to be mandatory for teachers of state universities - The Times of India</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXFpQVpDN2Jnb1dQMDFIeVVmTmFvRzdrVDlTdHQ2MGotVzR6WEJxeElacE1nejd1SnJuVTU4Z2pMLXpXQXRZSXZmZndKV3NrYXdRU2R5RVE4WVozU1k1TXFGV2YxZzdiSUlVZk84TlI3V2Rhc0ZuY29HWWxaMGNVTC1GcnhicDh5MTRnVzVjVUFaMGZWcFItSEFRS0g5bU9yTTFxcXF3UmxoM0JXVmwycnIxTF91S0FMNk1HUkFOMGQ0YWIwYTd0MVRsd0hUOV9vUjZEZllB0gHbAUFVX3lxTE9WbDMwLThXSFkzQXlwT0ZwX3FTVUc4cVlRUTdQWWtpV24yai1tdDVNQm5xVGJDLThtMFZNMnR3anJNdjF2Q3pMRE5BNmtPdlZIVnN3NHpNSmpYVkR2TnIzZlhkczNYRllUYXlRSWZMR1dTWVFDTzZIVzY0TVFvM3ZGcWxyeFBkZDNjLVlwcFE0ZEw4NUo5aW9IQUxzQ0x6ZkhPZ1BuZHpHRUpyZU9LN0FPY0VHMFNvVW14SHpCbjdsX2tXczVUTXhDdG9xTEJKV3FuWGQ1bkRzRmk3Yw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AI training set to be mandatory for teachers of state universities The Times of India</description>
+      <pubDate>Sun, 18 Oct 2026 13:25:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a45dd2143a888a91361a2399cb2dafc87da549d8574469154456c6d53691084f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
     <item>
       <title>How do institutions embed AI literacy in higher education? - University World News</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1oMzlSaHY5eXpIX3pyaTJ4cHM4QzVLNXBwLU5FWkhMcmtOSTh4OFNFandGLTBWS2pEbDhILTc0VGlYb3pYcDh4cWM4UjRjQ2l2LVpZZW9FekNoZ1pGTjQyMHZqeFdGQXo1d1R5ZWV4d25oOXlnSkx3?oc=5</link>
@@ -46,14 +54,6 @@
       <pubDate>Fri, 16 Oct 2026 22:56:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e884e58cf1bfa4f81cb20dc835d7bc25b30caacb40e21886ba31c07ded79a53c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Howard University And Google Are Teaching AI To Understand Black Voices - Black Enterprise</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE16TGZLWGc5RFdoNlFoemJ0VGZlZEc2eVRYYTJvRFplRVFsenpPWjdZdEF4aTJVUjhsbWczdGpZQmgwUC10clRLSXotUF9yWDJzQnpEQ1JqMUxwM00yUnZQZmtKeDBnXzg0NGpPRDVzVllzLXdpQmRfV2FlSF94dw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Howard University And Google Are Teaching AI To Understand Black Voices Black Enterprise</description>
-      <pubDate>Fri, 16 Oct 2026 20:50:23 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e68f40fdc41fc352f8c9485f268fd95abf7d53e8eb577bbea639f66143ea7033</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Teachers vent on TikTok and Reddit about learning struggles and AI - Mashable</title>
@@ -112,12 +112,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Business school teaching case study: Balancing AI capability and control in cyber defence - Financial Times</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBwQldqanVkS2ZFN0NBWm1mbG5ab045aE9hSzRoMklFWmhYVktBMXdqeHVjdGpoaUE3T3U3a29UbzBENjdZSGNGV25NUnAwa2ZmR29kU0R5TGFJZzRFd2I1aWpKUUZ6SUozMDVNdGl6bU0?oc=5</link>
-      <description>Source: Google News - AI Education — Business school teaching case study: Balancing AI capability and control in cyber defence Financial Times</description>
-      <pubDate>Fri, 16 Oct 2026 04:01:03 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:72a731fc4a5b35541bc50c1cd1de5bc53a3f02d90c15fecc6614ff99e0b47692</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <title>Google expands AI teacher training to Bihar, MP, Sikkim; 80,000 educators trained so far - ET Education</title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNEx0ODZnOVA0WEl6ODE2TnRRUm9pUXNyQ1F1bmNqc2prbi03VFZTcVN6Qm1mbDNzdng5YzB6T1pkTEVfNHpZaHZIQkhrX29id2l0SEhlOEx3S2NsZ2Fwb3M4OThOMGFLQ3UyUnJucU1NbV9vWERpM2NEc0FRM0FnLV9ZNXAwNjNXbktQRjR6X2tONGpPMnhlMFJmc2JxX1VGM3RmQXMyRXNLdVQzdFdoenA4eXlNZFcxcjlkX0tycVczSFI2WEFzb3FZMGc4Tmo2bkN6MVRLb2RjZjQzcG1KR2VwSFR6d3ZJZUln0gHwAUFVX3lxTFBzNnRfSmlHVU5McHo5dVdvSkFrTXE1WGNsSzNMT3pWRkZYc3RRU3FHd1BESHNOTGl2cXhGaGgzWjhsX2R6RDRRS1BDbjJ6Zzc4bXRPeVh3M2NuMHhyUWVRY21UbXpvZTcxYVA5bC1WY0d5ODJ2LVZ2dnpmaVJ4bFdxelpTSVp5akhEYl90VXp6SW1MQ1VjaXpUVFRrSnJQWm1VOXRhaXh5QVJ1VTJUNGNsTTNBS0lSQWxwV19MVEg1SkRONERtc0pUa2s4Njk5WlFQTEt6TlFLY09PYk1HVVFERF9tYkVWbDhHX3ZJQVl4TA?oc=5</link>
+      <description>Source: Google News - AI Schools — Google expands AI teacher training to Bihar, MP, Sikkim; 80,000 educators trained so far ET Education</description>
+      <pubDate>Fri, 16 Oct 2026 05:00:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e2b370f25bcfb6b8e11e42cc7e65376794e102630cd04e15c7fc42c80e6d7d02</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>OpenAI Launches Rosalind Academic Plan for U.S. University Labs - Unite.AI</title>
