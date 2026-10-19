@@ -5,8 +5,24 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 23:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 01:18:11 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Help undergraduates sustain critical AI use under deadline pressure - Times Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVg0Vzhqb1hYUXdVWXA3LXJmTmFIN1BJLVZaTm1DNmt4eDh0eW9DTFJ2QmQyRTdIN1JxRmxZb3M1T3VtM0tmei1TT050N0VSb09rYjlCTVdtNEtfX3hUWUFSX3ZTdXJsVDJCTUJFY29VNDNKNDB6aWxHei1neDlGbmktX3JQdFhpN2NEamtwbGVlM1cyQ1hnNUZVTHNXUVhHWHdyWnJLVTN6RENvSWRwZQ?oc=5</link>
+      <description>Source: Google News - AI Education — Help undergraduates sustain critical AI use under deadline pressure Times Higher Education</description>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:116377fae2f184c4c71db5437b59236c1b4fe7f335590254f44a02d9830f32d0</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Boston-area college students plan walkout calling for freeze on AI development - Boston 25 News</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQODRuTVI0LXNHc2J3N2hBbmFoc0c4UnJzSnBKYUUyd2JxbXc1WFdFWEF4MG5HMVFPYVlMSXl6TWI4TU5QV18tejdBMTRjTGtrTDNYZ3l1S3FwS1JrUDVWSWI5cVVzU21iMU5tVml6VWtHaWtsc2o2a3lwdVRPN3BUTVdvZDhXWFhIMkRYY3hXcktscHBzSk1uX29qM0ZiZ29BenhIWTJZa2F5bUtZNVVXbjROcW81YWlLYkJoTjhqcEotQzZwWVB6STB4N3NvT0x2RjR3ZXJR0gHqAUFVX3lxTFBxWEpuUkhEbnhZMTBRZHdlR1VZRWFXYWh0UFlZdE1GeXJiMWpmMDFsYy11WExuRktBSXlUSGhJYTZVY1Z0NEI5N3QxUGRHcGFLd3VaOGhTX2tURVNnR1hEZDdnS21aOG5XcXRfZHAwWEswX3dXLVRrS2ZTeUpYTVhDaWQ5Q3FkeDZJZFNteEVlMVg1QVdnWmRrcm94cnVpeHhnNFBHeFJBZjdheWRnMnY0dTA1bE9DU3RQZW4xWVRZdkItZkEyVVZuTEhMdHVuVFU5aTl6NERJTGsxcjNZYVZnUmptQjNscDFTZw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Boston-area college students plan walkout calling for freeze on AI development Boston 25 News</description>
+      <pubDate>Sun, 18 Oct 2026 23:14:03 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d93f7cfdae205310d9a45fd82f80683b76ec10a4db28118338b61907231a628c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
     <item>
       <title>British and Irish Students Express Concern Over Turnitin AI Policy - The University Times</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3hLdm43NkpDSHRmR0pPbkxXNEJZYUFfWHBLdUtSRmo1XzB3Y0h3MzdoWmVObE83NFY1SHdpYmQ3c3pwb0ZjMTlWei1vR2ZkTURIcTQyYTZJaTNJemd5LVlNV0xhVDJXSWl4YTBpRWhfbTlPYnp2NkY4MkYtVmRlRXotR09iQTJQczN4cktrWFhuSG9KZjNkME1yQnRZZDhoSi1uQQ?oc=5</link>
@@ -40,14 +56,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>AI training set to be mandatory for teachers of state universities - The Times of India</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVXFpQVpDN2Jnb1dQMDFIeVVmTmFvRzdrVDlTdHQ2MGotVzR6WEJxeElacE1nejd1SnJuVTU4Z2pMLXpXQXRZSXZmZndKV3NrYXdRU2R5RVE4WVozU1k1TXFGV2YxZzdiSUlVZk84TlI3V2Rhc0ZuY29HWWxaMGNVTC1GcnhicDh5MTRnVzVjVUFaMGZWcFItSEFRS0g5bU9yTTFxcXF3UmxoM0JXVmwycnIxTF91S0FMNk1HUkFOMGQ0YWIwYTd0MVRsd0hUOV9vUjZEZllB0gHbAUFVX3lxTE9WbDMwLThXSFkzQXlwT0ZwX3FTVUc4cVlRUTdQWWtpV24yai1tdDVNQm5xVGJDLThtMFZNMnR3anJNdjF2Q3pMRE5BNmtPdlZIVnN3NHpNSmpYVkR2TnIzZlhkczNYRllUYXlRSWZMR1dTWVFDTzZIVzY0TVFvM3ZGcWxyeFBkZDNjLVlwcFE0ZEw4NUo5aW9IQUxzQ0x6ZkhPZ1BuZHpHRUpyZU9LN0FPY0VHMFNvVW14SHpCbjdsX2tXczVUTXhDdG9xTEJKV3FuWGQ1bkRzRmk3Yw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AI training set to be mandatory for teachers of state universities The Times of India</description>
-      <pubDate>Sun, 18 Oct 2026 13:25:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a45dd2143a888a91361a2399cb2dafc87da549d8574469154456c6d53691084f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>How do institutions embed AI literacy in higher education? - University World News</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1oMzlSaHY5eXpIX3pyaTJ4cHM4QzVLNXBwLU5FWkhMcmtOSTh4OFNFandGLTBWS2pEbDhILTc0VGlYb3pYcDh4cWM4UjRjQ2l2LVpZZW9FekNoZ1pGTjQyMHZqeFdGQXo1d1R5ZWV4d25oOXlnSkx3?oc=5</link>
       <description>Source: Google News - AI Education — How do institutions embed AI literacy in higher education? University World News</description>
@@ -72,11 +80,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>AI-Driven Adaptive Learning System Predicts Student Engagement and Achievement in STEM Education - Bioengineer.org</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQREt0cExNZXF1dDR0V0hJNHlkcEVMd0ZIai13OWYyU3RVR0k0NGdPV3kxc1ZGbTZHV1pQMjhZM2ZkRndGWE1TN3cxdU42NEFSMUtENVk0d3cxX3lwamxjUFpMemlULUgxUnFibTB1LV9YQlpENTRMTW80ZzdLdmJuMXlVZGhwbTh1SFhoS2ozbjhnQkhVeTNIREt6a3JPTkhHU2tWaTZ3NGJFMm4tbkt1VzUxUHptRlFTc0VBbDF3?oc=5</link>
-      <description>Source: Google News - AI Education — AI-Driven Adaptive Learning System Predicts Student Engagement and Achievement in STEM Education Bioengineer.org</description>
-      <pubDate>Sat, 17 Oct 2026 13:56:15 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:32172d76db88a6d061fa37bf6bb35da37bf0945155e29c29e25da6098db5f734</guid>
+      <title>Teachers in Portage and Baraboo embrace AI as a tool, not a substitute for learning - Wisconsin State Journal</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxON0IyR21MSnJNZW5zMDJCN3ZEQTlaSktVLUZfckVydUstMXZTeUxfUFNJUjduNVJJbURmRFdaWjU5NlhnZ1RsTXlIemxRMzEwb2l5V2Z2eGZEcDVXU2lYZHVMekNwUTFQbTlMeXh2ZnZ0ZXRwVVVzek9aRjBxRVlBQ1Utdmo2aHhObG0xcW54WHdMVEdrbjdrejdOdHMzVldJ?oc=5</link>
+      <description>Source: Google News - AI Education — Teachers in Portage and Baraboo embrace AI as a tool, not a substitute for learning Wisconsin State Journal</description>
+      <pubDate>Sat, 17 Oct 2026 10:50:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b3ebf9ceb5f4141c920568197c2f6ef48a2d5dae778586cb1f9e0e527e788278</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -88,12 +96,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>AI reading of graduate names at Oakland University commencement draws pushback from some students - WXYZ 7 News Detroit</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSEg0M0NZOVA1aW9rOGVnYldMblNXUlFReEtwOWtDYkEwRWlPWWFDN2tWVDY1STYyNVVWdzR3UlRUWWxHWkRieFVENlJnVERNdk83cjBwZ1k1MTVUdmdqZU5MX28tU3pnVC1jeVZDMXp4d05wZ1lBeXEyYm5mZEhJVnZCXzc0WDJDT0FJZWdab1lNbXRQbHBVWTNfUGdHdnBxX2lVZXBfSVZEUTNqWk1uZ2FzZGYxbEJOaUowOHNOaldfZ19PUlIzWGFJZElTY21YTmxBZWxVMTY?oc=5</link>
-      <description>Source: Google News - AI Education — AI reading of graduate names at Oakland University commencement draws pushback from some students WXYZ 7 News Detroit</description>
-      <pubDate>Fri, 16 Oct 2026 22:56:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e884e58cf1bfa4f81cb20dc835d7bc25b30caacb40e21886ba31c07ded79a53c</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <title>Educators who use AI say it frees up time to interact with students - K-12 Dive</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEw0ZkNfWE05ai1zNHZJYk50QjdqOTV6RHpKNXIzSGM0dmFoMUJwUk1OVDBIOTRFRXBWejgwZnBRdlU5Q0pfaDRlXy0wVEdFSVFKWEE5QndlRDE1bUtwaDV3SzB1ZnVUWkdqMjVodzR1Q2dLbEg5MXNyRHJfRkVUMVN1VEJtd1hxeVhHZFpXZUJPd3I0Mk5xdnhidmVUZzB2azRObmd4cw?oc=5</link>
+      <description>Source: Google News - AI Schools — Educators who use AI say it frees up time to interact with students K-12 Dive</description>
+      <pubDate>Fri, 16 Oct 2026 22:26:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c8c0169fa5806313c6e15726a4eada4e3d3b7189bc3d900bcaf892b5fe0524a6</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Teachers vent on TikTok and Reddit about learning struggles and AI - Mashable</title>
@@ -118,14 +126,6 @@
       <pubDate>Fri, 16 Oct 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7ff1361cdbccdb0f2588814f4d995d9108d1ff6c7771e9b3d53895cf717ceda0</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Google expands AI teacher training to Bihar, MP, Sikkim; 80,000 educators trained so far - ET Education</title>
-      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNEx0ODZnOVA0WEl6ODE2TnRRUm9pUXNyQ1F1bmNqc2prbi03VFZTcVN6Qm1mbDNzdng5YzB6T1pkTEVfNHpZaHZIQkhrX29id2l0SEhlOEx3S2NsZ2Fwb3M4OThOMGFLQ3UyUnJucU1NbV9vWERpM2NEc0FRM0FnLV9ZNXAwNjNXbktQRjR6X2tONGpPMnhlMFJmc2JxX1VGM3RmQXMyRXNLdVQzdFdoenA4eXlNZFcxcjlkX0tycVczSFI2WEFzb3FZMGc4Tmo2bkN6MVRLb2RjZjQzcG1KR2VwSFR6d3ZJZUln0gHwAUFVX3lxTFBzNnRfSmlHVU5McHo5dVdvSkFrTXE1WGNsSzNMT3pWRkZYc3RRU3FHd1BESHNOTGl2cXhGaGgzWjhsX2R6RDRRS1BDbjJ6Zzc4bXRPeVh3M2NuMHhyUWVRY21UbXpvZTcxYVA5bC1WY0d5ODJ2LVZ2dnpmaVJ4bFdxelpTSVp5akhEYl90VXp6SW1MQ1VjaXpUVFRrSnJQWm1VOXRhaXh5QVJ1VTJUNGNsTTNBS0lSQWxwV19MVEg1SkRONERtc0pUa2s4Njk5WlFQTEt6TlFLY09PYk1HVVFERF9tYkVWbDhHX3ZJQVl4TA?oc=5</link>
-      <description>Source: Google News - AI Schools — Google expands AI teacher training to Bihar, MP, Sikkim; 80,000 educators trained so far ET Education</description>
-      <pubDate>Fri, 16 Oct 2026 05:00:52 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e2b370f25bcfb6b8e11e42cc7e65376794e102630cd04e15c7fc42c80e6d7d02</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Teaching students to think and learn through questions</title>
@@ -158,6 +158,14 @@
       <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:661f64ddb5f472a2675ed75a0fb09828b0ce7323472abe119ea9528dee004ac6</guid>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+    </item>
+    <item>
+      <title>MIT announces the MIT for America initiative, to strengthen STEM education across the country</title>
+      <link>https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006</link>
+      <description>Source: MIT News - Artificial Intelligence — The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.</description>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:caed2b7e642ba54e5122bf3ee24d5dd76cd3ef7589ece344952e58c1aafae065</guid>
+      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
     </item>
     <item>
       <title>Gemini helps me bring hands-on learning into the classroom.</title>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 05 Oct 2026 07:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:ff107abec20a22eb5cd1115dbb0b1afbd1e8255f0fad88ecd705b02a666f059c</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Will Kids Pay the Price for AI Panic?</title>
-      <link>https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic</link>
-      <description>Source: EdSurge — A backlash against classroom AI is sweeping public schools. But as New Mexico shows, blanket bans risk robbing students of early literacy interventions.</description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e5d71c2b540eb98848c4f3a053003f4bc2097ccef93955e5308bff5d9bc217f2</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
   </channel>
 </rss>
