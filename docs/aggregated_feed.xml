@@ -5,8 +5,40 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:07:11 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Friday essay: AI is devastating higher education, but the system was already broken - The Conversation</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUNSTHV3MlZFYWM3SzJCMHlFVVlScWJ4Q19DWlZBZGVCZ2k5U3hIYTEwY3ZQU01JcHJtRkVGbktYRzRJUTVYa0pJcV82Y3Nuc05XSzlNVzl6ekVidW1UV01CMEpHUFpySTFTQnRVQ2ZabGQweUdublc1dW1sWnRrNk5vbjR4cDhpLWNhNWNqTFI3VkJ2SVQ4WVRIaXVfdHpaczhtVDRINjUzeEx3UlZpM0d5MXYtRW8?oc=5</link>
+      <description>Source: Google News - AI Education — Friday essay: AI is devastating higher education, but the system was already broken The Conversation</description>
+      <pubDate>Thu, 22 Oct 2026 18:31:56 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:6b2c63088736f8d4f59f43bccb7a396a3b32fa251b34b7e4863ae641c419cdaa</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Web Manuals upgrades compliance libraries with AI assistant and FAA assessment tools - Business Airport International</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeW5kcElWZW42a0NZeE9DY0hUcUM3eC1PRS1ZUzNkSW0tVGFuSFE2M3dITDlwZ0NwaXh3TnEwVXFTQ2N5VnVqOEloS3ppNFZEakUwYnBMTDEtbDlxU1VMZFhob1BXbDBuZWNRVWlNVzhPLTJGUTFlb25RMW5rdmVLak1UNVhuQVUxRkIwVXlBbFdTWE5xZ2tpUVpwdVNxdmNmbDN2dGNfNjBtLThleld3bzhQc1ZaNU40M3RtZkQ5eDd1MTRJZGxndkR2VkI3dmxWZnpMRGJR?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Web Manuals upgrades compliance libraries with AI assistant and FAA assessment tools Business Airport International</description>
+      <pubDate>Thu, 22 Oct 2026 17:06:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:542186557406801a2ebaa8e92392020b426f8432490eb3c8c0924fcec65e18b9</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI in Schools &amp; State Education Policy Organizations 2026 - MultiState</title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxObDdiY3JlZXVWWDJRTklXMFhReHBxbkswUlRlaDJYWkpPUktMdVBzNlFGb05SOUZUWHZfd0c0MHZaeDk2VjZYMXFySldVc0JPdFRTc0hTMmQwWGRwN284aTlTeFZJbnB1aENWRTdXVlhvaXd2d1VMdTVVWlB5SlplejhPRGxVYWdqa1dwVVE0NUdwR1NNX1ptN1Y1VmZxQnRPUU1HV2pMV2Jmc09LZUdkcTRwWjJVMS1rYUUyRFpEYWxOazBJeHRQWUI3TW14aHN6ZFFDYlVqeEk3LXdBN3c?oc=5</link>
+      <description>Source: Google News - AI Education — AI in Schools &amp; State Education Policy Organizations 2026 MultiState</description>
+      <pubDate>Thu, 22 Oct 2026 16:46:27 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1613e8eff800f63ee992f4944ace7c43b246c1599a869f82a72656e237b3425f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Rockland Community College Awarded $3 Million Federal Grant To Expand Artificial Intelligence Education And Student Success - Monsey Scoop</title>
+      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUJjb0doUFBEVEVqUDRQX3d5eEgwSTItbTZIMEhEZmJfTlBkNzRhemp5d25iSVl4NEZTcnZidVFLYTNTV00tR19tRjBJRkprNlBNWDJNLTQ2Ymk4UkdndmMzaktuRmloVTY5Y2kzaU94QlNGLUhEWXpjcEFIaFpCNG1fdk5USVJnQjN5YXFaMDBiWGFoLXVCUVlHQXhTaUlEdk1ZY0NYUElUa0ktVzR6X0JtLVpHT3RnTU9mWm13YndlUG0yZmgyZUZxNHRzUzByanpEZThrWmhIWG96cUNUaQ?oc=5</link>
+      <description>Source: Google News - AI Education — Rockland Community College Awarded $3 Million Federal Grant To Expand Artificial Intelligence Education And Student Success Monsey Scoop</description>
+      <pubDate>Thu, 22 Oct 2026 16:36:26 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:66a5201840b665bd08d70ab56f44177d98956aa4b8e5ce841acca4d33c061e6f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Anne Arundel County school board weighs new policy that could allow AI tools in classrooms - WMAR 2 News Baltimore</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ20tVzFieDdLRVlXZ3Nsa0t0QVFBQm9DZEtxZjZsV1cxZkM3RkRFRTV0d1RCZnVEdTFKNS1JMEpncjVxNGlLM3hQcEZTLXRVQTR2MXFvc0pBNHQ5eG9YQXJVeGVGLVAzVlB4bDBTV0x3ODFLVzFpU3pfV3ctTW5lSFVySVRTVDZoUHFrdkNwSjF4cUxkZTJReVhZMXoyQklRVDR2X2ZKdlV0NjY0T2EwQUJGeXNIWFhpS2E4RDRqUQ?oc=5</link>
@@ -21,6 +53,14 @@
       <description>Source: Google News - AI Education — Should AI be used in Baltimore County classrooms? Here’s what school board candidates think. The Baltimore Banner</description>
       <pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:9a938923c17c163a85f3e8a1ed2c5ac8b528facf627a4b2359f3623efb826139</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Talking AI and education with University of Minnesota - University of Minnesota Twin Cities</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVVwNGo0Q2pOYU9FbmpXU21MMEo5eUlFSW9tcGdYQmVBQVVnYmJDTXVfWS1ob0R3SWR2OHRPWnNnVkdINGpXdTd0cUJrNFNjY3l6a3NmcnR6VHdDVURmeXg5N3ZSbjF5OC1TRHJfUzVvLXI4VEZBMFI4RVBSUWhncDhwU2lUZ1FFRlhJZEV3?oc=5</link>
+      <description>Source: Google News - AI Education — Talking AI and education with University of Minnesota University of Minnesota Twin Cities</description>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e9a9bdeb19c4d60181e877ff2388f4c989a35ec2865036637798abf4b908f939</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -66,10 +106,10 @@
     <item>
       <title>AI Readiness Can’t Be Taught in a Classroom Alone: Why Universities and Industry Need to Build It Together - FE News</title>
       <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOHZYdnI1WWVTSXNMUGx1NGRKNGpaZjdVUDgzc3d0dy1JX0NpaHk1VGlyVGJ5b2hBbUtqRWRncVRDOXpVU1VTeUcwWDBxYVhZdDFiUUVCOG9VbFhRVnlWTXhra0lfcEotMExna1ZYLTBycHhHbUVqQU9QQUc4QlI2WmIyODZFVlpUNjJHN1Rab3o4Rk9SdkFMdFBib2l0R1N3UnNFakd1Znk4RGY5YzROQ3VabGwwdW9SQkRoWjQ0bXNrZENiQ3dVcXRBVTl0SG5aeVZzQVhhRQ?oc=5</link>
-      <description>Source: Google News - AI Schools — AI Readiness Can’t Be Taught in a Classroom Alone: Why Universities and Industry Need to Build It Together FE News</description>
+      <description>Source: Google News - AI Higher Education — AI Readiness Can’t Be Taught in a Classroom Alone: Why Universities and Industry Need to Build It Together FE News</description>
       <pubDate>Thu, 22 Oct 2026 03:18:39 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:67ed10e79ac162d3d38507d80b379994ffc1ba07c8ad9db9afeb81b8d570738f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>AI start-up aims to cut assessment and feedback workload for educators - The Irish Times</title>
@@ -104,38 +144,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>National Initiative to Give Students a Voice in School AI Policy - GovTech</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXFzSHlrdmVxZ281UGVHZHpKOVROYjlWa2pfM3JYM19UZndSWDdfSnBvQmRCRGU3S2htV1lBZzNHSDlyeGs4dVdvWFloQlhRbm5zRHJvRlJpWGNsbzRBVXFOM1VQaUgxUV81b3BYSzJHaVlCQXZQVDVBeTdyNlFiUWdTSF92TnFieVZHckJBSFdQY2ZaUUVEblI2Ymw3Q2hTN2NXbWZR?oc=5</link>
-      <description>Source: Google News - AI Education — National Initiative to Give Students a Voice in School AI Policy GovTech</description>
-      <pubDate>Wed, 21 Oct 2026 23:32:15 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:40d23f3c83e2b60cbe95d88bc13c542f33a0c1da86f81e9f2db7f1930eb78ec2</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI-guided physical education trial to test student activity and well-being - Bioengineer.org</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUlOUHJGZWpvekhua1RtMFJ0a1o5VTA0a2NuTkdRSUhhVXFNVnQzUkRYNzNYRWFwdnVoOXp2MmUtRmFtZXFwWkFSUllVMGVjSUY3cW5fQzZGam5oVkxfOE4zNzFLNXFMV1ppdk5YWlY0dGNGMzNMa3VKdHRIZy1IVGRCY2tpY1pCRmIxc2d2Zy01aElrZFVTUHcycmNLRkFy?oc=5</link>
-      <description>Source: Google News - AI Education — AI-guided physical education trial to test student activity and well-being Bioengineer.org</description>
-      <pubDate>Wed, 21 Oct 2026 21:28:28 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3aa6ccf460bf638184ee029b2c596ed78d6dc2652375fad6445e1aab5d00edf1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Clover School District pauses student use of most AI platforms - WSOC TV</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNdEh4RjllTU5tdXhqSWdyWGgwZTFZU1BzeUt3SVVGVHlDRk9kRkVRbW5Cd29SdzVSaEtLZXdMcTRQMzRxb3lGSThvcWpmNUNEX0Y1aUt0WUs5RnY2RVM1Y1JtWnRFRFlqaUpRMk9xcWxzaTRhVHoyYTZnWnF2S1J4bDFwZEZuYm0yUU93dlFmMkhrNnZUdXRBMXNnSHhRQjFEaG9saS1KUTNOUzVDNzdfZGF0ZFJmcHBFNC1LX0Rn0gHSAUFVX3lxTFBBMEl2V0puZ3p3bnNmczFpVEx0bWJzZ3hnUXE3aFEwSVNsTmw2V0NiR0p6a0ZrZG9CY1p4UlRuVXUzc01ZT05PZmUyRFMzNm5Ubko3MWFObHB2UElGRnpGS0xwLW5rQWVKWFhIcVpSZFJnRHJ1ZGE4cElTQ3RySk9hdHE0UzNzaDVaNlJ4TWswU2VORDVmZF9QbkY2MEQ2QXNfMWs0aEpWQzVxVkt4TnhhUzBxaURuYmNheVdVM1NqdWIwWm1BWGNUYkFXRGttN2FaQQ?oc=5</link>
-      <description>Source: Google News - AI Education — Clover School District pauses student use of most AI platforms WSOC TV</description>
-      <pubDate>Wed, 21 Oct 2026 20:49:19 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b30499b4c30711e2c7e9cb8a388c64b332770a2f84e9c51f9ed8c0e0b9f67232</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI in Education: What’s Actually Improving Learning? - Solutions Review</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQalJ1YjRyUHlYQUYwRDR4S1V5VGV0ZkhuX3J5ZzNSdEE0cFloRU9JclRzQ2ZTQlIwYzZGUzhibVFsT0FwNFpmR3hTMVUyQUhnZlMzRXdVM1owbDVCTUJwRHN3RHNnNzcyb2F4RWRJZEhNcjdqTkY4RS1VODk1aVBHY2xfLTNCa1Z0REcyN0swTkRzeXJ1d2xLVURkbWw?oc=5</link>
-      <description>Source: Google News - AI Education — AI in Education: What’s Actually Improving Learning? Solutions Review</description>
-      <pubDate>Wed, 21 Oct 2026 20:25:56 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:499818cbbebfe7e15f4cf1f319cc9da6629088de9f691086387000e3640da417</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>FSU Google Days brings hands-on AI learning to campus - Florida State University News</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPcWFLMFJNSW0yZTlIai14ZW5HSlZrY0tEbmxEVlQzVlgwT29hZ2RXejROcFMta3N6bktXUGlTUHJxQUVXYVZGcHhSTVdaUGRqX1NFS1EtTzUtLURQRFEyOHpfb1RKX1dTZ1NqeHBwNHdXek1Ha09OVi1NSFFNQ19fdjBWM1pWZDg5QmRSZ2JGV0xsUmY1b01VY1lYc1RDS2N3MEZPbFJFdFNyU1U2NEVr?oc=5</link>
       <description>Source: Google News - AI Education — FSU Google Days brings hands-on AI learning to campus Florida State University News</description>
@@ -149,14 +157,6 @@
       <description>Source: Google News - AI Education — Designing career and technical education spaces for the AI era American School &amp; University</description>
       <pubDate>Wed, 21 Oct 2026 18:32:42 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:19ec7b44a0310155d76eb2a28aaecf3489af7efe2bc9578cbd3108b913f7bea5</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Santa Fe College awarded $3M federal grant to advance AI education - Gainesville Sun</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWWg0RTdSN3liWFVVYkFkQkpIWFFjR1E4Z2RQQWR6LVN0TlFONFl1OWdaSzVOYUFuSlVvLVdzYktpbDdvVmU2alg5eXItaHdhbmtjU2xCZURTb0tGV3RtVEFGUzNUUWlEWkpuRXlkbEk1aHBwcTFhamxkc1pqb2lyelZQZ002bi13bjA5eVEzRTk5aUJnU0xMc0FDc21jSk0zUUpFd0wzZy10M2N0UU5oQW5tVnNpM0wyRGZ5RlJHZHoySU4tZWVCM0NXNFJJU0Zzcy14OQ?oc=5</link>
-      <description>Source: Google News - AI Education — Santa Fe College awarded $3M federal grant to advance AI education Gainesville Sun</description>
-      <pubDate>Wed, 21 Oct 2026 17:41:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:587fde6bab604319483d694d232e6e74c3213e87f5eaa74b87df69cc89ef1fa8</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
