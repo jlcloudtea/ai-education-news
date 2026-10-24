@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:13:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:44:03 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>USM students raise concerns about new AI student assistant - newscentermaine.com</title>
+      <link>https://news.google.com/rss/articles/CBMihwJBVV95cUxPelNnRjdhTFVUUFJCUXpyNEtucDVzWHZ1d3RJTTFOY3B2b0FjN1VVdWVKbldfM3gwZlh5OC1VRk51RFlodUNoX2ZPMHFHUEJDWVBBa3VTbVNTblZrUF8zZWFab0lMcTkxcmlXN09pUXZ6NFR3YmFDRXV5R0JCdUtfbXNVcm45cDgtV1NmVzZYZDQ0SFJZdWNRcEZqSHRPX1p1NzNmV01IcUhCT3NQdGhYd0RwSmhhcnZYZDg0alpBTGw3UE9IbVc4NUl3WlFxYUJGYkcxdmZsZEdjQ0lhVWs5bi13cXlHZDVoWGdXbVJtM2NwSFB4YXVHbzF1eHFjbkhuNlJieDFkbw?oc=5</link>
+      <description>Source: Google News - AI Education — USM students raise concerns about new AI student assistant newscentermaine.com</description>
+      <pubDate>Sat, 24 Oct 2026 00:27:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:24170b3935133874b6773a7c977292bb09d4fea7a5c3f3b4ecb031fc93a73a35</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Kris Taylor: St. Paul schools should explore AI with trusted partners, build a teacher pipeline - Sahan Journal</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE50M3JvODRuV0NzN0h6ZDJUTkVuSlJQSjJMeDZReTFlbUszdzhUZ2o1bll6TWh5NzJSc25yVV9YWVo4dUU5RnhfVkRkSzZkWFN0eUFrNy1MYmh0eGhGemNYYUJGSkp3YWxWRUhmeXNyb01waEJLOFJZV3ozS21rQQ?oc=5</link>
@@ -37,14 +45,6 @@
       <description>Source: Google News - AI Education — Mines students protest generative AI, lack of regulation Clear Creek Courant</description>
       <pubDate>Fri, 23 Oct 2026 16:43:09 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:612ac631575cbdefe47556ca072736dc03f0e066ad3595fd6a19a5514ac382b1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>The Future of Online Education: How AI Tutoring Is Replacing Traditional Learning - BBN Times</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDh5UU5HcXNlQThwYTJIYnBncmd0aWswZlppMFRZMFIzZ1RXTDhLTUoxd2htWllrU2VNdU9GWlU1Z0djcHRuVXZjaUR3NnlSNGh6V2Q0bXQzREl3Q2NOa0hyVXhqY0hYcV9PXzJ2VFBkSUZkUUtKME9Ha1JHVU9UeDVrRW9NTG14b3pxeUxMd1dVQWJuX2I2T2pCUXBWcTFmOUtRc05nSXJTbEtFYXNPYXA0dw?oc=5</link>
-      <description>Source: Google News - AI Education — The Future of Online Education: How AI Tutoring Is Replacing Traditional Learning BBN Times</description>
-      <pubDate>Fri, 23 Oct 2026 15:49:27 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b275aa3e10a7c1019926bac3aa36dec2196f3a0619965362f2d2fbf227b94260</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -88,6 +88,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>University of Montana launches AI certificate program to prepare students for workforce - NBC Montana</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlFsZkxaYjEzNEd0Zl8zZmdFa3Vza29BcDZJOTJKUVBSV1NTSWc0SC1SUUxheWtmMkVLRS10Wm8tQUNRR01SZS1LTU9TM2JqeGg5WHlzc1pfajFaRkVIYzRCSnpnWmlHMzZTcDItTnh4b1lzcUZRQVJZalo2ZHBSQ2cxSzBiRENtQmtESzl4MjlIWkF1Rm4wM1NtaXlkTDNvaVpycm1Jb25VN2V0c0NhdVpham5wcWRjNnFLTWxn?oc=5</link>
+      <description>Source: Google News - AI Education — University of Montana launches AI certificate program to prepare students for workforce NBC Montana</description>
+      <pubDate>Fri, 23 Oct 2026 13:03:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:4d641f7628e4a490a2b99f1ec716441ff6c33529a9d79f3d421b75bed93d1999</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Opinion: Educators Need to Engage With AI in Order to Learn the Best Ways to Use It</title>
       <link>https://www.the74million.org/article/educators-need-to-engage-with-ai-in-order-to-learn-the-best-ways-to-use-it</link>
       <description>Source: The 74 — Recently, the nation’s two largest school districts hit pause on artificial intelligence. New York City placed a one-year moratorium on generative AI for preschool through eighth grade, and Los Angeles blocked student access on district devices. Six days later, researcher Jacob Coxon resigned from Anthropic, posting on his X account that AI companies are “racing […]</description>
@@ -114,10 +122,10 @@
     <item>
       <title>UAE’s Liwa University Partners With AIJRF to Develop Agentic AI for Higher Education - TechAfrica News</title>
       <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQYjN6NzFRb0txNUJOcW1Wd3BkSmlxQlprZFhvV3pBQzUtRnprbzZTY0pZUG9qSThaUldlUk5WOUl5ZkhxdFZPU2U5VU81YU9tZkhPYVpZbzIyOGE5di1TT2pZdjRVUW8xRzdTOUlfd1RVVVF6N0dHVU9Iam45S2VodGJRbk5adlF0REVUTGdCcmVtVWtKQzdZ?oc=5</link>
-      <description>Source: Google News - AI Education — UAE’s Liwa University Partners With AIJRF to Develop Agentic AI for Higher Education TechAfrica News</description>
+      <description>Source: Google News - AI Higher Education — UAE’s Liwa University Partners With AIJRF to Develop Agentic AI for Higher Education TechAfrica News</description>
       <pubDate>Fri, 23 Oct 2026 08:39:19 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:53ca48de4d43a53932759eec5e3263c8f9a778b1dcee94c9007f8501a0f3ad9b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>ETEducation Chancellors’ Conclave 2026: Universities urged to adapt AI, curriculum reforms, research-led i.. - ET Education</title>
@@ -141,14 +149,6 @@
       <description>Source: Google News - AI Education — Don’t Worry About Professors’ Rules, AI Executive Tells Students The Chronicle of Higher Education</description>
       <pubDate>Thu, 22 Oct 2026 20:28:45 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7ab8ec0b75cbd3085bfd2ebf886e7bc8fb0219c63693c2d7722563149b78bfe4</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Rockland Community College Awarded $3 Million Federal Grant To Expand Artificial Intelligence Education And Student Success - Monsey Scoop</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcUJjb0doUFBEVEVqUDRQX3d5eEgwSTItbTZIMEhEZmJfTlBkNzRhemp5d25iSVl4NEZTcnZidVFLYTNTV00tR19tRjBJRkprNlBNWDJNLTQ2Ymk4UkdndmMzaktuRmloVTY5Y2kzaU94QlNGLUhEWXpjcEFIaFpCNG1fdk5USVJnQjN5YXFaMDBiWGFoLXVCUVlHQXhTaUlEdk1ZY0NYUElUa0ktVzR6X0JtLVpHT3RnTU9mWm13YndlUG0yZmgyZUZxNHRzUzByanpEZThrWmhIWG96cUNUaQ?oc=5</link>
-      <description>Source: Google News - AI Education — Rockland Community College Awarded $3 Million Federal Grant To Expand Artificial Intelligence Education And Student Success Monsey Scoop</description>
-      <pubDate>Thu, 22 Oct 2026 16:36:26 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:66a5201840b665bd08d70ab56f44177d98956aa4b8e5ce841acca4d33c061e6f</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
