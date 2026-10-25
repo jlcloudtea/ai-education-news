@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 01:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:11:33 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Baltimore County School Board Hopefuls Split Hard Over AI in Classrooms - Hoodline</title>
@@ -48,14 +48,6 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>New York City Public Schools banning AI use through middle school starting this year - ABC News - Breaking News, Latest News and Videos</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPQVFUVERKNGMyTDlwWUQ2Z29SYldYc1pyRHZvZHNFXzhsRFVROWE2T05vZ3lfLUE3Nm5tYWtxbU9fZVhIMUNXWFZ0aktrTHBUNHlFQll2QW94ZGdBbWFUT0tUcElMT1NMb2VkNDM3NkN4ZGYtb3E0eThhVHhsbkZkZEJLM2RSM2d1M3piNThHQWp4QzRDZjJfdl9qM0nSAaIBQVVfeXFMTl9KZ3YzOW9vdV9PcWhjTmV6bDZxTjZZYmRtZmNKdXRaenlXbEhETXZrRXVPdFJFZFNlcUM3WTZwRl9KS3VMWndXZS04NW53Vy1rUlFiWlkyRThhamNiVEg5bEdrOFBGYXFpelNnRUtLN2hLUWxxZjZoekhueHRjLUJ4aVJrNEFqSWtDUnNTVDlJSkxXM043R1lDbFdBME13ZHJ3?oc=5</link>
-      <description>Source: Google News - AI Education — New York City Public Schools banning AI use through middle school starting this year ABC News - Breaking News, Latest News and Videos</description>
-      <pubDate>Sat, 24 Oct 2026 08:28:30 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:56fe8ccf4656ba013466d9877cc8fd77a02693e60499c8ab6116204adf7416f5</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>AI in Higher Education Internal Audit: 2026 Survey Results - EisnerAmper</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTlHMGFhR004V3VCekR4Zm9uaVVkSDlHSXg4TV9pQWRMVUZTZzJoanlEWkY5dmd0eEIxVENxZEw5N3BKVmp4dGRBT3R0NnJDYTZndlJpTVk2RDZuTGtVZ0x5aUpSWTZpQTZKWWxOTFhvMjRIQi15R2JIS2FfbVJNaDktUnV4ejM5NXlXNUNzaGxiSDB3ckltc0YxMG9QR1pGSzI3TEln?oc=5</link>
       <description>Source: Google News - AI Education — AI in Higher Education Internal Audit: 2026 Survey Results EisnerAmper</description>
@@ -64,28 +56,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Gujarat Plans AI Training For 5 Lakh Higher Education Students - BW Education</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDFrenZVdjJpOG80ZTNRQlVYZ1RuaEF4YlZfZDZHcUc5cmtQenU4emxMeWM5YlZMd0lpWGNqNFNTODl4eVp1LTBzUkdhQVo1LW0yelIxM3ZXd2w1QkJOaW5XVWMyMDFGelNqc1l2azVjRnlkeUZDT0VyU1pVQ1pEQXBOdUZZNlQyNFBheTIxakFXcG5jSU8wYVFkX0ZvQlZla1RNZVN2OTM?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Gujarat Plans AI Training For 5 Lakh Higher Education Students BW Education</description>
-      <pubDate>Sat, 24 Oct 2026 05:39:04 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:26268e4047d55a046a47187ed288f676c40ccbc52e52c54bbc779e5fce19971d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>UC Irvine study shows AI tools like ChatGPT can affect student learning - KCRA</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWdpUjFQdDhTR1ZRQUhGQkNBX0JmUG5qaXo4bnVPdWR3V1RCalFTa1YxM2p0dUhSOGN3S0h4WlZLaFgxZXU2enQ5SHJaZGZZdlJUQU9vMDZaSVdraHZUSEJGSU45QW5TSEIycW5lYzhBTFg5bGlNa1B4ak10VXVhWXdFTG8?oc=5</link>
       <description>Source: Google News - AI Education — UC Irvine study shows AI tools like ChatGPT can affect student learning KCRA</description>
       <pubDate>Sat, 24 Oct 2026 03:28:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:10be105eb07479acf9c3b74de7b8e6fde2f1729e7898914dbf26a049ba2ff38a</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>University of Nairobi student creates AI greenhouse that 'thinks for itself' - Daily Nation</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPMUliOXFwQlVqWkN4TXdLWXcxRU9NY254cEFhNkswZExSeHRDRGFLalIzVmMyMURlb1pITDVmU3h2TGh5OUxVdDZpUU44aW9hN0VCUWR3dnRPaHU5V3I2NjNYWWFSZjB6dmtTb29fTWFZcVdXX2hBcXRieHZYb0RXcFNWb1hKcFVCaDV3dW1mWDZiczFJWHlESHJBdXdydlVEaHFnN2lacXZORHg0ZVNMRGxWekVsUkNrSG1zVnlSVXZzZnRMUzNQelU5SC0xRUE?oc=5</link>
-      <description>Source: Google News - AI Higher Education — University of Nairobi student creates AI greenhouse that 'thinks for itself' Daily Nation</description>
-      <pubDate>Sat, 24 Oct 2026 03:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d07be93658eff42f11b5858b51eddc27307b6c06ce0a9ba6285320b8bd143298</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>USM students raise concerns about new AI student assistant - newscentermaine.com</title>
@@ -128,6 +104,22 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Mines students protest generative AI, lack of regulation - Clear Creek Courant</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbjBBaHVZcThzMHZ6SGo0OHgyRVI2djd0a2FyLXJVUnJHVkphM3dOUUNNSlNwZWxSa0dXNWNlSmpRcDh5ZFhJMHdObHNuaE9HeGtFOXJiS0NUOGYySXBkS1d6ak0xbVpEeVZrVmVvekpDdWM4bEFWQk9lM0FVdUlyMzVWek9jTnZpcjdHTEdnZFM4NV9TRE1WWmFYSVNGRm1GN01YbEhZQzFTY2VIdjNrLXBwUHIwRnJyM0xrVHN5VzhnNk1weWNIcmN4dEpoYkpSRWI5Y3VuYjExXzY0?oc=5</link>
+      <description>Source: Google News - AI Education — Mines students protest generative AI, lack of regulation Clear Creek Courant</description>
+      <pubDate>Fri, 23 Oct 2026 16:43:09 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:612ac631575cbdefe47556ca072736dc03f0e066ad3595fd6a19a5514ac382b1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>U.S.-Latin America Day of Artificial Intelligence symposium celebrates high school student creativity, innovation - uillinois.edu</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Sem5JMmp0OTNsYmRESmQxb3ZfdlhTNF9vay1nR0ZkeGlGOEc5N0xHcENWVEZGdzFKNEU3VzhwdVVQc0FOYjRVVGdBa0dKTXFJVThCU0E2SHlxQQ?oc=5</link>
+      <description>Source: Google News - AI Education — U.S.-Latin America Day of Artificial Intelligence symposium celebrates high school student creativity, innovation uillinois.edu</description>
+      <pubDate>Fri, 23 Oct 2026 15:34:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5dd7c70d354c0d4bcd07cb70a640e9441d92040b1db6ca2e9e5d1be0d9f2e30d</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>Anne Arundel parents, teachers urge school board to restrict AI in classrooms - The Baltimore Banner</title>
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVYxaFlreG5rVzZiUVVYQ3BHT1d4VWdFcm53ZU5QaXV1dWR4QkdtanI5am1KZjRQVzE3RU4tUzRZVlh0VF92eTR1bWotaWNPZzg5ZmNtVmMyOXQtQlR5Zk83alF2dmZ2bDJHazZvNzVkVFRNX3dnXzY0NHdKVFFhRTdwMUQxZ29EWlhMLThtRllVeDZhWG5PZzhtMXctSWRPWVQ5MXBOT3ZCSzFqU2t2bVl2UGU?oc=5</link>
       <description>Source: Google News - AI Education — Anne Arundel parents, teachers urge school board to restrict AI in classrooms The Baltimore Banner</description>
@@ -158,6 +150,14 @@
       <pubDate>Fri, 23 Oct 2026 09:03:54 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2c577bb6ada5d2b1c3ea90eb47ab6fbf69790e364bf6d08217da634677e52dd4</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>ETEducation Chancellors’ Conclave 2026: Universities urged to adapt AI, curriculum reforms, research-led i.. - ET Education</title>
+      <link>https://news.google.com/rss/articles/CBMinwJBVV95cUxOVy1fUHBTS2Zfdk9vR0hZc01Pa0VBVnR6dkdHcXJTZUU3MHVCZGhPcFJzNlpURTgzTkp6TmRkb2ZjUVRTV2VMTUVLMUFmY2E0WF9NMHVJeXNqb1RVVDVHYWhsQ3ViQ2pWWUZJQXkzNXRzaU1aMXQ2a3JaellEdFFsZUYzaVhlZjhGWjBOYWZQbnRoaldrOEJ5a1hFZHRLVGtDVFlodTFrRlB6c0E1VGtIekFNYnFRNEx1U2FQNE1Wek5sT01LUnVKdDhIczdEd2pjckpDcVk3TmtNVE9tam9jby1XTFBiUnRkVllQT2Fjbi11YzJXVk41R241eUwwWHRpc3N1RnhDVHBoZWVMVDVYajZjVDF0V0dHdFdfdzhHTdIBnwJBVV95cUxOVy1fUHBTS2Zfdk9vR0hZc01Pa0VBVnR6dkdHcXJTZUU3MHVCZGhPcFJzNlpURTgzTkp6TmRkb2ZjUVRTV2VMTUVLMUFmY2E0WF9NMHVJeXNqb1RVVDVHYWhsQ3ViQ2pWWUZJQXkzNXRzaU1aMXQ2a3JaellEdFFsZUYzaVhlZjhGWjBOYWZQbnRoaldrOEJ5a1hFZHRLVGtDVFlodTFrRlB6c0E1VGtIekFNYnFRNEx1U2FQNE1Wek5sT01LUnVKdDhIczdEd2pjckpDcVk3TmtNVE9tam9jby1XTFBiUnRkVllQT2Fjbi11YzJXVk41R241eUwwWHRpc3N1RnhDVHBoZWVMVDVYajZjVDF0V0dHdFdfdzhHTQ?oc=5</link>
+      <description>Source: Google News - AI Schools — ETEducation Chancellors’ Conclave 2026: Universities urged to adapt AI, curriculum reforms, research-led i.. ET Education</description>
+      <pubDate>Fri, 23 Oct 2026 07:28:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7232f665781537b6e87d9c0843931a359ef05faaa11226eda916a6449720217f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Q&amp;A: How AI came to model the “messy” human mind</title>
