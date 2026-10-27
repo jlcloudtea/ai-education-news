@@ -5,8 +5,48 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:39:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:20:06 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Learner collaborates with MIT peers to develop book of AI insights</title>
+      <link>https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027</link>
+      <description>Source: MIT News - Artificial Intelligence — Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.</description>
+      <pubDate>Tue, 27 Oct 2026 20:55:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f6bcb634209c36dece377281ae3ff5631e9469fc10741122195c58ea0978fa59</guid>
+      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
+    </item>
+    <item>
+      <title>University students and faculty: Balancing AI’s usefulness and its costs - Second Wave Media</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3RTY3ptM0dFZVhMZDRhUTBGZ2JVNnBhb0Vsd1N6OXc0LXh3SVhndmJMTXllaF9jXzZ6Y242dGxVb0dMRGhTOUZSUWZNLWJmOUFsSzNCcG1tbUc5UWl5dUxLQVR6MEJiMDF0SHFiSmlETUZHZC1lWUlDeWhhaXZQcF94b2N3NHQyeXJqd21Icy13OTNNcWh1ZWRnOURrUi1B?oc=5</link>
+      <description>Source: Google News - AI Education — University students and faculty: Balancing AI’s usefulness and its costs Second Wave Media</description>
+      <pubDate>Tue, 27 Oct 2026 18:25:01 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:bac8e0156893876dd8f147a46c99abc37bfac44b8a187475b17c4b94e2df7270</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Tyler Cowen’s Radical AI University - The Chronicle of Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBST185TWxaVWJZa0hCMkFGYmNaNTA2UEdaM0hqRmg4Mi1uV0hrUlVZVmhrNUNlNGE0T2tZeWFPdzRQaGRFd1NTY2RzV3JQSWpmODZXdnF3NnNsVmM1Q1NpRGFmTUM4a2I4Mkp4ck43dTV2UnNNSy1v?oc=5</link>
+      <description>Source: Google News - AI Education — Tyler Cowen’s Radical AI University The Chronicle of Higher Education</description>
+      <pubDate>Tue, 27 Oct 2026 17:41:48 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c27b09855c1c79136de14d6969efb57aff1913f76cd1a9d3742830dbc85cc2af</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>15 Nigerian, Rwandan Primary School Teachers Trained In AI, Digital Learning - Independent Newspaper Nigeria</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTFJZ2VyWTJlN0JIWDUwR1poS3VKYWdnRFJhNlg0V0VXMk5DNU5qMTVhQXZ0QjNQNHlIb2Q0RGtobGF2LWY5SzRFNjRQMWlhUUxJSFJxbkJ5RURYWTd4ZmpxT09FUU9wZ3pYTmRXM2VuVnpCbnVSR29UcU9IVkpKUnZEai1ORDA3bXBaaTZLRFpFNUlTZnVab2NXV3dPdTQ?oc=5</link>
+      <description>Source: Google News - AI Schools — 15 Nigerian, Rwandan Primary School Teachers Trained In AI, Digital Learning Independent Newspaper Nigeria</description>
+      <pubDate>Tue, 27 Oct 2026 16:42:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:4cdf43ec01ef32b33d98236bfaada27be45ad98424bee5248773ba2874391dce</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>AI Could Leave University Students With Fewer Human Teachers as Automation Expands, Researchers Warn - www.techtimes.co.uk</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPZTNCUXY5VnYtRnpqaGFfcFpoUVpOaG5OcE55TnBLa0JKN24ySUlVNkFRYmVTeE53TFAydmRmdGtaY1VRWnJkUFV6dHAyTGE1RE03bmVJdFAxNFpYVFpHVW9DdDNDeEpSTC04SFBUUERzSGlrbkl3VEFjWFd3bGNlMlpwU1hhckJoZ1FNd3E5OXBLSEk?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AI Could Leave University Students With Fewer Human Teachers as Automation Expands, Researchers Warn www.techtimes.co.uk</description>
+      <pubDate>Tue, 27 Oct 2026 16:36:50 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:bda0b89afde7fc50f217a1f2b3dd3bd461cb85783691ee6487225d80dc9243a5</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
     <item>
       <title>Opinion: States Don’t Have to Solve the AI Education Equation Alone. Tennessee Shows How</title>
       <link>https://www.the74million.org/article/states-dont-have-to-solve-the-ai-education-equation-alone-tennessee-shows-how</link>
@@ -16,43 +56,11 @@
       <source url="https://www.the74million.org/feed/">The 74</source>
     </item>
     <item>
-      <title>High School Developers Prioritize AI Over Academic Credentials - 조선일보</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHZMNlVLMXl0UWw2Yk82QWQzQXhkbUxwSGxSNDBYYmNLaWh0dTgwX1lxQlNNUEhFZXRrMjQwdGxFWGNKYnY2NUZqSV9NTm5QTUNrME43MjRmdUUzM2ZHM1IzekZVY0o1dnFCaVRMSFJ4OENPLUpPbDl3ZkxKQUNlU0MwRUFyb181?oc=5</link>
-      <description>Source: Google News - AI Education — High School Developers Prioritize AI Over Academic Credentials 조선일보</description>
-      <pubDate>Tue, 27 Oct 2026 15:38:04 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:6c29a10077868ae870230985a3ceaa63ca7aceeae72ebb5e64e9f783a47f5d47</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>IIT Kanpur, BHU and CSJMU Join Hands to Chart the Role of AI in Teaching, Assessment and Ethics - Elets Technomedia</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOd045YnB4SHhrRzMtUmhHZDROZW90MVNvZDJFaVQzc0ZPQlI0MmppY3l5c1ZCZG8wdzZjSDI3SmdIMF9vcDVXX01aV1pDbVJUQzB1ZW9rZFNjUWh3eUExdWZmVDJmSldqR1c5UFhOY1ZYR0I1VmF4MnFsZWRvRVNzWVV1bkZmZEVtSE1YZWRJRWpvQ0dCY3YtZzRGU1JuMURtZDRqNFppeEJYNFVPNUR3Rk42RFlFWVdSZ0pnSG92UjBuN0ZiNzNZ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — IIT Kanpur, BHU and CSJMU Join Hands to Chart the Role of AI in Teaching, Assessment and Ethics Elets Technomedia</description>
-      <pubDate>Tue, 27 Oct 2026 15:13:40 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:95933a48f95c13190d97a6969be60cf5285defd489ba274c5d9774924cb9cc45</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Two hours of academics, no homework: Parent group pushes to bring AI-powered school to St. Johns County - St. Johns Citizen</title>
       <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRnVlRTZJQkFobWJTZ0FxeGdnb3NicFdkQlFLbGduNUg5dkVod2t4OWc0cU1waE5EUTNjcmtrSjlWRVlfM1JISDJYQWJ1VzJqcnNGT2pmR3JZU1QtdVpzZVRlWHlEY1RrdVB3UnFDSzk2WTlReE9UenE4RU81cGhuZE9YcGpTdXNfM1Y1OTRsT1UtYzlYT2tnLW9kNlVNd0JHMVRiUFJnQnpRc3VNMVljdVNXRmQwQTVtVklGTS1wRlc?oc=5</link>
       <description>Source: Google News - AI Education — Two hours of academics, no homework: Parent group pushes to bring AI-powered school to St. Johns County St. Johns Citizen</description>
-      <pubDate>Tue, 27 Oct 2026 15:10:44 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 15:22:35 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:f1565c988cf1940ab03ced1fd570899eb78e3404f95429dab503603a2b6b81f3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Artificial intelligence in a Jesuit University: A student conversation, Nov. 4 - Marquette Today</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3VETmdCQ1JGTUxiOG9jcERaY1lpbFM1RnNxaHJLWVhLaU0wQXJ5cjFMMzA5TGwwWUNhUlNDX3NoVHFXTVNuUjVaWlE2V2x0NDRrZXJWcG5vZVhxRERVN0F4WGY1R1htYWRZcUV1VGRzdDZqd3FNdjUtTUtra3dVd0dNUzZIZ1BiNUg0Zy13QUhyS3ltbTE1bUlQUW8xd1JEUWcxOG1yQ2ZtMkJnZFFBaXJR?oc=5</link>
-      <description>Source: Google News - AI Education — Artificial intelligence in a Jesuit University: A student conversation, Nov. 4 Marquette Today</description>
-      <pubDate>Tue, 27 Oct 2026 15:08:29 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1ccc4f552cadc339673a8b4d2de4d8b6f1d7339bd5d23635ccf2852ed32fc3cf</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>How AI Is Changing Higher Education and Critical Thinking - LAmag</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxObnZFNmZWVm9LMFQweTRNZ3pOcmRWcVJsU1V4TEtZWGVaZjZYSFNFa3RJSW11cFZiaGhJcm9Ra0tJQjlqYUQ0OVBubUVOSWRPd2RESG1RcHNFVDFiUzQzdlhDX2VLODQyYVo1SkN6NW91SEh1UGN3c2dVampRVllEdlN2Tmo0azhGUTdmSkVvWnlGX1UtTG1MUUF3?oc=5</link>
-      <description>Source: Google News - AI Education — How AI Is Changing Higher Education and Critical Thinking LAmag</description>
-      <pubDate>Tue, 27 Oct 2026 14:49:36 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:106026fee30084782e8ce85050e756c06f874d2a403a53581098d516b982982b</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -64,18 +72,10 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Imperial College London Spinout Machenta Raises $40M in Seed Funding For Instant Learning Robots - AI Insider</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOcXpzZzAtQVZBREhGVVQ0Wk1lSFJjRkVuLWtLWEdpTUgycUI1aElsdVViMElQMmp2UjE1X3pHN2Q1cTBYRkVURVJZWlV4T2xwWlBkMGZLeGN6RnF4N2VTZmwyQmhoVzlxVE95eGZhdDZYVU1UTEVRS3ZNUUxZWVZ6bmRxQjhfT2tHNVZtMGlzMVozSEwyRExXR3czMEJnZm5ONzNXQ01MWmM1WkRYdUFSV2RuZTVXdXJjc0tIUUFrcm9raDFtLW5MV0o1ZzdZZw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Imperial College London Spinout Machenta Raises $40M in Seed Funding For Instant Learning Robots AI Insider</description>
-      <pubDate>Tue, 27 Oct 2026 13:45:41 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:0bcc1fe24391eefadd44b2a6dbf105713aabbf3c2c7d42ed30bc5c87e7665df3</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>NIU College of Business dean brings higher education’s perspective to Armanino’s Chicago AI panel - NIU Today</title>
       <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0xfZUNiVUlrMFpLMk1NYTVaWUZFQk5WQmpHbHhXUFlnekNxWENDREFyLXB1LXptVU5xSFJhc2t3WWdkY3NjVjh4UXBBTE9XMDBhTlZSaDZYRnFSclI0cm1hblFLTzNqT3JEX19SUUY4NnlUdGJEb05MN1V1UERiNFJlZlE2ZnFCWDhlUnk2T3hfdnZoN2RqWVhUaGJrVjI0RkNQS0Y5SjBFNnJINkYyRkRQbW9vSDBFd0lybjlIb3BvLXNabXMyUw?oc=5</link>
       <description>Source: Google News - AI Education — NIU College of Business dean brings higher education’s perspective to Armanino’s Chicago AI panel NIU Today</description>
-      <pubDate>Tue, 27 Oct 2026 12:50:33 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 12:50:27 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:915204ccd6bc817d49abfa5cbff50a1650a7af0ac8e230b794453226d42aafdd</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
@@ -142,6 +142,14 @@
       <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:8eb6001a836a6e50b8fb133e1590f182de0e7997306db3a54dcb8d2c2e5a6daa</guid>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+    </item>
+    <item>
+      <title>Georgia High School Students Weigh Learning Without Artificial Intelligence - Georgia Public Broadcasting</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUMxYzVXSFRYcUpsSS0tWnZEbm4zVDhvaFhmM1RZVDUybXgtbVg0Vk1QVUtsSWZvNFlCa2sxMmRaa01sbnF3SERrYTE5Sm1FTnptUkJ5RFBHQ0Y3bFVLZzQ2c3RiVDZGa2EyVDhDNjhBd1BZWEUtS1JRTkhOV1JBZ2ZGLTBEdkU3XzJwZTZIUHlxeF8wT0tFdjhIZUZiT0NLSEFmODhrVVViN2NUaU1LN3ZISk8?oc=5</link>
+      <description>Source: Google News - AI Education — Georgia High School Students Weigh Learning Without Artificial Intelligence Georgia Public Broadcasting</description>
+      <pubDate>Mon, 26 Oct 2026 13:37:55 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:1df6964708f34cee141007acc77e700756f20f8bb5117e92741af518700046b8</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Dare to think: What Kant can teach college students about AI - The Free Press of the University of Southern Maine</title>
@@ -238,14 +246,6 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3de6d2599eba209bf3a999f2bc9778d09fde420e0288bd6bddfe128f624a2402</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>How artificial neural networks build their own learning machinery</title>
-      <link>https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013</link>
-      <description>Source: MIT News - Artificial Intelligence — Machine-learning networks can learn without detailed instructions from a designer. Those that do may offer insight into how the brain reorganizes itself during learning.</description>
-      <pubDate>Tue, 13 Oct 2026 21:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:08d1bb7044624eeb3d4e44a37ac6771e33d55c0e86194104ed26220bd9953680</guid>
-      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
     </item>
   </channel>
 </rss>
