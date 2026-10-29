@@ -5,46 +5,54 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:57:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:06:25 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>'A Game for Everyone' Made with AI... University Student Hackathon - 아시아경제</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBsaWpXY3VubFpjY0plOUotRjlCcmtWSjVuMENtZU1GZjM1N09EX2R0UUNzNXF4dFVZUDBEbnVLYXRkTDY5dlFXc25KUExNUmIwem5lYzlCZWJReGVuRXZkMXhBbWNiOXVhcjMyY1BwLXdvWWFMQ3c?oc=5</link>
+      <description>Source: Google News - AI Education — 'A Game for Everyone' Made with AI... University Student Hackathon 아시아경제</description>
+      <pubDate>Thu, 29 Oct 2026 06:01:52 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e499621e5415572181603ef4c7fc5374e8260cbce59b65e36d5b2ae36e576d6f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Simon Fraser University - FLAIR project at SFU harnesses AI to revive Indigenous languages - Education News Canada</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1gzU1VuTkdXVG4yVW9jeWYtV3dMVFN3ZWIzLXV6UFg2cVJ4aW9DRmFINWs3ZEFFZkZnQnNJQzdZTWRSMUc1YXhnNVFGd3JWSFg3YWk3UU1RTTgzc085WmZrNlg1UGZZS0tjZFVqclJnV05zS2FzMVJzSVR3QVd6Z1pnRldtcHljdlFZU1RBa0VNSFpCUmVObUQwTlZaVDZsMGpLRGpIbDcxbUtmNFZudkV3VUNqdTNsM3gzVDN1SGM0QmlONWhUMXNFN0pzSEwyYnRxOGQ5TjhLT3BneEtJ?oc=5</link>
+      <description>Source: Google News - AI Education — Simon Fraser University - FLAIR project at SFU harnesses AI to revive Indigenous languages Education News Canada</description>
+      <pubDate>Thu, 29 Oct 2026 04:37:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c71f183a7971490c48fdc4df6955e3d535ffe1952513058a7d182e15c4872808</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>QUEBEC 10 students suspended at Lévis high school for posting AI-altered images of staff - Education News Canada</title>
+      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0owbHhEZUJqWlJtbDJTeHNHTlYzc045LUNnNTVua29LandBXy1CWVgyRVpvMTBiSXhhbFhELWxMWS0ydlowLVJ1V3YtdlJCQmJuV1djU0xYUS1DMnBINXhHS1d6M1RVNjFKaFU4YTNhYS1ZLWRva0NESmdxRjU0VnZNaHZPUHBBTmpSNUF5MWpEdnJCckRHWUIwcjVtczNIZ05tclFORDBQRzBfT3VIQ2VXMHhYNENDaWVEQU1Md3lCV245UlJXRHBaakRKbk1IbUR5d01kQk12TExpMURmVENoWVhWQ29nOGUtbQ?oc=5</link>
+      <description>Source: Google News - AI Schools — QUEBEC 10 students suspended at Lévis high school for posting AI-altered images of staff Education News Canada</description>
+      <pubDate>Thu, 29 Oct 2026 04:06:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:06e98a00b098762561730a60c64fc5155ffec6f199259234fcd2bf8f46b8510b</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>University Professor Stops Grading For Correctness As Students Turn To AI For Answers - SAYS</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDNIdFd4SWNVQ1ptS1o0LTE4RkNtbWlsb0xaaV8tUWFja1ZlN2kyWGRjV2dfdXRKalJWNmFnODhGd3FPZjlNVFdwZFY3WmJwQVpHS1ktZDVXV2s1am94TXNYekh3R05wcS05OEM0R0VkUXBIT2NuazJXRVcxVHlqZFVnS0p0SUtITFR4Y2NuM3JtQQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — University Professor Stops Grading For Correctness As Students Turn To AI For Answers SAYS</description>
+      <pubDate>Thu, 29 Oct 2026 03:19:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:fd7ea1b3a2fe093af00abef68782593b650f07e5669bbcce7efb4b6558ced85f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Grant County Schools Take Different Approaches to Student AI Use - Source ONE News</title>
+      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUjFHS0hPMXlJSDJ0MDN1azQ1N1Rrd2NFM2hRd3RXekR0bFlZZEFSUHk2SXVoWmZIc25ITHNLY2pLNzh6R2xNT1VRb01vb1pjYjFDZk9sZVE1RTJzc3hkZ1FsZkZ5cTE3aG51NWNmQ3p6S3I0MmF2ZXhjUGxFMk1aR2tLN0JYUGNhLVNRQ0dVSGR1S2NxdFEydWxhME5IWnJTLUpiNE1WU0QtdDZCdnF4VThxWkRNcF9QSTNHYjFURWpBNWU2SDlUbDI1ZXpGcDBVMUgxbzZRenc1MVM2TUFjUG9BMlkyWmU2dFlnY2VXWTU?oc=5</link>
+      <description>Source: Google News - AI Education — Grant County Schools Take Different Approaches to Student AI Use Source ONE News</description>
+      <pubDate>Thu, 29 Oct 2026 02:34:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5132d227621ad1420ba8af494694f03360df0aa09e2c6950b7cf2cc4cf2b2408</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>University Teachers Feel Least Prepared for the Digital Skills AI Teaching Demands Most - Bioengineer.org</title>
       <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVZIMDhjZkFzcXpCV19heV9LM08zaU14dmJEMXpZdDNORzVNdVVONmlaLTZ0cnhNbVYtSVpodk42UnEtbjg2M1h5MjF1RTh6OHpLUGVBSlJuTVhlYXFMVnBrdmxDQ05QSi1QX1poc2ZMaHJFeUluSmtRYTJabEZTeVZmb2JEU3JFbGJJbEJGQURnVGpTSTgwXzl1djdyUjItaDRvenJvN09WNl9MQ2N4R3hR?oc=5</link>
       <description>Source: Google News - AI Education — University Teachers Feel Least Prepared for the Digital Skills AI Teaching Demands Most Bioengineer.org</description>
-      <pubDate>Wed, 28 Oct 2026 23:48:45 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 23:52:30 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:8a7bef2f0ca422ed345c3150555e80ff625e9bb67cee21028d428e09d7ade341</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Gannon University Students Get AI Experience with Donation - Erie News Now</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUFNNQ1FuRHd6d0pWWlhOYXpwNk9mNEd1TDZ2SmFtWHFWZGlLQlJLc2ZCeEFDMEVUeVpFRWp1UTY3RURMTFJEVTg3aTF5R0d4R2QzUERNaF9sR2VodHctd0Z2TzNwNWY2YVdMWDZGYkRndGktcGRXemsxa3FoV0FKNUpHRTR4UFEzRVdiWHNVWFRrc3ZtYk52ZDdLV1FpdjRzNGdydV9LUHlTQ193bS0yTlJYSVJZVjhvWDF5RHVKWDNkRmRVaTVJZFE5UlljRWZWY1p3TDdXSG0?oc=5</link>
-      <description>Source: Google News - AI Education — Gannon University Students Get AI Experience with Donation Erie News Now</description>
-      <pubDate>Wed, 28 Oct 2026 22:23:11 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:17dffd4ee6477835dc2b4ddf8909f59490a0d74e110b8271524b38f73a378074</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Bullies+created+AI+images+of+student+and+Asheville+school+allowed+it%2C+lawsuit+says - North Carolina Lawyers Weekly</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPVUFIWnlNRDlNaGZCWnhGUHczLXdOM2xzVUhsWGFwYkRWY3VwajlpSWZNd2U5RGZZZUM2SjRMdFRCYjFUMVotMzFZdE9VLUMwdGNIWWpQU2FzTkZhYXcxY1lrTjN0U283ZE5wMkJDYUoxTi1KemJqWFcxTURPTUtYNnh4OGpMRHdZTE9lekpQMl9qVXJNTmc3WExZd0NzM2Z1RUctOXU5NzVyMmlrbTVRN0JPd3I3ZDFvWHhLckJR?oc=5</link>
-      <description>Source: Google News - AI Education — Bullies+created+AI+images+of+student+and+Asheville+school+allowed+it%2C+lawsuit+says North Carolina Lawyers Weekly</description>
-      <pubDate>Wed, 28 Oct 2026 21:35:28 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:41cbf60d46a03d3e3da401d638a87eafdaf4bffb1dc65c80a391c792119ebea7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Debaters Tried to Change People’s Minds About AI. Here’s What Happened. - The Chronicle of Higher Education</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW43MEpOM2VwLW5PNHpfRVBmeG5YUzlYTktVMXVoMDRHeFlobXpNLUFZOTcyNDItTUxfbHFXNWdWMl8weVZDUU9sYjJVVjE1SlpMREpOYWxSMGZoRHFRSGF3a1MyMTItbkRETks0YkNjSEtiNElEX1I4bmRWV05kTVpYczc2d1Y3X3dfZkhGOHdyd0xVNjRLOUJleE9OVjRfWE40?oc=5</link>
-      <description>Source: Google News - AI Education — Debaters Tried to Change People’s Minds About AI. Here’s What Happened. The Chronicle of Higher Education</description>
-      <pubDate>Wed, 28 Oct 2026 21:04:23 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ab589ece56ae686590fe2324aaf34aecb50af2185e9f014487f41dd83b4d96a1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Rice leaders outline principles for responsible AI adoption across campus - Rice University</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTRoUk5yb2RXQlpnajViZVRGRnk5X2VpRzdHdFhiS0tmMVliTW9CR0ZlZ0VFeG5DV19vd25MaExJMndJWUJlQUFheGpYV3lkZE9IbmRIbll0QzV5SVFvd2xndGsxc0gxdzZsc0duYjIwdmVjUENDUldrZ1NUdWRKOHBla3ZtOEU2YlNuY1NPNy0yLVNfSzkxdy1ZV3ZkUDdmbWRB?oc=5</link>
-      <description>Source: Google News - AI Education — Rice leaders outline principles for responsible AI adoption across campus Rice University</description>
-      <pubDate>Wed, 28 Oct 2026 19:56:48 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a5a128b319a9782b30c605834451aec085acea2efb03ebd7fdf0131a6bbc90a4</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -158,14 +166,6 @@
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:8317ff0df4795387ab87664cf82cc6bda17cba4843de3201ca0b432c22f3449b</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>New AI tools coming to faculty, students, and staff - Cornell University</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5Xd3ZwWm56Q01iSXdPemhWektXTlZIcDVHckRGOVpCcnczMF94LTVQZ19ENFlzNmNDSkFHTnRVWTJ3UlJFNF9KTm9OaG81SkJ5YkozRUZkcUJwVHNCTlF6azl0UWZ0bEFkUHdzdzBB?oc=5</link>
-      <description>Source: Google News - AI Higher Education — New AI tools coming to faculty, students, and staff Cornell University</description>
-      <pubDate>Mon, 26 Oct 2026 18:05:49 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4bc467e0df4e34f858d16096b462c4812e2aea40b2dfa13c412159ae48ffaf8a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>15 college students share their favorite Gemini features</title>
