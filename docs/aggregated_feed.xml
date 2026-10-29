@@ -5,23 +5,63 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 07:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:20:28 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>'A Game for Everyone' Made with AI... University Student Hackathon - 아시아경제</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBsaWpXY3VubFpjY0plOUotRjlCcmtWSjVuMENtZU1GZjM1N09EX2R0UUNzNXF4dFVZUDBEbnVLYXRkTDY5dlFXc25KUExNUmIwem5lYzlCZWJReGVuRXZkMXhBbWNiOXVhcjMyY1BwLXdvWWFMQ3c?oc=5</link>
-      <description>Source: Google News - AI Education — 'A Game for Everyone' Made with AI... University Student Hackathon 아시아경제</description>
-      <pubDate>Thu, 29 Oct 2026 06:01:52 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e499621e5415572181603ef4c7fc5374e8260cbce59b65e36d5b2ae36e576d6f</guid>
+      <title>CCAS professors discuss AI’s role in higher education - The GW Hatchet</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlBCV0l2QmhPWXJVUmRGSFdFd2swTUc0c2VVbnpkREVzQm9WcENkMkhNUVVWZFcwZUdXaDVJN2JFNFh5cEhjZUFrRFNmZlFqRlIzQV9Td2NCSU45ZEQ2bmFmZHp2c2h4TzlSb2NzNGNtbHhUakVPSTRZM2FIbFU4aEFNTERMNmFRMmYyVlRDZw?oc=5</link>
+      <description>Source: Google News - AI Education — CCAS professors discuss AI’s role in higher education The GW Hatchet</description>
+      <pubDate>Thu, 29 Oct 2026 14:04:57 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:658211d886997cba5311be33b979deb969f5748f545de97e01a7d0e22be6d088</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Simon Fraser University - FLAIR project at SFU harnesses AI to revive Indigenous languages - Education News Canada</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR1gzU1VuTkdXVG4yVW9jeWYtV3dMVFN3ZWIzLXV6UFg2cVJ4aW9DRmFINWs3ZEFFZkZnQnNJQzdZTWRSMUc1YXhnNVFGd3JWSFg3YWk3UU1RTTgzc085WmZrNlg1UGZZS0tjZFVqclJnV05zS2FzMVJzSVR3QVd6Z1pnRldtcHljdlFZU1RBa0VNSFpCUmVObUQwTlZaVDZsMGpLRGpIbDcxbUtmNFZudkV3VUNqdTNsM3gzVDN1SGM0QmlONWhUMXNFN0pzSEwyYnRxOGQ5TjhLT3BneEtJ?oc=5</link>
-      <description>Source: Google News - AI Education — Simon Fraser University - FLAIR project at SFU harnesses AI to revive Indigenous languages Education News Canada</description>
-      <pubDate>Thu, 29 Oct 2026 04:37:05 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:c71f183a7971490c48fdc4df6955e3d535ffe1952513058a7d182e15c4872808</guid>
+      <title>Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers</title>
+      <link>https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers</link>
+      <description>Source: The 74 — Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are. Last spring, during the first lesson of our new 12th-grade AI literacy class in Newark, one student was stuck. She […]</description>
+      <pubDate>Thu, 29 Oct 2026 12:30:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:042a8eb43b477091dd39429a72c95542837b0236afc46d5609efa90faa389eda</guid>
+      <source url="https://www.the74million.org/feed/">The 74</source>
+    </item>
+    <item>
+      <title>Five Things You Should Know About New AI Tutor Study</title>
+      <link>https://www.the74million.org/article/five-things-you-should-know-about-new-ai-tutor-study</link>
+      <description>Source: The 74 — Last December, a small British startup made a big claim: its AI-powered math tutor, with a human checking its work, could outperform a human tutor working alone. Now the company behind that study is back with a trial seven times larger — and a more complicated narrative. In a randomized controlled trial of 1,179 students […]</description>
+      <pubDate>Thu, 29 Oct 2026 09:01:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:f989142b1541f16185446ece27951954917d473ad19a61a1d2197ae3bc46627e</guid>
+      <source url="https://www.the74million.org/feed/">The 74</source>
+    </item>
+    <item>
+      <title>How Gemini is helping students and teachers in the classroom</title>
+      <link>https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy</link>
+      <description>Source: Google for Education — A teacher crouching next to a student seated at a desk as they talk. In front of the student are papers and a laptop.</description>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3454fea505b4cd51ebd8825501d26b6d6a479f0e7bada06c9c46c3df1a308e31</guid>
+      <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
+    </item>
+    <item>
+      <title>Higher education governance under AI and geopolitical disruption: a socio-technical framework for administrative artificial intelligence - Frontiers</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZdkNLZDdjYUZKTWJ1d19uNzlGU05Ubk40cFBrMXNMOWNwZjluOVF6c1d6ck9Kek5OaTdDMGlQOTV6OUV6bVZfRFBCWnozWW1iaVZtTTZUVlhodnJPeVNfbGlyME9BTmlBcXBuOGN4Rzg?oc=5</link>
+      <description>Source: Google News - AI Education — Higher education governance under AI and geopolitical disruption: a socio-technical framework for administrative artificial intelligence Frontiers</description>
+      <pubDate>Thu, 29 Oct 2026 07:33:35 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:696c06ddb873eda5475148b8a80012521de592fd8dc1d64fc0ec9548c63a302c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Princeton students, faculty divided over access to University ChatGPT accounts - The Daily Princetonian</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEFJZ0dOMlFXZzdBOFptQzltOVRjWWJ1SXo2NzdjNllweC14V09UdUNBMk1DcmN2alBYT2wyYWVmYTdwX1FwM2ZmR21DLS1ZcFdMMHlVdk5leVd1S1ItTXZaeUU4NEk3eWtRZE5wNFQxQ2pFME43ZW1YUkQ5S2JiWVVPQUppdjB2ZzU5cm0zTFRmUE1MUzBsc202UlRZN2hxLUJkLWRGNzBvQzJKMHE0MFBVUUx3T1FSNHRtYkJR?oc=5</link>
+      <description>Source: Google News - AI Education — Princeton students, faculty divided over access to University ChatGPT accounts The Daily Princetonian</description>
+      <pubDate>Thu, 29 Oct 2026 05:37:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:171881773e9a85bc0baf25e0fce072454cde6e304e2ca2c2c935813e92181726</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Mumbai education conference to focus on classroom AI, teacher readiness and future skills - EdexLive</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzdWaHRfdjkycVFwX3VEcmpkdV9KcGpmWmtKUGFhR09YYWduSDlVcXZvZ1prRVE5aW1CSHRCTzhqLUNjQUtIR0Nrc1preU45VE1XbkxobzI1clRXS21nN3Y4dWxGMXRwUnF1bFN1Q0NldUhkV05yZGtIVjd2cmdQeTR4S2dHbEM5U3Y1M0xWRjRDdzFOSWhxS3VReUZFdWNndWMzU29iVnl3djhXeFh6NHlHUFR3bDM0WGfSAccBQVVfeXFMUEFHd3Jkckx1S3U2bTBMQkdRWThwaVVieFRRMEgwYk1aMm83dFNWVEJOVUFBSzN3VHYwNFNqMFZpaFpQVVYzYXIzZUE1VDBocHBfREFXS24tY2hEWGZFcWZncU9adEhqYTRhemk2Ym9TMVh5SFJNNkp6NmZfMExMVmo1dU9sOWVEZWI4VHlmY3V2c1lYYlV0M285X2IyeDhIeC04eThLVVZxOFRlcjduc1lRN01GN0RvZ3RqWFg1RUVIeGc0Qmo0QQ?oc=5</link>
+      <description>Source: Google News - AI Schools — Mumbai education conference to focus on classroom AI, teacher readiness and future skills EdexLive</description>
+      <pubDate>Thu, 29 Oct 2026 04:31:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:aa6728ade2a3811c1455a61f9003b38a6d6d0e5bb4727f9b0eaf475573f8e665</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>QUEBEC 10 students suspended at Lévis high school for posting AI-altered images of staff - Education News Canada</title>
@@ -32,19 +72,11 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>University Professor Stops Grading For Correctness As Students Turn To AI For Answers - SAYS</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDNIdFd4SWNVQ1ptS1o0LTE4RkNtbWlsb0xaaV8tUWFja1ZlN2kyWGRjV2dfdXRKalJWNmFnODhGd3FPZjlNVFdwZFY3WmJwQVpHS1ktZDVXV2s1am94TXNYekh3R05wcS05OEM0R0VkUXBIT2NuazJXRVcxVHlqZFVnS0p0SUtITFR4Y2NuM3JtQQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — University Professor Stops Grading For Correctness As Students Turn To AI For Answers SAYS</description>
-      <pubDate>Thu, 29 Oct 2026 03:19:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:fd7ea1b3a2fe093af00abef68782593b650f07e5669bbcce7efb4b6558ced85f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Grant County Schools Take Different Approaches to Student AI Use - Source ONE News</title>
-      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUjFHS0hPMXlJSDJ0MDN1azQ1N1Rrd2NFM2hRd3RXekR0bFlZZEFSUHk2SXVoWmZIc25ITHNLY2pLNzh6R2xNT1VRb01vb1pjYjFDZk9sZVE1RTJzc3hkZ1FsZkZ5cTE3aG51NWNmQ3p6S3I0MmF2ZXhjUGxFMk1aR2tLN0JYUGNhLVNRQ0dVSGR1S2NxdFEydWxhME5IWnJTLUpiNE1WU0QtdDZCdnF4VThxWkRNcF9QSTNHYjFURWpBNWU2SDlUbDI1ZXpGcDBVMUgxbzZRenc1MVM2TUFjUG9BMlkyWmU2dFlnY2VXWTU?oc=5</link>
-      <description>Source: Google News - AI Education — Grant County Schools Take Different Approaches to Student AI Use Source ONE News</description>
-      <pubDate>Thu, 29 Oct 2026 02:34:35 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5132d227621ad1420ba8af494694f03360df0aa09e2c6950b7cf2cc4cf2b2408</guid>
+      <title>University of Oxford and DfE begin six-month study into student data use in AI - EdTech Innovation Hub</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNW9Db1pmYmpKT3EwbWltM25jSUpFZ0gzeGZoUXMzRV92VHhaYzdyVXotVUJfVzdNb0g4WGlBX0c2enBZZWFtQkJKY0txc3MzRnRTSkdaVUdtUE1VNHo2RF9uWHlaVkQ0NUpoMDVUSmxjZlZCb2VTTzg5OVFYcU96UFJLOXczTmo1VkNubmFSVldyNzVyUUVQRUd6TmdNWjZHM2k4ZjV0VWdabGFGNnM3TmhPXy1ZWXVFc0cw?oc=5</link>
+      <description>Source: Google News - AI Education — University of Oxford and DfE begin six-month study into student data use in AI EdTech Innovation Hub</description>
+      <pubDate>Thu, 29 Oct 2026 01:22:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:278fe0b446082f4802d1769f9f05f328737d28578e35252433b6f57bb67fbcf5</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -94,14 +126,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7d526cbb62c9411b133711c28c83b9fabd6ea04d565faa762272eb13226f1d62</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>As Bogotá restricts phones in schools, teachers explore AI in the classroom - The Bogotá Post</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNcE9JVjlkZTd1VXVBRmQ0ajVXdUlRM0kyNnNINGhGbXlkN3ZoaXVXc0tqcU93NURRTzRYQ3hyamZNRHdPdDFaNE5oakxpa01tb21NUV9IWUxzd19GXzVhN284NnpKdUxNNEVpMk40WGl6eFB1eXRSakRKanUzWUszdllvV0cwOS1RNEdzVmRBY2RROXNPWFg0QjRVTDJCYVcyaU1BTV9iT0wwUkdXSGJjZA?oc=5</link>
-      <description>Source: Google News - AI Schools — As Bogotá restricts phones in schools, teachers explore AI in the classroom The Bogotá Post</description>
-      <pubDate>Tue, 27 Oct 2026 23:17:19 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:b086ba61888f89a677234a51cc1fcc037872bd39ecf77d7cbab082ec32ceeaba</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Learner collaborates with MIT peers to develop book of AI insights</title>
@@ -222,30 +246,6 @@
       <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2ca1fc8bd2dbd634403f013fe0c8b9b82e75f0876122e3ff4eff3d6a45341e1a</guid>
       <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
-    </item>
-    <item>
-      <title>Why teaching AI about symmetry could make prenatal diagnosis more reliable</title>
-      <link>https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019</link>
-      <description>Source: MIT News - Artificial Intelligence — A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.</description>
-      <pubDate>Mon, 19 Oct 2026 18:20:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:820876c7f3cb0963dddc78c8df4db8d525dff9aca46c6aec126ca33ced275833</guid>
-      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
-    </item>
-    <item>
-      <title>We’re sharing 3 tips to study smarter with Gemini Notebook.</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook</link>
-      <description>Source: Google for Education — Master your exams with Google Gemini Notebook’s new 60-second video overviews and interactive quiz formats. Try these study tools at notebook.google.</description>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:cc65a49a48b209e9fbb1cd7a4b8a798e5c10ac4b1ec5fca070da773969e2eae4</guid>
-      <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Teaching students to think and learn through questions</title>
-      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-      <description>Source: OpenAI News — Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.</description>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a60f4a701f887ae8f46b94e06646a5fb82b2851c561d6cf99f41823c6f66011d</guid>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
     </item>
   </channel>
 </rss>
