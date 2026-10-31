@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 05:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:30:40 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Opinion: 5 Key Steps to Make Sure Every Kid Actually Learns Something</title>
+      <link>https://www.the74million.org/article/5-key-steps-to-make-sure-every-kid-actually-learns-something</link>
+      <description>Source: The 74 — The first learning software I built shipped on a CD-ROM inside a McGraw-Hill textbook 25 years ago. I had left a Ph.D. program in learning science after realizing that research-based study strategies could be automated. The disc became an app, and the app became artificial intelligence that can go to class with a student. But […]</description>
+      <pubDate>Sat, 31 Oct 2026 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:7b07dc94db39cdbe180612f6e08b04e6537c86068c5265ff7555d3cf87a758be</guid>
+      <source url="https://www.the74million.org/feed/">The 74</source>
+    </item>
     <item>
       <title>Students use Canadian AI to learn at university — by teaching it - Yahoo News Canada</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWVYQzdNYXdzMG5QZ1VDVm9kZ3hRMmVsczRSZGxDYTVBZVV0dHlBdnhfS2FoaDVyRkxjR1ZJYWRQSldrdzdDdWFpNkw0LXE4WnloRDUxdzJka1UtR0drQWdJMl9tMEZUUC1mN2VzUElSOE5WQlpEem9tNmlGaERvYU50VUc?oc=5</link>
@@ -238,14 +246,6 @@
       <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2ca1fc8bd2dbd634403f013fe0c8b9b82e75f0876122e3ff4eff3d6a45341e1a</guid>
       <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
-    </item>
-    <item>
-      <title>Why teaching AI about symmetry could make prenatal diagnosis more reliable</title>
-      <link>https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019</link>
-      <description>Source: MIT News - Artificial Intelligence — A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.</description>
-      <pubDate>Mon, 19 Oct 2026 18:20:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:820876c7f3cb0963dddc78c8df4db8d525dff9aca46c6aec126ca33ced275833</guid>
-      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
     </item>
   </channel>
 </rss>
