@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 17:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:35:23 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>'Ghost Students' using AI to apply for student loans with stolen identities — DOJ's Operation Ghostbusters busts $200 million ring faking online college attendance, unsuspecting victims saddled with student debt they didn’t sign up for - Tom's Hardware</title>
@@ -96,12 +96,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Gemini Free for Students vs ChatGPT $20 vs Claude [2026] - https://tech-insider.org/</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFZfc09tbE5GQjFjd25XdUdlUW15WGRUTjBiMXFmTzNWRGdmY0VpUF9GRWRTTjE5TnJUd1FVem9ZVUdDRHFVRktIb3hZaExsLWxXSU1MUzVlNTQ1YUFJNFBWcG5EYVRsZTIwWklSTWdxd096MVBCNXNTRkxXQnNjNU0xZXNhMVJqYUdkaGNtN1VMZw?oc=5</link>
-      <description>Source: Google News - AI Education — Gemini Free for Students vs ChatGPT $20 vs Claude [2026] https://tech-insider.org/</description>
-      <pubDate>Fri, 30 Oct 2026 06:09:22 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:950fda52090fa105fbba13ba5d52794f444054222c00521e6fedaea18c7fbc85</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <title>CBSE drops CT, AI modules from Class 9 curriculum for 2026-27 batch, retains vocational education - Careers360</title>
+      <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxOODdsNzgyRVkyeDA3T0VvYmxWMkhHX1VBMkJTam5SQkxISkpUSWR1Z1RPcW9PSEowa0w3cGtyUDliRC1zeUVLOXBKRk5fU0lLN25NX1lVTHk3bGFVd3E2VGVyQ3QzWkZtOEcwWmdnUXNwZ0hXNF8xVmM0QV8xbzA0SENsRWJFUjFGeVA3TkJrMFpUUHNHbFR3T2QtN091bHFOZzlIZjZ0UVBOTjc1RFVralY0Z1o0dzU2QVh5S09OOUtNVXRYeTFsX3FvbmVFc29JNzI5N2JJTnVOM0VnREFkejhlcnhJWHRlYUHSAe8BQVVfeXFMTVBvdjV5Smt3Znc1TnA5bEdNc2hVSkJtdDdoOEtFcjRBaVNuNTdrZUdSVU1LU05mOHp4aV82QjN2SVkzQV9OZmhvSTljVnRiLXVPRU94a2NjOTJqUnowR21HQXFnTHVEQzh1eEgzN3FERHNkcVVRc2dpMHB3OU1ianFwQ0dET1FpQVlYa3pnck9VbHhqN3ZGd2twMXBHaU9VNk53em9ZdUtCdm10c1JwNmZqQU40UnFhMkphQmJDd21tZFZib3ZoekV3N2NOYm9VdUk4ajJYT1Q5Vkc5dTZmcURvZ1VkNENPTERNS3VDdUk?oc=5</link>
+      <description>Source: Google News - AI Schools — CBSE drops CT, AI modules from Class 9 curriculum for 2026-27 batch, retains vocational education Careers360</description>
+      <pubDate>Fri, 30 Oct 2026 07:48:19 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:10b1ae5b3a46adcb08ff40edf1f25264b26cbf53fe50d7145ddb823b78cfef16</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>You don’t need to believe in a god to get a religious exemption from using AI at work</title>
@@ -117,14 +117,6 @@
       <description>Source: Google News - AI Higher Education — Students, staff and faculty debate AI’s place in higher education The Daily Aztec</description>
       <pubDate>Fri, 30 Oct 2026 00:34:11 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:84a0de626ee1a19cb03afd507b773321f4fc9a6cad7f931689535135c9241f2e</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>University of Phoenix associate dean to present AI literacy framework implementation at AAC&amp;U Conference on AI and Higher Education - PR Newswire</title>
-      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxQaE1MTF9rcFBqRmZPaHNlYXotd3R2aUR4QllHUFczWGJ1cGtIdnVSNVpyblZUVWl6clFvM2dVaTBESVRfR1ZOeF9LWEZMQTRoeEpFMENLTl9JenRRSTl0TDVpMVZ4b2JBS1FMMGJfTHBlWk1OMWN6SWV2V1lENHNLVXVrOHBEOC1xS0tiM2ZzcWw2TnFmcGZ1aXZhbG5HcXM3SXRqSGhvbDhBNFFKbGF6dVBhTHprXy1aQU5MeldJa2JnUllkblItUEdXYk45SC0ycHVsSGhMQTAybUJqM0NRYWJVSndEZzBjeGstSlVzX1ZidzlwZ2dZaFEyYUFEb3FYWW9BOG1JRVMzeDNyTkx4NHRwLVg?oc=5</link>
-      <description>Source: Google News - AI Higher Education — University of Phoenix associate dean to present AI literacy framework implementation at AAC&amp;U Conference on AI and Higher Education PR Newswire</description>
-      <pubDate>Thu, 29 Oct 2026 21:47:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a521cfc0bf9f160e177f7b3c62f0ddff5fb84fd9b4add7acbc06cfe8dca3eb59</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -176,12 +168,12 @@
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
-      <title>Dive into new topics with immersive explorations in the Gemini app.</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub</link>
-      <description>Source: Google for Education — Today, we are rolling out immersive explorations in the new Gemini student hub.</description>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:f1b1625f67db9cc81d998fa36fca72f1d020ae9d9bead529690e1eca13382dd2</guid>
-      <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
+      <title>Princeton students, faculty divided over access to University ChatGPT accounts - The Daily Princetonian</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEFJZ0dOMlFXZzdBOFptQzltOVRjWWJ1SXo2NzdjNllweC14V09UdUNBMk1DcmN2alBYT2wyYWVmYTdwX1FwM2ZmR21DLS1ZcFdMMHlVdk5leVd1S1ItTXZaeUU4NEk3eWtRZE5wNFQxQ2pFME43ZW1YUkQ5S2JiWVVPQUppdjB2ZzU5cm0zTFRmUE1MUzBsc202UlRZN2hxLUJkLWRGNzBvQzJKMHE0MFBVUUx3T1FSNHRtYkJR?oc=5</link>
+      <description>Source: Google News - AI Education — Princeton students, faculty divided over access to University ChatGPT accounts The Daily Princetonian</description>
+      <pubDate>Thu, 29 Oct 2026 05:37:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:171881773e9a85bc0baf25e0fce072454cde6e304e2ca2c2c935813e92181726</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Does an AI Pause Protect Students, or Leave Some Behind?</title>
@@ -246,6 +238,14 @@
       <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:2ca1fc8bd2dbd634403f013fe0c8b9b82e75f0876122e3ff4eff3d6a45341e1a</guid>
       <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
+    </item>
+    <item>
+      <title>Why teaching AI about symmetry could make prenatal diagnosis more reliable</title>
+      <link>https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019</link>
+      <description>Source: MIT News - Artificial Intelligence — A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.</description>
+      <pubDate>Mon, 19 Oct 2026 18:20:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:820876c7f3cb0963dddc78c8df4db8d525dff9aca46c6aec126ca33ced275833</guid>
+      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
     </item>
   </channel>
 </rss>
