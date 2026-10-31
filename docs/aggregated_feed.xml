@@ -5,15 +5,15 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 23:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:42:13 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Students use Canadian AI to learn at university — by teaching it - Global News</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3o5c2d1clh0YjhVRUpZemVaNGJIQ25YY01BZVg3WnV0Z09vekxkeW5qQkd2cWJtUVoxUXJna2dEOFJkRlVlVlZoenh6YWtZUkxhSm1DU2c2OGV3VXVlYy1pMXRmNGllekotUV9rOHdlVGZQeFJjWlpWRHZfanluNWVtZmowaEJtOURPUkZ6RjZtMjdjNHJKQnB1cXBQeFJMb2c?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Students use Canadian AI to learn at university — by teaching it Global News</description>
-      <pubDate>Fri, 30 Oct 2026 23:03:37 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:15e02c6b1fc085ad23bf51f206a22c931fd44da2ca9529d35302e5a1b7ed0379</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>Students use Canadian AI to learn at university — by teaching it - Yahoo News Canada</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWVYQzdNYXdzMG5QZ1VDVm9kZ3hRMmVsczRSZGxDYTVBZVV0dHlBdnhfS2FoaDVyRkxjR1ZJYWRQSldrdzdDdWFpNkw0LXE4WnloRDUxdzJka1UtR0drQWdJMl9tMEZUUC1mN2VzUElSOE5WQlpEem9tNmlGaERvYU50VUc?oc=5</link>
+      <description>Source: Google News - AI Education — Students use Canadian AI to learn at university — by teaching it Yahoo News Canada</description>
+      <pubDate>Fri, 30 Oct 2026 23:06:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3228fb9935517a6b26b376d5e77dcfd36f66949c0a0d7e52e1c99411d99cd4b7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows</title>
@@ -58,10 +58,18 @@
     <item>
       <title>How Is EdTech Reshaping Student Assessment Through AI-Based Evaluation and Continuous Learning Analytics? - Kings Research</title>
       <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPbUZSOWwyYlBsTFlEU3Bpb1RDSmR0bU05T1RRNFhfVmNWZmJxZ0JZYXRUdGkyV3BfVXloZzd2WmRwekhrVkV2NmU2UGdWN2lUNnFWQS1NSkt1ajJhOHFRVE1rOTJlTE9aNlV1UzZkcGxkajl1SmVwS2x6QXBicTNxSko1MWtTQQ?oc=5</link>
-      <description>Source: Google News - AI Education — How Is EdTech Reshaping Student Assessment Through AI-Based Evaluation and Continuous Learning Analytics? Kings Research</description>
+      <description>Source: Google News - AI Higher Education — How Is EdTech Reshaping Student Assessment Through AI-Based Evaluation and Continuous Learning Analytics? Kings Research</description>
       <pubDate>Fri, 30 Oct 2026 14:02:28 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e20ed117b0a03523bc5fa78f550bf7bbed394588a02f953760c45d7b3b7bd6dd</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>CBSE drops AI, CT and Environmental modules from secondary curriculum to ease student burden - Education Times</title>
+      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeEdRclJpNG5VTzVRRjFkeDQ3VUpsVGY3R1VXLTBvYWhyYUppUVBMVkppa2xNOFdMenM3V21GU2o0U29zWS1YMzV5YWtWNGpGd3NOMldyWXdqbDJVeEYzbW51U2hSbEc5Y29QVWxuX085MFBaUF91dVlxdXVoZlNEZnFoOWpaR3lrUWozWTljTWh4X3N0MV9xb2o1VTl6aWlhZ3luWkxBT1Yxa29FLTN6Q0ljZmlSQ1JyTDZIRDZGNi1FT2lMY2xGYVpBQ3cyYnV5dndkSlZQZUhvLXhGanJWeFBldi1PR2hp?oc=5</link>
+      <description>Source: Google News - AI Schools — CBSE drops AI, CT and Environmental modules from secondary curriculum to ease student burden Education Times</description>
+      <pubDate>Fri, 30 Oct 2026 09:02:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:fabecbbc5109459fe47b18c9e027178f33844ff4c051f77c4173ca8ff871d77c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Gemini Free for Students vs ChatGPT $20 vs Claude [2026] - https://tech-insider.org/</title>
@@ -152,28 +160,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Mumbai education conference to focus on classroom AI, teacher readiness and future skills - EdexLive</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzdWaHRfdjkycVFwX3VEcmpkdV9KcGpmWmtKUGFhR09YYWduSDlVcXZvZ1prRVE5aW1CSHRCTzhqLUNjQUtIR0Nrc1preU45VE1XbkxobzI1clRXS21nN3Y4dWxGMXRwUnF1bFN1Q0NldUhkV05yZGtIVjd2cmdQeTR4S2dHbEM5U3Y1M0xWRjRDdzFOSWhxS3VReUZFdWNndWMzU29iVnl3djhXeFh6NHlHUFR3bDM0WGfSAccBQVVfeXFMUEFHd3Jkckx1S3U2bTBMQkdRWThwaVVieFRRMEgwYk1aMm83dFNWVEJOVUFBSzN3VHYwNFNqMFZpaFpQVVYzYXIzZUE1VDBocHBfREFXS24tY2hEWGZFcWZncU9adEhqYTRhemk2Ym9TMVh5SFJNNkp6NmZfMExMVmo1dU9sOWVEZWI4VHlmY3V2c1lYYlV0M285X2IyeDhIeC04eThLVVZxOFRlcjduc1lRN01GN0RvZ3RqWFg1RUVIeGc0Qmo0QQ?oc=5</link>
+      <description>Source: Google News - AI Schools — Mumbai education conference to focus on classroom AI, teacher readiness and future skills EdexLive</description>
+      <pubDate>Thu, 29 Oct 2026 04:31:17 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:aa6728ade2a3811c1455a61f9003b38a6d6d0e5bb4727f9b0eaf475573f8e665</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
       <title>Dive into new topics with immersive explorations in the Gemini app.</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub</link>
       <description>Source: Google for Education — Today, we are rolling out immersive explorations in the new Gemini student hub.</description>
       <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:f1b1625f67db9cc81d998fa36fca72f1d020ae9d9bead529690e1eca13382dd2</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>University of Minnesota report warns student AI use poses 'severe' threat to learning - MPR News</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcHZ3V2luSG5OcHJkZi1RZ0pVNUVCS3ZVaW5UcEVtaDRMQURoOTFCWGVmUUpKQkNMWTNneUFkR2hqeUpDaDBxdVNyN3IzeHhkOUE5MUJMQjgtTUFkdG9ycFMyS3RkdmswSkthcm1teGMzRC1TQ3FGTUViU2RtWjNHUUFaUFRCTWw1UXJXekE0X3dMVkJna1I5UFlxQmhNdFVOQ3piYW9lbzFndnRZdXVlX1M2TDk2VEZ0WWJkOU4ycWtodw?oc=5</link>
-      <description>Source: Google News - AI Education — University of Minnesota report warns student AI use poses 'severe' threat to learning MPR News</description>
-      <pubDate>Wed, 28 Oct 2026 17:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:c091b4cc55f5acd476224151b247d44f9d9a6019f83480342fff9c4f1b3fc587</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Manno for Real Clear Education: AI Cuts What First Jobs Teach. Schools and Colleges Can Help Fill the Gap. - Progressive Policy Institute</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekxlNVdvZkRRZFRDMndMdDU0T2ZUc3dvbjVrbFlPNjlEVU9MdURkTjZ0TWFRY3pjRFdZVUxvcjhYWmN4RHdOLWhJSkQtaklLblZHRE5hRkFUbTZzYUFzQlo2ckN4YWdxZFJQMWNHWUFNeGNvd3VSeUtEMHk0MklpbkZ1Rk55c2oxdDM2NFU1bUlxTkMxU2pYVlg4S2g3WGtoWTNWd0Q4cHBJN2ltTl9laUszYWJmUlBmZExFN2taZGo4WDRNemZoX0FFNGVPZ1hmR0wyTA?oc=5</link>
-      <description>Source: Google News - AI Education — Manno for Real Clear Education: AI Cuts What First Jobs Teach. Schools and Colleges Can Help Fill the Gap. Progressive Policy Institute</description>
-      <pubDate>Wed, 28 Oct 2026 07:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:54a4be1a86f16a889a7d1489fec069b50341ef836d015d9d7c07970a044016e1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Does an AI Pause Protect Students, or Leave Some Behind?</title>
