@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 15:10:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 19:41:07 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>One-Punch Man Artist Yusuke Murata Calls Generative AI “The Best Teacher,” Sparking Debate Among Fans - OtakuKart</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3lqYmdSZHlyZDNZdjRSc3I0ZXctQmFIZkktQ1BGdy15MzFxOFBoNEVYSDZINzdPTURoeUcyOUJ2TGJCWW1ycHYzbGFWOV9rUDBvMTQyaVZYZXRVcDhackR1Q1lTai1KNTJDcWRFUUtDSmY5dzFyOXgyZW8wUkhaSTNhX3lKYTg4NUkwdTFOd0d6M3VETnQxRXFoVXVtUFlmMGpWYURUNXQ3Vkh2REdLazNHME92UlhxVFdKVDl3?oc=5</link>
+      <description>Source: Google News - AI Schools — One-Punch Man Artist Yusuke Murata Calls Generative AI “The Best Teacher,” Sparking Debate Among Fans OtakuKart</description>
+      <pubDate>Sun, 01 Nov 2026 15:06:36 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:5f1f83180d87e7b7aa4772d71f0df6bd6eb35ccbc880e877e0132c4e8f98994f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
     <item>
       <title>Dreamtime Learning’s AiQ Joins Anthropic’s Claude for Startups, Pitching an AI Copilot Built for School Owners, Not Homework - Elets Technomedia</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSEdhWDJ6VjVucjJJWXZlcWJQU1hoNkgwR3dSVWV5TF9SVHVJVVlUSG5NTE1EX3pwYWdtSjY4algwaUU1a3BCQ2RaS21BNnNydWV1UHhqOElMSkJmeFJTdXRKbVpKVEJxRmZNS0VMYUxFLUV1S2REbTRvc2RaWlNGVkFoWG9FMmNiR1lFblVvaHA5bDJnUmRUTC1ETmNXQkJxeTAyV1EyaVQtR0ZnV2hwN1NyMVIzQ2FJUjh1d0VsRzRpTUk?oc=5</link>
@@ -50,10 +58,10 @@
     <item>
       <title>Students use Canadian AI to learn at university — by teaching it - Yahoo News Canada</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWVYQzdNYXdzMG5QZ1VDVm9kZ3hRMmVsczRSZGxDYTVBZVV0dHlBdnhfS2FoaDVyRkxjR1ZJYWRQSldrdzdDdWFpNkw0LXE4WnloRDUxdzJka1UtR0drQWdJMl9tMEZUUC1mN2VzUElSOE5WQlpEem9tNmlGaERvYU50VUc?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Students use Canadian AI to learn at university — by teaching it Yahoo News Canada</description>
+      <description>Source: Google News - AI Education — Students use Canadian AI to learn at university — by teaching it Yahoo News Canada</description>
       <pubDate>Fri, 30 Oct 2026 23:06:42 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3228fb9935517a6b26b376d5e77dcfd36f66949c0a0d7e52e1c99411d99cd4b7</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows</title>
@@ -141,14 +149,6 @@
       <description>Source: Google News - AI Education — He Didn’t Want to Use AI for Work — So He Got a Religious Exemption From His College The Chronicle of Higher Education</description>
       <pubDate>Thu, 29 Oct 2026 20:15:09 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0308cec1433b4a9af587dd47074a6258eb9e8336a48654f5cee4b5a52ac26f15</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>As AI sweeps into higher education, two professors take divergent approaches - Student Life</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTF2TWU2MGkzb3NlMThqTDczUElqMjJyWWNJaDlBbWptZS1jT2ZRZTFDNF9zUThiamdpMk02c1Z2cWJ5U0dWYl9aTHYxLUtTcnBqVFNlRDV3STNBeHA1RXVFNC0tbnBrR21nVnlnZjVkb1VZdGJSeEdIVXMxNmNuUkJnOXNJRVR4NmMzTVk0YW40NXZDR3JXM3VfQmxmWGkzbHJyLWJ3Ukp1QjRHV2pXNllOWkJnaE0?oc=5</link>
-      <description>Source: Google News - AI Education — As AI sweeps into higher education, two professors take divergent approaches Student Life</description>
-      <pubDate>Thu, 29 Oct 2026 19:18:09 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:9d7f915fe9cf1e59013451d29b08d13b601a14f102f17d44450bbd5b6cb4fa16</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
