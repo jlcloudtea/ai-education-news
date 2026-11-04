@@ -5,8 +5,32 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:16:25 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Google faces backlash for plan that would turn off Search for schools that restrict AI</title>
+      <link>https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai</link>
+      <description>Source: TechCrunch AI — Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.</description>
+      <pubDate>Wed, 04 Nov 2026 16:17:22 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:bce0ffcba988b4eacb4590895ebe0fc1f0ebcdd5eb367b3cbd027429ad68c897</guid>
+      <source url="https://techcrunch.com/category/artificial-intelligence/feed/">TechCrunch AI</source>
+    </item>
+    <item>
+      <title>Dutch Parliament calls for national AI strategy for higher education - Universiteit Utrecht</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2JRNWt5WDd4QW9ON2FvV1d6ck1uSlN3YmwtVDlNa2FPX25rSHJqeDNSWmNkT25jOGRvWkpRSzVIWnVuWVE4amc3NEJMS1VicnFHUmFBZHUyMmpWM3lLa3Y4SUE5bGd4S3dyTHM3VnNSRDhFaWxHcm1KckpYWVpPR1lEZ1NBUTkwQV9KVmx2VQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Dutch Parliament calls for national AI strategy for higher education Universiteit Utrecht</description>
+      <pubDate>Wed, 04 Nov 2026 15:29:18 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0f759c96c7c6e4cf85515ae6504af2d96406097ca42487857fbbc40222ea5200</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI Is Redefining Job Readiness: Why higher education must shift to lifelong learning | Hindustan Times - Hindustan Times</title>
+      <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVzNVUldlMWlLWjd0bDJKSzhBOVdYLU1TUUVpSEF2Zk8tcFJjT3QxTzduXy1fVjVoVlVzNTFtNFN3THlSYndmX3M5MHJRS1dpaHZOOTFRNnc2T2h3WWdKb2hHOWVVOTMwLV90b3BlQ2tMa0FSdVVJd2FSNTJYZ1Y0YW5KYkt2cHpIcnBfWlhBclRLelFURU5FMHRmYkVBb0RPeS1ja1BFajZYcDFwZk1RYWlScmVRc0tkenR4cmVRY0dIYXhjRnlCdFVGTUhhSENpRlRnX21FUjVtWkpqZk9VaUdCeVhsa1dTaEHSAe8BQVVfeXFMUFBGX1I4MFhrQ09rUHRSaU1ZMkdzel9zTWplanA3cWdDWUdpSmp5RDgzR2NCV1RGRTJaU2tmZlNOclJadkVpWmdRQ3FKMldUZWZaSEU4NzJGUFVTMlZUU0NHblRjM19tdW15Y29SNWhhMzJBcW4wcm9kV09HSWV2ZEs2X0V4S1pDbEs3VmVqYlAzVE1fN2pKTHpkMmRZa05PZmZtdU9mOElKU09CRzJTV2ctRlc0OUtNd2pETlRiMGVMN2h5Z2hwSEtKcG50eGo1OXJRaVYyZ3JoOUhDa29qM3B6cDJaVVNXalluSl9ZMjA?oc=5</link>
+      <description>Source: Google News - AI Education — AI Is Redefining Job Readiness: Why higher education must shift to lifelong learning | Hindustan Times Hindustan Times</description>
+      <pubDate>Wed, 04 Nov 2026 11:10:09 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:fc61322c18729f8022aa71bc370c19b7a09b88efa622ce817999b75677c59b19</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Holland College - Holland College launches $3,000 data and AI innovation competition for PEI students - Education News Canada</title>
       <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUTRMUk9OTTlsUDdsUXVyMXU4V0JDR2lLOVFMU2F5LXpsYTRYbktLTV9DeFZNU0hxVVdwdEpiMlE0MHI5OGkxU2xlcmpLSTd4ZzF3ZmtWUlVCSFZzZFBXNWtXc1E5eHFqMVJyWGxkZnBzS0NvUTJCWjRDUFJSZk5IN3NkOEtyX1dzOVBSUnctMkxQS3NnQTcyZnVtY2pYOXFPSzhoSGtBVVZOZHlLOWFNUXJnUklKTE0wZU05QWdiYlVXNk9MS1JCNlU4bGN0cXgzWFhZcFBMTFFjNFgwUk1QNXliOFROM1N4TnNNa1NNdFVXeEg0?oc=5</link>
@@ -48,12 +72,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Google expands Guided Learning and school AI controls | ETIH EdTech News - EdTech Innovation Hub</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFlRRm9RZ3hUT2xSY3VIOUhkU3hVRVp5clRLMkFCbzhfcXVrZ2M3dmtMQThURnlzbVdwSmMxR1hHZGJxSml2eG1VTVpINVN6WDNCU3diRFhCcWtiQy1WZzRQZUZOWVdwWVRnZXVGcld1bWF4c09FMWVCS3V0VFRJdmpsX1Jfa2kzVGRHMkYyRndTVHM5anFsX0c1cEs3ZWRUUlZ1RW1qQ0J3WklUSXZiZ2w0TTRoa3VKbjlzXzNn?oc=5</link>
-      <description>Source: Google News - AI Schools — Google expands Guided Learning and school AI controls | ETIH EdTech News EdTech Innovation Hub</description>
-      <pubDate>Wed, 04 Nov 2026 00:05:42 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:6b73528859f7d07371faeb6ac03f4ec44ac10284555039795f28b9b657930261</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <title>Finding Our Way Forward: The Struggle and Promise of AI Literacy</title>
+      <link>https://www.edsurge.com/news/finding-our-way-forward-the-struggle-and-promise-of-ai-literacy</link>
+      <description>Source: EdSurge — Preparing students for an AI-driven future requires prioritizing the human qualities and values we cannot afford to lose along the way.</description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:bd08ca3f22d7f3037d9c9e9dd36fbabd6e70cd958c3a14a1f7fe7367d0dd8889</guid>
+      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
       <title>Ukraine's Mriia EdTech platform uses Google Gemini AI for teaching and school management - Beinsure</title>
@@ -73,10 +97,10 @@
     </item>
     <item>
       <title>University of Richmond’s new business school dean emphasizes the importance of learning the fundamentals in the age of AI - UR Now</title>
-      <link>https://news.google.com/rss/articles/CBMi3wJBVV95cUxNaGVFZkl6bXBwbE1RVm5hM3VNRW80UVJ1M2x2X1NWMWZuYnBSaHEzOFlmUGRrWGdKamg1U0I5azBFRmE1dVkwSVZoVjBsQ0lXZHItTVlYNnJnd2F6QjBJZlFtMndLaENXVExHZmNzRGMzY2ZXV0lUV0VYNGdJTnl6NWplYTRhZWxwdlVvM1RFUFBlVG5DZ0ZueHBYZ19pWmNfTXNCTkpWdjZrQ1dCd0FiMmw2YWgyb1BvcUU4dU1qQVBlTzltX01Ja21qamcweHctcXhocDZjY04tZzFCMlRqaXNwWFpwaTVMYTN6bFhvOVVySVBrRURfci13Sm1NRHJPWUZkMTVqSW04MDhrQ0xEZUlmVTBZYmUzaXlEM2FMZFR0NkpJeVd3WklGWXNpeXlTNEFhRWhuc2N0X01NWWNvR01tQW44aUQ0Skc5SjRzcVJhSUQ1VXhjWjFzUUpqS2s?oc=5</link>
+      <link>https://news.google.com/rss/articles/CBMi3gJBVV95cUxQN2d5QzcyaUtqam5OZmtsYzBONWtFOHhBVzYwWVV0ZkdOY2NYN2Q2U29sa3dFNlR5OGJaa21LSkpHd2NVOW9ZRUluT05xXzlLbXRicURxZ09BQkV4TGpRZWNscUVBUWo3RTRDZER0eFh1WW9fRzdzcnBqNHd2c3dKM1o4SlFTM2g5SVMzazNrUmFJLU40OExZWVBtdXdYZGd4aUNRdmlhYmFNSDdKZ3NKTFA4MEs1S21telNfWnlTVkY1OHhPbmpQQi13WlhydGVyaTQ4NWpLdzNaNDdzWjN3elYwUGNjYUZtUTliVldGMTlGVEpVN0JLM0ZpQ3Z6VEJJZkpBTHEwNWlXVTdMOThXaGVWeURzeEQ3dHBSMW5qTjk3WklHSmxZSHk1cG9lbmxpN0FvZDFxdXliWWpiajMzdkRIYnhrS3NvSFV6U0RBY2d5REpMbmdxTW1sOWM3Zw?oc=5</link>
       <description>Source: Google News - AI Education — University of Richmond’s new business school dean emphasizes the importance of learning the fundamentals in the age of AI UR Now</description>
       <pubDate>Tue, 03 Nov 2026 20:24:24 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1757329f587465dba82c75e831f880ba6c7f91a8a0363127fcf7a36578c1c74b</guid>
+      <guid isPermaLink="false">urn:sha256:f8732d4323d25530b69bddb55c3c1dc21da832714f9568d2d84fff6826189c18</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -130,10 +154,10 @@
     <item>
       <title>Kaltura Selected by Israel’s Ministry of Education to Power Personalized AI Learning in K–12 Schools - markets.businessinsider.com</title>
       <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbTNVNmhmMDVHWlpsb19SUWhUdnVoS3NvQWtCN1M0ZDlZdUFjVjljVllrY2k2eHM1V3FNTHFVeHdreTRPcUVuOVdRNEVCOEJIUHE0RnhJckFmd0Z0S1BOdEZLaWFNS1ZyOEFuV1lIMDhJRzJIbDhXc3AxUU13MldEOEp3Nm85bEtpRkFYTmZ4SGNjdXZqOHp4ZngzX0dYQTRxWXVwd1lsWTJVeU0yZ0NCNkNpQTVIbEJjcFlWc29zNEV5WVdHb2hUSF9HeVBRTnc0azZ3cTRXWEY4VkdMVGtvV0pRV3hCdk5EWm9kTDJhc1M?oc=5</link>
-      <description>Source: Google News - AI Education — Kaltura Selected by Israel’s Ministry of Education to Power Personalized AI Learning in K–12 Schools markets.businessinsider.com</description>
+      <description>Source: Google News - AI Schools — Kaltura Selected by Israel’s Ministry of Education to Power Personalized AI Learning in K–12 Schools markets.businessinsider.com</description>
       <pubDate>Tue, 03 Nov 2026 13:28:21 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:24f4b411bac3c3007476ee86be6af6ee740844b0d06c65e3cb0b563be322ad61</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Can AI Take on the Grunt Work So Educators Can Focus on Student Learning? - Education Week</title>
@@ -158,14 +182,6 @@
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:690f61f70bfb064ead1b2fac0aaffe8bc4a8aeaac0c91bb18d737e0819d869e1</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>Cardi B Tells Students to Pass Exams Without Using AI: ‘Don’t Ask ChatGPT for the Answer’ - Billboard</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQLV8yY2pHNVhXQTZWS25DUG51LWNud0stQUFwd2NJUzRLZzhvS0lVaGh3b05MY1RQY1Vqb1B6OTl2QkpmR1VTeThQMkpDS1JiazBXSUJoRENvN19KaTNwNURCdG9lbXlKamNldW5Qck01MFZ1RUhkV21mY01xa1dLdW94eWpaOTJMcXNsRkFwY0dkZXd3V0E?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Cardi B Tells Students to Pass Exams Without Using AI: ‘Don’t Ask ChatGPT for the Answer’ Billboard</description>
-      <pubDate>Mon, 02 Nov 2026 21:15:49 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5178e852798355cef688c8bb8d824f1323c1b4f50b2ccda6e06e90b07a8e256d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Community colleges and AI: Learning from past mistakes - Community College Daily</title>
@@ -200,14 +216,6 @@
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
-      <title>Opinion: It’s Time to Teach Students to Be Drivers of AI, Not Passengers</title>
-      <link>https://www.the74million.org/article/its-time-to-teach-students-to-be-drivers-of-ai-not-passengers</link>
-      <description>Source: The 74 — Now that the school year is underway, high schools need to teach students to be drivers, not passengers, in this era of artificial intelligence. Because many young people don’t yet know which one they are. Last spring, during the first lesson of our new 12th-grade AI literacy class in Newark, one student was stuck. She […]</description>
-      <pubDate>Thu, 29 Oct 2026 12:30:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:042a8eb43b477091dd39429a72c95542837b0236afc46d5609efa90faa389eda</guid>
-      <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
       <title>How Gemini is helping students and teachers in the classroom</title>
       <link>https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy</link>
       <description>Source: Google for Education — A teacher crouching next to a student seated at a desk as they talk. In front of the student are papers and a laptop.</description>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:81ff42b19b35676c9f889a42d43ff87e81ec7d39e5d26a092bfb0eb0dc75bfc6</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Pause AI in Schools. But Not Before You Do This First.</title>
-      <link>https://www.edsurge.com/news/pause-ai-in-schools-but-not-before-you-do-this-first</link>
-      <description>Source: EdSurge — Ban or no ban, students are going to use AI. Let’s make sure they have the skills to navigate it, says Common Sense Media’s chief program officer.</description>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ca38cdf34ae61bf8993fa7b51f3e97377fff820226d9b5cdc886c6e142b3ad00</guid>
-      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
   </channel>
 </rss>
