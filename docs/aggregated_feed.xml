@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 09:24:51 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>University of Illinois Chicago requires faculty to disclose their own AI use to students - EdTech Innovation Hub</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWRLRHlTdS1nSEdsVHBXSWdQX2VnUHIxYkNEdUFrNlpjc0haMFd2a1BYMXJVSmhyX283N3hGNC1vNDNYbGtwcy10UEpXbkdoQWhYUF9MekhzUEJJd09wdUprZ0tobVFkd3ZsU1pHTlUtd3pHM2VNWjNjUW8xUUIzczI3VmdMOVl4ZXBGTUtKXzVyMUJ4T05qUEhMQlBRNmRwSDBJVV9GVlVZWnlNV3QtX3lDRkJXcnlQdTYxMC1xUnF6OVhmVkxoWA?oc=5</link>
+      <description>Source: Google News - AI Education — University of Illinois Chicago requires faculty to disclose their own AI use to students EdTech Innovation Hub</description>
+      <pubDate>Fri, 06 Nov 2026 01:03:39 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3ddbd7117a395634a01c8e9b19bcf7c9e6c0a68f9550ec790801db0ae280d846</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Google faces claims student used school-provided AI chatbot to plan suicide - MLex</title>
       <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnJVVFczQmYzWWt1X3ZkUzg0NzFBMThoUk9RQ1BGaVh0UExIVGNaU1RESllOb2xVbzJFaXltTzV4N0pMODBiY0p3MExFLVptODBDQjZxX0RIYThLbnVRNHhGYWt6UGRqR3FWNU5FUlI3TUdTMTM4bDZLY1d1Q01zeTVpcFQ4X1VHeHRBRDF0d1BaRWVPT1ZjTlFaS0JVT0JmQXotZlJHakxRXzczTVUtTmw3Y0VjdVFhMHZZTkhpWjdfLVJSUUxfWXBlVXJUakhPc05kOGgxRldUQdIBWkFVX3lxTE8wNFVhNjhrSEFvZnJnMFQxcWNkeUhoZ1lnLTYxRHhVNnF2SlJDdFF6ZlY0QnJCd1JkVXl0Z3lPZjE0Z1hzRGRNWnJXZjRGMnluUUxpZ1JfZjRnUQ?oc=5</link>
@@ -14,14 +22,6 @@
       <pubDate>Fri, 06 Nov 2026 00:20:13 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c6c5de8a585f16fbc7be2dbab7392f82ca9eacf897c6f1becab00280c4ed3b03</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
-    </item>
-    <item>
-      <title>UIC requires faculty to disclose AI use to students | ETIH EdTech News - EdTech Innovation Hub</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcWRLRHlTdS1nSEdsVHBXSWdQX2VnUHIxYkNEdUFrNlpjc0haMFd2a1BYMXJVSmhyX283N3hGNC1vNDNYbGtwcy10UEpXbkdoQWhYUF9MekhzUEJJd09wdUprZ0tobVFkd3ZsU1pHTlUtd3pHM2VNWjNjUW8xUUIzczI3VmdMOVl4ZXBGTUtKXzVyMUJ4T05qUEhMQlBRNmRwSDBJVV9GVlVZWnlNV3QtX3lDRkJXcnlQdTYxMC1xUnF6OVhmVkxoWA?oc=5</link>
-      <description>Source: Google News - AI Education — UIC requires faculty to disclose AI use to students | ETIH EdTech News EdTech Innovation Hub</description>
-      <pubDate>Fri, 06 Nov 2026 00:18:52 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3ddbd7117a395634a01c8e9b19bcf7c9e6c0a68f9550ec790801db0ae280d846</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Elon faculty members named to leadership roles in CAA Academic Alliance AI initiative - Elon University</title>
@@ -48,20 +48,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Google’s New School AI Policy Could Cut Off Search Access for Students - University Herald</title>
-      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1VVbDlUZlY3QVhyWHBwS3dCQ3JBTVZ1ZjVSZXV2Y3dkWGNBekRkSGRoZXUyVlpNNGpVSWZSYnhmTEZUSUZUMkI1UHFXNUJlV1VDeE5rT3dLdDAyLWFKeWFhVWFXazlfVmpacFFobVZ6UkVhaWgyOGVHSmhVS3k1cXVzVktkQ3ZnSXdTdVltWkhNVWR6SlZVanlPT3RnQ0RTRUJwTXVFMkljaWtQMUU4VmJIZEk4RE9Pd2FyRlFmSEVqMC1P?oc=5</link>
-      <description>Source: Google News - AI Education — Google’s New School AI Policy Could Cut Off Search Access for Students University Herald</description>
-      <pubDate>Thu, 05 Nov 2026 11:13:26 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:78ce8fc526138acf3f0a753d4ecad57da6d4f40108cacda6f28a8d87e55ccf78</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>AI Has Entered the Exam Hall: West African Schools Need Assessment Reform Before Cheating Outruns Policy - Modern Ghana</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNZEpYMkowQlljamk2MHFUbm1LVk5IZTYwOGVTbzFjaU16QWFTWjVfLVlrRGpGQXdJY2J4c3ZSajQ4TExLMFpOU3ZmcVB2bmtEdmlOTlNjcjNyVUU1TkhQUnRNenU4MUEyTmlNYW1QRENnZ0pzOS04akNLbGwwemIxVkEwMFl2WWstSXZBamVqX0FNbERZSjJlZVJ5RQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AI Has Entered the Exam Hall: West African Schools Need Assessment Reform Before Cheating Outruns Policy Modern Ghana</description>
-      <pubDate>Thu, 05 Nov 2026 10:22:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:73c7fb7553e57f5338d3f4319bc4d2f15c8919bc48bf8fbec58829c8eb2a09db</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>Australian universities are creating AI-native graduates</title>
+      <link>https://openai.com/index/australian-universities-ai-native-graduates</link>
+      <description>Source: OpenAI News — Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.</description>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:616c68177b707eae60eb2b7e618a86105e3926c540e149caa916945e5a2342dd</guid>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
     </item>
     <item>
       <title>Students, faculty diverge on AI approaches in higher education - Daily Trojan</title>
@@ -136,12 +128,28 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
+      <title>The coordinates that reorient learning in an AI-enabled world - Times Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNb1lhWkFGYWtibG9YMGRTbkUyVWFpclh0dUZtRFEyR0FOTDNJUTV4cDdBdUZETXBWekJfczB6Szg4eXJWRS1tZVR0RU5TNTFFVzZYbDZjLWljUVFSS3B4cnllLWp5X3U4ZFQtLU5INXF0WUlDb2dwd2VKazNJcFNqZ2JJZXBIeWlMd2FuaGZYejc2NEk?oc=5</link>
+      <description>Source: Google News - AI Higher Education — The coordinates that reorient learning in an AI-enabled world Times Higher Education</description>
+      <pubDate>Wed, 04 Nov 2026 00:16:10 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3da0719d7834d0d2ee17a6bb66724eacbc9417a79a048451873ff23e0a113f38</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>Finding Our Way Forward: The Struggle and Promise of AI Literacy</title>
       <link>https://www.edsurge.com/news/finding-our-way-forward-the-struggle-and-promise-of-ai-literacy</link>
       <description>Source: EdSurge — Preparing students for an AI-driven future requires prioritizing the human qualities and values we cannot afford to lose along the way.</description>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:bd08ca3f22d7f3037d9c9e9dd36fbabd6e70cd958c3a14a1f7fe7367d0dd8889</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
+    </item>
+    <item>
+      <title>What If You Started a University From Scratch, With AI at Its Core? - The Chronicle of Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5mV1JfeFk3RnEyT1FBWU95VlllZHE3MTdTbWFCZW00T0t0NDBvalJoTWluUnRXQ3hMU3Y1UDQwZEZ4NjZ2RFViSmNhQXpUS2pNMDhKbkIzcEJRdHRPUnhpQjlsNnoxVG9TRWJNX1JDZ3ZmWWFPZ1E?oc=5</link>
+      <description>Source: Google News - AI Education — What If You Started a University From Scratch, With AI at Its Core? The Chronicle of Higher Education</description>
+      <pubDate>Tue, 03 Nov 2026 22:12:26 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:4e8aa8397a91e2506c0f40366ee261dfeb0c1eebb87020faf85a42cee3976881</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>We’re providing funding for organizations building AI for teachers.</title>
@@ -205,14 +213,6 @@
       <description>Source: Google for Education — A teacher crouching next to a student seated at a desk as they talk. In front of the student are papers and a laptop.</description>
       <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:3454fea505b4cd51ebd8825501d26b6d6a479f0e7bada06c9c46c3df1a308e31</guid>
-      <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
-    </item>
-    <item>
-      <title>Dive into new topics with immersive explorations in the Gemini app.</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub</link>
-      <description>Source: Google for Education — Today, we are rolling out immersive explorations in the new Gemini student hub.</description>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:f1b1625f67db9cc81d998fa36fca72f1d020ae9d9bead529690e1eca13382dd2</guid>
       <source url="https://blog.google/outreach-initiatives/education/rss/">Google for Education</source>
     </item>
     <item>
