@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 20:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:36:33 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>School education dept seeks DVAC probe into alleged AI book scam at Periyar Arivulagam - The Times of India</title>
@@ -32,6 +32,14 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Google’s Message to Schools K-12: If You Ban AI, You’ll Lose Access to Google Search - Entrepreneur</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUxkaFRtYWtqc1BiZmU1SnNpTlY2MnFfVFU2YllUTTRTOTA2a05jZ2l1Mk5xbVlmQmY5YnFXOWItZmp1cVRKOFhYYVVDTDJ2UER5MVR5S0FaOHdfbWx3cEZMRWxDbXZzYjV6SUFUVFk3OFJYY3poUEUtbmo3RTNRc0FpN2tES29lTzRpLW5SeGRLM2pWc21QWGlDeU1keFUyVGZ0UTA4R0RVdGNzdG9DSU1GX1BtTmZqYUJhYTVqVTQ?oc=5</link>
+      <description>Source: Google News - AI Schools — Google’s Message to Schools K-12: If You Ban AI, You’ll Lose Access to Google Search Entrepreneur</description>
+      <pubDate>Sat, 07 Nov 2026 12:28:51 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:6b7625b0c24cecc9f6cf5698b87a26d7ce58807ed2696a4af2fb373d6b6800ee</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
       <title>Chinese university stops using AI to spot absent-minded students after outcry - South China Morning Post</title>
       <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnRTbXZoVXQzQ3ZhTkxLRmpQWmdTR1NfUUFfRGtQcy1qUkN3U0o1VmNjZGNaZ2dZUS1wYUc5UzVfR3FDaUx4QVFYSW1hbnMzWU50SW9FVWtXS21NWlBGSTR1U3ZCOHA2NEt1cHdNWEQ3Z2xzaFdBNXVyUVdEeWZ5Zno4alBFNUxzdzRnNXcxemVBcEp1dW1wNmhjdHVMQkNlWHNXQ2JINHdFa21XWnZOV2QzdkVvR01ldDdLSmFOUUY0UHRxVmtGeWRBamhJeVnSAc8BQVVfeXFMTWd5aHQ5N05nbGlYTk1SdVR3czRuX1hoeWN4UXlHYnh0Rk5pR2hsUWV0UVVpekdPZU15NGN3WDVlR01BVmx2dVA4QVBkYll6b1pQbVVETnNOcXVkZlhFU0xsYXZXblphT1kxUXNCeDhneU5uNDJWM3hxSnNIX0FzUnJwSVh2bE1RZWpUSmFtT0V4LXJsRDlxb3NfZ3hDVld1aU0yZUtWM2VpX2FSOWstemI1dWFQUnJQc21pQUdsVXZtNXZGdDl0c0pmMVU2Wkcw?oc=5</link>
       <description>Source: Google News - AI Education — Chinese university stops using AI to spot absent-minded students after outcry South China Morning Post</description>
@@ -50,9 +58,25 @@
     <item>
       <title>AI in legal education demands curriculum reform, faculty upskilling and ethical safeguards - Education Times</title>
       <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR2YzTmQwb3dlY0RuanBvd2dtUmtmdXZ1TjcyRFFvN1dpUWVmdU5BeUF1X0JNZ0FaaG1pYnM2a0U4N3RBc0F3MHppV3BPb1R6cThKT2FnUXMyZnZydTZvX3FYMHZ3WTNaenZnY3JHRFN6em81Rm1MUWNXSGNqeXFBaFl4eG9zMF85RWVsRExxSVNnMjF2dm5HQ3lSREY3Z3BjVzhMVWFNMzBjNVNvZkRzSFhqQXdwTGI0bmEtYjI1bmx3WDM0a0gtdzlfUmhydE1EcG92Y1QwZ3l6b2pKRVU3TU0xTW9pUQ?oc=5</link>
-      <description>Source: Google News - AI Schools — AI in legal education demands curriculum reform, faculty upskilling and ethical safeguards Education Times</description>
+      <description>Source: Google News - AI Education — AI in legal education demands curriculum reform, faculty upskilling and ethical safeguards Education Times</description>
       <pubDate>Sat, 07 Nov 2026 10:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:84d04fdc4c4285f75a87b0b4d670445ceb7ea7616006395d9174645d3db7d8e8</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Used well, AI could help more South African students succeed - University World News</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1IcGhnZFdqRXdMM25kMmdGU2xuNy1lZ0dvMDRORlJ1NWM1N05sWEh0N0Vxa1RZOXBlYkVYWHFXMkFrRll4WHlyVVRWT0RCcVVLMi14TUNNcmlKQWhfUF9fVUxkZlljZ1owNGFST2pycHB1VUlVSG00?oc=5</link>
+      <description>Source: Google News - AI Education — Used well, AI could help more South African students succeed University World News</description>
+      <pubDate>Sat, 07 Nov 2026 06:51:38 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2c111349bb27288bcb6d22c8417568d636e9655808253dc79efb5213059f90dd</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>Mizoram Launches Gen-AI Mission to Train Over 5,500 School Students in 80 schools - NDTV Profit</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWlpaU9OdlRKRWFVel9rUzZpUENWa2todE5yWlNnQU5ZNDRab1FScHFkOXQwbENJNi0zYXlSVVFxY2hxOEdsTnU4WlJZZGhRUEdrdk1GdE51em04SVVVSFBaQThKVnVKdlVxeEdHSFVwOU9yMnFvU1dXREdtSmhZM0NwSWdzSHVWZTFCaGQweEUzZXh3WmhxQ3lZQ2hDdU5XVkx3VmR0VFA5M2xVM09IZ3BRMEhPdjZaQ2VxUW9WcDZTaVlYc0HSAc4BQVVfeXFMUF9BTjdjamVxNUt1bzFRUmR1VzQ1YkF5aGkycE9CSVE5MVZUUjhmT3JZNU1yNTdlaVhMYkNHRTViQWRpdUxsQzBGaldhQXpjbElsNTZoZU1GZ2t5dzV2dW1EZ0M0NmpQNE5USExoeE95bjVJYkN3UWdjLUZnc0Rpb0Rrb3A0Y01rV2JuZk5sNVRhbUlyWmxpcmIyVkhFLTFnX1pvcEZ0QlNObmdTNlRqb1NXaDg4bFNQOTBlSTBIdWkwdTBDTkIzc1hYZFNla2c?oc=5</link>
+      <description>Source: Google News - AI Schools — Mizoram Launches Gen-AI Mission to Train Over 5,500 School Students in 80 schools NDTV Profit</description>
+      <pubDate>Sat, 07 Nov 2026 06:15:57 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:57ef87acc7f5b9d1820459528b2a6296374973ca6663bcf0c6101bd8df46ce94</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
@@ -80,28 +104,12 @@
       <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
     </item>
     <item>
-      <title>Students offer Buncombe County Board of Education guidance on AI, school sports and other items - Mountain Xpress</title>
-      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGJuY3pjQWpYUDdLN1AyVmE3OVVVVGpVWnZpeGw0dUU2WTdNcUlIczdUeXBFLTZFWENDeWVScWFiQkNyN0g3dmstOXktNUlEVm9hS1Fxa2V1VzlXMlVCbzdPNnV0cDNBU2o1RW9EMW1MYi12YlExTnlUM1k4RjR6Y1FEbjNUdjNmRmllNDI5WTBIbmJSNkNhRzc5ZmZKWl83dk1xMDZXZ19RSllLSDlHSmFmTTJhMVk2ZXQ2cjZudlgzSXp1ZWQ1QzBNWDQ?oc=5</link>
-      <description>Source: Google News - AI Education — Students offer Buncombe County Board of Education guidance on AI, school sports and other items Mountain Xpress</description>
-      <pubDate>Fri, 06 Nov 2026 17:53:29 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:87c4a5dac5d66ef7c69a75b5d4c4c08aabbadcda4ff7f9402202a797cf3fea68</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>Thomas College Secures $3 Million Federal Grant to Bring AI Into Every Academic Discipline - University Herald</title>
       <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTEFMT3lyUVlJM25WcHRpRVBlWmx2aG5KREdLTFB1QkVLTkZMMlRlc2Q4QW5mN0t0VTM4SWxfWDJ4cmktQ3ctZ09lcmlqMmJiaUJYRUlDMG84Z2NPYnVVZUFZTnZkZU8wZm9ONThWMVZPOUprd1JteVZxbFNpWHJNcW0tamlSeTlVZnFPUXRRYV9nRF82WHJ0Qm5kdmRYSm9QelIxQXNibXhtUXlBS2Z3ZEpid0R3dHJFdVp2bGs3OUZxTlJQb1d4bkZrRmRUbThJSUVnOG80NXkyQQ?oc=5</link>
       <description>Source: Google News - AI Education — Thomas College Secures $3 Million Federal Grant to Bring AI Into Every Academic Discipline University Herald</description>
       <pubDate>Fri, 06 Nov 2026 14:37:34 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:9ccc88849152a1f57ccbce4f1a7a09c9c053fd8d78ec156cfc3cc6c0b4c5a9b4</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Douglas College - Douglas College students to build AI and virtual reality training simulations for classmates with $500,000 Embark grant - Education News Canada</title>
-      <link>https://news.google.com/rss/articles/CBMipAJBVV95cUxQQmM5LThYNlJjSnd2RDN2YjYwYU5JT1dRNVB5dzg4VUxNalJrUWJQLXFkX0t2Y1RJRC1ieWdaTEhtM3hZZTdJY01EZHJRbDBBWHdmbW1Kb0xiWVZIMEVKT2RQZ0dPNGpsMHVSWWp4Mzh0NkxHeXRPWkJwdHhjZG5UUmJyYWpZdzVFNlBiNkdzX2plb0ZrTXFUNHJ0OWMySE9iRzNpa0RnS0hrRDNxOGZUVjNNanV4Q2hkVnFaMDJGTU9pX1h2SDRWeUdJb0Qxa3A3anVneHZfYXJralFDWlZkWmV3dlktQzF6VzZnUEcwdXF6TFM2VG8tUEQ2aFlsU0pTS3pTQ0pVLVJzWmhQLVdEaFhIcVdqTmpqdnNnbTBHT055a05n?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Douglas College - Douglas College students to build AI and virtual reality training simulations for classmates with $500,000 Embark grant Education News Canada</description>
-      <pubDate>Fri, 06 Nov 2026 05:04:17 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:bad700196ca44a63d44019447c51543532597e781c1e5773c9772245062866a2</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Google faces claims student used school-provided AI chatbot to plan suicide - MLex</title>
@@ -150,14 +158,6 @@
       <pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:25fa4dd18ec78a48a9233cc009a7e10d7c8c98f49986ed2e5b02c4eebf5890b1</guid>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-    </item>
-    <item>
-      <title>Cerritos College faculty navigate AI’s growing role in teaching and learning - Talon Marks</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXVGc191QXZpTDV1Nm5NMmJjS1BsMDhEbGxNUXY3NDdQM2d2QmdoTElHeVhvYjE0ZGVJUmU0SGNuZW5pdU9uaE42Y3hNdmhsZVFhSkk0NDNYN2w5MDBabHZIZTZsMmhfd2RFNmxTRXozS0gxa1BMdmNKY0gyNnN0WXZWVHUwaE5qZHA4cWE5WVBBdkwxN2hjZU1MeHZKUmFlYkcyc3lrMUhweUdzRmIwYWRNeEpneXRrWWdJ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Cerritos College faculty navigate AI’s growing role in teaching and learning Talon Marks</description>
-      <pubDate>Wed, 04 Nov 2026 23:25:40 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:4c3f01f3c31e14ebf72b2587a99296c17c9e991d4d507f871e753afdc2a25edd</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>We’re providing funding for organizations building AI for teachers.</title>
