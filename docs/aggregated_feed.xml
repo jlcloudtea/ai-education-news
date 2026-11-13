@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 07:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:25:11 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Western University - Western University business school reviewing use of AI tutor by professors - Education News Canada</title>
@@ -56,28 +56,12 @@
       <source url="https://www.the74million.org/feed/">The 74</source>
     </item>
     <item>
-      <title>As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it - The Union Democrat</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3dZQjFHSjBpeEx6a1JrajUtTllDaURCZUJmdTdyVG5kOWFDT1hLLVp5N0hmTFhVODYyR0NBMFVhU2NOQUdGM0FwUHR4bjdieE5lR2JSdW0tUVFENmdycmZiaG9YM2RvS3k1aXJpc2VDbENxUWhsWF92d2RYUWhaZ05Oa0FVdVdsQTZzbFNubWdvOEU?oc=5</link>
-      <description>Source: Google News - AI Education — As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it The Union Democrat</description>
-      <pubDate>Thu, 12 Nov 2026 17:19:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5f21f98f0077b9fe97061c31519a9d227101d7728bfa8709aeb27c0c47d7e73f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>Community Colleges renew push for investment in higher education, regulation of AI - NYSUT.org</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFB6eHY5OXVQalJIWUY3VnJqZ0JZSjhOdC04UlM4SlJGRjhiNGxpYVAwYWpZQ0gtcG5fZVFMd3dBTEd1bkFhY25KcFktRER2YkQxU0xxTFVhVzlBd0hLb3pQR3ZYSWNwbzQwOHZkSUlpTHJDWnNWSVQzSQ?oc=5</link>
       <description>Source: Google News - AI Education — Community Colleges renew push for investment in higher education, regulation of AI NYSUT.org</description>
       <pubDate>Thu, 12 Nov 2026 17:14:34 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:c5ba18d81e8d916c3d521d77c850253b97711ba89c282d776bf2523e7aa32c9c</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Two UNIVEN Students Earn Place on Presidential AI Learning Visit to the United States - University of Venda</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWJfQmVRRGEtQjdudkVYVnFIU2JsWkRsb0s4T3hSWjl1eFR6bHFpRVoyMWl3NmN3b05XRnlGVXI4R1ZYQ01aVEhETXlsWFMxbXluZld6eTFoMHZpOFJxWmczdDVqVDJMM2xUWnVsRXNFX1RPeWVHT25fY0xGSHV2MFN6UXJPMjVoOFFmNm9wMml2MndOeS1Ib1dBYkhCa2FMYXIwZDBwZlB2OG0wdUJ2NA?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Two UNIVEN Students Earn Place on Presidential AI Learning Visit to the United States University of Venda</description>
-      <pubDate>Thu, 12 Nov 2026 14:08:52 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e025c7e4235c026fc080ade08be1cd43ce55e91b8642bb6922cdbd53cdf69550</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>UK Regulator Urges Universities to Bring Back Traditional Exams Amid AI Cheating Concerns - University Herald</title>
@@ -88,12 +72,20 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>‘Question of our time’: Georgia colleges grapple with what AI means for student learning - The Atlanta Journal-Constitution</title>
+      <title>‘Question of our time’: Colleges grapple with AI’s impact on student learning - The Atlanta Journal-Constitution</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFczMmxyV2FPUndwRVhFWU9ZeUVDUWJhQTlObFNZSXRvV1NPY3ZNWThFSnNMSV9tc3JERUt6Y1pEbzZrbUYxTHRxY01GTjlBR1QtelJhZ1c4SnhnaDE3RF9yTXFTNHlmOFVyVFQ3Y0J5T19xc2Q4Yzk1c0NMSGotYkZmOEhNRVBOTUt3?oc=5</link>
-      <description>Source: Google News - AI Education — ‘Question of our time’: Georgia colleges grapple with what AI means for student learning The Atlanta Journal-Constitution</description>
+      <description>Source: Google News - AI Education — ‘Question of our time’: Colleges grapple with AI’s impact on student learning The Atlanta Journal-Constitution</description>
       <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5e5dbd363770c5c7dec1554c926cde93fefccc34343904c56e7449200fae9d1d</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>AI makes it nearly impossible to assess students' work: UK regulator warns universities, pushes for traditional exams and viva - Education Times</title>
+      <link>https://news.google.com/rss/articles/CBMimAJBVV95cUxQdzhseTFlQThGSzdaSktOdTRVN1lxT0hpZEMzekoyY1JoZm9QUml3TDVfVDIxRV96Z1o3LXNpQWxfbjItOFY4ZnlRQVJwRHAxQl9Kcl93T0YtZFNnRERNOE9GcjUyQTRySmFZc2VZZU14dGdiLXhkYkpiNmxxbzBJVE03SUptUlVESUdUMENlWkNrQ0dLS3FyVEFjRklhWGxCUENfTG9Lb01hLVczT2NVNTN3cHJqbjFBc09BaWdROC05MXljUlJfV3NXRWZpWUlkVWVXX0hjQXc5aWpNc3Z2TWlOQ3VTLUF2UlJ6blFDeEt2YzhaZnhtenVmX3I0aW9ScVI5TUFBckVzNDJlZm9ZRk85NjJPVkNJ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AI makes it nearly impossible to assess students' work: UK regulator warns universities, pushes for traditional exams and viva Education Times</description>
+      <pubDate>Thu, 12 Nov 2026 06:32:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:62b0cc4d74011e31955baa596ee0d536367417edebb6267934e4582c0ff317b1</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Honavar named 'Higher Education Data and AI Influencer' by CDO Magazine - The Pennsylvania State University</title>
@@ -101,14 +93,6 @@
       <description>Source: Google News - AI Education — Honavar named 'Higher Education Data and AI Influencer' by CDO Magazine The Pennsylvania State University</description>
       <pubDate>Thu, 12 Nov 2026 06:05:42 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:11d40f6b55270479686e33c27f1b7a60c9e75afce54b69973e7fe39ed4031ddb</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>OpenAI calls for teacher training as student AI homework use outpaces guidance - EdTech Innovation Hub</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzNkU0IwWEJwaVhaRHVYR3RZTFQ1YVdqZkwxNnIxMjMtOGpGeVJGWUMwaDU1QWhreHB0R3U0eHJCQnhLZWdyNjNMWm96NTNvbTYwbDFfSS1XN2p6SjFzMWJGQ2VNTHN5UXVpR1gweTd1LTlqLUpZaUNQay1ITkR5SDBveUVBLVRGX21BTUJEV1A0TWxFaGlvT3NwZVFGclhTYnlWWlJCNHJVU0UxbmtFWE12NF9tdVZYME9r?oc=5</link>
-      <description>Source: Google News - AI Education — OpenAI calls for teacher training as student AI homework use outpaces guidance EdTech Innovation Hub</description>
-      <pubDate>Thu, 12 Nov 2026 00:16:53 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:2c91400d8aaa53ff2805e2ae9ab258cf7763861a6029554ab1be1462d0fbb3d4</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -136,20 +120,28 @@
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
-      <title>AI use is now universal in higher education. Why are universities failing to adapt? - Phys.org</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1yUjhwbmZjZW5EenF3S2pNd0RueHM1RldxamZSODhzOWFIWEJ4V24wX25NWjJLZHFJb2NCb2NlbmU2RERzdnMxaGdfQ1NkT1dpX2FYV25Jek9VT0V3R05rSjRVMXJXT1ppZjd6ZjFrTnZtMW1MckE?oc=5</link>
-      <description>Source: Google News - AI Higher Education — AI use is now universal in higher education. Why are universities failing to adapt? Phys.org</description>
-      <pubDate>Tue, 10 Nov 2026 21:20:08 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:851a6c4a33545788e8c7231aea42c9be2a8be53ec00e072cc80c4ec2fc9e7f62</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it - City Colleges of Chicago</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdDR0OENnX0w1c05fZnM3ajc1RUVTVVA1VEx5VE1RWmpnQWUtTHVFanlNcjBaX0MwTEU5WDRJcFBlck5SYzBsb0dXT1VFQVZlWnhyNXBIM3Q3cTI0WTVULVJVXzQ3TXJUT2I1YkRiQnVSX2d5ZkRoVFB6Rmk4VXVPQXZnT3Qxc08tTVBmNGhFRjZpSDNidGFUYTgwTWk3cEhrZ25FU1BtY0J2Vk5COWtULWcxWVhHZ3A2amU3Z1ZVSGxqOWtRRnJDN3o4X001T0k1Q0RpLQ?oc=5</link>
+      <description>Source: Google News - AI Education — As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it City Colleges of Chicago</description>
+      <pubDate>Tue, 10 Nov 2026 23:04:37 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:01f8db939421b1e2a2a3e8f59ff2531f1bdfff169aaad9011b878792393a4a72</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Opinion: What AI Can’t Teach, National Service Can</title>
-      <link>https://www.the74million.org/article/what-ai-cant-teach-national-service-can</link>
-      <description>Source: The 74 — The fourth grader who struggled to read or write but can now compose full sentences and finish a short book. The fifth grader who needed care and guidance to make the challenging transition to middle school. The high-schooler who was falling behind and got the personal attention needed to stay on track to graduate. […]</description>
-      <pubDate>Tue, 10 Nov 2026 15:01:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:faf95be1dc2e65d4a85537945efedf0076c0f539558a45b2c6cbe96297fecf89</guid>
-      <source url="https://www.the74million.org/feed/">The 74</source>
+      <title>AI in Texas Schools: Student Safety, Learning and Policy - Texas 2036</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tZ01Pa0dVblI5U29rT1Q3SmhvNE81eGprY2pHdEN1U0VpX0p4VmZzNV9seGdiTi1qdVRoUENOV3hmVG1ZbHNhaTN6OUc3dw?oc=5</link>
+      <description>Source: Google News - AI Education — AI in Texas Schools: Student Safety, Learning and Policy Texas 2036</description>
+      <pubDate>Tue, 10 Nov 2026 19:57:05 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:45642115ce463792d7d3c68d897bf9fbfd83392a31131be23bbf0bef95136ce7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>State Superintendent Tony Thurmond Convenes Summit on AI in Education, Emphasizes Innovation, Student Safety, and Educator Leadership - The Santa Barbara Independent</title>
+      <link>https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSWFKUmY4QnBrTHJNeDVtZTNKT0NoU2YzVDVnb2hVaDB6eWV6dlVyWDZRYUZUbWR4VlZIMHAzYTNlQzFzeDlxYi1yMV9YSnRiQ0hucVQta2trTjFqTU9BQUpYU21jNEJWczN2QWpuY3lIcFY2TUxyY1F5Z0hCbk15UXJvWFgzTTcwa1BWRktpbkhZcjJkNzdQeWEwRzV1ZGZaaERDZExsNEtmQXRNbkpadGpYc0xPS01rN0VYSW9qeUp0N01vckljclZ0NEs0eXFVVnk4RkVGcnd2SFBWdVVlUTloTUkyaERjWTc0NjB6RW9BSDFZcGtvS3VEenVUYXc?oc=5</link>
+      <description>Source: Google News - AI Education — State Superintendent Tony Thurmond Convenes Summit on AI in Education, Emphasizes Innovation, Student Safety, and Educator Leadership The Santa Barbara Independent</description>
+      <pubDate>Tue, 10 Nov 2026 19:03:26 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b42ca219fd6ab69ee572ec45fb9273d8bd3daf22408c8a2a60907bf1ceaa17e4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Closing the AI guidance gap in education</title>
@@ -198,6 +190,14 @@
       <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:899280bfcadceb423b5b1329e2ea24a53009a2ab0e685c6f2ea8561c6bcd339c</guid>
       <source url="https://www.microsoft.com/en-us/education/blog/feed/">Microsoft Education Blog</source>
+    </item>
+    <item>
+      <title>Setting a new standard for responsible AI infrastructure</title>
+      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+      <description>Source: OpenAI News — OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.</description>
+      <pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:25fa4dd18ec78a48a9233cc009a7e10d7c8c98f49986ed2e5b02c4eebf5890b1</guid>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
     </item>
     <item>
       <title>We’re providing funding for organizations building AI for teachers.</title>
