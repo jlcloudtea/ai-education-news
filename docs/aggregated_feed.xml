@@ -5,13 +5,21 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:49:48 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Alpha School charges $75,000 for two-hour AI day, and half of students miss math target - news.lavx.hu</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVZHbDdvblpVUFZtS1BIbVJFaXA1OTNBZU9OQzU0WTc1aV8wbkFlTjFISmVPVkNjQjR4QmlJWm9DU0J5bkY5RjhHRGpYSjZQVG5WaEZFb0wyWGxEemtNYXQwTFNrZ2xNV3AxdnZ0ZUdEclNhX3p6NjBoMWpaMnJULXUwc01HT3BtNlBhTkF3ejNpeDdsMDBhUkp0bDI2LUtsbGFHMDZhSW1oRkl5bGNvQW8xZDI?oc=5</link>
+      <description>Source: Google News - AI Education — Alpha School charges $75,000 for two-hour AI day, and half of students miss math target news.lavx.hu</description>
+      <pubDate>Sun, 15 Nov 2026 20:37:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:8aeb356c2323c0b12d48fb1a78221e4e1155f7ec58b4a4cfb29c118d8b36f8aa</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Victoria University lecturers steer students away from AI use in education - RNZ</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkd2UUJEWEFrVTh2MUI1MUJSZXFZSmZ4RENKRXI3X0xGMGI0UzBDQ2NydmFLSDlPUVItZ0VPTVFDRmhZRk5ORnp5M0RLRkJ4TlZZeTltbUptTDRBR3ptZll0WDRncEpFS0NTSkVxamY0VTRhdVBVS09hV1E0VURVbDFyVXdJNWJ3S1JwOUwxUThQVzZBVUxVUVJUcVJpdmkzVjNDQ0hIOExpdkU2ajdFR045WmtYZ05zS2dZ?oc=5</link>
       <description>Source: Google News - AI Education — Victoria University lecturers steer students away from AI use in education RNZ</description>
-      <pubDate>Sun, 15 Nov 2026 16:28:56 +0000</pubDate>
+      <pubDate>Sun, 15 Nov 2026 19:28:26 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:173d26dc82f374447d8e75564a7c7edb086e065b74064ba2f0516b22d8479280</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
@@ -80,6 +88,22 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Presidential Office Holds Emergency Meeting on AI Exam Cheating Days Before College Entrance Test - Seoul Economic Daily</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNY0J3ZkZYcF91cVc0dC1TSjZ3U3lZRTJIZ2t0NF9razA1WFlpUXJ1VUt2VGd5SUJ0UkZnQ0w2R2lKYWVsU3I1M19PdGxpbzlOc21NMnRnM0g0MTUzU2dLNXNxSTEtcTZUQXFneWpHaE1hNzRzM3k0VmxZS29ucGtWRGkxYkU4djJ5bDA1OE1EeUlXU3Q2QUo4TjYzMUR5Zw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Presidential Office Holds Emergency Meeting on AI Exam Cheating Days Before College Entrance Test Seoul Economic Daily</description>
+      <pubDate>Sun, 15 Nov 2026 05:39:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c72f5aa75669d99b97a2a854e2978c14db44c580b00387a18fd72f055739102f</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Presidential Office to Hold Meeting on AI Cheating Measures Ahead of College Exam - Seoul Economic Daily</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGE3N25qdEJKdU9va2ZWSmdNU29CQkFkbWNhWlRpcWFJdVZNMTVYTnRhd1dwRHBJWGNUYzBuZDRqRUV3S0xKS2VIMnROSXllWkxKczFjQ1VLMWZWd2V0TjhTNlU4aVJYdVpqSmVCejh6YlRXOEMyU25qNW11UnhwUWl1WS1lQTRwdjhWOW02aWNGUm1QSm5VbDZn?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Presidential Office to Hold Meeting on AI Cheating Measures Ahead of College Exam Seoul Economic Daily</description>
+      <pubDate>Sun, 15 Nov 2026 05:28:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d469d4895684826c8952d161112dd11ad8615811e2b0a6f83f787147daeab6c7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
       <title>California schools should responsibly incorporate AI in classrooms, state education department says - The Mendocino Voice</title>
       <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOZEJ1Qk8zMk9pdlFvTUw2VC0zcVNDYWc1WVFablFXY3FTTHFiTmRzVjBBeWxDYTFnbExCbE1TWXpsYkxnNExaVkVqdWlsVFRjbnhyci1fQjloNFVJOWZCNjZ6ZE1NYmVhTGxJN01KeVJlVERnSUtkYUEyUm1uMTVXRVFVUDJMdFRFcVZIUGxVZUQ4VkFnV2d2Rjl5LXRGQ2xBMkwwNWVhZ01lNGdnNmZva1o3V2Y0Nkp6Y1gyX1RMUDlVWHRqTU9HUEtn?oc=5</link>
       <description>Source: Google News - AI Education — California schools should responsibly incorporate AI in classrooms, state education department says The Mendocino Voice</description>
@@ -112,36 +136,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Researching education: 5 further readings on Generative AI - Teacher Magazine</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWlTVEFMRG1EQkdVTVZPa1NTY2VvR3duU2dNcVgxZ18xZ3FnUncyT0xOaUV3elQ2M2x5eHBDUm9DR2RndGdNc3ZqNElqc2h4ZHFiUERNT2Ita2UtZGMzWG5lQWVRYkVDZEFtY1FNWnVNdkJxSUVudzE0eWJlZVhIendsQjlkVnBmdWRkaW9tWVZhNUs4bmlRS1Q2YlR0bDJaUE9NOVc0VQ?oc=5</link>
-      <description>Source: Google News - AI Education — Researching education: 5 further readings on Generative AI Teacher Magazine</description>
-      <pubDate>Thu, 12 Nov 2026 21:39:17 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:e28913f36270716236db7f632552f79f36b9e2d1e9274c1f07e1b0b02f1520e4</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Academic misconduct cases surge at University of Arkansas as faculty grapple with AI concerns - Northwest Arkansas Democrat-Gazette</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTc5SldpbXNPU3Z3R2c2MW00V3dNUDdjWXRkanhfZnVRLU5DOVBWU3NNNGxvNkhReHY0Y250cW5WUzRPNEdlaEstQzZOZlUwb00yMXl1WXVPQy1xRWNkSHRQNk0xMnVkMVp4bFRKbjNadzdSTGo1dHBPeTNRNW1oZjgxNTZkaDRabUJlSzhFQ18tb3BMR2pr?oc=5</link>
-      <description>Source: Google News - AI Education — Academic misconduct cases surge at University of Arkansas as faculty grapple with AI concerns Northwest Arkansas Democrat-Gazette</description>
-      <pubDate>Thu, 12 Nov 2026 17:55:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:58f659cd1b8cf7f5ca440959e3db02b0ab59b49353cb2f577044ab8085178cb0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
       <title>Opinion: Preparing Kids for the Future Takes More Than the School Day</title>
       <link>https://www.the74million.org/article/preparing-kids-for-the-future-takes-more-than-the-school-day</link>
       <description>Source: The 74 — As artificial intelligence changes how we learn and work, schools face growing pressure to prepare students for an uncertain future. Academic knowledge remains essential. But young people also need to develop the ability to think critically, build relationships and take initiative in shaping their lives. Developing these future-ready skills takes practice: opportunities to make decisions, […]</description>
       <pubDate>Thu, 12 Nov 2026 17:30:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:fc5750315633307298ea8d363b56bcd899a8619ffe9f380f304290d64b807450</guid>
       <source url="https://www.the74million.org/feed/">The 74</source>
-    </item>
-    <item>
-      <title>As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it - The Union Democrat</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ3dZQjFHSjBpeEx6a1JrajUtTllDaURCZUJmdTdyVG5kOWFDT1hLLVp5N0hmTFhVODYyR0NBMFVhU2NOQUdGM0FwUHR4bjdieE5lR2JSdW0tUVFENmdycmZiaG9YM2RvS3k1aXJpc2VDbENxUWhsWF92d2RYUWhaZ05Oa0FVdVdsQTZzbFNubWdvOEU?oc=5</link>
-      <description>Source: Google News - AI Education — As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it The Union Democrat</description>
-      <pubDate>Thu, 12 Nov 2026 17:19:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:5f21f98f0077b9fe97061c31519a9d227101d7728bfa8709aeb27c0c47d7e73f</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>The Day the Take-Home Essay Died: How I Stopped Grading AI and Started Designing Real Learning</title>
