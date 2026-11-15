@@ -5,15 +5,47 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:56:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:27:05 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>AI in govt school? Mysuru teacher makes it possible - The New Indian Express</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ1BRMUNZaTdaT3pNb2ZTOThhcDQzVjJZeWlMdTFwN0VzYlVncHlsYXJaU1luZ21TSHV5TW54bURiN1dDOWNNSV9BcUt1dmFRWk56RG82WjBEa1NfWm5jVUxrc1hidDVCTy1xQkpsLVBBU2MxYWRfTGJIUk1zRzVJeWlYVkV4ZXlhZzhyWlhuYzNBQ09wVE8wMUxuWGQxWmxvbXM1bzN0Sl_SAbYBQVVfeXFMTWpCeTc2QUhXWXd1a3ZuRDdhQ3pRY2FkbF9SSTdkb0xCM19taDBKQ0lHWXZfc19VR040Z1lKdloxejdfd0ljWmlEWlZuSk9DMmJLNEsyQUIxNkxVZUoyVUduaWFMWUpjejFSdUtrZGwzQ0V1encyYWhNbWd0YTk0N2p4d1k4RXNjSGtBbEp4aDJvV1BhNENja0VYa0xweDkyamEwemlrU3Z4OXlXZ3ZBUjlaSVRCYWc?oc=5</link>
-      <description>Source: Google News - AI Schools — AI in govt school? Mysuru teacher makes it possible The New Indian Express</description>
-      <pubDate>Sun, 15 Nov 2026 01:39:30 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:504d0311dd5cf47563509505d4d6bb40f3df66038396a21c7032b34c0a2a9959</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <title>AI cheating scandal rattles South Korea as annual college exam looms - The Guardian</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AI cheating scandal rattles South Korea as annual college exam looms The Guardian</description>
+      <pubDate>Sun, 15 Nov 2026 08:56:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:47b8217a34784febb4cff7c6469e23e59f57b6ad257e5a04a9c454498567bdaf</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Can AI-written essays cost students college admission? - LiveNOW from FOX</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYQzZXOXJtcFJxNGlPNHJJNDBSWDIzcVR0STE2bE5iSGRJUE1uSUFwUGRJdmNPakhRUk9XZlc4Ml9YSHZzV0hHRlV6azhHbkh2ZnB1ZFpMQmhWVVJTczg5aVdRa9IBaEFVX3lxTFBiSWQ4dF82ZmFxdnpkVjFYRHd4TXkyWlBpcmZTYlV2aWpjelJ6OGxpcnVwcW5rUU5NQ1g1T0lVbnVxMG9FcEtSd2ZLUDQ0NmtqY0pZOGZpNEczb0lyRk1WX2JpOEdTX2c0?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Can AI-written essays cost students college admission? LiveNOW from FOX</description>
+      <pubDate>Sun, 15 Nov 2026 08:53:59 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e567244b067d82925405f55334fca0e587cc1cae754b7aa518dab84eaaddc7a4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>AI cheating confession rattles S.Korea ahead of its college entrance exam - KED Global</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBOWUVLaU5hcFJrbE1veEliQWVlNlQ5ZW1KejFfMjltRFBLcHl6UGUzYmhibUdFUm9HOXpDbmR3aGR4VVZoTnlVWDMwdzdsMjA3WVhrc0VDYXdXWDVBZThUeDVMRmFIUWV3V3NveWplNTZhc281OXpr?oc=5</link>
+      <description>Source: Google News - AI Higher Education — AI cheating confession rattles S.Korea ahead of its college entrance exam KED Global</description>
+      <pubDate>Sun, 15 Nov 2026 08:02:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:8ebeacf9200dc62ef4353332be442eb7568c951117c39d42abaae4a28cbc0450</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Presidential Office Holds Emergency Meeting on AI Exam Cheating Days Before College Entrance Test - Seoul Economic Daily</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNOG4tam1RY0pqeHZBa010MkVvY2NPc1d5bGxRMC1HcDJjV0ZUVnNhdWRNWHJrOXB6TGRBQzBwdzlyVlp5UTRjd1pDTzE4RmQ1VkxjVjNkVWFIRVNIallDRnNqek4yeVhqVnFGNFM1bTBpZFlWS2JvMUUzczFFNER6M3RGZzhhazE5NG9jcUFSbDFIMnJEc1A4dHBBcUM?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Presidential Office Holds Emergency Meeting on AI Exam Cheating Days Before College Entrance Test Seoul Economic Daily</description>
+      <pubDate>Sun, 15 Nov 2026 05:39:42 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:067e563fe931eb8db378f5a2250af79241d3b818fd3c61a8a0f18e0bfcde47de</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Presidential Office to Hold Meeting on AI Cheating Measures Ahead of College Exam - Seoul Economic Daily</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGE3N25qdEJKdU9va2ZWSmdNU29CQkFkbWNhWlRpcWFJdVZNMTVYTnRhd1dwRHBJWGNUYzBuZDRqRUV3S0xKS2VIMnROSXllWkxKczFjQ1VLMWZWd2V0TjhTNlU4aVJYdVpqSmVCejh6YlRXOEMyU25qNW11UnhwUWl1WS1lQTRwdjhWOW02aWNGUm1QSm5VbDZn?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Presidential Office to Hold Meeting on AI Cheating Measures Ahead of College Exam Seoul Economic Daily</description>
+      <pubDate>Sun, 15 Nov 2026 05:28:47 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d469d4895684826c8952d161112dd11ad8615811e2b0a6f83f787147daeab6c7</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>California schools should responsibly incorporate AI in classrooms, state education department says - The Mendocino Voice</title>
@@ -29,38 +61,6 @@
       <description>Source: Google News - AI Education — AI Analytics Framework Maps Higher Education Curricula Against Labour Market Skill Demand Bioengineer.org</description>
       <pubDate>Sat, 14 Nov 2026 21:45:20 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:752cd5dc14f989f6ab3f602bc54c450065a2f5457b03fdea17add95ffda7aba1</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Learning under trees in the era of AI: The paradox of education in Mozambique - Global Voices</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQa19XbzVxNFVUdjVQOUpjRVY2cGFpS2FuR1FGcVB3LTEwYjhGT3UxM0ZFazFiLUVCY2pPQm1PanpCNV90TXpOVmdlNWt6ckJEZkd2VE0xeVZqOE50eHRtTDg4LXJhR2F2b3RFTGJtWTlnQXdydHBmNVQtdFNYMzJBRUsta0J6WkdLOUdFMmVGSzNKaHlvWENMYVBJYnVkdTJWUHJpQlVITXh6R3hrTE5jUGc1Zw?oc=5</link>
-      <description>Source: Google News - AI Education — Learning under trees in the era of AI: The paradox of education in Mozambique Global Voices</description>
-      <pubDate>Sat, 14 Nov 2026 18:39:50 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:260a7d57e299098b0ed42cf461a230fe54f13ec0811275361831440d36f24806</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>How I rehumanize the college classroom for the AI-augmented age - The Conway Daily Sun</title>
-      <link>https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRHd2WTJUQlJTTHBEaFlRaFBYbkZ0VVRJRG56eV84eFh5d1haNGhRelA3NXNQZThXcEEyWmxGSGJ0bTg3Y2FvWkk3cWh5ejdnNlAtVEd1TnNNWUtEb0wxZnpnUXR5UUx0ZU1aSzI3Ym5XUE41RmlyamFSeEp3RGNaako2dmI2bDB6THpjc1h4RzJkQXdCZ1AyWjdtQk9rNk9NRGpPeU4zSDIxOUtiNGhIMGhEbjhFTkF0Y1RPYTFhcVVXUUhLdmFONERiZlY0VWRncUsyUlB5d2N2MnNHNXBWdWVWUThvNnk5LU43MHR1azU?oc=5</link>
-      <description>Source: Google News - AI Higher Education — How I rehumanize the college classroom for the AI-augmented age The Conway Daily Sun</description>
-      <pubDate>Sat, 14 Nov 2026 17:48:28 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:73f6ba82634823b9d5b88f8c075652362f1f19444cfeeeb960ca9cd6403ac5c2</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Eastern Student Government appoints two members to university AI task force - The Daily Eastern News</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPbzFJWkF0TXRRaFhTNG1zTVY2TnZHcTB1SzZ6dXdNMnRaR1k3a0pCbVhXZ1NHRHBwSktaSkRpd2l6UHVJcDd6eW1XYTBMVkdZYUZYblBuWXJCaHJGN3k5ZVdaeUZqZ0xzS2lkaXB2MEpIczJnZS1DWXJxbkRQUFJvSGxxODd2N0tVbm0tcGtqN3ExcjA5SVNOT1RaUk1rRFo3SVptb01WaVo5Um5NX2Zha3haSU42X2JZcHA3ZA?oc=5</link>
-      <description>Source: Google News - AI Education — Eastern Student Government appoints two members to university AI task force The Daily Eastern News</description>
-      <pubDate>Sat, 14 Nov 2026 16:25:46 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:84b4fca78c6bc87f0a6ea3403345b0affe61ce8e8f6adbbdade698dc14f61cbd</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Wealthy parents pay $75,000 for Alpha’s two-hour AI school day. Half of its K-8 students missed the math target - Fortune</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWVPbTBORW1yd0lRZEdVUXB4QkFVeTVZTGVWaFlqUGg5OGxtQnpucXhmdDhnSG41NkN4Y0FNenJHZHJ5SHoyYzAycThMWlVPZWNOTkliVG4wak1KZ0MxdUg2cEQ1WU1RMUloSzVreENvQ0hxZTZVREttOG5RLXpsM3ZRVjRhdw?oc=5</link>
-      <description>Source: Google News - AI Education — Wealthy parents pay $75,000 for Alpha’s two-hour AI school day. Half of its K-8 students missed the math target Fortune</description>
-      <pubDate>Sat, 14 Nov 2026 12:10:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3055a794870ea08284810e4e504441b2a7caaffc542d79afcd36bd99661ea3d5</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
@@ -112,12 +112,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
-      <title>Western University business school reviewing use of AI tutor by professors - Winnipeg Free Press</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGJKWl93S0dTX2pZTkxfRlJqYVdQNlVLWHhBNGZSd2JWMk84d0RjS2FoR3JuYXZsZlFWX2t0d1NKY3VONnJPRnQyZm1yUG5weXNHT0QtZ01NOElZU3NNRnZvaE9MTktCTEVNbjlPSUVMLVJsM25YMGxyd1B5VmxWRWRCQUg0TUxSVDRBS0ZmMkdjU3V1eG5COUFSQ3pZdFQ5T0gzYlkyeDloNW0yalBHQ3JjZlUwVGtyWVpZdG9UbmtvWnM5ZVpWeW9lVVhKNi15TzNrMGNtMEFvRmJBN0NlTQ?oc=5</link>
-      <description>Source: Google News - AI Schools — Western University business school reviewing use of AI tutor by professors Winnipeg Free Press</description>
-      <pubDate>Thu, 12 Nov 2026 16:44:16 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:7260d8d53689510b2866203b5a22d5df36c7eb160d61a1d4e037f200887a29df</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <title>Western University business school reviewing use of AI tutor by professors - CTV News</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNbHBuRHhyYmFiVzFhbTRIYlBXSUdqeS1ZWlZwWWp5MUg1bGZJV0R5Sm5sSEZWR0F3cy1fR3ljNDUybDVSV2x2eE5IS2RBay1tb2l1Q1A5MWViNEhvb29LRXI0LXdvV2EzVHdDeENBU0tmWTZsdWNvSUpZMHQ3elJwRWlmb1JpVTg3TzBwRTVOZzVMdWpoUkV6Q2JYWUFXSVhxQjhaMmx2dkM0VHV4ZjBoUXYxQQ?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Western University business school reviewing use of AI tutor by professors CTV News</description>
+      <pubDate>Thu, 12 Nov 2026 17:01:20 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:97760b5e6cd72fd704b51a603ce971a5b1cd1bf847e3b27fc14f673aba70c7cf</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Two UNIVEN Students Earn Place on Presidential AI Learning Visit to the United States - University of Venda</title>
@@ -138,10 +138,10 @@
     <item>
       <title>‘Question of our time’: Colleges grapple with AI’s impact on student learning - The Atlanta Journal-Constitution</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeFczMmxyV2FPUndwRVhFWU9ZeUVDUWJhQTlObFNZSXRvV1NPY3ZNWThFSnNMSV9tc3JERUt6Y1pEbzZrbUYxTHRxY01GTjlBR1QtelJhZ1c4SnhnaDE3RF9yTXFTNHlmOFVyVFQ3Y0J5T19xc2Q4Yzk1c0NMSGotYkZmOEhNRVBOTUt3?oc=5</link>
-      <description>Source: Google News - AI Education — ‘Question of our time’: Colleges grapple with AI’s impact on student learning The Atlanta Journal-Constitution</description>
+      <description>Source: Google News - AI Higher Education — ‘Question of our time’: Colleges grapple with AI’s impact on student learning The Atlanta Journal-Constitution</description>
       <pubDate>Thu, 12 Nov 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:5e5dbd363770c5c7dec1554c926cde93fefccc34343904c56e7449200fae9d1d</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>The Day the Take-Home Essay Died: How I Stopped Grading AI and Started Designing Real Learning</title>
