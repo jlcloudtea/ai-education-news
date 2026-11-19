@@ -5,15 +5,55 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 03:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:08:19 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>AI shifts classroom focus from answers to process, Kelowna educator says - My Coast Now</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3ZWLTRmbi1lc1FJaE1wdGlFelRTNE9Uc1lGLUwtUU9kbE5WZG1fMVp6M2xtNzhaT2tPMlh6eWUzcURidVo4U2VNOFA0TmRIRlBEcVVReXEwcGY2cmJfTmFJeGhfc21MWmVtMkZEMkhMTkNGeFBud1pCdDR6OVRWSXJTUEYyNHhMdG5FNjlabDA3WnF6RnVFX0hEMURZX2VXWFhxa1ZRUEtaOXdhOG9TeTR4RkFRdnNJMlgzRw?oc=5</link>
-      <description>Source: Google News - AI Schools — AI shifts classroom focus from answers to process, Kelowna educator says My Coast Now</description>
-      <pubDate>Thu, 19 Nov 2026 03:22:07 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:73ec0ff5564d1d2297bca5392c6068a9649db0e008c669f544d793bff317c1e0</guid>
+      <title>South Korean students take annual college entrance exam amid AI cheating concerns - AP News</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2dualJ6dUR1TFN3ZDY2WlFEMFpNQThYOEhLV3dDNEtxemk3YUdCNXpvYlM4dlpTOXlWVXByX2h0Wl82TUZWV2NubnBlaVV1SGQzNlFnVE01SEQ3YVVFR3JYY3FpMGpqUjlTcS1OOGlVSGk4cHJOTnMxZkl2U0VzdVZQUXA3TTJwb01sSWxrTFk1QWd4Z2o0UWo2MkYwajdFTDNDbWxRWGpabW9LVV91ZHJpWjkzeC1VS1RyS0dnNlRlaHJFcjVyMTJKRnJJblRFVnVPVkN3?oc=5</link>
+      <description>Source: Google News - AI Higher Education — South Korean students take annual college entrance exam amid AI cheating concerns AP News</description>
+      <pubDate>Thu, 19 Nov 2026 10:16:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:e388f9db676c406750a3ab9749a34d922b5611ea2fcc3f4d6f06183d0b96fc97</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Graz University Develops AI Tutor to Aid Programming Learning - Mirage News</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFVoR3FUVERrendQOUdJcjNFVlBaWWpubUg3R0V3XzNiMGlfV21ycUxScWtBUTRPYUZWcC1wZnI1eEFHaE5RY2swNC1OT1FJeWhncGZTYlItRkZyOUc1TmlZSzNIdjlTOU9EaTFYSnNrQVVkWWtkQmRZa1I2YmEtaVZB?oc=5</link>
+      <description>Source: Google News - AI Education — Graz University Develops AI Tutor to Aid Programming Learning Mirage News</description>
+      <pubDate>Thu, 19 Nov 2026 08:04:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:d22d2b95d11a5673db8f2f24f57506e367a89af14614aaa009e0acddfcdaacad</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
+      <title>OPINION: For a well-prepared workforce, schools must rethink the kinds of skills that will be useful in a changing economy</title>
+      <link>https://hechingerreport.org/workforce-preparation-changing-economy</link>
+      <description>Source: The Hechinger Report — For years, the debate about artificial intelligence and jobs has understandably focused on which workers machines will replace. People are worried about job security, and employers are seeking efficiencies. Yet as AI-supported tasks and outputs become increasingly commonplace in virtually every workplace, the conversation is shifting. It’s becoming clear that the best way for today’s […] The post OPINION: For a well-prepared workforce, schools must rethink the kinds of skills that will be useful in a changing economy appeared first on The Hechinger Report .</description>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:97cd065cd23592744fd6af7e0e48237843a35c0f0f0a1c9a6328b7476d18a20f</guid>
+      <source url="https://hechingerreport.org/feed/">The Hechinger Report</source>
+    </item>
+    <item>
+      <title>University of Windsor - As AI transforms classrooms, UWindsor researcher explores the changing role of language teachers - Education News Canada</title>
+      <link>https://news.google.com/rss/articles/CBMiiAJBVV95cUxNN1ZxMHhhbFNDUUh3UEVDbU94R3VCczhrOUNYSHVGZlhTQm82N3ZTWVl1Q21ONk0zdGQySDBWM29ON2otd1BYbDQ3eWxaUFlGVFV4MTNKOEE3VkdJNm45Nno0TklfNFhTOXNNZUJzOHRYSmZIaDJNVU9LSTE5SXpQNkRmMWQzcnVQMjNRcW1JN1NIWDdHQXZUelFTSUlFU2xLT1pBSjV3MjVPR3FwWG5QbGM4WExvSWRlN2JoUEZKNHYtZUxFeWhnLTZ2QTNpVTdsSmgzZXJuNnlxX1JWSk1MaVlXNmlXYW51WlA0OGtMbHNmVHk1NlpLNUJZbEwyNGZLUnpWMXk0Zl8?oc=5</link>
+      <description>Source: Google News - AI Higher Education — University of Windsor - As AI transforms classrooms, UWindsor researcher explores the changing role of language teachers Education News Canada</description>
+      <pubDate>Thu, 19 Nov 2026 05:49:29 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2af2fa052f5b9851dae55c8762bbe0f7ba848252a81ebe6b162e3f013facf635</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Student Suspected of AI Cheating on Law School Exam Found in Cardiac Arrest - Seoul Economic Daily</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXhFZWVnVFU0WW44OEl0a3hFWFNGRnM5OEV4NDRmUUkxZkI3SGV1OW5Pc0VfUjl4UjB4Wk5HVjlrLWJMU05xem9INldWbnE2Mmt2bnRKazIyaVU2T3dRNjJNT3gxT0FrU01LM2h0OE5od3RzSFNZbHdyS2U2MGhuTXU5MW96WVR2RGhuMXNTNFJuQThhOHZIT1JJeXVnWm9U?oc=5</link>
+      <description>Source: Google News - AI Schools — Student Suspected of AI Cheating on Law School Exam Found in Cardiac Arrest Seoul Economic Daily</description>
+      <pubDate>Thu, 19 Nov 2026 04:32:12 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:23d9cc11d6528449a4b7a7de25b43bc2a64b0f0ebfffc54f1383bac803f3561d</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+    </item>
+    <item>
+      <title>[COVER STORY] Students take Korea's biggest college exam amid AI cheating fears - The Korea Times</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNWlpZZ2pDVnE0d2wxNVhXamtya0V0c1lUazhzSFRFTEQ0VjI2YVd3N2dUZDl5UG5uejQyRTRySDNtb2M1N09SSzdKb3BDd3NCMGk3RlBLYnpNeUtwZmpxclZ5aDJLX2NTa0tPb29mUVNJMWJqZnBMQzdpMElrMzBBZEc4VGtFdHkxNTNseG81VldkNmU0aXpwMlVzNnZEcWlKVlhzcWgxQmVDa1J1Z3pRSmZ0SnZmNjhNMlhlUk40cWlyYjc1dzNQS3pxLTNnd9IB0wFBVV95cUxONnBzRkdyN05naTIwaTlLamdGQlRSQU9uN1NBXzc4UFJNMjRvSEtxVFpBRHhXaTBpVDV4LUZTZXZfc1dyLXl0VVZzbkMwNzhRZUdCZHk2el9DOGk0cDhPemZXaWg5cG0ydllWTFdoRU1rNkVIcEtod2FObXRLMkJ5N3Z3b0ViSjBaMldxWUxVNmN6c2xWQlhKUnJfeEtLaXRsRFlZUFYtbmpWWU5FQ2pUdkdueFNsMmI2TUs2cUY2YVN0bHRVZk1Sby1lREtRM0JkZ1BB?oc=5</link>
+      <description>Source: Google News - AI Higher Education — [COVER STORY] Students take Korea's biggest college exam amid AI cheating fears The Korea Times</description>
+      <pubDate>Thu, 19 Nov 2026 04:20:04 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:c24016fb1cac085c52564558f7cb7ed387e51637e60630669a8875fe8c1af4a4</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>The Trump administration, the Fontbonne campus, and AI in education: a recap of the Q&amp;A with Chancellor Andrew D. Martin - Student Life</title>
@@ -29,22 +69,6 @@
       <description>Source: Google News - AI Higher Education — S. Korea: 550,000 students take college exam amid AI cheating concerns Inquirer.net</description>
       <pubDate>Thu, 19 Nov 2026 02:47:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7f7604d02c4cafff8ef9a5a0393cad9b94b375c246f1df5a3fafb0b018998fd8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>550,000 Students Sit Korea's College Entrance Exam Amid AI Cheating Fears - Seoul Economic Daily</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmFORHQ0cmF4R3pMazhYb25EU3ZtNkx0a2dyQnF3LW5BMHVhYzRFX0VSX2Z0YldpbHZrMVpNb2pGVWk5WkVqOHJZOW1UVFFkSmRYNlNJTGpPdzF6M2FVUWNadFhHRVlvbUJjZlB6Q0tlZXU3dnZGdl9ydDk4eFhVZWM5U0kxeDl2ZlBkdGxFLWNDemJRWFlpb0FBWW05djg?oc=5</link>
-      <description>Source: Google News - AI Higher Education — 550,000 Students Sit Korea's College Entrance Exam Amid AI Cheating Fears Seoul Economic Daily</description>
-      <pubDate>Thu, 19 Nov 2026 00:40:37 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:45cd6a0517c55372c9ae4204996d1374f63aff6704db997aa598d288f8edcd13</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>(LEAD) Half million students take annual college entrance exam amid AI cheating concerns - Yonhap News Agency</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uUElSUVdCclBPcUZpdXlkbzdEVmQ3WnZ4WnlkMFlOWm9yS3I1SURDWU41Z0lyU19CbUhXMnpHSFJQWEFrSGp4c2tubmFHMWZhNGVyYUdGWWJXdw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — (LEAD) Half million students take annual college entrance exam amid AI cheating concerns Yonhap News Agency</description>
-      <pubDate>Thu, 19 Nov 2026 00:38:44 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a066059e365500c70ed1b06b9e902647aa9cbe971733d1429c9f766798a83600</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -72,20 +96,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Beyond the chatbot: why AI literacy matters for every teacher - Education Matters Magazine</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0RDNnVEbkZDdE82eXVwTnR6MlViYmFYQVoxbHJVZGdEYXRFVk5udnd2UGJFUDg2WTVXR3NSMXpDMEprMWNtMTJ4WjZzN0xkQl9IMmRPRF9VOGxSRHlUNXprQ0x3dEVBNGRGei1xLTdvNTRJODUwN3E2Y3UyeHl4ZXEtcnN4YkpmSkZQSUZDeGpHMEtDQjd2R0Q0VnI?oc=5</link>
-      <description>Source: Google News - AI Education — Beyond the chatbot: why AI literacy matters for every teacher Education Matters Magazine</description>
-      <pubDate>Wed, 18 Nov 2026 22:37:32 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:f4389a308d61375dccebfae1e16a4dc6fde2ed57d940e2e67f6c282ca0c90cd0</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>From languages to AI, CBSE’s curriculum shifts leave schools, students grappling with uncertainty - ThePrint</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcE1nMklSc3hjMVpoMUtKOWl1Mjc2NXRTeWJmZHBncndkUHRCLUEzcGxHUVFKUndwODB0YlRjU19LNWlZY0tRckE2dVZfYklKX1RmV0lkR1laMnlQUUFoUkZyYUxPdUVMNnFhTloyMVl5TF93YVp6c25vRzBuaGdhV3JsVURnQ3pLTUoycEl4bVV0R2hSZVo1UlFaMFFsYm9hU3dqS29QUEVpa0dqMHpSZjF3S0FsMlF2VEI3YWx5WDBWQ3RnQnhpRzc2cHBwQTB4N2dBa1Fn0gHbAUFVX3lxTE5KZWZnZjdrOFFIaUl5ZHlJY2FxN0lCQzA0SU5IODhLUmRkakhiMmdqSGcteFh2WTNTb3VWVTZYMDhsY1pBbHBMTmRKdjIyZ05tWlUza1VUajdsdWc3cEVvOUUxd2FnY2xINUhYOURVR1V4Z0lQQTM0eFpJVGh4UlJvY1ljZDZYeXVobTZzdmZtWXNib2s3Ulp5dVRxQW9OcUZNbGZDNWFtckFkNlVmdjhlZTNfc1JnTGp4Z1lUNnpwd19MdE9tNnUySHU1XzhtdFhaSk96YllkVldYOA?oc=5</link>
-      <description>Source: Google News - AI Schools — From languages to AI, CBSE’s curriculum shifts leave schools, students grappling with uncertainty ThePrint</description>
-      <pubDate>Wed, 18 Nov 2026 04:27:53 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:04e262759d7915b9eadc6c350bf1fccc74e97a13383370c1ab62cc72c6df73cc</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
+      <title>Over half million students set to take annual college entrance exam amid AI cheating concerns - Yonhap News Agency</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVVluek5mVFZjVHRwb05pU01PSFRmbWRQWE1NMWhxNlYzTmplZ3dncC1ndTNFLVl1WlpwR19NV3Fib3dOcEQ1bF91WXdHTkNWYnRhd1UtOVFSZw?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Over half million students set to take annual college entrance exam amid AI cheating concerns Yonhap News Agency</description>
+      <pubDate>Wed, 18 Nov 2026 23:11:46 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:3149ef6aa4a6f84fe91d54cbf2dfa9c30dbf2275c45176b0cb951da09717aa21</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>AI Has a Place in Education, Just Not in My Classroom</title>
@@ -104,14 +120,6 @@
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
-      <title>As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it - Baltimore Sun</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZEd1dUsydEV1OGFtcEVoRUtJbmNZUXZENmJHWjcxYW9kZ0g1SFlsV0kzWXlnb1dEZERxMTE2elZ3eFpGYm9jRUdrMHhENXU4RnU2eFZnaGN4V2VrZk90aEhvbWlnb21yYXA2NnNfdFZVZ2ZZYld6N09WTHdoa3RHdDJnT3J6R1YtNktrRlQxeXVRa2RYdVIwTG15aWNUWC1HQ01MVHZ0SVZycVBNb0V1ZUxXLVNFT29NWUwyeTJjRXE4WUltZ3Q5emZCX2VNT3ZLdmVGUDhhNEhqQQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — As AI stakes its claim in higher education, colleges and universities across Chicago aim to embrace it Baltimore Sun</description>
-      <pubDate>Tue, 17 Nov 2026 21:33:32 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:ecf59a445bcd2901c09bf5832703792522d776c4a9ee92eafe6abdf32519a90a</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>How To Ensure Artificial Intelligence Is Enriching Student Learning - EdTech Magazine</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOenpUcDZJekVHMjNVMWNEQ3NXLWlEZUhhdFB3N3VTV1lGa0owTzlKLWZBXzhJM0FsV0Y3RHdVSlJjU0FJejdmRXJIN1BmLUpXc3BPandEc09yZ1VkVXNla0RHdUlveXh5M0JRcGhqR2JGSVhUcy1DRU1IbXpuampFZVNYRVZ3bUt6dXBzd2hkZlhKUlBObWRvWF85OHc2QzNyUU1DYWF3YXlvYmdR?oc=5</link>
       <description>Source: Google News - AI Education — How To Ensure Artificial Intelligence Is Enriching Student Learning EdTech Magazine</description>
@@ -126,6 +134,14 @@
       <pubDate>Tue, 17 Nov 2026 20:40:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:89ca5c5934ce4af9eee6d26586db7723e654ab1cf24ad498019729563f730d07</guid>
       <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
+    </item>
+    <item>
+      <title>Safe AI in schools starts with data and teachers, experts say - The Educator</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNdEtIMWVCQ0FaRlRuWERRbDlfY0Q5ZHZqRDNPX1BrbDR4aUc4d3JMX3ZpSDF6N2twdFFtZEtCZmgtZ0dXSzBXb203RkFzb0pOMUctTHYxUWZhWXdiZjJNQkFOU3hERV9qUkFBV09GT0xHQlFrT0s0V2JBYzEtNmFUUlVfVkdqdVd4N2Nra04wSG9fV1JTWGNiTGIxWGFNeERzOEFZM0hHNHVvc25qcXMw?oc=5</link>
+      <description>Source: Google News - AI Schools — Safe AI in schools starts with data and teachers, experts say The Educator</description>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b198e2df9ce7db8062683f1bd3c7a5f0049e246ead7b43215afc87c1098313fe</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>Learning the language of machine learning</title>
@@ -152,14 +168,6 @@
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
     </item>
     <item>
-      <title>Penn State alumna to discuss AI in higher education at Geography Coffee Hour - The Pennsylvania State University</title>
-      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2ZsRE9xSUNHTzFiX29vb3dVdW8ydG1lRTlJS29abWVVdkF5YklLc0V1VnhrSVhmTndDcXExZmt6MS1qWGd3UjhPT25MSjRZSU9UcWtKQUIwT2l4OVc4ejJWZThKNkdmZlROSEc5ejU5elRSeTBtYkxneUVmdjBJdk4yR1RPLVQxc2RncVBKcGZCWTE3YjlZNERaTWkzalFJSzd5cjJNMHRCWXUyMDZLQ1dUdlNCSzFSSlhUeQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Penn State alumna to discuss AI in higher education at Geography Coffee Hour The Pennsylvania State University</description>
-      <pubDate>Mon, 16 Nov 2026 18:55:09 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:bbefe402787259a1a65d6777e59f1641c8e8fc891cfda87ab0af80a9210566b8</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
       <title>Broadening access to AI for scientists</title>
       <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
       <description>Source: OpenAI News — We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
@@ -176,20 +184,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
-      <title>Mount Saint Mary’s University and St. Catherine University receive nearly $5 million grant to advance ethical AI in higher education - St. Catherine University</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNcm1wMHl0Wk13Ymw3UFNxTE1zUVZLWjJXSTFsRHEyUDdSQlJTN2RxVzhwNllHeDhWYTRmREFCR29mMGh6MHB4RTlXU1dNM2tzWWZ6b1dCeWZ6VHJWWFBxWC1mbTFmRjVzTHI2Sl8zVDlrQ0gwamVXbHZoQW81dnNlVUdRTGhHRWgtTlY1cUEtbFk0U2k4XzlpV09oQTNtUlMzeEFzalhnNHpWdWc1U24yZHlxcG5RQnVsU3c?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Mount Saint Mary’s University and St. Catherine University receive nearly $5 million grant to advance ethical AI in higher education St. Catherine University</description>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:a9f0164bf0d3a8ddc70c9fdfcaebaad90493ace45ce0cabc7bb585932c6844b9</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Our first phase of embedded assessments</title>
-      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
-      <description>Source: OpenAI News — OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.</description>
-      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:9fe6d2ae73e55f52b8078f1806f466588569fb6faa3605540c1891f86e100648</guid>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <title>FSU leader named among top 30 higher education data and AI influencers - Florida State University News</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXdEM29NanJxRUVFVVg4RG4tSDA0cjBHbnc1NmpQS1JDZEpvRHB1RXV5WGVEMGhzUjlCaXgzTTRFeDJNbHVUU1Rsd2hvY1NuLVRLZUlXTzlpVUh2MGZ0YU03bVhmbjdxcEpwakZkb0ViRmJTN0lhaU8xWWtoeFlnVWdhdjMxVXdqd2p6ejlvNEFaREZVWHdhZWo1dGFiQm1YYS14SVU1YXI5bEJs?oc=5</link>
+      <description>Source: Google News - AI Education — FSU leader named among top 30 higher education data and AI influencers Florida State University News</description>
+      <pubDate>Mon, 16 Nov 2026 13:28:50 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:a1ca3caeb06e8cf98b4be830fc39c7499f1d3216c7089d1072d20c1a8c3dfb56</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Protests in Chicago After Google Warns Schools About Disabling AI Feature</title>
