@@ -5,31 +5,31 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 21:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:15:42 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hanyang Cyber University lets students build interdisciplinary AI careers - Chosunbiz</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPUVNRQ3dTSzAxcG9yczVuOGsxS19xb2ptdHdRanFfZEVFUkdkX1NmVGRZbldUWExCVVNLb1NfV01vVW9TbXpHZ0YzMGR5dXBfdHJGVW8tSkZGZWozb05nV1hySXVtTUl2TEt6STIza2ZxaHNDQnJFUDJ5ek11YUlyMdIBlAFBVV95cUxNZTY0ai11Ql96eUZ6eVotNGIzYThDbjNHRlR5ZU5JdWVSeW9IaXYtdUFpNzUzNGl1YzdsYmZjbDJDc2hnSzJNdlFZaWVIc3lqeC1HNVZxSzBmQW9acVlRWWpya2pkdEJwd21obkxKb3pKQkVhbE8yb1dIVlcwcXpSeWRNb2tOTlZSVzExdlVKdXRSaGtk?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Hanyang Cyber University lets students build interdisciplinary AI careers Chosunbiz</description>
+      <pubDate>Fri, 20 Nov 2026 02:37:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:42249df24459012f8dde9769a159bb1f69382183e5898e116e76908c4047959c</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Scholars consider how to use AI in education, without sacrificing learning - Johns Hopkins University</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTdoOTB4VjRxVTJjRk5lbXJmbFROSnU3c0xJakJZTUNrVnVtRVBSaWx6ZDB3bWM2dGIyOWg3TWlMb1ZTOUxkYlNHdEFkU01oV1l0NEVoZEdCWDFqa3B6V1NoX2NKVURRUjVfT2FZaDZOSjNfSS0wMzZSMC1rWEZJXzBmNkpTaXhCREFjOEdBdkJnaTRMejEteXFRNA?oc=5</link>
+      <description>Source: Google News - AI Education — Scholars consider how to use AI in education, without sacrificing learning Johns Hopkins University</description>
+      <pubDate>Thu, 19 Nov 2026 21:45:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:b57b4dcd1a0b86f441b391e4c4b7a847c80e3786b6ccb865e58c2c7c08806dd6</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Students Sue School District and AI Vendor Over False Alert - Campus Security Today</title>
       <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPcEtTWEN0eGVZeVFuLWZHVjk2UnJXaFNwd3JnMV80b094YnM0YjRuX0EyeWRVVTdrdVdqT2xzbU5uSHVBcEYwYXQyTDhfd1RLYlFKUUUwTXhIZ3BUeFRRR1RxZ2VNZXFkNU5fZ0FHUVJvR0lGdzVGUDFNUjVGT0RWd3JFSDJUdkNyLUhfRG5teGRYSlhRdGUtQjdkRUNidXViZjV4bTVwSUhJUDBPblJib0ZSUEtoMDQ?oc=5</link>
       <description>Source: Google News - AI Education — Students Sue School District and AI Vendor Over False Alert Campus Security Today</description>
-      <pubDate>Thu, 19 Nov 2026 20:55:36 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 21:30:19 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:338f37691fd0daeed61d1965fc92011db0f73fb7a31c97681dd6149b110ad324</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Students sue Baltimore County high school after AI cameras mistook Doritos bag for a gun - Washington Times</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGRSU3BxajN0ZkNaMHNYbDc4QU1xeFg3SXIxeXFVaF9UekRXSTJ3bFkwdUNJZ3FhTE5semIxaGJsZG84ZmU1cnppaXZHSXJsd3M3RFEzLXVfRGdTTnJ3M2VQOWV3SmoxS0dqell6MnJEbFBnWDlJTEw3X3RHc3FZbFdpSjJwVVZlenpBSDdzU1l1bnJFRWo2N3gxaThtX3JCaGU0UTNWNUJpZ0dWYlh6RnNVN2UxeHdjNWc?oc=5</link>
-      <description>Source: Google News - AI Education — Students sue Baltimore County high school after AI cameras mistook Doritos bag for a gun Washington Times</description>
-      <pubDate>Thu, 19 Nov 2026 20:21:25 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:6844fbb302680a0ffe297b7ca3926d869e89e22748732d30159cc9432ec573aa</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Western orders Ivey professors to shut down classroom AI tool - The Gazette • Western University's Newspaper</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb3d1ZEEybnN1RG1oeHVidU5Ed1NJOV9NZ1VFNjdjb2lfSmRLMnFUalpvaHNHZVRlWWFJNXQ0ZTFIYzlBXzhmN3Q1SDhJcXZZUklDc1B0dHJOV25YalJRTnZRbWVWeV9NWkI4aENtZnNnV293UEV5SWxpYnJ3REJqSHZFb0NoX3gteUJSRDNZVDF6UEZXMzNkUS1kbXNLTnF5WGdYdnZOZW9sYWZ0VHM4YzFTcDA2UU0wWHAtYmhMZDNDVjN5c3NqdURiNC0tcjhoS2lIdmhhLUxGZw?oc=5</link>
-      <description>Source: Google News - AI Schools — Western orders Ivey professors to shut down classroom AI tool The Gazette • Western University's Newspaper</description>
-      <pubDate>Thu, 19 Nov 2026 20:07:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:83037e54b6e6c3600d9ed0de109bd482f44c95b1b91c19a9e1d73be6d9d693ce</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
     <item>
       <title>2026 | Teacher education reimagined for the AI era - Tshwane University of Technology</title>
@@ -40,12 +40,12 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Wifi Cut, AI-cheat Bounties as South Koreans Sit Key College Exam - ASHARQ AL-AWSAT English</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSTFhNDV3ZDRfMnFfS0dycUVHRGFOQTRuTWR2TTMycTFPcy10Ym0yVmlVR2pSdmF0dHpueU1YMFpiWFIxel9nVHlXLTBEc2RQVkZpRzVIdEp5Z05XaE9XeDdOaGxIbUlDZEd5X1JwTXF0bC1WSFJiTy1FT0lPVEFpTGt0WmZPTm9hSm9xb3VnVDdoa3VsbXZqOFhpck9KV2F0VjJ0R3VpQjJuQQ?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Wifi Cut, AI-cheat Bounties as South Koreans Sit Key College Exam ASHARQ AL-AWSAT English</description>
-      <pubDate>Thu, 19 Nov 2026 19:41:15 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:0968bdc55b25fa6cea52e6466ce450cabdef77f3715ff452e3f22163005fa9c2</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+      <title>Rowan University College of Education dean joins national council shaping teacher preparation in the age of AI - Rowan Today</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPblhOZW03VzZzVEZWRzNmb2JDX0txMklQeDh4cThkRDlnNEJDdncwQ3htclFfVzhrVV8zWWhQUkUtNVlYZzFocUtyZG5iYm9od1FJdmFneHRwa0NWUFZvQWZJbDBSSTBpaV9HUlFnSk5WUW1QVDduTjQ4WDdPcVhoWEtYY2RsZWVkVHV3aGZEYjRaVUpnclRxRkJHS0JwekF0WDhhQU90YkJ1UUZYd1RxbkFMWXBoS3pGWGc?oc=5</link>
+      <description>Source: Google News - AI Education — Rowan University College of Education dean joins national council shaping teacher preparation in the age of AI Rowan Today</description>
+      <pubDate>Thu, 19 Nov 2026 18:54:10 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:fbbf881c5eccc8f9894a300c635d24e145993ea6b85ab62928a8f7b6ebebfa77</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>Preparing Tomorrow’s Teachers: AI, Ethics and the Human Heart of Education - St. Bonaventure University</title>
@@ -59,7 +59,7 @@
       <title>Providence Schools Official: 2 of 58 Student Apps Use Generative AI - Uprise RI</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUFGbkIzbWtveUxISTZwRVRBQ2JyNmg2U09lYkhpamViYTcwVE83aTg1dy10dHF4aGlCLTZjZ19Ha3lnZ29ZYW9yVDJPR3p0MWQ0YW52UXI0SGtHTnJHc0dhWTRqRFUxVkdKRTYxSDRsSlZSV3hmNVJZNno3Vm5WRDlLV3E3NWh5eEpxR0FJV1MyZVpNVGw4UnNqU3Q?oc=5</link>
       <description>Source: Google News - AI Education — Providence Schools Official: 2 of 58 Student Apps Use Generative AI Uprise RI</description>
-      <pubDate>Thu, 19 Nov 2026 15:33:45 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 15:36:58 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:cf0db6ee3726be067c4fc4c16fe3f0bb38a63a5317aa60dae2d79acceb656834</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
@@ -120,20 +120,28 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
-      <title>Adrian College makes AI education mandatory for incoming students - wtol.com</title>
+      <title>Google Says Schools Can’t Have Search Without AI. Some Are Finding a Way.</title>
+      <link>https://www.edsurge.com/news/google-says-schools-cant-have-search-without-ai-some-are-finding-a-way</link>
+      <description>Source: EdSurge — Districts and filtering companies were blocking AI search results long before Google’s new policy.</description>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:9d337243594c856d46e36b1fb2dd08866baade7f50102cb738ed7e01ba95b331</guid>
+      <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
+    </item>
+    <item>
+      <title>Half million students take annual college entrance exam amid AI cheating concerns - The Korea Times</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPem9lRUVhS3RSSHhOM3lSZGZsTGRmeWwxMk5nZGdFZmFiaTNjTFpQQlVrcDF4eEpiTWtrSTZfUXI0djlCWndKak8wS3ZMQ3FNM1ZKMFB6Mm5wdmhaSXlBZFBKMHVEMVcwa0V3LTlnSTJtYzhlUmZzcWFIZndkLVg4MkZzVnBlWnlwejkxZFk4RURWQkFZck5aR0F1Qms2eDdTa3IzeU5yUXZMMlNla2UxWWxHM0lZWmlsVjhVUHl4bXRFMzZjX0hIY0hlRjJvRUtHZXlOYS05NNIB3AFBVV95cUxOMUhZMUxWc1hjS1N4VW01Tk5KS0x1SVNSZXJ0QlhWN0RGV0xjX2JoeFg5akxHSjE5aFNMbkVMUlRrZXNISWpnNEgtMktnUUxhaTExWkgzTGRWZkdtVnp1Ui01ODJ5OFpfYVJXWG5qZXczamI0QzhBYl9kekQwV1Q0SGNoUDFqVmNhbDVrei14X1BfUXU0QXBjbnpWZlFHRXZkeVo2WFFISjBzTkJ6UEhZTWw4TWR1b05pYWVTMnotbzBneFlsN25RaThTZGxFOFhydFJMOUNQamVidXZG?oc=5</link>
+      <description>Source: Google News - AI Higher Education — Half million students take annual college entrance exam amid AI cheating concerns The Korea Times</description>
+      <pubDate>Wed, 18 Nov 2026 23:47:00 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:2da7d07bcedfc37c5de1bb70206f6c0f6e6b4aa06f43df66b05dfc97252c2077</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>Adrian College makes AI education mandatory for incoming students - WTOL</title>
       <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR1NSM3FEQjdBWjNvaXY3ckdlWDZDeUJLQmlSU0gyQVRmR2F4bDV1MHQ1Q1Yxb1IySmhGaDBTZTlpc3U0cXBUVWZKYmZKYm0tY2RaS3VqbnJaUUFWbWpYU0xMLUxRZ0ZCZUFJVGsxamdJc1dnQ3dESUtzWEdIMGZ0QnRKRmRRY21wajNJbENiMTJ4cTFmWTEwaHJhTkk5MzhISmpUZy11TldwUi15Y2c3SmlnbXAxR1ljS19aYll2SmhQbVlaWjY2TEtSUjhZc3lkdzMyS2FuTWVQOUhpMGpfNy1R?oc=5</link>
-      <description>Source: Google News - AI Education — Adrian College makes AI education mandatory for incoming students wtol.com</description>
+      <description>Source: Google News - AI Education — Adrian College makes AI education mandatory for incoming students WTOL</description>
       <pubDate>Wed, 18 Nov 2026 23:26:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:139f352ae4ee5599fe98e388d988f18fc8f738d20fe637d301f56c30bd8d76a2</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Over half million students set to take annual college entrance exam amid AI cheating concerns - Yonhap News Agency</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVVluek5mVFZjVHRwb05pU01PSFRmbWRQWE1NMWhxNlYzTmplZ3dncC1ndTNFLVl1WlpwR19NV3Fib3dOcEQ1bF91WXdHTkNWYnRhd1UtOVFSZw?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Over half million students set to take annual college entrance exam amid AI cheating concerns Yonhap News Agency</description>
-      <pubDate>Wed, 18 Nov 2026 23:11:46 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:3149ef6aa4a6f84fe91d54cbf2dfa9c30dbf2275c45176b0cb951da09717aa21</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>AI Has a Place in Education, Just Not in My Classroom</title>
@@ -238,14 +246,6 @@
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:0ee515d17420fa2d37e22cfc82f5eb3931865b1007bf4981f2484e8867670fa1</guid>
       <source url="https://www.edsurge.com/articles_rss">EdSurge</source>
-    </item>
-    <item>
-      <title>How to predict the behavior of molecules from scant data</title>
-      <link>https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106</link>
-      <description>Source: MIT News - Artificial Intelligence — A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.</description>
-      <pubDate>Fri, 06 Nov 2026 19:00:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:0bb49f96544d94ecd80e77ab083459a74cffd73257f1c75429a36d100ed1f6b6</guid>
-      <source url="https://news.mit.edu/rss/topic/artificial-intelligence2">MIT News - Artificial Intelligence</source>
     </item>
   </channel>
 </rss>
