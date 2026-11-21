@@ -5,7 +5,7 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:15:44 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>New Alabama A&amp;M University Initiative to Provide AI Training to Agricultural Businesses - The Journal of Blacks in Higher Education</title>
@@ -58,10 +58,10 @@
     <item>
       <title>Universities are underused national security assets in the AI era - Times Higher Education</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0pEblhDOTBtNEF5NlNQLXVXYVBRX2szVEZDUGZmQWF3Sm04S0JqVHR2U0pZUmlhSUwyeE1vLUFxeWt2aVpUVXFscEtCNFktWkxvR1p3ckVIR0dlVGVhcnlpbmMtYTlWdWxVMW1XRHoyTzV6emk5RVAyVGwzSDdPcHZibkJOd1VYSjRVYmVEMDdrVVo0TFNQM01pNEgxYjlXZ0t2SnJn?oc=5</link>
-      <description>Source: Google News - AI Education — Universities are underused national security assets in the AI era Times Higher Education</description>
+      <description>Source: Google News - AI Higher Education — Universities are underused national security assets in the AI era Times Higher Education</description>
       <pubDate>Fri, 20 Nov 2026 00:02:10 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:6836f881cd2d434c03542929cdbfcddf3828716ee4ff2d8fd9b0976153eeb903</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Scholars consider how to use AI in education without sacrificing learning - Johns Hopkins University</title>
@@ -88,27 +88,19 @@
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
+      <title>Providence Schools Official: 2 of 58 Student Apps Use Generative AI - Uprise RI</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUFGbkIzbWtveUxISTZwRVRBQ2JyNmg2U09lYkhpamViYTcwVE83aTg1dy10dHF4aGlCLTZjZ19Ha3lnZ29ZYW9yVDJPR3p0MWQ0YW52UXI0SGtHTnJHc0dhWTRqRFUxVkdKRTYxSDRsSlZSV3hmNVJZNno3Vm5WRDlLV3E3NWh5eEpxR0FJV1MyZVpNVGw4UnNqU3Q?oc=5</link>
+      <description>Source: Google News - AI Education — Providence Schools Official: 2 of 58 Student Apps Use Generative AI Uprise RI</description>
+      <pubDate>Thu, 19 Nov 2026 15:36:58 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:cf0db6ee3726be067c4fc4c16fe3f0bb38a63a5317aa60dae2d79acceb656834</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
+    <item>
       <title>South Korean students take annual college entrance exam amid AI cheating concerns - AP News</title>
       <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2dualJ6dUR1TFN3ZDY2WlFEMFpNQThYOEhLV3dDNEtxemk3YUdCNXpvYlM4dlpTOXlWVXByX2h0Wl82TUZWV2NubnBlaVV1SGQzNlFnVE01SEQ3YVVFR3JYY3FpMGpqUjlTcS1OOGlVSGk4cHJOTnMxZkl2U0VzdVZQUXA3TTJwb01sSWxrTFk1QWd4Z2o0UWo2MkYwajdFTDNDbWxRWGpabW9LVV91ZHJpWjkzeC1VS1RyS0dnNlRlaHJFcjVyMTJKRnJJblRFVnVPVkN3?oc=5</link>
       <description>Source: Google News - AI Higher Education — South Korean students take annual college entrance exam amid AI cheating concerns AP News</description>
       <pubDate>Thu, 19 Nov 2026 10:16:00 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:e388f9db676c406750a3ab9749a34d922b5611ea2fcc3f4d6f06183d0b96fc97</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>UNI-Universum International College Organizes “AI READY” Conference: Artificial Intelligence at the Center of the Future of Education and the Economy - Dukagjini - Lajmet e fundit</title>
-      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVm5wTXhYN05mbllzS212cGJvblAzRFE0R0dzMnRRXzVSN1J0VFlkVnpJWTM1NEF6bjQ4SWhkenZiRy0xalUwYlpiSXMtblB1cFY0Q0paSE1yc0NRZWhVel9ubEhmX3pVVWFsRlgyRmthaTRGQjdxV01sd0Roc2lJVUZzLUJXdHFPZzczMUNsU21MNVk0XzU3eUdqWGZvVnMtbk9xbGkxY0ZiQVV6djVDU19jM0xBNERHa1ZHaWgwWUxFMHdfXzVqUW04aGVTY3pBcHotWUhnVElMaGprMXdEYUtB?oc=5</link>
-      <description>Source: Google News - AI Higher Education — UNI-Universum International College Organizes “AI READY” Conference: Artificial Intelligence at the Center of the Future of Education and the Economy Dukagjini - Lajmet e fundit</description>
-      <pubDate>Thu, 19 Nov 2026 09:32:03 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:1b4021819b3013116cd9343a49ce4c4fcabc90eb44807d0978d5c6d9708b2adf</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
-    </item>
-    <item>
-      <title>Graz University Develops AI Tutor to Aid Programming Learning - Mirage News</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFVoR3FUVERrendQOUdJcjNFVlBaWWpubUg3R0V3XzNiMGlfV21ycUxScWtBUTRPYUZWcC1wZnI1eEFHaE5RY2swNC1OT1FJeWhncGZTYlItRkZyOUc1TmlZSzNIdjlTOU9EaTFYSnNrQVVkWWtkQmRZa1I2YmEtaVZB?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Graz University Develops AI Tutor to Aid Programming Learning Mirage News</description>
-      <pubDate>Thu, 19 Nov 2026 08:04:00 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:d22d2b95d11a5673db8f2f24f57506e367a89af14614aaa009e0acddfcdaacad</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
@@ -126,6 +118,14 @@
       <pubDate>Thu, 19 Nov 2026 04:20:04 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7b37ac02bd6f46142d9e7a12488d9e0fe471ca9f22a660751791e6416e5eaa30</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
+    </item>
+    <item>
+      <title>The Trump administration, the Fontbonne campus, and AI in education: a recap of the Q&amp;A with Chancellor Andrew D. Martin - Student Life</title>
+      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdFVSdHVOcnpLMzhTb3RfbHpPT0V0aW9WcnRKQ0gtbHU3SmxiNU1LSmlzamRzSTBVVWRvb0plaXN5cnNDWDdnYlc1eW5DaWFIYW5zbHYtLXFYVUt5ZHJmN203VDFmaWd4LUVrQXpuOTFsTDRqRlVyR1BicFdGaXl0dUVsUVhIeEc5UTRzdzlydGxmWk81SmpiNnF3SlFzTGNVcDduZU9BTmw4XzEwTGVoM2phaEMzaHViWVpxbkI3Zk9QS2czUTBBQWJMMkpmSDBiY3B0c3JhQlJvSnFSaUtpLTJ3N1RreVItOWRhYg?oc=5</link>
+      <description>Source: Google News - AI Education — The Trump administration, the Fontbonne campus, and AI in education: a recap of the Q&amp;A with Chancellor Andrew D. Martin Student Life</description>
+      <pubDate>Thu, 19 Nov 2026 03:02:12 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:ca80bec48689773ced7dfb72fd888162bb96a698b0e62bd66b5b25f35e77c210</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
     </item>
     <item>
       <title>S. Korea: 550,000 students take college exam amid AI cheating concerns - Inquirer.net</title>
