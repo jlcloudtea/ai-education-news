@@ -5,8 +5,16 @@
     <link>https://jlcloudtea.github.io/ai-education-news/</link>
     <description>Curated AI and Education news for MagicMirror</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 19:28:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:41:07 +0000</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Rethinking student recruitment in an AI-driven world - Times Higher Education</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNTE90MldYTzZ2c3lDNUR0YTZjd0Jkck9STWRyQmJPc1VjeURfSVVTeGNhSktZa2paNkx2emE4M21EYWZvZ2l0S1pxSW54bllXSjJud2hfaDg3NF9nZ25LLXJzMktFTFNWcnViMnhoVFNZS1JjMmNxUkpBTENkRTZodWpzR3RXcUFpMUxSNWNNN0J6dEU?oc=5</link>
+      <description>Source: Google News - AI Education — Rethinking student recruitment in an AI-driven world Times Higher Education</description>
+      <pubDate>Sat, 28 Nov 2026 00:16:08 +0000</pubDate>
+      <guid isPermaLink="false">urn:sha256:0c38f10bf06684d6e18f0af7efa7754b2050cfe3fcb77b5f13d02a35472c2b62</guid>
+      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
+    </item>
     <item>
       <title>Certvia Showcases AI Education Assessment at SEAMEO Learning Forum 2026 - FinancialContent</title>
       <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjdrdGw3Yy1qWlotN2gzTVBkaGVSSnZqc0E5QmpQazJEZ3ZqSnJLTE44UXRSTGhTU0lQZkdsX25zZWY0ZWtNbzNtdG1QUXJSVHlfNzNNOHRjZDBqcDFLaGtfa0M4TExybUgxcEJUczZkT1o0cHdxUVd3RURyb3p6NG5VSUdTTVJDQ1g4Y1BFbVVNVTlkLTRpNHVINkVKekhUWTcxZm94Z2FudlJ2VWRpbEdDUXpib0hzd3RSbEVKbnhRdUJGRDIxMk9CWTZ2TURiQkFLTl9MMlkyei0tZEJHSHd3MA?oc=5</link>
@@ -27,7 +35,7 @@
       <title>Why Districts Should Introduce AI to Teachers and Staff Before Students - EdTech Magazine</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0NwVUU2MldVUW41UEFhRGx0NndRN3pkR2I4cXBZc3FlQ0lyQUU5cEczOW90WlBmWUw2WVhwa2RSSndnN2RocWFWY0EzNTNEV19CZy1PY3VXWUVRLWRQNmpVWEtQU2d6VHhpOE1LRTZkOGlCaVR6MGlJQ2hFRzVsSjdzUl9aZVBPeFJTbWowWXBsUEpsclRiaUowSnJsZGtnaEVCNHV3REUzRC03?oc=5</link>
       <description>Source: Google News - AI Schools — Why Districts Should Introduce AI to Teachers and Staff Before Students EdTech Magazine</description>
-      <pubDate>Fri, 27 Nov 2026 14:05:09 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 14:40:10 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:7e295e77ea43b097c5645c56dcb35c5cf56a752b0f8d9b3a9baaddc8730be0b1</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20ChatGPT%20OR%20Copilot%29%20%28K-12%20OR%20school%20OR%20classroom%20OR%20teacher%20OR%20curriculum%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Schools</source>
     </item>
@@ -46,14 +54,6 @@
       <pubDate>Fri, 27 Nov 2026 04:26:23 +0000</pubDate>
       <guid isPermaLink="false">urn:sha256:bf4239bffa9deb4f7ea10608bab44d1f179ef5bedb8d5168a78fd66481f72123</guid>
       <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20ChatGPT%20OR%20GenAI%29%20%28education%20OR%20school%20OR%20university%20OR%20teacher%20OR%20student%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Education</source>
-    </item>
-    <item>
-      <title>Panjab University to fill vacant faculty posts, integrate AI courses into curriculum: VC - Careers360</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXc5cmcyYmYySG1pQ3lTX0NUaGdoaHFXbGJkMV82M09ObTBZLWJIMWZTaGRxdzhya2lERk5uMXlIREJ5Wk54TjZ6ZkpKOG5OX092U1loVEgtRVR1WU56bjlEOWFmV1BOZUlBazBEM2R1WGFLcEFZdU5CVEJWZUZQaUhxWDdqa2x1Y0tKODRmZGpnQmQ2OXJaRlVMTi1QZXVHbjM0UGZWYlRBbEJkMDhrLW8teUnSAboBQVVfeXFMUEFQazNrdHBQcTliTlZYZjV6dnpsWEtKNTdmUEppeVFocXhUMUxzYjRFZDZqSEwzUkx0a0lXQkNMUERZZFpJSnlxWGpYZklRTlRZTUJnY2lwd01GSkgtQ3p4TGRWWjMtd0dHcE9CUkhGVFdQOENpS1RKREFWQW9QbEhPTmxOWVhTYXRIQjFiOC1NWDN5ZG1uUkc1X0w5VE9UeVM4eWZ6Y0MxVWJSZm1ZbmdGU2dja3RWSEFR?oc=5</link>
-      <description>Source: Google News - AI Higher Education — Panjab University to fill vacant faculty posts, integrate AI courses into curriculum: VC Careers360</description>
-      <pubDate>Fri, 27 Nov 2026 04:00:26 +0000</pubDate>
-      <guid isPermaLink="false">urn:sha256:fc7624c78bdd91a83079843c5ee48a9a6442318de2c9421429dc8c222310883b</guid>
-      <source url="https://news.google.com/rss/search?q=%28AI%20OR%20%22generative%20AI%22%20OR%20LLM%29%20%28%22higher%20education%22%20OR%20university%20OR%20college%20OR%20assessment%29&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen">Google News - AI Higher Education</source>
     </item>
     <item>
       <title>Sidney Anderson to lead AI in business education at Texas State’s McCoy College - EdTech Innovation Hub</title>
